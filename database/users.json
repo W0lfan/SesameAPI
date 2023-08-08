@@ -1,0 +1,616 @@
+[
+    {
+        "Bhpsngum" : {
+            "pfp" : "https://avatars.githubusercontent.com/u/53442511?v=4",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/Bhpsngum"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "bhpsngum"
+                }
+            ],
+            "about" : {
+                "isStaff" : true,
+                "isModder" : true,
+                "isUCP" : true,
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    },
+    {
+        "naf" : {
+            "pfp" : "https://media.discordapp.net/attachments/951567105596207169/1138081934531117086/1691408578172.jpg?width=1292&height=1355",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/W0lfan"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "naflouille"
+                }
+            ],
+            "about" : {
+                "isStaff" : true,
+                "isModder" : false,
+                "isUCP" : false,
+                "isContrib" : true,
+                "isSesame" : true
+            }
+        }
+    },
+    {
+        "Megalodon" : {
+            "pfp" : "https://cdn.discordapp.com/attachments/929812373810847854/1138074318656516106/sharkyyyyyyyyyyy.png",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/TheGreatMegalodon"
+                },
+                {
+                    "id" : "discord",
+                    "src" : ".megalodon"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false, 
+                "isUCP" : false, 
+                "isContrib" : true
+            }
+        }
+    },
+    {
+        "PMGL" : {
+            "pfp" : "https://avatars.githubusercontent.com/u/17835059?v=4",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/pmgl"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "microgilles"
+                }
+            ],
+            "about" : {
+                "isStaff" : true,
+                "isModder" : true,
+                "isUCP" : true,
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "45rfew" : {
+            "pfp" : "https://avatars.githubusercontent.com/u/48343592?v=4",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/45rfew/"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "45rfew"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : true,
+                "isUCP" : true,
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Nebuleuse" : {
+            "pfp" : "https://avatars.githubusercontent.com/u/109994049?v=4",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/NebuleuseTheGreat/"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "nebuleuse."
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false,
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Hazard" : {
+            "pfp" : "unknown",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "hazardest"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false,
+                "isContrib" : false,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "LX" : {
+            "pfp" : "unknown",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "lxbutnoob"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false,
+                "isContrib" : false,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "void" : {
+            "pfp" : "unknown",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "Zondyr#8240"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false,
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Kleinem" : {
+            "pfp" : "unknown",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "_kleinem"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : true,
+                "isUCP" : true,
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Interdictor" : {
+            "pfp" : "https://avatars.githubusercontent.com/u/51348990?v=4",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/InterdictorSD"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "unknown"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false,
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Finalizer" : {
+            "pfp" : "https://avatars.githubusercontent.com/u/40551089?v=4",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/StarblastFinalizer"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "finalizer14"
+                }
+            ],
+            "about" : {
+                "isStaff" : true,
+                "isModder" : true,
+                "isUCP" : true,
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Nova" : {
+            "pfp" : "https://avatars.githubusercontent.com/u/45496457?v=4",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/Nova-was-taken"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "nova3646"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : true,
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Tost" : {
+            "pfp" : "unknown",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "tost0001"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false,
+                "isContrib" : false,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Goldman" : {
+            "pfp" : "https://avatars.githubusercontent.com/u/40668886?v=4",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/GoldmanAerospace"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "goldmanaerospace"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : true,
+                "isUCP" : true,
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Notus" : {
+            "pfp" : "https://avatars.githubusercontent.com/u/45607902?v=4",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/123-Notus"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "123_notus"
+                }
+            ],
+            "about" : {
+                "isStaff" : true,
+                "isModder" : true,
+                "isUCP" : true,
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "SChickenMan" : {
+            "pfp" : "unknown",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "thirdtoeman"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : true,
+                "isUCP" : true,
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    },
+    {
+        "Rithy" : {
+            "pfp" : "https://avatars.githubusercontent.com/u/121094713?v=4",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/rithyn"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "rithy2142"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false,
+                "isContrib" : false,
+                "isSesame" : true
+            }
+        }
+    }, {
+        "JavRedstone" : {
+            "pfp" : "https://avatars.githubusercontent.com/u/85136616?v=4",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/JavRedstone"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "javredstone"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : true,
+                "isUCP" : false,
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Thuliux" : {
+            "pfp" : "https://yt3.googleusercontent.com/ytc/AOPolaQrNqhEhQRuffQWsqs48f1eC_WHlcP7lo0wlnsl=s176-c-k-c0x00ffffff-no-rj",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/ThuliuxytGH"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "Thuliux#3484"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : true, 
+                "isUCP" : false, 
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Loveship" : {
+            "pfp" : "https://starblast.io/ecp/loveship.png",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/Loveship-Shipyard"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "unknown"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : true,
+                "isContrib" : false,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Dank Dmitron" : {
+            "pfp" : "https://avatars.githubusercontent.com/u/22554516?v=4",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/dpleshkov"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "dankdmitron"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : true,
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Tournebulle" : {
+            "pfp" : "https://starblast.io/ecp/tournebulle.png",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "tournebulle"
+                }
+            ],
+            "about" : {
+                "isStaff" : true,
+                "isModder" : false,
+                "isUCP" : true,
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Bot Lore" : {
+            "pfp" : "https://avatars.githubusercontent.com/u/51336474?v=4",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/Yutai007"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "botlore"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false,
+                "isContrib" : false,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "X-27" : {
+            "pfp" : "https://avatars.githubusercontent.com/u/10255368?v=4",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/X-27"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "x_2_7"
+                }
+            ],
+            "about" : {
+                "isStaff" : true,
+                "isModder" : false,
+                "isUCP" : true, 
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "BloodyDubstep" : {
+            "pfp" : "https://avatars.githubusercontent.com/u/139064826?v=4",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/BloodyDubstep"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "bloodydubstep"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false, 
+                "isContrib" : false,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Lexydrow" : {
+            "pfp" : "https://avatars.githubusercontent.com/u/95083154?v=4",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/LexyDrow44WasTaken"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "lexydrow"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false, 
+                "isContrib" : false,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Dimed" : {
+            "pfp" : "https://starblast.io/ecp/dimed.jpg",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "dimed_10"
+                }
+            ],
+            "about" : {
+                "isStaff" : true,
+                "isModder" : false,
+                "isUCP" : true, 
+                "isContrib" : false,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Oh" : {
+            "pfp" : "https://starblast.io/ecp/oh.jpg",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "oh_"
+                }
+            ],
+            "about" : {
+                "isStaff" : true,
+                "isModder" : false,
+                "isUCP" : true, 
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }
+    
+]

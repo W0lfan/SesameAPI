@@ -1,0 +1,34 @@
+[
+    {
+        "name" : "In game Timer",
+        "description" : "This code snippet allows you to display a timer.",
+        "code" : ["const timer = {",
+            "  seconds : 60,",
+            "  component  : {",
+            "    id: \"Timer\",",
+            "    position: [43.5, 1, 20, 10],",
+            "    visible: true,",
+            "    components: [{",
+            "            type: \"text\",",
+            "            position: [5, 0, 60, 60],",
+            "            value: \"\",",
+            "            color: \"#CDE\"",
+            "        },",
+            "     ]",
+            "  }",
+            "};",
+            "this.tick = function(game) {",
+            "  if (game.step % 60 === 0) {",
+            "    if (timer.seconds > 0) {",
+            "      timer.seconds--;",
+            "      timer.component.components[0].value = Math.round(timer.seconds / 60) + \":\" + timer.seconds%60;",
+            "      game.setUIComponent(timer.component);",
+            "    } else if (timer.seconds <= 0) {",
+            "      // Do something",
+            "    }",
+            "  }",
+            "};"
+        ],
+        "author" : [{"name":"Naflouille","link":""}]
+    }
+]
