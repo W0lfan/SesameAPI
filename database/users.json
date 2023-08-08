@@ -129,11 +129,11 @@
         }
     }, {
         "Hazard" : {
-            "pfp" : "unknown",
+            "pfp" : "https://avatars.githubusercontent.com/u/118680841?v=4",
             "links" : [
                 {
                     "id" : "github",
-                    "src" : "unknown"
+                    "src" : "https://github.com/HazardXS"
                 },
                 {
                     "id" : "discord",
@@ -150,11 +150,11 @@
         }
     }, {
         "LX" : {
-            "pfp" : "unknown",
+            "pfp" : "https://avatars.githubusercontent.com/u/56999185?v=4",
             "links" : [
                 {
                     "id" : "github",
-                    "src" : "unknown"
+                    "src" : "https://github.com/Yevgen25"
                 },
                 {
                     "id" : "discord",
