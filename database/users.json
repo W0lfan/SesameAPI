@@ -268,7 +268,7 @@
             ],
             "about" : {
                 "isStaff" : false,
-                "isModder" : false,
+                "isModder" : true,
                 "isUCP" : true,
                 "isContrib" : true,
                 "isSesame" : false
