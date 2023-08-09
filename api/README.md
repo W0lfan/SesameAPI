@@ -21,7 +21,7 @@ fetch('https://raw.githubusercontent.com/W0lfan/Sesame/main/api/building.js')
         // Now you can use the functions from building.js
         // For example:
         async function fetchDataFromAPI() {
-            let content = await FetchDataFromDatabase("mods", ["Rumble", "Mega Rumble"]);
+            let content = await FetchDataFromDatabase(MOD_TYPE, CONTENT);
             console.log(content);
         }
 
@@ -43,7 +43,7 @@ By adding this script tag, you'll have access to the Sesame API functions throug
 
 ## Usage
 
-To gather information from the database, follow these steps:
+To gather information from the database, add the following code to your .js file, assuming it is linked with an HTML file where the API is avilable:
 
 ```javascript
 (async () => {
@@ -55,7 +55,9 @@ Replace `MOD_TYPE` with the desired data type (e.g., "mods", "users", "codes", "
 Customize `CONTENT` as follows:
 Use the value 1 to gather all available data from the link.
 Create an array containing the specific data you wish to gather. Array values are not case-sensitive.
-Supported `MOD_TYPE` Values
+
+### Supported `MOD_TYPE` Values
+
 The `MOD_TYPE` parameter corresponds to the following object keys:
 
 ```javascript
@@ -66,7 +68,8 @@ const __LINKS__ = {
     clans: "clans.json"
 };
 ```
-Example Usage
+
+### Example Usage
 For instance, to fetch data for the "mods" type and gather information about "Rumble" and "Mega Rumble," use the following code:
 
 ```javascript
