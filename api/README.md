@@ -4,6 +4,43 @@
 
 The Sesame API provides seamless access to all Sesame data in the most user-friendly manner. Our mission is to make our data easily accessible to everyone and enhance their data viewing experience. The API, accessible at [building.js](https://raw.githubusercontent.com/W0lfan/Sesame/main/api/building.js), empowers users to effortlessly retrieve valuable information from our database.
 
+
+## Download
+## Using Sesame API in Your JavaScript File
+### Blank JavaScript File
+
+If you're working with a blank `.js` file, add the following code at the top of your `.js` file:
+
+```javascript
+fetch('https://raw.githubusercontent.com/W0lfan/Sesame/main/api/building.js')
+    .then(response => response.text())
+    .then(buildingCode => {
+        // Execute the code from building.js using eval()
+        eval(buildingCode);
+
+        // Now you can use the functions from building.js
+        // For example:
+        async function fetchDataFromAPI() {
+            let content = await FetchDataFromDatabase("mods", ["Rumble", "Mega Rumble"]);
+            console.log(content);
+        }
+
+        // Call the function to demonstrate usage
+        fetchDataFromAPI();
+    })
+    .catch(error => console.error('Error fetching building.js:', error));
+```
+
+### Using Sesame API in a Website
+If you're working with a website, you can easily link the Sesame API to your HTML files:
+
+Add the following code to the <head> section of your HTML file:
+```html
+<script src="https://raw.githubusercontent.com/W0lfan/Sesame/main/api/building.js"></script>
+```
+By adding this script tag, you'll have access to the Sesame API functions throughout your website.
+
+
 ## Usage
 
 To gather information from the database, follow these steps:
