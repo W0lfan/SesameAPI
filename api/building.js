@@ -5,12 +5,6 @@
     📅 Created: Aug. 9, 2023
     🔄 Last Update: Aug. 9, 2023
 
-    🙌 Shoutout to Naflouille and Rithy for making this possible!
-
-    🔧 Inside this script: a toolkit of functions to seamlessly access the Sesame Database.
-
-    🚀 Ready to roll? Download and integrate into your HTML with: <script src="https://raw.githubusercontent.com/W0lfan/Sesame/main/API/building
-
  */
     const __Path__ = "https://raw.githubusercontent.com/W0lfan/Sesame/main/database/";
 
@@ -71,7 +65,3 @@
     }
     
     
-    (async () => {
-        let mod = await FetchDataFromDatabase('mods', ["Rumble","Mega Rumble"]);
-        console.log(mod);
-    })();
