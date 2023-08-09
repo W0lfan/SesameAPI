@@ -795,7 +795,7 @@
             "about" : {
                 "isStaff" : false,
                 "isModder" : false,
-                "isUCP" : false, // sUCP SRC
+                "isUCP" : false,
                 "isContrib" : true,
                 "isSesame" : false
             }
@@ -1091,6 +1091,174 @@
                 "isModder" : false,
                 "isUCP" : false, 
                 "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Anchar" : {
+            "pfp" : "https://yt3.googleusercontent.com/cRWMQ0p8oqvSdZhJWkOXennE9yR2YTESR_SozGkNE3oJ0IilAiXkkENpTKiAnRM5dVZkA1vQ=s176-c-k-c0x00ffffff-no-rj",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "anchar_"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false, 
+                "isContrib" : false,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Sciences" : {
+            "pfp" : "https://yt3.googleusercontent.com/ytc/AOPolaSL2-iZiIVtfm1-4ddnqHkVPj3p-a8tbJsoKg_1JA=s176-c-k-c0x00ffffff-no-rj",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/SSBAGPC"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "ss_bagpc"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false, 
+                "isContrib" : false,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Fady" : {
+            "pfp" : "https://yt3.googleusercontent.com/ytc/AOPolaTc0iThrliBM26f8AoXxC0-T7oBg6HCN6nkC6rP=s176-c-k-c0x00ffffff-no-rj",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "fadysquad"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : true, 
+                "isContrib" : true,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Alex" : {
+            "pfp" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/AlexUCP.jpg?raw=true",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "alex5025"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false, 
+                "isContrib" : false,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Nok" : {
+            "pfp" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/NokUCP.png?raw=true",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : ".nok."
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false, 
+                "isContrib" : false,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Pasha" : {
+            "pfp" : "https://yt3.googleusercontent.com/tldXp3IyWEjxSBOHMfaaZEhaGSfEfYbGRyKFy21b1Uz-mYW0mrVZuqcfgQbGkfrg9QVGMe5X7g=s176-c-k-c0x00ffffff-no-rj",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "pashasss"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false, 
+                "isContrib" : false,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Sergio L" : {
+            "pfp" : "https://starblast.io/ecp/sdcchamp.png",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "Sergio-L#6606"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false, 
+                "isContrib" : false,
+                "isSesame" : false
+            }
+        }
+    }, {
+        "Inspectro" : {
+            "pfp" : "https://yt3.googleusercontent.com/ytc/AOPolaTRIJoKNWAZ2dPTXxB2thCvXx054fjocchZKidA=s176-c-k-c0x00ffffff-no-rj",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "https://github.com/Inspectro3D"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "inspectro"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false, 
+                "isContrib" : false,
                 "isSesame" : false
             }
         }
