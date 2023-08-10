@@ -6,7 +6,7 @@
     🔄 Last Update: Aug. 10, 2023
 
  */
-    const __Path__ = "https://raw.githubusercontent.com/W0lfan/Sesame/main/database/";
+    const __Path__ = "https://raw.githubusercontent.com/W0lfan/sesame/main/database/";
 
     const __LINKS__ = {
         codes: "codes.json",
