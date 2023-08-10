@@ -967,5 +967,25 @@
       ],
       "official": 0,
       "event": 0
+    },{
+      "name": "Starblast Chatting System",
+      "abvrt": "",
+      "version": "",
+      "description": "",
+      "modes": "",
+      "img": "",
+      "link": {
+        "url": "https://raw.githubusercontent.com/W0lfan/Sesame/main/database/mods/chat.js",
+        "state": 2
+      },
+      "author": [
+        {
+          "name": ["Halcyon"],
+          "link": ""
+        }
+      ],
+      "official": 0,
+      "event": 0
     }
+  ]
   ]
