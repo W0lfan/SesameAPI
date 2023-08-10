@@ -774,7 +774,7 @@
             },
             {
                 "id" : "discord",
-                "src" : "âœ¯ 201x Captain âœ¯#4844"
+                "src" : "✯ 201x Captain ✯#4844"
             }
         ],
         "about" : {
@@ -855,7 +855,7 @@
                 },
                 {
                     "id" : "discord",
-                    "src" : "BADGER {â…â‚„}#4551"
+                    "src" : "BADGER {⅁₄}#4551"
                 }
             ],
             "about" : {
@@ -1205,25 +1205,6 @@
             "isContrib" : false,
             "isSesame" : false
         }
-    }, {
-        "name" : "Bhpsngum",
-        "pfp" : "https://avatars.githubusercontent.com/u/53442511?v=4",
-        "links" : [
-            {
-                "id" : "github",
-                "src" : "https://github.com/Bhpsngum"
-            },
-            {
-                "id" : "discord",
-                "src" : "bhpsngum"
-            }
-        ],
-        "about" : {
-            "isStaff" : true,
-            "isModder" : true,
-            "isUCP" : true,
-            "isContrib" : true,
-            "isSesame" : false
-        }
     }
 ]
+
