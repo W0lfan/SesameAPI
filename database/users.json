@@ -1205,6 +1205,27 @@
             "isContrib" : false,
             "isSesame" : false
         }
+    },
+     {
+        "name" : "Halcyon",
+        "pfp" : "unknown",
+        "links" : [
+            {
+                "id" : "github",
+                "src" : ""
+            },
+            {
+                "id" : "discord",
+                "src" : "h.alcyon"
+            }
+        ],
+        "about" : {
+            "isStaff" : false,
+            "isModder" : false,
+            "isUCP" : false, 
+            "isContrib" : false,
+            "isSesame" : false
+        }
     }
 ]
 
