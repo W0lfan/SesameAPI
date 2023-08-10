@@ -63,7 +63,7 @@
             "isModder" : false, 
             "isUCP" : false, 
             "isContrib" : true,
-            "isSesame" : true
+            "isSesame" : false
         }
     },
     {
