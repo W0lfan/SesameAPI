@@ -31,6 +31,10 @@
             {
                 "id" : "discord",
                 "src" : "naflouille"
+            },
+            {
+                "id" : "youtube",
+                "src" : "https://youtube.com/@naflouille"
             }
         ],
         "about" : {
