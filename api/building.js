@@ -56,7 +56,11 @@
             } else {
                 gathering = gathering.map(value => value.toLowerCase());
                 const gathering_available = content.filter(item =>
-                    gathering.some(gather => item.name.toLowerCase().includes(gather))
+                  gathering.some(gather =>
+                    item.name.toLowerCase().includes(gather) ||
+                    item.description.toLowerCase().includes(gather) ||
+                    item.author.some(aut => aut.name.toLowerCase().includes(gather))
+                  )
                 );
     
                 console.log(`Compatibility found in ${directory}.json for "${gathering.join(', ')}". Returning datas.`);
