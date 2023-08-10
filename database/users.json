@@ -1262,5 +1262,26 @@
                 "isSesame" : false
             }
         }
+    }, {
+        "Haclyon" : {
+            "pfp" : "unknown",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "h.alcyon"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false, 
+                "isContrib" : false,
+                "isSesame" : false
+            }
+        }
     }
 ]
