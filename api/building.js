@@ -3,11 +3,9 @@
     Sesame Database API Dev Log
 
     📅 Created: Aug. 9, 2023
-    🔄 Last Update: Aug. 9, 2023
+    🔄 Last Update: Aug. 10, 2023
 
  */
-
-
     const __Path__ = "https://raw.githubusercontent.com/W0lfan/Sesame/main/database/";
 
     const __LINKS__ = {
@@ -33,7 +31,8 @@
     
         /*
         
-                NOTE : gathering is set to 1 for a whole return.
+                NOTE : gathering is set to 1 for a whole return
+    
         
             */
     
@@ -56,14 +55,15 @@
                 return content;
             } else {
                 gathering = gathering.map(value => value.toLowerCase());
-                const gathering_available = content.filter(item => gathering.includes(item.name.toLowerCase()));
-            
+                const gathering_available = content.filter(item =>
+                    gathering.some(gather => item.name.toLowerCase().includes(gather))
+                );
+    
                 console.log(`Compatibility found in ${directory}.json for "${gathering.join(', ')}". Returning datas.`);
+                console.log(gathering_available)
                 return gathering_available;
             }
         } catch (error) {
             console.error('Fetch error:', error);
         }
     }
-    
-    
