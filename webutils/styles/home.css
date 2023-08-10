@@ -1,0 +1,163 @@
+.main-container {
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+
+    .welcome-title {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        .big-header {
+            font-size: 50px;
+            font-family: "Poppins",sans-serif;
+            width: 75%;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .big-header img {
+            height: 300px;
+        }
+
+    }
+    .search {
+        font-family: "Roboto",sans-serif;
+        width: 50%;
+        .search-input input::placeholder {
+            color:rgba(255,255,255,0.1);
+        }
+        .search-input input {
+            border:none;
+            outline:none;
+            width: 100%;
+            background-color: #181818;
+            font-size: 20px;
+            color:white;
+            border-radius: 50px;
+        }
+        .search-input:focus-within,
+        .search-input:hover {
+            border: 1px solid #B82828 !important;
+        }
+        .search-input {
+            border: 1px solid rgba(0,0,0,0);
+            transition:border 0.4s;
+
+        }
+        .search-input {
+            width: calc(100% - 100px);
+            height: 50px;
+            padding-left: 50px;
+            padding-right: 50px;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            background-color: #181818;
+            border-radius: 50px;
+            position:relative;
+            .icons {
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                justify-content: center;
+                width: fit-content;
+                gap: 2px;
+            }
+            .icons div {
+                width: 50px;
+                height: 50px;
+                display: flex;
+                align-items: center;
+                justify-content:center ;
+                cursor: pointer;
+                border-radius: 5px;
+            }
+            .search-button {
+                position:absolute;
+                top:0;bottom:0;left: 5px; margin:auto;
+            }
+             .search-button svg, .latest svg {
+                width: 30px;
+                height: 30px;
+            }
+            .search-button {
+                fill:#B82828;
+            }
+            .latest {
+                fill:#309330;
+            }
+        }
+        
+    }
+    .infos{
+        display: grid;
+        gap: 10px;
+        grid-auto-flow: column;
+
+    }
+    .infos div {
+        width: fit-content;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .terms-of-push {
+        font-family: "Roboto",sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+        gap: 10px;
+        border-radius: 5px;
+        padding: 5px;
+        background-color: #181818;
+        transition: transform 0.4s;
+        cursor: pointer;
+        width: 100px;
+        height: 30px;
+        transition: background-color 0.4s;
+    }
+    .terms-of-push:hover {
+        background-color: #E91E63;
+        font-weight: bold;
+
+    }
+
+
+    .terms-of-push svg {
+        transition:  fill 0.4s;
+        fill:#181818;
+        width: 30px;
+        height: 30px;
+        display: none;
+    }
+}
+
+.sesame-creator {
+    padding: 5px;
+    border-radius: 50px;
+    background-color: #181818;
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    right:10px;
+    bottom:10px;
+    gap: 5px;
+    font-family: "Poppins",sans-serif;
+    width: fit-content;
+    padding-left: 10px;
+    padding-right: 20px;
+    cursor: pointer;
+}
+
+.sesame-creator img {
+    width: 40px;
+}
