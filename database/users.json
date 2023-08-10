@@ -1208,11 +1208,11 @@
     },
      {
         "name" : "Halcyon",
-        "pfp" : "unknown",
+        "pfp" : "https://avatars.githubusercontent.com/u/111774390?v=4",
         "links" : [
             {
                 "id" : "github",
-                "src" : ""
+                "src" : "https://github.com/halcyonXT"
             },
             {
                 "id" : "discord",
