@@ -1,13 +1,79 @@
 [
-    {
-        "name" : "",
-        "lead": [""], 
-        "tag" : [""],
-        "language" : [""], 
-        "infos" : "",
-        "links" : {
-          "join" : "",
-          "picture" : ""
-        }
+  {
+      "name" : "FR team",
+      "lead": ["Megalodon"],
+      "tag" : ["ҒR▸", "ᚫᚱ▸", "FЯ▸", "ҒꝚ▸"],
+      "language" : ["French"], 
+      "infos" : "Team reserved exclusively for French people. DM Megalodon enters the team",
+      "links" : {
+        "join" : "", 
+        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/FRteams.png?raw=true"
       }
+    },
+    {
+      "name" : "French Alliance",
+      "lead": ["Megalodon"],
+      "tag" : ["ҒΛ▸"], 
+      "language" : [""], 
+      "infos" : "The French Alliance (FA) is a clan created by Megalodon. Our goal is to make the Game Great Again and to prove to everyone one that cheats are not needed to be strong.",
+      "links" : {
+        "join" : "https://discord.gg/3nuThPcEEj",
+        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/serv_logo.png?raw=true"
+      }
+    },
+    {
+      "name" : "Sky2Fly",
+      "lead": ["PASHA77", "Sergio-L", "Inspectro"],
+      "tag" : ["SᄅF-"], 
+      "language" : ["English"], 
+      "infos" : "A server for everyone! Recruitment to the largest clan/alliance in survival mode! We really don't like cheaters.",
+      "links" : {
+        "join" : "https://discord.gg/zx8NAR2z4E",
+        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/S2Fclans.png?raw=true"
+      }
+    },
+    {
+      "name" : "Inferno Squadron",
+      "lead": ["Leader 1"],
+      "tag" : ["【🔥IS】"], 
+      "language" : [""], 
+      "infos" : "",
+      "links" : {
+        "join" : "https://discord.gg/GwufZc4b6C",
+        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/ISclans.jpg?raw=true"
+      }
+    },
+    {
+      "name" : "Flammmable Violets",
+      "lead": ["Anchar"],
+      "tag" : ["✯F℣➛"], 
+      "language" : [""], 
+      "infos" : "",
+      "links" : {
+        "join" : "https://discord.gg/nVC6mdztUW",
+        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/FVclan.gif?raw=true"
+      }
+    },
+    {
+      "name" : "End of Terror (EOT)",
+      "lead": ["Lord"],
+      "tag" : ["ɆØ₮⇝"], 
+      "language" : [""], 
+      "infos" : "",
+      "links" : {
+        "join" : "https://discord.gg/eotsb",
+        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/EOT.png?raw=true"
+      }
+    },
+    {
+      "name" : "Delta",
+      "lead": ["AGXXXX"],
+      "tag" : ["[△]"], 
+      "language" : [""], 
+      "infos" : "",
+      "links" : {
+        "join" : "https://discord.gg/RHpcXtDY",
+        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/Delta_animated_logo.gif?raw=true"
+      }
+    }
 ]
