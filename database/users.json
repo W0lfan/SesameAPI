@@ -1265,7 +1265,7 @@
     },
     {
             "name" : "Leader",
-            "picture" : "https://media.discordapp.net/attachments/948927227087687762/1043600853245886554/images_1.jpg?width=1355&height=1355",
+            "pfp" : "https://media.discordapp.net/attachments/948927227087687762/1043600853245886554/images_1.jpg?width=1355&height=1355",
             "links" : [
                 {
                     "id" : "github",
