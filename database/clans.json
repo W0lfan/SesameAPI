@@ -64,19 +64,7 @@
         "join" : "https://discord.gg/eotsb",
         "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/EOT.png?raw=true"
       }
-    },{
-      "name" : "Synthesis RC2",
-      "lead": ["Hazard"],
-      "tag" : ["R.C²"], 
-      "language" : [""], 
-      "infos" : "A way to keep Starblast alive and fair.",
-      "links" : {
-        "join" : "https://discord.gg/r9XqhvnxU2",
-        "picture" : "https://media.discordapp.net/attachments/855809119406391316/1139652171093250219/rc2s.png?width=610&height=610"
-      }
     },
-    
-    
     {
       "name" : "Delta",
       "lead": ["AGXXXX"],
@@ -87,6 +75,16 @@
         "join" : "https://discord.gg/RHpcXtDY",
         "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/Delta_animated_logo.gif?raw=true"
       }
+    },
+    {
+      "name" : "Synthesis RC2",
+      "lead": ["Hazard"],
+      "tag" : ["R.C²"], 
+      "language" : [""], 
+      "infos" : "A way to keep Starblast alive and fair.",
+      "links" : {
+        "join" : "https://discord.gg/r9XqhvnxU2",
+        "picture" : "https://media.discordapp.net/attachments/855809119406391316/1139652171093250219/rc2s.png?width=610&height=610"
+      }
     }
-
 ]
