@@ -121,6 +121,10 @@
             {
                 "id" : "discord",
                 "src" : "nebuleuse."
+            },
+            {
+                "id" : "youtube"
+                "src" : "https://www.youtube.com/channel/UCh37M4k1kAw3SSddjhNjJkw"
             }
         ],
         "about" : {
@@ -503,6 +507,9 @@
             {
                 "id" : "discord",
                 "src" : "x_2_7"
+            },
+            {
+                "id" : "https://www.youtube.com/@X-27yt"
             }
         ],
         "about" : {
@@ -1024,6 +1031,10 @@
             {
                 "id" : "discord",
                 "src" : "aram1603"
+            },
+            {
+                "id" : "youtube"
+                "src" : "https://www.youtube.com/@AyakaAram"
             }
         ],
         "about" : {
@@ -1044,6 +1055,10 @@
             {
                 "id" : "discord",
                 "src" : "neo_space"
+            },
+            {
+                "id" : "youtube"
+                "src" : "https://www.youtube.com/@neospaceyt"
             }
         ],
         "about" : {
@@ -1084,6 +1099,11 @@
             {
                 "id" : "discord",
                 "src" : "ss_bagpc"
+            },
+            {
+
+                "id" : "youtube"
+                "src" : "https://www.youtube.com/@sciences9436"
             }
         ],
         "about" : {
@@ -1104,6 +1124,10 @@
             {
                 "id" : "discord",
                 "src" : "fadysquad"
+            },
+            {
+                "id" : "youtube"
+                "src" : "https://www.youtube.com/@FadyOfficial"
             }
         ],
         "about" : {
@@ -1164,6 +1188,10 @@
             {
                 "id" : "discord",
                 "src" : "pashasss"
+            },
+            {
+                "id" : "youtube"
+                "src" : "https://www.youtube.com/@pashassseng2015"
             }
         ],
         "about" : {
