@@ -78,7 +78,7 @@
     },
     {
       "name" : "Synthesis RC2",
-      "lead": ["Hazard"],
+      "lead": ["Hazard","Twidash"],
       "tag" : ["R.C²"], 
       "language" : [""], 
       "infos" : "A way to keep Starblast alive and fair.",
