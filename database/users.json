@@ -1262,6 +1262,26 @@
             "isContrib" : false,
             "isSesame" : false
         }
-    }
+    },
+    {
+            "name" : "Leader",
+            "picture" : "https://cdn.discordapp.com/attachments/948927227087687762/1043600853245886554/images_1.jpg",
+            "links" : [
+                {
+                    "id" : "github",
+                    "src" : "unknown"
+                },
+                {
+                    "id" : "discord",
+                    "src" : "solomon666"
+                }
+            ],
+            "about" : {
+                "isStaff" : false,
+                "isModder" : false,
+                "isUCP" : false,
+                "isContrib" : false
+            }
+        }
 ]
 
