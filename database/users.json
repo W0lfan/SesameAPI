@@ -46,6 +46,27 @@
         }
     },
     {
+        "name" : "Nexagon",
+        "pfp" : "https://cdn.discordapp.com/avatars/490447169959231498/700a636d2cb17aa54fbf608be2568c65.webp",
+        "links" : [
+            {
+                "id" : "discord",
+                "src" : "nexagon"
+            },
+            {
+                "id" : "youtube",
+                "src" : "https://www.youtube.com/channel/UCnNg5iE5xXjyjd4pmpFKRyw"
+            }
+        ],
+        "about" : {
+            "isStaff" : false,
+            "isModder" : false,
+            "isUCP" : false,
+            "isContrib" : true,
+            "isSesame" : false
+        }
+    },
+    {
         "name" : "Megalodon",
         "pfp" : "https://cdn.discordapp.com/attachments/929812373810847854/1138074318656516106/sharkyyyyyyyyyyy.png",
         "links" : [
