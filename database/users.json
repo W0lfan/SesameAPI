@@ -380,6 +380,10 @@
             {
                 "id" : "discord",
                 "src" : "rithy2142"
+            },
+            {
+                "id" : "youtube",
+                "src" : "https://www.youtube.com/channel/UC65eZXj9BG119teoSwBsFtQ"
             }
         ],
         "about" : {
