@@ -33,10 +33,10 @@
       }
     },
     {
-      "name" : "Inferno Squadron",
+      "name" : "Inferno Squadron (IS)",
       "lead": ["Leader 1"],
       "tag" : ["【🔥IS】"], 
-      "language" : [""], 
+      "language" : ["English"], 
       "infos" : "",
       "links" : {
         "join" : "https://discord.gg/GwufZc4b6C",
@@ -44,11 +44,11 @@
       }
     },
     {
-      "name" : "Flammmable Violets",
+      "name" : "Flammmable Violets (FV)",
       "lead": ["Anchar", "Wanda"],
       "tag" : ["✯F℣➛"], 
-      "language" : [""], 
-      "infos" : "",
+      "language" : ["English"], 
+      "infos" : "International Anti-Cheat Clan",
       "links" : {
         "join" : "https://discord.gg/nVC6mdztUW",
         "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/FVclan.gif?raw=true"
@@ -59,7 +59,7 @@
       "lead": ["Lord"],
       "tag" : ["ɆØ₮⇝"], 
       "language" : [""], 
-      "infos" : "",
+      "infos" : "Lack of information about this clan",
       "links" : {
         "join" : "https://discord.gg/eotsb",
         "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/EOT.png?raw=true"
