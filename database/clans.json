@@ -88,6 +88,17 @@
       }
     },
     {
+      "name" : "Neo Space Army",
+      "lead": ["Neo Space"],
+      "tag" : ["ƝSΛ ⯌"], 
+      "language" : ["English"], 
+      "infos" : "Clans is the successor to F4, and the leader is well-known youtuber Neo space.",
+      "links" : {
+        "join" : "https://discord.gg/GDzGmWEm25",
+        "picture" : "https://cdn.discordapp.com/icons/973585722227458068/a_4b7072d4bbf437e6f11cfbd93f917a0f.webp?"
+      }
+    },
+    {
       "name" : "Synthesis RC2",
       "lead": ["Hazard","Twidash"],
       "tag" : ["R.C²"], 
