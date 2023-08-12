@@ -145,6 +145,10 @@
             {
                 "id" : "discord",
                 "src" : "hazardest"
+            },
+            {
+                "id" : "youtube.com",
+                "src" : "https://www.youtube.com/channel/UCvfCfzSx1qXKA9IIa5DelRw"
             }
         ],
         "about" : {
