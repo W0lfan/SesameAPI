@@ -10,6 +10,10 @@
             {
                 "id" : "discord",
                 "src" : "bhpsngum"
+            },
+            {
+                "id" : "youtube",
+                "src" : "https://www.youtube.com/@bhpsngum"
             }
         ],
         "about" : {
