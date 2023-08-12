@@ -411,6 +411,10 @@
             {
                 "id" : "discord",
                 "src" : "Thuliux#3484"
+            },
+            {
+                "id" : "youtube",
+                "src" : "https://www.youtube.com/@Thuliux/"
             }
         ],
         "about" : {
@@ -555,6 +559,10 @@
             {
                 "id" : "discord",
                 "src" : "lexydrow"
+            },
+            {
+                "id" : "youtube",
+                "src" : "https://www.youtube.com/@lexydrow"
             }
         ],
         "about" : {
@@ -775,6 +783,10 @@
             {
                 "id" : "discord",
                 "src" : "endersult"
+            },
+            {
+                "id" : "youtube",
+                "src" : "https://www.youtube.com/@CMDR_Endersult"
             }
         ],
         "about" : {
@@ -956,6 +968,10 @@
                 {
                     "id" : "discord",
                     "src" : "nukephysics"
+                },
+                {
+                    "id" : "youtube",
+                    "src" : "https://www.youtube.com/@NukePhysics"
                 }
             ],
             "about" : {
