@@ -222,12 +222,8 @@
         }
     }, {
         "name" : "Kleinem",
-        "pfp" : "unknown",
+        "pfp" : "https://cdn.discordapp.com/avatars/883834901248499734/43229e9e1855f5f385b4a5111605f395.webp",
         "links" : [
-            {
-                "id" : "github",
-                "src" : "unknown"
-            },
             {
                 "id" : "discord",
                 "src" : "_kleinem"
