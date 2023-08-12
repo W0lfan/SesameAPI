@@ -77,6 +77,17 @@
       }
     },
     {
+      "name" : "Asian Cosmic Warriors",
+      "lead": ["Λᴄᗯ | ☆ Zard"],
+      "tag" : ["Λᴄᗯ |"],
+      "language" : ["English"], 
+      "infos" : "clans exclusively asia",
+      "links" : {
+        "join" : "https://discord.gg/5Fja39e7KZ", 
+        "picture" : "https://cdn.discordapp.com/icons/936966098564313149/308af6baf67919dfe8afb462e98f4474.webp?"
+      }
+    },
+    {
       "name" : "Synthesis RC2",
       "lead": ["Hazard","Twidash"],
       "tag" : ["R.C²"], 
