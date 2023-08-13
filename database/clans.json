@@ -5,20 +5,28 @@
       "tag" : ["ҒR▸", "ᚫᚱ▸", "FЯ▸", "ҒꝚ▸"],
       "language" : ["French"], 
       "infos" : "French People exclusively. DM Megalodon to enter the team.",
+      "server" : "EU",
+      "active" : true,
+      "birth" : "",
       "links" : {
         "join" : "", 
-        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/FRteams.png?raw=true"
+        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/FRteams.png?raw=true",
+        "youtube" : "https://www.youtube.com/channel/UCr0gpbHDyZUr-tF5QmiSm1g"
       }
     },
     {
       "name" : "French Alliance",
       "lead": ["Megalodon"],
       "tag" : ["ҒΛ▸"], 
-      "language" : [""], 
+      "language" : ["English", "French"], 
       "infos" : "Make the Game great again and to prove to everyone that cheats are not needed to be strong.",
+      "server" : "EU",
+      "active" : true,
+      "birth" : "16/07/2023",
       "links" : {
         "join" : "https://discord.gg/3nuThPcEEj",
-        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/serv_logo.png?raw=true"
+        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/serv_logo.png?raw=true",
+        "youtube" : "unknown"
       }
     },
     {
@@ -27,9 +35,13 @@
       "tag" : ["SᄅF-"], 
       "language" : ["English"], 
       "infos" : "A server for everyone! Recruitment to the largest clan/alliance in survival mode! We really don't like cheaters.",
+      "server" : "EU",
+      "active" : true,
+      "birth" : "",
       "links" : {
         "join" : "https://discord.gg/zx8NAR2z4E",
-        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/S2Fclans.png?raw=true"
+        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/S2Fclans.png?raw=true",
+        "youtube" : "unknown"
       }
     },
     {
@@ -38,9 +50,13 @@
       "tag" : ["【🔥IS】"], 
       "language" : ["English"], 
       "infos" : "",
+      "server" : "International",
+      "active" : true,
+      "birth" : "",
       "links" : {
         "join" : "https://discord.gg/GwufZc4b6C",
-        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/ISclans.jpg?raw=true"
+        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/ISclans.jpg?raw=true",
+        "youtube" : "unknown"
       }
     },
     {
@@ -49,9 +65,13 @@
       "tag" : ["✯F℣➛"], 
       "language" : ["English"], 
       "infos" : "International Anti-Cheat Clan",
+      "server" : "International",
+      "active" : true,
+      "birth" : "",
       "links" : {
         "join" : "https://discord.gg/nVC6mdztUW",
-        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/FVclan.gif?raw=true"
+        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/FVclan.gif?raw=true",
+        "youtube" : "unknown"
       }
     },
     {
@@ -60,9 +80,13 @@
       "tag" : ["ɆØ₮⇝"], 
       "language" : [""], 
       "infos" : "Lack of information about this clan",
+      "server" : "EU",
+      "active" : true,
+      "birth" : "",
       "links" : {
-        "join" : "https://discord.gg/eotsb",
-        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/EOT.png?raw=true"
+        "join" : "",
+        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/EOT.png?raw=true",
+        "youtube" : "unknown"
       }
     },
     {
@@ -71,9 +95,13 @@
       "tag" : ["[△]"], 
       "language" : [""], 
       "infos" : "A small but quickly growing clan with many experienced players, shipbuilders, and modders there to help you improve.",
+      "server" : "International",
+      "active" : true,
+      "birth" : "",
       "links" : {
         "join" : "https://discord.gg/RHpcXtDY",
-        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/Delta_animated_logo.gif?raw=true"
+        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/Delta_animated_logo.gif?raw=true",
+        "youtube" : "unknown"
       }
     },
     {
@@ -82,9 +110,13 @@
       "tag" : ["Λᴄᗯ |"],
       "language" : ["English"], 
       "infos" : "clans exclusively asia",
+      "server" : "Asia",
+      "active" : true,
+      "birth" : "",
       "links" : {
         "join" : "https://discord.gg/5Fja39e7KZ", 
-        "picture" : "https://cdn.discordapp.com/icons/936966098564313149/308af6baf67919dfe8afb462e98f4474.webp?"
+        "picture" : "https://cdn.discordapp.com/icons/936966098564313149/308af6baf67919dfe8afb462e98f4474.webp?",
+        "youtube" : "unknown"
       }
     },
     {
@@ -93,9 +125,13 @@
       "tag" : ["ƝSΛ ⯌"], 
       "language" : ["English"], 
       "infos" : "Clans is the successor to F4, and the leader is well-known youtuber Neo space.",
+      "server" : "International",
+      "active" : true,
+      "birth" : "",
       "links" : {
         "join" : "https://discord.gg/GDzGmWEm25",
-        "picture" : "https://cdn.discordapp.com/icons/973585722227458068/a_4b7072d4bbf437e6f11cfbd93f917a0f.webp?"
+        "picture" : "https://cdn.discordapp.com/icons/973585722227458068/a_4b7072d4bbf437e6f11cfbd93f917a0f.webp?",
+        "youtube" : "https://www.youtube.com/@neospaceyt"
       }
     },
     {
@@ -104,9 +140,13 @@
       "tag" : ["R.C²"], 
       "language" : ["Turkish"], 
       "infos" : "A way to keep Starblast alive and fair.",
+      "server" : "EU",
+      "active" : true,
+      "birth" : "",
       "links" : {
         "join" : "https://discord.gg/r9XqhvnxU2",
-        "picture" : "https://media.discordapp.net/attachments/855809119406391316/1139652171093250219/rc2s.png?width=610&height=610"
+        "picture" : "https://media.discordapp.net/attachments/855809119406391316/1139652171093250219/rc2s.png?width=610&height=610",
+        "youtube" : "unknown"
       }
     }
 ]
