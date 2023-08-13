@@ -5,9 +5,9 @@
     "version": "2.0",
     "description": "Starblast Official Event, made off the Rumble Starblast mod.",
     "modes": "",
-    "img": "https://starblast.data.neuronality.com/events/megarumble.jpg",
+    "img": "",
     "link": {
-      "url": "",
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/mega_rumble.js",
       "state": 2
     },
     "author": [
