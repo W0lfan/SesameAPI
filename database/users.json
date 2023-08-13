@@ -194,6 +194,22 @@
 			"isContrib": false,
 			"isSesame": false
 		}
+	},{
+		"name": "Double Dash",
+		"pfp": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/X2-DashUCP.png?raw=true",
+		"links": [
+			{
+				"id": "discord",
+				"src": "doubledash."
+			}
+		],
+		"about": {
+			"isStaff": false,
+			"isModder": false,
+			"isUCP": false,
+			"isContrib": false,
+			"isSesame": false
+		}
 	}, {
 		"name": "void",
 		"pfp": "unknown",
