@@ -375,7 +375,11 @@
 			},
 			{
 				"id": "youtube",
-				"src": "https://www.youtube.com/channel/UC65eZXj9BG119teoSwBsFtQ"
+				"src": "https://www.youtube.com/channel/UC65eZXj9BG119teoSwBsFtQ",
+			},
+			{
+				"id": "spotify",
+				"src": "https://open.spotify.com/user/31dsb3dy4frbiw6l6yy25co7xf2m"
 			}
 		],
 		"about": {
