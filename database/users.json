@@ -526,6 +526,10 @@
 			{
 				"id": "discord",
 				"src": "bloodydubstep"
+			},
+			{
+				"id": "youtube",
+				"src": "https://www.youtube.com/channel/UCfNE4ly6LYMPSX83pR19V4w"
 			}
 		],
 		"about": {
