@@ -1153,5 +1153,22 @@
 			"isUCP": false,
 			"isContrib": false
 		}
-	}
-]
+	}, {
+    		"name" : "Basit",
+   		"pfp" : "https://cdn.discordapp.com/avatars/1026551616637255690/972886c78f815828d0585928795b1b01.png?size=1024 ",
+    		"links" : [
+		{ "id" : "github",
+		"src" : " https://github.com/Modraxis "},
+		{ "id" : "discord",
+		"src" : "m.basit"},
+		
+      		
+	     ],
+	      "about" : {
+			"isStaff" : false,
+			"isModder" : false,
+			"isUCP" : false,
+			"isContrib" : false,
+			"isAdmin" : false
+     }
+]}
