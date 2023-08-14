@@ -1334,7 +1334,7 @@
       "isStaff" : false,
       "isModder" : false,
       "isUCP" : false,
-      "isContrib" : false,
+      "isContrib" : true,
       "isAdmin" : false
    }
   }, {
