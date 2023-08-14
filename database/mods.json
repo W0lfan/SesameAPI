@@ -967,6 +967,23 @@
     ],
     "official": 0,
     "event": 0
+  }, {
+    "name": "Arena Mod Original",
+    "abvrt": "",
+    "version": "3.1.2",
+    "description": "Arena Mod Original v3.1.2",
+    "modes": "",
+    "img": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/arena-mod-season-2.png?raw=true",
+    "link": {
+      "url": "https://raw.githubusercontent.com/W0lfan/SesameAPI/main/database/mods/arena-mod_v3.1.2.js"
+    },
+    "author": [
+      {
+        "name": ["Nexagon","Lexagon"],
+        "link": ""
+      }
+    ],
+    "official": 0
   }
 ]
 
