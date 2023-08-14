@@ -1047,6 +1047,10 @@
 		"name": "Nok",
 		"pfp": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/NokUCP.png?raw=true",
 		"links": [{
+			"id": "github",
+			"src": "https://github.com/NOKsb"
+		},
+		{
 			"id": "discord",
 			"src": ".nok."
 		}],
