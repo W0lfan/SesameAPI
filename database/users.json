@@ -1044,7 +1044,7 @@
 			"isSesame": false
 		}
 	}, {
-		"name": "Nok",
+		"name": "NOK",
 		"pfp": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/NokUCP.png?raw=true",
 		"links": [{
 			"id": "github",
@@ -1054,6 +1054,7 @@
 			"id": "discord",
 			"src": ".nok."
 		}],
+		"description" : "Co-Leader of Team FR and FA clan since June 2023. Experienced shipbuilder and player since 2017.",
 		"about": {
 			"isStaff": false,
 			"isModder": false,
