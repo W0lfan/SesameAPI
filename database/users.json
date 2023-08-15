@@ -987,7 +987,7 @@
 			"isSesame": false
 		}
 	}, {
-		"name": "# Sciences",
+		"name": "Sciences",
 		"pfp": "https://yt3.googleusercontent.com/ytc/AOPolaSL2-iZiIVtfm1-4ddnqHkVPj3p-a8tbJsoKg_1JA=s176-c-k-c0x00ffffff-no-rj",
 		"links": [{
 				"id": "github",
@@ -1149,7 +1149,7 @@
 		}
 	},
 	{
-		"name": "✯[IRAN] D 4OO ✔✯",
+		"name": "Iran",
 		"pfp": "https://cdn.discordapp.com/avatars/997817506649608243/8d18d52395ccc7ad056a1b8e1a012f52.webp",
 		"links": [{
 			"id": "discord",
@@ -1266,7 +1266,7 @@
       "isAdmin" : false
    }
   }, {
-  "name" : "NeaGOΞ",
+  "name" : "Neagoe",
   "pfp" : "https://cdn.discordapp.com/avatars/270923689602711552/e8ed84860da081f3d5369fcd17ca2784.webp?size=128",
   "links" : [
     { "id" : "discord",
@@ -1280,7 +1280,7 @@
       "isAdmin" : false
    }
   }, {
-  "name" : "J4NN3S™",
+  "name" : "Jannes™",
   "pfp" : "https://cdn.discordapp.com/avatars/850461397263056967/12fcb70a619b72f8c52786ab3818f52d.webp?size=128",
   "links" : [
     { "id" : "discord",
@@ -1420,7 +1420,7 @@
       "isAdmin" : false
    }
   }, {
-  "name" : "༺𝒵𝓮𝓇𝓭 [ ♡ ] ༻",
+  "name" : "Zerd",
   "pfp" : "https://cdn.discordapp.com/avatars/628096954773012481/ff7765df4fe03751e8e108f2a348004f.webp?size=128",
   "links" : [
     { "id" : "discord",
@@ -1434,23 +1434,7 @@
       "isAdmin" : false
    }
   }, {
-  "name" : "Wanda",
-  "pfp" : "https://cdn.discordapp.com/avatars/927996541728337991/32dbd6a952dcc55e5c1ae531325a7ca9.webp?size=128",
-  "links" : [
-    { "id" : "discord",
-      "src" : "_wandaa_"},
-    { "id" : "youtube",
-      "src" : "https://www.youtube.com/channel/UC-fnEawrLGUUhx77jwwInNA"}
-   ],
-    "about" : {
-      "isStaff" : false,
-      "isModder" : false,
-      "isUCP" : false,
-      "isContrib" : false,
-      "isAdmin" : false
-   }
-  }, {
-  "name" : "ZΣX",
+  "name" : "ZEX",
   "pfp" : "https://cdn.discordapp.com/avatars/451387574951608331/db544315889cdfa400db5cfd2d084624.webp?size=128",
   "links" : [
     { "id" : "discord",
