@@ -1419,6 +1419,54 @@
       "isContrib" : false,
       "isAdmin" : false
    }
+  }, {
+  "name" : "༺𝒵𝓮𝓇𝓭 [ ♡ ] ༻",
+  "pfp" : "https://cdn.discordapp.com/avatars/628096954773012481/ff7765df4fe03751e8e108f2a348004f.webp?size=128",
+  "links" : [
+    { "id" : "discord",
+      "src" : "lastlife7884"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : true,
+      "isAdmin" : false
+   }
+  }, {
+  "name" : "Wanda",
+  "pfp" : "https://cdn.discordapp.com/avatars/927996541728337991/32dbd6a952dcc55e5c1ae531325a7ca9.webp?size=128",
+  "links" : [
+    { "id" : "discord",
+      "src" : "_wandaa_"},
+    { "id" : "youtube",
+      "src" : "https://www.youtube.com/channel/UC-fnEawrLGUUhx77jwwInNA"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  }, {
+  "name" : "ZΣX",
+  "pfp" : "https://cdn.discordapp.com/avatars/451387574951608331/db544315889cdfa400db5cfd2d084624.webp?size=128",
+  "links" : [
+    { "id" : "discord",
+      "src" : "zex_."},
+    { "id" : "youtube",
+      "src" : "https://www.youtube.com/@zakpro4496/featured"},
+    { "id" : "spotify",
+      "src" : "https://open.spotify.com/user/31gjivvntixjkyklzztufhmaq73u"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
   }
 
 ]
