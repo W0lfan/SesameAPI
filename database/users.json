@@ -1455,6 +1455,26 @@
       "isAdmin" : false
    } 
   }, {
+  "name" : "bylolopro",
+  "pfp" : "https://cdn.discordapp.com/avatars/599291389099900957/c51321b457070067eeb469b92d363b23.webp?size=128",
+  "links" : [
+    { "id" : "github",
+      "src" : "unknown"},
+    { "id" : "discord",
+      "src" : "bylolopro360"},
+    { "id" : "youtube",
+      "src" : "https://www.youtube.com/@bylolopro3607/featured"},
+    { "id" : "spotify",
+      "src" : "unknown"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  }, {
   "name" : "ZEX",
   "pfp" : "https://cdn.discordapp.com/avatars/451387574951608331/db544315889cdfa400db5cfd2d084624.webp?size=128",
   "links" : [
