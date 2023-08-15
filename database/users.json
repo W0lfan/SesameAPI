@@ -1655,6 +1655,26 @@
       "isAdmin" : false
    }	
   }, {
+  "name" : "Rossiya",
+  "pfp" : "https://cdn.discordapp.com/avatars/783097495999873024/ec5bd5405b8fb0d3c9a4f1929cf28864.webp?size=128",
+  "links" : [
+    { "id" : "github",
+      "src" : "unknown"},
+    { "id" : "discord",
+      "src" : "shiroko.sunaookami"},
+    { "id" : "youtube",
+      "src" : "unknown"},
+    { "id" : "spotify",
+      "src" : "unknown"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }	
+  }, {
   "name" : "ZEX",
   "pfp" : "https://cdn.discordapp.com/avatars/451387574951608331/db544315889cdfa400db5cfd2d084624.webp?size=128",
   "links" : [
