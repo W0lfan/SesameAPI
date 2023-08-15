@@ -149,7 +149,7 @@
 			"isModder": false,
 			"isUCP": false,
 			"isContrib": true,
-			"isSesame": false
+			"isSesame": true
 		}
 	}, {
 		"name": "Hazard",
