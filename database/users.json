@@ -1495,6 +1495,106 @@
       "isAdmin" : false
    }
   }, {
+  "name" : "TheProPizza",
+  "pfp" : "https://cdn.discordapp.com/avatars/535544753014439936/5f201489e4fb3ed8929cd3c0b610e231.webp?size=128",
+  "links" : [
+    { "id" : "github",
+      "src" : "unknown"},
+    { "id" : "discord",
+      "src" : "thepropizza"},
+    { "id" : "youtube",
+      "src" : "unknown"},
+    { "id" : "spotify",
+      "src" : "unknown"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  }, {
+  "name" : "Devilion",
+  "pfp" : "https://cdn.discordapp.com/avatars/682972966530842635/172dcb33da5880c350ce54861f7dfa71.webp?size=128",
+  "links" : [
+    { "id" : "github",
+      "src" : "unknown"},
+    { "id" : "discord",
+      "src" : "devilion_"},
+    { "id" : "youtube",
+      "src" : "https://www.youtube.com/channel/UC_YVS-A61R0Dk-m0yZesgIw"},
+    { "id" : "spotify",
+      "src" : "https://open.spotify.com/user/nn2o6h0onzc0zfvlo2rrtte8t"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  }, {
+  "name" : "ADVANCED",
+  "pfp" : "https://cdn.discordapp.com/avatars/845718856441397298/3df5b5f0a89a655ffdfd85af1ed04af8.webp?size=128",
+  "links" : [
+    { "id" : "github",
+      "src" : "unknown"},
+    { "id" : "discord",
+      "src" : "advanced.0001"},
+    { "id" : "youtube",
+      "src" : "unknown"},
+    { "id" : "spotify",
+      "src" : "unknown"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  }, {
+  "name" : "Centauri",
+  "pfp" : "https://cdn.discordapp.com/avatars/803273515344068709/1c11716094ceb0862ca265076e6f9b4a.webp?size=128",
+  "links" : [
+    { "id" : "github",
+      "src" : "unknown"},
+    { "id" : "discord",
+      "src" : "centauri369"},
+    { "id" : "youtube",
+      "src" : "unknown"},
+    { "id" : "spotify",
+      "src" : "unknown"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  }, {
+  "name" : "Wargod",
+  "pfp" : "https://cdn.discordapp.com/avatars/790210397663526912/99044e48e200657802069e70c622884b.webp?size=128",
+  "links" : [
+    { "id" : "github",
+      "src" : "unknown"},
+    { "id" : "discord",
+      "src" : "mateothedisintegrationer"},
+    { "id" : "youtube",
+      "src" : "unknown"},
+    { "id" : "spotify",
+      "src" : "unknown"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  }, {
   "name" : "ZEX",
   "pfp" : "https://cdn.discordapp.com/avatars/451387574951608331/db544315889cdfa400db5cfd2d084624.webp?size=128",
   "links" : [
