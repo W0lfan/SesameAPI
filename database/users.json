@@ -1695,6 +1695,46 @@
       "isAdmin" : false
    }
   }, {
+  "name" : "KHALIL",
+  "pfp" : "https://cdn.discordapp.com/avatars/954844641679794278/3ac6def614c4f1537df21d7994f8cd4b.webp?size=128",
+  "links" : [
+    { "id" : "github",
+      "src" : "unknown"},
+    { "id" : "discord",
+      "src" : "khalil111"},
+    { "id" : "youtube",
+      "src" : "unknown"},
+    { "id" : "spotify",
+      "src" : "unknown"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  }, {
+  "name" : "FenixSt75",
+  "pfp" : "https://cdn.discordapp.com/avatars/967273359412969524/e45ef21795f002f6e763c6465e070a24.webp?size=128",
+  "links" : [
+    { "id" : "github",
+      "src" : "https://github.com/FenixStar75"},
+    { "id" : "discord",
+      "src" : "omar_075"},
+    { "id" : "youtube",
+      "src" : "https://www.youtube.com/channel/UCQNkNtmVIBXNxHT2eLuOjgg"},
+    { "id" : "spotify",
+      "src" : "https://open.spotify.com/user/31m3eprhshjfi5rc5czewcy7pa2q"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  }, {
   "name" : "ZEX",
   "pfp" : "https://cdn.discordapp.com/avatars/451387574951608331/db544315889cdfa400db5cfd2d084624.webp?size=128",
   "links" : [
