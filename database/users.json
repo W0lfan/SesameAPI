@@ -1475,6 +1475,26 @@
       "isAdmin" : false
    }
   }, {
+  "name" : "Leader 1",
+  "pfp" : "https://cdn.discordapp.com/avatars/713578902865575936/ecef02313b93651225326edcc921798b.webp?size=128",
+  "links" : [
+    { "id" : "github",
+      "src" : "unknown"},
+    { "id" : "discord",
+      "src" : "infernoleader1"},
+    { "id" : "youtube",
+      "src" : "https://www.youtube.com/channel/UCbxJuRLUU3meg08x8s4Kh0A"},
+    { "id" : "spotify",
+      "src" : "unknown"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  }, {
   "name" : "ZEX",
   "pfp" : "https://cdn.discordapp.com/avatars/451387574951608331/db544315889cdfa400db5cfd2d084624.webp?size=128",
   "links" : [
