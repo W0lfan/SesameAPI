@@ -13,7 +13,7 @@
         users: "users.json",
         mods: "mods.json",
         clans: "clans.json",
-        links : "links.json"
+        ships : "ships.json"
     };
     
     const __Version__ = "0.0.1";
