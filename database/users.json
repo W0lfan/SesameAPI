@@ -1738,8 +1738,6 @@
   "name" : "paralx",
   "pfp" : "https://cdn.discordapp.com/avatars/147052695876796416/ba0620f780334db990b04c178b61eb4f.webp?size=128",
   "links" : [
-    { "id" : "github",
-      "src" : "unknown"},
     { "id" : "discord",
       "src" : "v4lp"},
     { "id" : "youtube",
@@ -1750,7 +1748,7 @@
     "about" : {
       "isStaff" : false,
       "isModder" : false,
-      "isUCP" : false,
+      "isUCP" : true,
       "isContrib" : true,
       "isAdmin" : false
    }
