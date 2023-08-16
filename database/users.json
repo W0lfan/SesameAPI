@@ -1735,6 +1735,26 @@
       "isAdmin" : false
    }
   }, {
+  "name" : "paralx",
+  "pfp" : "https://cdn.discordapp.com/avatars/147052695876796416/ba0620f780334db990b04c178b61eb4f.webp?size=128",
+  "links" : [
+    { "id" : "github",
+      "src" : "unknown"},
+    { "id" : "discord",
+      "src" : "v4lp"},
+    { "id" : "youtube",
+      "src" : "https://www.youtube.com/@voyagerjs/featured"},
+    { "id" : "spotify",
+      "src" : "https://open.spotify.com/intl-fr/artist/1kEc5UGZDBlP4SbmVzzUP7"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : true,
+      "isAdmin" : false
+   }
+  }, {
   "name" : "ZEX",
   "pfp" : "https://cdn.discordapp.com/avatars/451387574951608331/db544315889cdfa400db5cfd2d084624.webp?size=128",
   "links" : [
