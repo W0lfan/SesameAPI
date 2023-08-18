@@ -1775,20 +1775,6 @@
       "isContrib" : false,
       "isAdmin" : false
    }
-  }, {
-  "name" : "Anos",
-  "pfp" : "",
-  "links" : [
-    { "id" : "discord",
-      "src" : ".anos."}
-   ],
-    "about" : {
-      "isStaff" : false,
-      "isModder" : false,
-      "isUCP" : false,
-      "isContrib" : false,
-      "isAdmin" : false
-   }
   }
 
 ]
