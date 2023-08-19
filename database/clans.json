@@ -106,16 +106,16 @@
     },
     {
       "name" : "Asian Cosmic Warriors",
-      "lead": ["Λᴄᗯ | ☆ Zard"],
-      "tag" : ["Λᴄᗯ |"],
+      "lead" ["Zard","Physic","Dynamite"],
+      "tag" : ["﻿﻿﻿ Λᴄᗯ | ☆  ﻿﻿﻿"],
       "language" : ["English"], 
-      "infos" : "clans exclusively asia",
-      "server" : "Asia",
+     "infos" : "We are ACW, an Asian clan seeking to revive the Asia,Europe and America region of Starblast.﻿ Join our server to support us, it doesn't matter which region you are from! However, please behave in our server and do not be toxic or unfriendly!",
+    "server" : "Asia",
       "active" : true,
-      "birth" : "",
+      "birth" : "10/10/2020",
       "links" : {
-        "join" : "https://discord.gg/5Fja39e7KZ", 
-        "picture" : "https://cdn.discordapp.com/icons/936966098564313149/308af6baf67919dfe8afb462e98f4474.webp?",
+        "join" : "", 
+        "picture" : "https://github.com/Modraxis/background-pngs/blob/main/ACW.gif?raw=true",
         "youtube" : "unknown"
       }
     },
