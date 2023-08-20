@@ -1818,6 +1818,26 @@
       "isAdmin" : false
    }
   }, {
+  "name" : "Darth Mac",
+  "pfp" : "https://cdn.discordapp.com/avatars/548960987986788353/0ee43e993276b4aa14a0971faa76b0fe.webp?size=128",
+  "links" : [
+    { "id" : "github",
+      "src" : "unknown"},
+    { "id" : "discord",
+      "src" : "darth_mac"},
+    { "id" : "youtube",
+      "src" : "unknown"},
+    { "id" : "spotify",
+      "src" : "unknown"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  }, {
   "name" : "ZEX",
   "pfp" : "https://cdn.discordapp.com/avatars/451387574951608331/db544315889cdfa400db5cfd2d084624.webp?size=128",
   "links" : [
