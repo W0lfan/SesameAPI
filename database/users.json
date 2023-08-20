@@ -1838,6 +1838,26 @@
       "isAdmin" : false
    }
   }, {
+  "name" : "Sopilote",
+  "pfp" : "https://cdn.discordapp.com/avatars/1061795750771691610/6d3e661799d8a286601eb0323b73ad91.webp?size=128",
+  "links" : [
+    { "id" : "github",
+      "src" : "unknown"},
+    { "id" : "discord",
+      "src" : "mikelbaz123"},
+    { "id" : "youtube",
+      "src" : "unknown"},
+    { "id" : "spotify",
+      "src" : "unknown"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  }, {
   "name" : "ZEX",
   "pfp" : "https://cdn.discordapp.com/avatars/451387574951608331/db544315889cdfa400db5cfd2d084624.webp?size=128",
   "links" : [
