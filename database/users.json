@@ -1778,6 +1778,26 @@
       "isAdmin" : false
    }	
   }, {
+  "name" : "HELPER",
+  "pfp" : "https://github.com/Modraxis/background-pngs/blob/main/giphy.gif?raw=true",
+  "links" : [
+    { "id" : "github",
+      "src" : "unknown"},
+    { "id" : "discord",
+      "src" : ".helpers"},
+    { "id" : "youtube",
+      "src" : "https://www.youtube.com/channel/UCqMO6r_AXwz90PBLNfnZ_gQ"},
+    { "id" : "spotify",
+      "src" : "https://open.spotify.com/user/3124d4bmpfjgvedoewzniaiqipuy"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  }, {
   "name" : "ZEX",
   "pfp" : "https://cdn.discordapp.com/avatars/451387574951608331/db544315889cdfa400db5cfd2d084624.webp?size=128",
   "links" : [
