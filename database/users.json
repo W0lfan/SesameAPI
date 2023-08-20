@@ -1788,8 +1788,8 @@
     { "id" : "youtube",
       "src" : "https://www.youtube.com/channel/UCJa7dqH8_o01HVBaBLVpKGA",
     { "id" : "spotify",
-      "src" : "https://open.spotify.com/user/313sxgvuc7ochzkepza22xvkw53e",
-    ],
+      "src" : "https://open.spotify.com/user/313sxgvuc7ochzkepza22xvkw53e"
+   ],
     "about" : {
       "isStaff" : false,
       "isModder" : false,
