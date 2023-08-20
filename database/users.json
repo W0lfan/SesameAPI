@@ -1776,7 +1776,27 @@
       "isUCP" : false,
       "isContrib" : false,
       "isAdmin" : false
-   }		
+   }	
+  }, {
+  "name" : "gc overlord",
+  "pfp" : "https://cdn.discordapp.com/attachments/1054408409073586186/1140399805751889961/image.png",
+  "links" : [
+    { "id" : "github",
+      "src" : "https://github.com/wertd123",
+    { "id" : "discord",
+      "src" : "gcoverlordwertd",
+    { "id" : "youtube",
+      "src" : "https://www.youtube.com/channel/UCJa7dqH8_o01HVBaBLVpKGA",
+    { "id" : "spotify",
+      "src" : "https://open.spotify.com/user/313sxgvuc7ochzkepza22xvkw53e",
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false,
+   }
   }, {
   "name" : "ZEX",
   "pfp" : "https://cdn.discordapp.com/avatars/451387574951608331/db544315889cdfa400db5cfd2d084624.webp?size=128",
