@@ -1915,6 +1915,20 @@
       "isContrib" : false,
       "isAdmin" : false
    }
+  },{
+  "name" : "Bao_vn",
+  "pfp" : "https://cdn.discordapp.com/avatars/1124949878594863224/80ac0c1a1c8ee921c97e5f314defae97.png?size=1024",
+  "links" : [
+    { "id" : "discord",
+      "src" : "_lauriascute__"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
   }
 
 ]
