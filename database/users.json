@@ -1858,6 +1858,26 @@
       "isAdmin" : false
    }
   }, {
+  "name" : "Titan",
+  "pfp" : "https://cdn.discordapp.com/avatars/781307296524795904/18a0e422a71ebf7abe32e21bf1e496e8.webp?size=128",
+  "links" : [
+    { "id" : "github",
+      "src" : "unknown"},
+    { "id" : "discord",
+      "src" : "diabeticmonke"},
+    { "id" : "youtube",
+      "src" : "unknown"},
+    { "id" : "spotify",
+      "src" : "unknown"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  }, {
   "name" : "ZEX",
   "pfp" : "https://cdn.discordapp.com/avatars/451387574951608331/db544315889cdfa400db5cfd2d084624.webp?size=128",
   "links" : [
