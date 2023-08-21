@@ -1878,6 +1878,26 @@
       "isAdmin" : false
    }
   }, {
+  "name" : "ADRİAN",
+  "pfp" : "https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png",
+  "links" : [
+    { "id" : "github",
+      "src" : "unknown"},
+    { "id" : "discord",
+      "src" : "Eochaid#6120"},
+    { "id" : "youtube",
+      "src" : "https://www.youtube.com/channel/UCZZlm5jVhOshLJx3wufTNUQ"},
+    { "id" : "spotify",
+      "src" : "https://open.spotify.com/user/31vjet3yyvcdadxn2zkjikzx4k3q"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  }, {
   "name" : "ZEX",
   "pfp" : "https://cdn.discordapp.com/avatars/451387574951608331/db544315889cdfa400db5cfd2d084624.webp?size=128",
   "links" : [
