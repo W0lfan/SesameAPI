@@ -1929,6 +1929,84 @@
       "isContrib" : false,
       "isAdmin" : false
    }
+  },{
+  "name" : "ATTACK AS TEAM",
+  "pfp" : "https://cdn.discordapp.com/avatars/1015967730102444042/72fe32b5d03df11d80c8ce22220ca832.png?size=1024",
+  "links" : [
+    { "id" : "discord",
+      "src" : "attackasteam"},
+    { "id" : "youtube",
+      "src" : "https://www.youtube.com/channel/UCI3UEUOzBK0VdJMWzK0POLA"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  },{
+  "name" : "Bryce",
+  "pfp" : "https://cdn.discordapp.com/avatars/254231161096634368/4dd19f79e1225b8cf0ffefac2c163103.gif?size=1024",
+  "links" : [
+    { "id" : "discord",
+      "src" : "bryce3187"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  },{
+  "name" : "Physic YT",
+  "pfp" : "https://cdn.discordapp.com/avatars/862227728979591189/7278c3b058b5dd47e840854d957e51de.png?size=1024",
+  "links" : [
+    { "id" : "discord",
+      "src" : "_physic_"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  },{
+  "name" : "Zard",
+  "pfp" : "https://cdn.discordapp.com/avatars/887891398035136572/545c025bf9ece015c7aebd4d30fc66e3.png?size=1024",
+  "links" : [
+    { "id" : "github",
+      "src" : "Unknown"},
+    { "id" : "discord",
+      "src" : "zard1116"},
+    { "id" : "youtube",
+      "src" : "https://www.youtube.com/channel/UCiySPxBhI_pGCHNsEIN0A-g"},
+    { "id" : "spotify",
+      "src" : "https://open.spotify.com/user/5ztb0477jeau3izfm34ug6lb0"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  },{
+  "name" : "Heartbeat",
+  "pfp" : "https://github.com/Modraxis/images/blob/main/Heartbeat.gif?raw=true",
+  "links" : [
+    { "id" : "discord",
+      "src" : "_heartyy_"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
   }
 
 ]
