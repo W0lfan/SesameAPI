@@ -3,7 +3,7 @@
     Sesame Database API Dev Log
 
     📅 Created: Aug. 9, 2023
-    🔄 Last Update: Aug. 16, 2023
+    🔄 Last Update: Aug. 24, 2023
 
  */
     const __Path__ = "https://raw.githubusercontent.com/W0lfan/sesame/main/database/";
@@ -13,7 +13,7 @@
         users: "users.json",
         mods: "mods.json",
         clans: "clans.json",
-        ships : "ships.json"
+        ships: "ships.json"
     };
     
     const __Version__ = "0.0.1";
