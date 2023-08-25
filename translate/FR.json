@@ -3,7 +3,7 @@
         "input_placeholder" : "Rechercher par mots-clés",
         "scroll_menu" : {
             "top" : "Recherche Globale",
-            "infos-items" : ["Modding","Communauté"],
+            "infos_items" : ["Modding","Communauté"],
             "click_query" : [
                 "Tous les Mods",
                 "Mods Officiels",
