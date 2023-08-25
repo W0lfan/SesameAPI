@@ -2008,11 +2008,11 @@
       "isAdmin" : false
    }
   },{
-  "name" : "AGXXXX  ",
-  "pfp" : "https://media.discordapp.net/attachments/1054140657536606270/1144354547649757234/pfp.png?width=1138&height=1102",
+  "name" : "AGXXXX",
+  "pfp" : "https://cdn.discordapp.com/avatars/797949012670021632/aeda747073b7009de8bf49acc8aba914.webp",
   "links" : [
     { "id" : "github",
-      "src" : "https://github.com/AGXXXX123",
+      "src" : "https://github.com/AGXXXX123"},
     { "id" : "discord",
       "src" : "agxxxx"}
    ],
