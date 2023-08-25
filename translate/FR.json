@@ -67,12 +67,12 @@
                 }],
                 "actions": [{
                         "name": "Ajouter un Mod",
-                        "act": "function() {window.open('https://discord.gg/C5RRhPNH');}",
+                        "act": "function OpenDiscord() {window.open('https://discord.gg/C5RRhPNH');}",
                         "id": "add"
                     },
                     {
                         "name": "Mods Officiels",
-                        "act": "function() {Search('Official Mods', false, 'mods', [], 'official', [1, 2]);}",
+                        "act": "function SearchOfficial() {Search('Official Mods', false, 'mods', [], 'official', [1, 2]);}",
                         "id": "search"
                     }
                 ],
