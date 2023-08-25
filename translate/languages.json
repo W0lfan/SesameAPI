@@ -1,4 +1,7 @@
-{
-    "English" : "EN",
-    "Français" : "FR"
-}
+[
+    {
+        "English" : "EN"
+    }
+    {    "Français" : "FR"
+    }
+]
