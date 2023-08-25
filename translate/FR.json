@@ -27,7 +27,8 @@
         "documentation":"Documentation"
     },
     "categories" : {
-        "message" : "Aller à",
+        "message" : "Aller aux",
+        "return" : "Retourner aux",
         "categories" : ["mods","utilisateurs","vaisseaux","clans","codes"]
     },
     "user_informations" : {
