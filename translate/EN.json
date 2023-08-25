@@ -35,8 +35,8 @@
     "user_informations" : {
         "user" : ["About","Social"],
         "content" : {
-            "no_content":"has not published content",
-            "content": "'s creations are displayed below"
+            "no_content":"This user has no published content",
+            "content": "Their creations are displayed below"
         }
     },
     "InformativeSheets" : {
