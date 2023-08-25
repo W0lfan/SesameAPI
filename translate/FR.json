@@ -1,0 +1,126 @@
+{
+    "home" : {
+        "input_placeholder" : "Rechercher par mots-clés",
+        "scroll_menu" : {
+            "top" : "Recherche Globale",
+            "infos-items" : ["Modding","Communauté"],
+            "click_query" : [
+                "Tous les Mods",
+                "Mods Officiels",
+                "Tous les Clans",
+                "Tous les utilisateurs",
+                "Contributeurs",
+                "Équipe Sesame"
+            ]
+        },
+        "results" : "Résultats pour",
+        "no_results" : "Aucun résultat pour",
+        "404":"Essayez de rechercher autre chose"
+    },
+    "parameters" : {
+        "titles" : ["Theme","Articles","Langage"],
+        "descriptions" : ["Changer votre theme Sesame","Organiser l'affichage des Articles","Changer le langage du site"]
+    },
+    "actions" : {
+        "download" : "Télécharger",
+        "open":"Ouvrir",
+        "documentation":"Documentation"
+    },
+    "categories" : {
+        "message" : "Aller à",
+        "categories" : ["mods","utilisateurs","vaisseaux","clans","codes"]
+    },
+    "user_informations" : {
+        "user" : ["À Propos","Réseaux sociaux"],
+        "content" : {
+            "no_content":"n'a pas publié de contenu",
+            "content": "Ses créations sont affichés ci-dessous"
+        }
+    },
+    "InformativeSheets" : {
+        "All Mods": {
+            "name": "Starblast.io Mods",
+            "user_article": "naf",
+            "height": "540px",
+            "container": [{
+                "title": "Acces Restreint",
+                "content": "L'accès aux ressources du modding Starblast requiert certaines exigences. Bien que la création de vaisseaux et l'utilisation du Ship Editor soient gratuits, l'hébergement de mods nécessite la possession d'un Elite Commander Pass (ECP) achetable directement depuis Starblast.io. Cet investissement vous donne l'accès au Mod Editor et vous permet de développer vos propres mods de jeu, ainsi que de participer à l'activité de la communauté des moddeurs de starblast."
+            }, {
+                "title": "Grandes Ressources",
+                "content": "Le modding Starblast n'a d'autres limites que vos connaissances du code et votre imagination. Il permet de créer n'importe quel mod et de jouer les vaisseaux que vous avez créés. Certains mods ont été directement implantés dans le jeu et d'autres sont organisés en tant qu'événements ou joués par la communauté. Les mods peuvent être des modes de jeu simple mais aussi des parties au code complexe proposant des fonctionnalités de jeu uniques."
+            }],
+            "links": {
+                "resources": [{
+                    "name": "Starblast Modding",
+                    "src": "https://starblast.io/modding.html",
+                    "id": "lien"
+                }, {
+                    "name": "Starblast Ship Editor",
+                    "src": "https://starblast.io/shipeditor/",
+                    "id": "lien"
+                }, {
+                    "name": "Documentation Modding",
+                    "src": "https://starblast.fandom.com/wiki/Modding_Tutorial",
+                    "id": "lien"
+    
+                }],
+                "actions": [{
+                        "name": "Ajouter un Mod",
+                        "act": "function() {window.open('https://discord.gg/C5RRhPNH');}",
+                        "id": "Ajouter"
+                    },
+                    {
+                        "name": "Mods Officiels",
+                        "act": "function() {Search('Official Mods', false, 'mods', [], 'official', [1, 2]);}",
+                        "id": "Rechercher"
+                    }
+                ],
+                "banner": ""
+            }
+        },
+        "All Clans": {
+            "name": "Starblast.io Communities",
+            "user_article": "naf",
+            "height": "388px",
+            "container": [{
+                    "title": "À Propos",
+                    "content": "Tous les clans, teams, et communautés de Starblast sont listés ici. Or, certaines invitations à quelques serveurs Discord sont bannies et indisponibles en raison de leur activité toxique et de l'utilisation de cheats."
+                },
+                {
+                    "title": "Informations",
+                    "content": "Les clans et teams sont regroupés en une seule et unique section communautaire pour plus de simplicité dans la recherche. De plus, certains serveurs communautaires fonctionnent aussi en équipe. Chaque clan ou équipe a en moyenne un chef fondateur et quelques cofondateurs. Ces communautés sont à l'origine de divers événements et utilisent des tags uniques représentant leur serveur afin de s'identifier en jeu." 
+                },
+                {
+                    "title": "Grande Histoire",
+                    "content": "Les communautés Starblast se sont créées dès l'apparition du jeu, certaines d'entre elles éxistant encore et ayant été créé en 2017. Les clans et teams ont différents objectifs en fonction de leur idéologie. Certains ont pour but de lutter contre les stack, les tricheurs ou la toxicité en jeu. D'autres n'ont pas de réel objectif, et sont simplement des regroupements de joueurs uniquement désireux de jouer ensemble. De nombreuses communautés ont été prises dans des dramas en raison de leur toxicité et utilisation répétée de clients de cheat."
+                }
+            ],
+            "links": {
+                "resources": [],
+                "actions": [],
+                "banner": ""
+            }
+        },
+        "Official Mods": {
+            "name": "Mods Officiels",
+            "user_article": "naf",
+            "height": "520px",
+            "container": [{
+                    "title": "Modding Space",
+                    "content": "Lancé le 29 Juin 2018, le Modding Space accueille les mods très appréciés et créés par la communauté. L'événement exceptionnel de l'implantation d'un nouveau mod dans le Modding Space s'appelle le Modding Friday. Aujourd'hui le modding space comprend un total de dix mods différents et originaux."
+                },
+                {
+                    "title": "Par la Communauté",
+                    "content": "Les mods officiels de Starblast sont les créations exclusives de la communauté. Des développeurs dévoués investissent leur temps et leur expertise dans la création de mods complexes et originaux. Certains de ces mods reçoivent l’approbation officielle très convoitée du développeur principale Giles pour être inclus dans le Modding Space. Une élite d'environ 13 développeurs de la communauté ont mérité cette reconnaissance, illustrant leur passion et leur dévouement."                }, {
+                    "title": "Amusant et Cyclique",
+                    "content": "Dans le Modding Space, le mod le plus joué compte plus de 10 millions de parties lancées, tandis que d'autres comptent tout de même des centaines de milliers de lancements. Les mods tournent pour une exposition équitable, excepté lors du Modding Friday où le nouveau mod est disponible pendant un weekend entier en plus du mod journalier. Pourtant, le système de rotation a fait l’objet de critiques par la communauté en raison de son impact significatif sur l’accessibilité des mods."
+                }
+            ],
+            "links": {
+                "resources": [],
+                "actions": [],
+                "banner": ""
+            }
+        }
+    }
+}
