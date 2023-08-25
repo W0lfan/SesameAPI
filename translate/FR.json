@@ -54,26 +54,26 @@
                 "resources": [{
                     "name": "Starblast Modding",
                     "src": "https://starblast.io/modding.html",
-                    "id": "lien"
+                    "id": "link"
                 }, {
                     "name": "Starblast Ship Editor",
                     "src": "https://starblast.io/shipeditor/",
-                    "id": "lien"
+                    "id": "link"
                 }, {
                     "name": "Documentation Modding",
                     "src": "https://starblast.fandom.com/wiki/Modding_Tutorial",
-                    "id": "lien"
+                    "id": "link"
     
                 }],
                 "actions": [{
                         "name": "Ajouter un Mod",
                         "act": "function() {window.open('https://discord.gg/C5RRhPNH');}",
-                        "id": "Ajouter"
+                        "id": "add"
                     },
                     {
                         "name": "Mods Officiels",
                         "act": "function() {Search('Official Mods', false, 'mods', [], 'official', [1, 2]);}",
-                        "id": "Rechercher"
+                        "id": "search"
                     }
                 ],
                 "banner": ""
