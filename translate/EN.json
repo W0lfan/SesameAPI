@@ -29,6 +29,7 @@
     },
     "categories" : {
         "message" : "Go to",
+        "return" : "Go back to",
         "categories" : ["mods","users","ships","clans","codes"]
     },
     "user_informations" : {
