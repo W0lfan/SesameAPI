@@ -1,0 +1,124 @@
+{
+    "id" : "English",
+    "home" : {
+        "input_placeholder" : "Search by keywords",
+        "scroll_menu" : {
+            "top" : "Global Research",
+            "infos_items" : ["Modding","Community"],
+            "click_query" : [
+                "All Mods",
+                "Official Mods",
+                "All Clans",
+                "All Users",
+                "Contributors",
+                "Sesame Team"
+            ]
+        }
+    },
+    "parameters" : {
+        "titles" : ["Theme","Articles","Language"],
+        "descriptions" : ["Change your Sesame Theme","Manage Articles Display","Change Sesame Language"]
+    },
+    "actions" : {
+        "download" : "Download",
+        "open":"Open",
+        "documentation":"Documentation"
+    },
+    "categories" : {
+        "message" : "Go to",
+        "categories" : ["mods","users","ships","clans","codes"]
+    },
+    "user_informations" : {
+        "user" : ["About","Social"],
+        "content" : {
+            "no_content":"has not published content",
+            "content": "'s creations are displayed below"
+        }
+    },
+    "InformativeSheets" : {
+        "All Mods": {
+            "name": "Starblast.io Mods",
+            "user_article": "naf",
+            "height": "540px",
+            "container": [{
+                "title": "Restricted Access",
+                "content": "Access to Starblast Modding resources comes with specific requirements. While crafting ships independently is free, hosting mods requires purchasing an Elite Commander Pass (ECP) pack. This investment grants you the ability to showcase your creations within the modding community."
+            }, {
+                "title": "Huge Resource",
+                "content": "The world of Starblast Modding presents limitless possibilities, enabling you to design ships and develop any desired mod. Some mods are officially incorporated into the Starblast Modding Space, while others are community-made for enjoyment. Many of these creations are substantial, featuring intricate code and unique in-game features."
+            }],
+            "links": {
+                "resources": [{
+                    "name": "Starblast Modding",
+                    "src": "https://starblast.io/modding.html",
+                    "id": "link"
+                }, {
+                    "name": "Starblast Ship Editor",
+                    "src": "https://starblast.io/shipeditor/",
+                    "id": "link"
+                }, {
+                    "name": "Modding Documentation",
+                    "src": "https://starblast.fandom.com/wiki/Modding_Tutorial",
+                    "id": "docs"
+    
+                }],
+                "actions": [{
+                        "name": "Add mod",
+                        "act": "function() {window.open('https://discord.gg/C5RRhPNH');}",
+                        "id": "add"
+                    },
+                    {
+                        "name": "Browse Official Mods",
+                        "act": "function() {Search('Official Mods', false, 'mods', [], 'official', [1, 2]);}",
+                        "id": "search"
+                    }
+                ],
+                "banner": ""
+            }
+        },
+        "All Clans": {
+            "name": "Starblast.io Communityies",
+            "user_article": "naf",
+            "height": "388px",
+            "container": [{
+                    "title": "About",
+                    "content": "All Starblast clans, teams, and communities are listed, but Discord invites for banned servers due to toxicity and cheating are unavailable."
+                },
+                {
+                    "title": "Informations",
+                    "content": "Clans and teams are combined in a single community section for simplicity. However, certain community servers function as teams. Each clan or team typically has a founding leader and co-founders. Communities create various events and use unique tags to identify themselves in-game." 
+                },
+                {
+                    "title": "Huge History",
+                    "content": "Starblast communities exist since the game's inception, with the SDF clan being the oldest. Clans & teams aim to combat in-game stacks, cheaters, and toxicity. Many communities have been caught in dramas due to cheating and toxic behavior."
+                }
+            ],
+            "links": {
+                "resources": [],
+                "actions": [],
+                "banner": ""
+            }
+        },
+        "Official Mods": {
+            "name": "Official Mods",
+            "user_article": "naf",
+            "height": "520px",
+            "container": [{
+                    "title": "Modding Space",
+                    "content": "Debuted on June 29, 2018, the Modding Space serves as a central hub for top-tier and highly praised mods. An exceptional event known as Modding Friday showcases the launch of new mods throughout the entire week. Presently, the platform features a curated collection of 10 exceptional mods."
+                },
+                {
+                    "title": "By the community",
+                    "content": "Starblast's Official mods are the exclusive creations of the community. Dedicated developers invest their time and expertise in crafting intricate and enjoyable mods. Some of these mods receive the coveted official developer endorsement for inclusion in the Modding Space. More than 13 community developers have earned this recognition, exemplifying their passion and dedication."                }, {
+                    "title": "Fun and Cyclic",
+                    "content": "In the Modding Space, a leading mod boasts over 10 million plays, while others enjoy hundreds of thousands of plays. Mods rotate for fair exposure, except on Modding Friday, when two are highlighted. Yet, the rotation system has faced community criticism for impacting mod accessibility and exposure."
+                }
+            ],
+            "links": {
+                "resources": [],
+                "actions": [],
+                "banner": ""
+            }
+        }
+    }
+}
