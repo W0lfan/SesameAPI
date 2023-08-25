@@ -34,7 +34,7 @@
     "user_informations" : {
         "user" : ["À Propos","Réseaux sociaux"],
         "content" : {
-            "no_content":"n'a pas publié de contenu",
+            "no_content":"L'utilisateur n'a pas de contenu publié",
             "content": "Ses créations sont affichés ci-dessous"
         }
     },
