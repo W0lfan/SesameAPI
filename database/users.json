@@ -2007,6 +2007,22 @@
       "isContrib" : false,
       "isAdmin" : false
    }
+  },{
+  "name" : "AGXXXX  ",
+  "pfp" : "https://media.discordapp.net/attachments/1054140657536606270/1144354547649757234/pfp.png?width=1138&height=1102",
+  "links" : [
+    { "id" : "github",
+      "src" : "https://github.com/AGXXXX123",
+    { "id" : "discord",
+      "src" : "agxxxx"}
+   ],
+    "about" : {
+      "isStaff" : false,
+      "isModder" : false,
+      "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
   }
 
 ]
