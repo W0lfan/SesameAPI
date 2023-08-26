@@ -8,7 +8,7 @@
             "click_query" : [
                 "All Mods",
                 "Official Mods",
-                "All Communities",
+                "All communities",
                 "All Users",
                 "Contributors",
                 "Sesame Team"
@@ -30,7 +30,7 @@
     "categories" : {
         "message" : "Go to",
         "return" : "Go back to",
-        "categories" : ["mods","users","ships","clans","codes"]
+        "categories" : ["mods","users","ships","communities","codes"]
     },
     "user_informations" : {
         "user" : ["About","Social"],
