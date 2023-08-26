@@ -9,5 +9,10 @@
         "description" : "This code snippet allows you to generate a randomly filled map.",
         "code": "var map_Generator=function(size,empty,asteroidSizeMax){var cells_number=size*size;var filled_cells_goal=cells_number-Math.round(cells_number*empty/100);var empty_cells_goal=cells_number-filled_cells_goal;var filled_cells_count=0;var empty_cells_count=0;var map=[];for(let i=0;i<size;i++){for(let j=0;j<size;j++){if(getRandomInt(cells_number)<empty_cells_goal){map.push(' ');empty_cells_count=empty_cells_count+1;}else{map.push(`${getRandomArbitrary(1,asteroidSizeMax)}`);filled_cells_count=filled_cells_count+1;}}map.push('\\n');}return map.join('');};var map=map_Generator(80,60,9);"
         "author" : [{"name":"Naflouille","link":""}]
+    },{
+        "name" : "Prevent Upgrade Shortcuts",
+        "description" : "This code snippet allows you to remove the upgrades shortcuts",
+        "code": "var preventShortcut=function(ship){var shortcuts=[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\"];for(let i=0;i<8;i++){var component={id:`prevent_shortcut_${shortcuts[i]}`,position:[0,5*i,0,0],shortcut:shortcuts[i],visible:true,clickable:true,components:[{type:\"box\",position:[0,0,100,100],fill:\"#CDE\",stroke:\"#6D6D6D\",width:1}]}];ship.setUIComponent(component);}};this.tick=function(game){if(game.step%15===0){for(let ship of game.ships){if(ship.custom.init!==true){ship.custom.init=true;preventShortcut(ship);}}}};"
+        "author" : [{"name":"Naflouille","link":""}]
     }
 ]
