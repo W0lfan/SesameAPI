@@ -4,5 +4,10 @@
         "description" : "This code snippet allows you to display a clean timer.",
         "code" : "const timer = { seconds: 60, component: { id: \"Timer\", position: [43.5, 1, 20, 10], visible: true, components: [{ type: \"text\", position: [5, 0, 60, 60], value: \"\", color: \"#CDE\" }] } }; this.tick = function(game) { if (game.step % 60 === 0) { if (timer.seconds > 0) { timer.seconds--; timer.component.components[0].value = Math.round(timer.seconds / 60) + \":\" + timer.seconds % 60; game.setUIComponent(timer.component); } else if (timer.seconds <= 0) { /* Do something */ } } };",
         "author" : [{"name":"Naflouille","link":""}]
+    },{
+        "name" : "Map Generator",
+        "description" : "This code snippet allows you to generate a randomly filled map.",
+        "code": "var map_Generator=function(size,empty,asteroidSizeMax){var cells_number=size*size;var filled_cells_goal=cells_number-Math.round(cells_number*empty/100);var empty_cells_goal=cells_number-filled_cells_goal;var filled_cells_count=0;var empty_cells_count=0;var map=[];for(let i=0;i<size;i++){for(let j=0;j<size;j++){if(getRandomInt(cells_number)<empty_cells_goal){map.push(' ');empty_cells_count=empty_cells_count+1;}else{map.push(`${getRandomArbitrary(1,asteroidSizeMax)}`);filled_cells_count=filled_cells_count+1;}}map.push('\\n');}return map.join('');};var map=map_Generator(80,60,9);"
+        "author" : [{"name":"Naflouille","link":""}]
     }
 ]
