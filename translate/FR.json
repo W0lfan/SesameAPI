@@ -72,7 +72,7 @@
                     },
                     {
                         "name": "Mods Officiels",
-                        "act": "fSearch('Mods Officiels', false, 'mods', [], 'official', [1, 2]);",
+                        "act": "Search('Mods Officiels', false, 'mods', [], 'official', [1, 2]);",
                         "id": "search"
                     }
                 ],
