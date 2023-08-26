@@ -20,8 +20,8 @@
         "404":"Essayez de rechercher autre chose"
     },
     "parameters" : {
-        "titles" : ["Theme","Articles","Langage"],
-        "descriptions" : ["Changer votre theme Sesame","Organiser l'affichage des Articles","Changer le langage du site"]
+        "titles" : ["Thème","Articles","Langage"],
+        "descriptions" : ["Changer votre thème Sesame","Organiser l'affichage des Articles","Changer le langage du site"]
     },
     "actions" : {
         "download" : "Télécharger",
