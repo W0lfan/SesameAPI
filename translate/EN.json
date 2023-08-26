@@ -6,7 +6,9 @@
             "top" : "Global Research",
             "infos_items" : ["Modding","Community"],
             "click_query" : [
-                "All Mods",
+                "All codes",
+                "All mods",
+                "All ships",
                 "Official Mods",
                 "All communities",
                 "All Users",
