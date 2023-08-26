@@ -10,7 +10,7 @@ const __Path__ = "https://raw.githubusercontent.com/W0lfan/sesame/main/database/
 
 const __LINKS__ = {
     codes: "codes.json",
-    users: "users.json",
+    users: "users.json", 
     mods: "mods.json",
     communities: "communities.json",
     ships: "ships.json"
