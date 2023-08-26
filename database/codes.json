@@ -14,5 +14,20 @@
         "description" : "This code snippet allows you to remove the upgrades shortcuts",
         "code": "var preventShortcut=function(ship){var shortcuts=[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\"];for(let i=0;i<8;i++){var component={id:`prevent_shortcut_${shortcuts[i]}`,position:[0,5*i,0,0],shortcut:shortcuts[i],visible:true,clickable:true,components:[{type:\"box\",position:[0,0,100,100],fill:\"#CDE\",stroke:\"#6D6D6D\",width:1}]}];ship.setUIComponent(component);}};this.tick=function(game){if(game.step%15===0){for(let ship of game.ships){if(ship.custom.init!==true){ship.custom.init=true;preventShortcut(ship);}}}};",
         "author" : [{"name":"Naflouille","link":""}]
+    },{
+        "name" : "Reset Button",
+        "description" : "Reset your ship to the initial vessel of the ship tree.",
+        "code": "var reset_button = { id: \"reset\", position: [5,30,8,14], clickable: true, shortcut: \"R\", visible: true, components: [{ type: \"box\",position:[0,0,100,100],stroke:\"#CDE\",width:2}, { type: \"text\",position:[10,35,80,30],value:\"RESET\",color:\"#CDE\"}, { type: \"text\",position:[20,70,60,20],value:\"[R]\",color:\"#CDE\"} ]}; var resetShip = function(ship) { ship.set({type:101, crystals: 20}); }; this.tick = function(game) { if (game.step%60===0) { for (var i=0;i<game.ships.length;i++) { var ship = game.ships[i]; if (!ship.custom.reset_button_installed) { ship.custom.reset_button_installed = true; ship.setUIComponent(reset_button); } } } }; this.event = function(event,game) { switch (event.name) { case \"ui_component_clicked\": var ship = event.ship; var component = event.id; if (component == \"reset\") { resetShip(ship); } break; } };",
+        "author" : [{"name":"Goldman","link":""}]
+    },{
+        "name" : "Terminal Player List",
+        "description" : "Returns a list of all the players of the running game.",
+        "code": "game.modding.commands.list=function(){echo(\"\\nList of players and their IDs:\");for(let ship of game.ships){echo(ship.id+\": \"+ship.name);echo(\"\\n\");}};",
+        "author" : [{"name":"Bhpsngum","link":""}]
+    },{
+        "name" : "Kick a player",
+        "description" : "Kick annoying players from your game.",
+        "code": "game.modding.commands.kick=function(req){let args=req.trimStart().replace(/\\s+/,\" \").split(\" \"),id=Number(args[1]||\"NaN\");if(isNaN(id))game.modding.terminal.error(\"Please specify an id to kick\");else{let ship=game.findShip(id);if(!ship)game.modding.terminal.error(\"Requested ship not found!\");else{try{ship.gameover({\"Info\":\"You've been kicked by the map host\",\"Reason\":args.slice(2,args.length).join(\" \")||\"No reason has been provided\"});echo(\"Ship with id \"+id+\" was kicked\");}catch(e){game.modding.terminal.error(\"An error occured while kicking the requested ship!\");}}}}",
+        "author" : [{"name":"Bhpsngum","link":""}]
     }
 ]
