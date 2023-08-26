@@ -7,7 +7,7 @@
             "click_query" : [
                 "Tous les Mods",
                 "Mods Officiels",
-                "Tous les Clans",
+                "Tous les communautés",
                 "Tous les utilisateurs",
                 "Contributeurs",
                 "Équipe Sesame"
@@ -29,7 +29,7 @@
     "categories" : {
         "message" : "Aller aux",
         "return" : "Retourner aux",
-        "categories" : ["mods","utilisateurs","vaisseaux","clans","codes"]
+        "categories" : ["mods","utilisateurs","vaisseaux","communautés","codes"]
     },
     "user_informations" : {
         "user" : ["À Propos","Réseaux sociaux"],
