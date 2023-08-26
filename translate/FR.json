@@ -5,7 +5,9 @@
             "top" : "Recherche Globale",
             "infos_items" : ["Modding","Communauté"],
             "click_query" : [
-                "Tous les Mods",
+                "Tous les codes",
+                "Tous les mods",
+                "Tous les vaisseaux",
                 "Mods Officiels",
                 "Tous les communautés",
                 "Tous les utilisateurs",
