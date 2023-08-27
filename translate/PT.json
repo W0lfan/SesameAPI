@@ -1,0 +1,144 @@
+{
+    "id": "Português",
+    "home": {
+        "input_placeholder": "Pesquisar por palavras-chave",
+        "scroll_menu": {
+            "top": "Pesquisa Global",
+            "infos_items": ["Modding", "Comunidade"],
+            "click_query": [
+                "Todos os códigos",
+                "Todos os mods",
+                "Todas as naves",
+                "Mods Oficiais",
+                "Todas as comunidades",
+                "Todos os Usuários",
+                "Contribuidores",
+                "Equipe Sesame"
+            ]
+        },
+        "results": "Resultados para",
+        "no_results": "Não encontramos resultados relacionados a",
+        "404": "Tente buscar por algo diferente",
+        "displaying": "Exibindo dados...",
+        "home_creation": "Exibindo página inicial...",
+        "wait": "Aguarde alguns segundos..."
+    },
+    "ships": {
+        "body": ["casco", "cascos"],
+        "wing": ["asa", "asas"],
+        "laser": ["laser", "lasers"],
+        "shield": "escudo",
+        "generator": "gerador",
+        "damages": "danos dos lasers",
+        "speed": "velocidade",
+        "acceleration": "aceleração",
+        "rotation": "rotação"
+    },
+    "share": "compartilhar",
+    "parameters": {
+        "titles": ["Tema", "Artigos", "Idioma"],
+        "descriptions": ["Mude o tema do Sesame", "Gerencie a exibição dos artigos", "Mude o idioma do Sesame"]
+    },
+    "actions": {
+        "download": "Baixar",
+        "open": "Abrir",
+        "documentation": "Documentação"
+    },
+    "categories": {
+        "message": "Ir para",
+        "return": "Voltar para",
+        "categories": ["mods", "usuários", "naves", "comunidades", "códigos"],
+        "tags": ["Equipe oficial", "Contribuidor oficial", "Modder oficial", "Usuário UCP"]
+    },
+    "user_informations": {
+        "user": ["Sobre", "Social"],
+        "content": {
+            "no_content": "Este usuário não possui conteúdo publicado",
+            "content": "Suas criações estão exibidas abaixo"
+        }
+    },
+    "InformativeSheets": {
+        "All Mods": {
+            "name": "Mods Starblast.io",
+            "user_article": "naf",
+            "height": "540px",
+            "container": [{
+                "title": "Acesso Restrito",
+                "content": "O acesso aos recursos de Modding do Starblast é concedido com requisitos específicos. Enquanto criar naves de forma independente é gratuito, hospedar mods requer a compra de um pacote Elite Commander Pass (ECP). Este investimento permite que você exiba suas criações na comunidade de modding."
+            }, {
+                "title": "Recurso Abundante",
+                "content": "O mundo do Modding Starblast apresenta possibilidades ilimitadas, permitindo que você projete naves e desenvolva qualquer mod desejado. Alguns mods são oficialmente incorporados ao Espaço de Modding Starblast, enquanto outros são feitos pela comunidade para diversão. Muitas dessas criações são substanciais, apresentando códigos intrincados e recursos únicos no jogo."
+            }],
+            "links": {
+                "resources": [{
+                    "name": "Modding Starblast",
+                    "src": "https://starblast.io/modding.html",
+                    "id": "link"
+                }, {
+                    "name": "Editor de Naves Starblast",
+                    "src": "https://starblast.io/shipeditor/",
+                    "id": "link"
+                }, {
+                    "name": "Documentação de Modding",
+                    "src": "https://starblast.fandom.com/wiki/Modding_Tutorial",
+                    "id": "docs"
+                }],
+                "actions": [{
+                    "name": "Adicionar mod",
+                    "act": "window.open('https://discord.gg/C5RRhPNH')",
+                    "id": "add"
+                },
+                {
+                    "name": "Explorar Mods Oficiais",
+                    "act": "Search('Mods Oficiais', false, 'mods', [], 'official', [1, 2])",
+                    "id": "search"
+                }],
+                "banner": ""
+            }
+        },
+        "All Clans": {
+            "name": "Comunidades Starblast.io",
+            "user_article": "naf",
+            "height": "388px",
+            "container": [{
+                "title": "Sobre",
+                "content": "Todos os clãs, equipes e comunidades Starblast estão listados, mas convites do Discord para servidores banidos devido a toxicidade e trapaças não estão disponíveis."
+            },
+            {
+                "title": "Informações",
+                "content": "Clãs e equipes são combinados em uma única seção de comunidade para simplicidade. No entanto, certos servidores da comunidade funcionam como equipes. Cada clã ou equipe normalmente possui um líder fundador e co-fundadores. As comunidades criam diversos eventos e usam tags exclusivas para se identificarem no jogo."
+            },
+            {
+                "title": "História Extensa",
+                "content": "As comunidades Starblast existem desde o início do jogo, sendo o clã SDF o mais antigo. Clãs e equipes têm como objetivo combater stacks no jogo, trapaças e toxicidade. Muitas comunidades se envolveram em dramas devido a trapaças e comportamentos tóxicos."
+            }],
+            "links": {
+                "resources": [],
+                "actions": [],
+                "banner": ""
+            }
+        },
+        "Official Mods": {
+            "name": "Mods Oficiais",
+            "user_article": "naf",
+            "height": "520px",
+            "container": [{
+                "title": "Espaço de Modding",
+                "content": "Estreou em 29 de junho de 2018, o Espaço de Modding serve como um hub central para mods de alta qualidade e altamente elogiados. Um evento excepcional conhecido como Modding Friday apresenta o lançamento de novos mods durante toda a semana. Atualmente, a plataforma apresenta uma coleção selecionada de 10 mods excepcionais."
+            },
+            {
+                "title": "Pela comunidade",
+                "content": "Os mods oficiais do Starblast são criações exclusivas da comunidade. Desenvolvedores dedicados investem tempo e expertise na criação de mods complexos e divertidos. Alguns desses mods recebem o cobiçado endosso oficial do desenvolvedor para inclusão no Espaço de Modding. Mais de 13 desenvolvedores da comunidade conquistaram esse reconhecimento, exemplificando sua paixão e dedicação."
+            },
+            {
+                "title": "Diversão e Ciclicidade",
+                "content": "No Espaço de Modding, um mod líder possui mais de 10 milhões de reproduções, enquanto outros têm centenas de milhares de reproduções. Os mods são rotacionados para uma exposição justa, exceto na Modding Friday, quando dois são destacados. No entanto, o sistema de rotação enfrentou críticas da comunidade por impactar a acessibilidade e a exposição dos mods."
+            }],
+            "links": {
+                "resources": [],
+                "actions": [],
+                "banner": ""
+            }
+        }
+    }
+}
