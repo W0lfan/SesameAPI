@@ -17,8 +17,8 @@
   {
       "name" : "Naflouille Creations",
       "lead": ["Naflouille"],
-      "tag" : [""],
-      "language" : [""], 
+      "tag" : [],
+      "language" : [], 
       "infos" : "All Naflouille Creations",
       "server" : "",
       "active" : true,
