@@ -47,7 +47,8 @@
     "categories" : {
         "message" : "Ir a",
         "return" : "Volver a",
-        "categories" : ["modificaciones","usuarios","naves","comunidades","códigos"]
+        "categories" : ["modificaciones","usuarios","naves","comunidades","códigos"],
+        "tags": ["Personal oficial","Colaborador oficial","Modder oficial","Usuario UCP"]
     },
     "user_informations" : {
         "user" : ["Acerca de","Social"],
