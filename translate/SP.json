@@ -23,6 +23,18 @@
         "home_creation" : "Mostrando inicio...",
         "wait": "Por favor espera unos segundos..."
     },
+    "ships" : {
+        "body" : ["cuerpo","cuerpos"],
+        "wing" : ["ala","alas"],
+        "laser" : ["láser","lásers"],
+        "shield":"escudo",
+        "generator":"generador",
+        "damages" : "daño de láseres",
+        "speed":"velocidad",
+        "acceleration":"aceleración",
+        "rotation":"rotación"
+    },
+    "share":"compartir",
     "parameters" : {
         "titles" : ["Tema","Artículos","Idioma"],
         "descriptions" : ["Cambia el Tema de Sesame","Administra la Visualización de Artículos","Cambia el Idioma de Sesame"]
