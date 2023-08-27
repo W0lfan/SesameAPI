@@ -17,7 +17,9 @@
         },
         "results" : "Résultats pour",
         "no_results" : "Aucun résultat pour",
-        "404":"Essayez de rechercher autre chose"
+        "404":"Essayez de rechercher autre chose",
+        "displaying" : "Affichage des données...",
+        "home_creation" : "Affichage de la page d'accueil..."
     },
     "parameters" : {
         "titles" : ["Thème","Articles","Langage"],
