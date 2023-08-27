@@ -1,0 +1,152 @@
+{
+    "id": "German",
+    "pop": {
+        "link_to": "Link kopiert zu",
+        "sesame_says": "Sesame informiert Sie",
+        "discord_username": "Kopierter Discord-Benutzername von",
+        "downloaded": "Heruntergeladen"
+    },
+    "home": {
+        "input_placeholder": "Nach Schlüsselwörtern suchen",
+        "scroll_menu": {
+            "top": "Globale Forschung",
+            "infos_items": ["Modding", "Community"],
+            "click_query": [
+                "Alle Codes",
+                "Alle Mods",
+                "Alle Schiffe",
+                "Offizielle Mods",
+                "Alle Gemeinschaften",
+                "Alle Benutzer",
+                "Mitwirkende",
+                "Sesame-Team"
+            ]
+        },
+        "results": "Ergebnisse für",
+        "no_results": "Wir haben keine Ergebnisse gefunden, die damit zusammenhängen",
+        "404": "Versuchen Sie, nach etwas anderem zu suchen",
+        "displaying": "Zeige Daten...",
+        "home_creation": "Startseite wird angezeigt...",
+        "wait": "Bitte warten Sie einige Sekunden..."
+    },
+    "ships": {
+        "body": ["Körper", "Körper"],
+        "wing": ["Flügel", "Flügel"],
+        "laser": ["Laser", "Laser"],
+        "shield": "Schild",
+        "generator": "Generator",
+        "damages": "Laserschäden",
+        "speed": "Geschwindigkeit",
+        "acceleration": "Beschleunigung",
+        "rotation": "Rotation"
+    },
+    "share": "Teilen",
+    "parameters": {
+        "titles": ["Thema", "Artikel", "Sprache"],
+        "descriptions": ["Ändern Sie Ihr Sesam-Thema", "Verwalten Sie die Anzeige von Artikeln", "Ändern Sie die Sesam-Sprache"]
+    },
+    "actions": {
+        "download": "Herunterladen",
+        "open": "Öffnen",
+        "documentation": "Dokumentation"
+    },
+    "categories": {
+        "message": "Gehe zu",
+        "return": "Zurück zu",
+        "categories": ["Mods", "Benutzer", "Schiffe", "Gemeinschaften", "Codes"],
+        "tags": ["Offizielles Personal", "Offizieller Mitwirkender", "Offizieller Modder", "UCP-Benutzer"]
+    },
+    "user_informations": {
+        "user": ["Über", "Soziales"],
+        "content": {
+            "no_content": "Dieser Benutzer hat keine veröffentlichten Inhalte",
+            "content": "Ihre Kreationen werden unten angezeigt"
+        }
+    },
+    "InformativeSheets": {
+        "All Mods": {
+            "name": "Starblast.io Mods",
+            "user_article": "naf",
+            "height": "540px",
+            "container": [{
+                "title": "Eingeschränkter Zugriff",
+                "content": "Der Zugang zu Starblast Modding-Ressourcen erfolgt unter bestimmten Voraussetzungen. Während das eigenständige Erstellen von Schiffen kostenlos ist, erfordert das Hosten von Mods den Kauf eines Elite Commander Pass (ECP) Packs. Diese Investition ermöglicht es Ihnen, Ihre Kreationen innerhalb der Modding-Community zu präsentieren."
+            }, {
+                "title": "Riesige Ressource",
+                "content": "Die Welt des Starblast Modding bietet grenzenlose Möglichkeiten, um Schiffe zu entwerfen und beliebige Mods zu entwickeln. Einige Mods werden offiziell in den Starblast Modding Space integriert, während andere von der Community zum Vergnügen erstellt werden. Viele dieser Kreationen sind umfangreich und enthalten komplexe Codes und einzigartige Ingame-Funktionen."
+            }],
+            "links": {
+                "resources": [{
+                    "name": "Starblast Modding",
+                    "src": "https://starblast.io/modding.html",
+                    "id": "link"
+                }, {
+                    "name": "Starblast Ship Editor",
+                    "src": "https://starblast.io/shipeditor/",
+                    "id": "link"
+                }, {
+                    "name": "Modding-Dokumentation",
+                    "src": "https://starblast.fandom.com/wiki/Modding_Tutorial",
+                    "id": "docs"
+                }],
+                "actions": [{
+                        "name": "Mod hinzufügen",
+                        "act": "window.open('https://discord.gg/C5RRhPNH')",
+                        "id": "add"
+                    },
+                    {
+                        "name": "Offizielle Mods durchsuchen",
+                        "act": "Search('Offizielle Mods', false, 'mods', [], 'official', [1, 2])",
+                        "id": "search"
+                    }
+                ],
+                "banner": ""
+            }
+        },
+        "All Clans": {
+            "name": "Starblast.io Gemeinschaften",
+            "user_article": "naf",
+            "height": "388px",
+            "container": [{
+                    "title": "Über",
+                    "content": "Alle Starblast-Clans, -Teams und -Gemeinschaften sind aufgelistet, aber Einladungen zu gebannten Servern aufgrund von Toxizität und Cheating sind nicht verfügbar."
+                },
+                {
+                    "title": "Informationen",
+                    "content": "Clans und Teams sind in einem einzigen Gemeinschaftsbereich zusammengefasst, um die Übersicht zu erleichtern. Bestimmte Community-Server fungieren jedoch als Teams. Jeder Clan oder jedes Team hat in der Regel einen Gründungsleiter und Mitbegründer. Gemeinschaften veranstalten verschiedene Events und verwenden eindeutige Tags, um sich im Spiel zu identifizieren."
+                },
+                {
+                    "title": "Umfangreiche Geschichte",
+                    "content": "Starblast-Gemeinschaften existieren seit der Einführung des Spiels, wobei der SDF-Clan der älteste ist. Clans und Teams zielen darauf ab, Ingame-Stacks, Cheater und Toxizität zu bekämpfen. Viele Gemeinschaften gerieten aufgrund von Cheating und toxischem Verhalten in Dramen."
+                }
+            ],
+            "links": {
+                "resources": [],
+                "actions": [],
+                "banner": ""
+            }
+        },
+        "Official Mods": {
+            "name": "Offizielle Mods",
+            "user_article": "naf",
+            "height": "520px",
+            "container": [{
+                    "title": "Modding-Raum",
+                    "content": "Der Modding-Raum wurde am 29. Juni 2018 eingeführt und dient als zentrale Anlaufstelle für erstklassige und hochgelobte Mods. Ein außergewöhnliches Ereignis namens Modding Friday präsentiert den Start neuer Mods während der gesamten Woche. Derzeit bietet die Plattform eine kuratierte Sammlung von 10 außergewöhnlichen Mods."
+                },
+                {
+                    "title": "Von der Community",
+                    "content": "Starblast's Offizielle Mods sind exklusive Kreationen der Community. Engagierte Entwickler investieren Zeit und Fachwissen in die Gestaltung komplexer und unterhaltsamer Mods. Einige dieser Mods erhalten die begehrte offizielle Entwickler-Unterstützung für die Aufnahme in den Modding-Raum. Mehr als 13 Community-Entwickler haben diese Anerkennung erhalten und zeigen ihre Leidenschaft und Hingabe."
+                }, {
+                    "title": "Spaßig und zyklisch",
+                    "content": "Im Modding-Raum hat ein führender Mod mehr als 10 Millionen Spielzeiten, während andere Hunderttausende von Spielzeiten genießen. Mods rotieren für eine faire Exposition, außer am Modding Friday, wenn zwei hervorgehoben werden. Das Rotationssystem wurde jedoch von der Community kritisiert, da es die Zugänglichkeit und Exposition von Mods beeinflusst."
+                }
+            ],
+            "links": {
+                "resources": [],
+                "actions": [],
+                "banner": ""
+            }
+        }
+    }
+}
