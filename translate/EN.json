@@ -1,5 +1,11 @@
 {
     "id" : "English",
+    "pop":{
+        "link to":"Copied link to",
+        "sesame_says":"Sesame informs you",
+        "discord_username" : "Copied Discord username of",
+        "downloaded":"Downloaded"
+    },
     "home" : {
         "input_placeholder" : "Search by keywords",
         "scroll_menu" : {
