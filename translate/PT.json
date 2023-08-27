@@ -1,5 +1,11 @@
 {
     "id": "Português",
+    "pop": {
+        "link to": "Link copiado para",
+        "sesame_says": "Sesame informa você",
+        "discord_username": "Nome de usuário do Discord copiado de",
+        "downloaded": "Baixado"
+    },
     "home": {
         "input_placeholder": "Pesquisar por palavras-chave",
         "scroll_menu": {
