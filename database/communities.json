@@ -91,21 +91,6 @@
       }
     },
     {
-      "name" : "End of Terror (EOT)",
-      "lead": ["Lord"],
-      "tag" : ["ɆØ₮⇝"], 
-      "language" : [""], 
-      "infos" : "Lack of information about this clan",
-      "server" : "EU",
-      "active" : true,
-      "birth" : "",
-      "links" : {
-        "join" : "",
-        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/EOT.png?raw=true",
-        "youtube" : "unknown"
-      }
-    },
-    {
       "name" : "Delta",
       "lead": ["AGXXXX"],
       "tag" : ["[△]"], 
@@ -117,21 +102,6 @@
       "links" : {
         "join" : "https://discord.gg/RHpcXtDY",
         "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/Delta_animated_logo.gif?raw=true",
-        "youtube" : "unknown"
-      }
-    },
-    {
-      "name" : "Asian Cosmic Warriors",
-      "lead" : ["Zard","Physic","Dynamite"],
-      "tag" : ["﻿﻿﻿ Λᴄᗯ | ☆  ﻿﻿﻿"],
-      "language" : ["English"], 
-     "infos" : "We are ACW, an Asian clan seeking to revive the Asia, Europe and America region of Starblast.﻿ Join our server to support us, it doesn't matter which region you are from! However, please behave in our server and do not be toxic or unfriendly!",
-    "server" : "Asia",
-      "active" : true,
-      "birth" : "10/10/2020",
-      "links" : {
-        "join" : "", 
-        "picture" : "https://github.com/Modraxis/background-pngs/blob/main/ACW.gif?raw=true",
         "youtube" : "unknown"
       }
     },
