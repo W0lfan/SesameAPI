@@ -47,7 +47,8 @@
     "categories" : {
         "message" : "Go to",
         "return" : "Go back to",
-        "categories" : ["mods","users","ships","communities","codes"]
+        "categories" : ["mods","users","ships","communities","codes"],
+        "tags":["Official staff","Official contributor","Official Modder","UCP User"]
     },
     "user_informations" : {
         "user" : ["About","Social"],
