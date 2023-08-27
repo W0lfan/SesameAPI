@@ -60,7 +60,7 @@
                     gathering.some(gather =>
                         item.name.toLowerCase().includes(gather) ||
                         (item.description && item.description.toLowerCase().includes(gather.toLowerCase())) ||
-                        (item.author && Array.isArray(item.author) && item.author.some(aut => aut && Array.isArray(aut.name) && aut.name.some(name => name.toLowerCase().includes(gather.toLowerCase())))) ||
+                        (item.author && Array.isArray(item.author) && item.author.some(aut => aut && aut.name.some(name => name.toLowerCase().includes(gather.toLowerCase())))) ||
                         (item.author && !Array.isArray(item.author) && item.author.toLowerCase().includes(gather.toLowerCase()))
                     )
                 );
