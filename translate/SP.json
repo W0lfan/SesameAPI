@@ -1,0 +1,131 @@
+{
+    "id" : "Español",
+    "home" : {
+        "input_placeholder" : "Buscar por palabras clave",
+        "scroll_menu" : {
+            "top" : "Investigación Global",
+            "infos_items" : ["Modificación","Comunidad"],
+            "click_query" : [
+                "Todos los códigos",
+                "Todas las modificaciones",
+                "Todas las naves",
+                "Mods Oficiales",
+                "Todas las comunidades",
+                "Todos los usuarios",
+                "Colaboradores",
+                "Equipo Sesame"
+            ]
+        },
+        "results" : "Resultados para",
+        "no_results" : "No encontramos resultados relacionados con",
+        "404":"Intenta buscar algo más"
+    },
+    "parameters" : {
+        "titles" : ["Tema","Artículos","Idioma"],
+        "descriptions" : ["Cambia el Tema de Sesame","Administra la Visualización de Artículos","Cambia el Idioma de Sesame"]
+    },
+    "actions" : {
+        "download" : "Descargar",
+        "open":"Abrir",
+        "documentation":"Documentación"
+    },
+    "categories" : {
+        "message" : "Ir a",
+        "return" : "Volver a",
+        "categories" : ["modificaciones","usuarios","naves","comunidades","códigos"]
+    },
+    "user_informations" : {
+        "user" : ["Acerca de","Social"],
+        "content" : {
+            "no_content":"Este usuario no tiene contenido publicado",
+            "content": "Sus creaciones se muestran a continuación"
+        }
+    },
+    "InformativeSheets" : {
+        "Todas las Modificaciones": {
+            "name": "Modificaciones de Starblast.io",
+            "user_article": "naf",
+            "height": "540px",
+            "container": [{
+                "title": "Acceso Restringido",
+                "content": "El acceso a los recursos de modificación de Starblast requiere requisitos específicos. Si bien diseñar naves de forma independiente es gratuito, alojar modificaciones requiere comprar un paquete de Pase de Comandante de Élite (ECP). Esta inversión te permite mostrar tus creaciones dentro de la comunidad de modificación."
+            }, {
+                "title": "Gran Recurso",
+                "content": "El mundo de la modificación de Starblast presenta posibilidades ilimitadas, lo que te permite diseñar naves y desarrollar cualquier mod deseado. Algunas modificaciones se incorporan oficialmente al Espacio de Modificación de Starblast, mientras que otras son creadas por la comunidad para disfrute. Muchas de estas creaciones son sustanciales, presentando código intrincado y características únicas en el juego."
+            }],
+            "links": {
+                "resources": [{
+                    "name": "Modificación de Starblast",
+                    "src": "https://starblast.io/modding.html",
+                    "id": "link"
+                }, {
+                    "name": "Editor de Naves de Starblast",
+                    "src": "https://starblast.io/shipeditor/",
+                    "id": "link"
+                }, {
+                    "name": "Documentación de Modificación",
+                    "src": "https://starblast.fandom.com/wiki/Modding_Tutorial",
+                    "id": "docs"
+    
+                }],
+                "actions": [{
+                        "name": "Agregar modificación",
+                        "act": "window.open('https://discord.gg/C5RRhPNH')",
+                        "id": "add"
+                    },
+                    {
+                        "name": "Explorar Mods Oficiales",
+                        "act": "Search('Mods Oficiales', false, 'modificaciones', [], 'oficial', [1, 2])",
+                        "id": "search"
+                    }
+                ],
+                "banner": ""
+            }
+        },
+        "Todas las Comunidades": {
+            "name": "Comunidades de Starblast.io",
+            "user_article": "naf",
+            "height": "388px",
+            "container": [{
+                    "title": "Acerca de",
+                    "content": "Todas las clanes, equipos y comunidades de Starblast están listados, pero las invitaciones de Discord para servidores prohibidos debido a toxicidad y trampas no están disponibles."
+                },
+                {
+                    "title": "Información",
+                    "content": "Los clanes y equipos se combinan en una sola sección de comunidad por simplicidad. Sin embargo, algunos servidores de comunidad funcionan como equipos. Cada clan o equipo generalmente tiene un líder fundador y cofundadores. Las comunidades crean varios eventos y usan etiquetas únicas para identificarse en el juego." 
+                },
+                {
+                    "title": "Gran Historia",
+                    "content": "Las comunidades de Starblast existen desde el inicio del juego, siendo el clan SDF el más antiguo. Los clanes y equipos tienen como objetivo combatir los grupos de jugadores en el juego, los tramposos y la toxicidad. Muchas comunidades se han visto envueltas en dramas debido a trampas y comportamientos tóxicos."
+                }
+            ],
+            "links": {
+                "resources": [],
+                "actions": [],
+                "banner": ""
+            }
+        },
+        "Mods Oficiales": {
+            "name": "Mods Oficiales",
+            "user_article": "naf",
+            "height": "520px",
+            "container": [{
+                    "title": "Espacio de Modificación",
+                    "content": "Debutó el 29 de junio de 2018, el Espacio de Modificación sirve como centro neurálgico para mods de alta calidad y altamente elogiados. Un evento excepcional conocido como Viernes de Modificación presenta el lanzamiento de nuevos mods durante toda la semana. Actualmente, la plataforma cuenta con una colección curada de 10 mods excepcionales."
+                },
+                {
+                    "title": "Por la comunidad",
+                    "content": "Los mods oficiales de Starblast son creaciones exclusivas de la comunidad. Desarrolladores dedicados invierten su tiempo y experiencia en crear mods intrincados y divertidos. Algunos de estos mods reciben el codiciado respaldo oficial del desarrollador para su inclusión en el Espacio de Modificación. Más de 13 desarrolladores de la comunidad han obtenido este reconocimiento, demostrando su pasión y dedicación."
+                }, {
+                    "title": "Diversión y Ciclo",
+                    "content": "En el Espacio de Modificación, un mod destacado tiene más de 10 millones de partidas, mientras que otros disfrutan de cientos de miles de partidas. Los mods se rotan para una exposición justa, excepto los viernes de modificación, cuando se destacan dos. Sin embargo, el sistema de rotación ha enfrentado críticas de la comunidad por afectar la accesibilidad y exposición de los mods."
+                }
+            ],
+            "links": {
+                "resources": [],
+                "actions": [],
+                "banner": ""
+            }
+        }
+    }
+}
