@@ -18,7 +18,9 @@
         },
         "results" : "Results for",
         "no_results" : "We found not results related to",
-        "404":"Try searching for something else"
+        "404":"Try searching for something else",
+        "displaying" : "Displaying datas...",
+        "home_creation" : "Displaying home..."
     },
     "parameters" : {
         "titles" : ["Theme","Articles","Language"],
