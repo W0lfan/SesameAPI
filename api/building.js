@@ -56,21 +56,12 @@
                 return content;
             } else {
                 gathering = gathering.map(value => value.toLowerCase());
-                let names = [];
-                if (item.author) {
-                    for (const user of item.author) {
-                        if (user.name) {
-                            names.push(user.name);
-                        }
-                    }
-                }
-                item.author = names;
                 const gathering_available = content.filter(item =>
                     gathering.some(gather =>
                         item.name.toLowerCase().includes(gather) ||
-                        (item.description && item.description.toLowerCase().includes(gather)) ||
-                        (item.author && Array.isArray(item.author) && item.author.some(aut => aut && Array.isArray(aut.name) && aut.name.some(name => name.toLowerCase().includes(gather)))) ||
-                        (item.author && !Array.isArray(item.author) && item.author.toLowerCase().includes(gather))
+                        (item.description && item.description.toLowerCase().includes(gather.toLowerCase())) ||
+                        (item.author && Array.isArray(item.author) && item.author.some(aut => aut && Array.isArray(aut.name.toLowerCase()) && aut.name.some(name => name.toLowerCase().includes(gather.toLowerCase())))) ||
+                        (item.author && !Array.isArray(item.author) && item.author.toLowerCase().includes(gather.toLowerCase()))
                     )
                 );
     
