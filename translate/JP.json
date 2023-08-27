@@ -1,7 +1,7 @@
 {
     "id": "日本語",
     "pop": {
-        "link to": "コピーしたリンク",
+        "link_to": "コピーしたリンク",
         "sesame_says": "セサミがお知らせします",
         "discord_username": "コピーした Discord ユーザー名",
         "downloaded": "ダウンロード済み"
