@@ -1,5 +1,11 @@
 {
     "id" : "Türkçe",
+    "pop": {
+        "link_to": "Kopyalanmış bağlantı",
+        "sesame_says": "Sesame sizi bilgilendiriyor",
+        "discord_username": "Kopyalanan Discord kullanıcı adı",
+        "downloaded": "İndirildi"
+    },
     "home" : {
         "input_placeholder" : "Anahtar kelimelerle arayın",
         "scroll_menu" : {
