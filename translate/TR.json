@@ -18,7 +18,9 @@
         },
         "results" : "Sonuçlar için",
         "no_results" : "İlgili sonuç bulunamadı",
-        "404":"Başka bir şey aramayı deneyin"
+        "404":"Başka bir şey aramayı deneyin",
+        "displaying" : "Veriler görüntüleniyor...",
+        "home_creation" : "Ana sayfa görüntüleniyor..."
     },
     "parameters" : {
         "titles" : ["Tema","Makaleler","Dil"],
