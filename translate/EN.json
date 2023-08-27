@@ -1,7 +1,7 @@
 {
     "id" : "English",
     "pop":{
-        "link to":"Copied link to",
+        "link_to":"Copied link to",
         "sesame_says":"Sesame informs you",
         "discord_username" : "Copied Discord username of",
         "downloaded":"Downloaded"
