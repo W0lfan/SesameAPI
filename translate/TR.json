@@ -20,7 +20,8 @@
         "no_results" : "İlgili sonuç bulunamadı",
         "404":"Başka bir şey aramayı deneyin",
         "displaying" : "Veriler görüntüleniyor...",
-        "home_creation" : "Ana sayfa görüntüleniyor..."
+        "home_creation" : "Ana sayfa görüntüleniyor...",
+        "wait": "Lütfen birkaç saniye bekleyin..."
     },
     "parameters" : {
         "titles" : ["Tema","Makaleler","Dil"],
