@@ -19,7 +19,8 @@
         "no_results" : "Aucun résultat pour",
         "404":"Essayez de rechercher autre chose",
         "displaying" : "Affichage des données...",
-        "home_creation" : "Affichage de la page d'accueil..."
+        "home_creation" : "Affichage de la page d'accueil...",
+        "wait": "Veuillez patienter quelques secondes..."
     },
     "parameters" : {
         "titles" : ["Thème","Articles","Langage"],
