@@ -20,7 +20,8 @@
         "no_results" : "No encontramos resultados relacionados con",
         "404":"Intenta buscar algo más",
         "displaying" : "Mostrando datos...",
-        "home_creation" : "Mostrando inicio..."
+        "home_creation" : "Mostrando inicio...",
+        "wait": "Por favor espera unos segundos..."
     },
     "parameters" : {
         "titles" : ["Tema","Artículos","Idioma"],
