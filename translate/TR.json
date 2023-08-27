@@ -23,6 +23,18 @@
         "home_creation" : "Ana sayfa görüntüleniyor...",
         "wait": "Lütfen birkaç saniye bekleyin..."
     },
+    "ships" : {
+        "body" : ["gövde","gövdeler"],
+        "wing" : ["kanat","kanatlar"],
+        "laser" : ["lazer","lazerler"],
+        "shield":"kalkan",
+        "generator":"jeneratör",
+        "damages" : "lazer hasarları",
+        "speed":"hız",
+        "acceleration":"ivme",
+        "rotation":"dönme"
+    },
+    "share":"paylaş",
     "parameters" : {
         "titles" : ["Tema","Makaleler","Dil"],
         "descriptions" : ["Sesame Temasını Değiştir","Makale Görüntülemesini Yönet","Sesame Dilini Değiştir"]
