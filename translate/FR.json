@@ -47,7 +47,8 @@
     "categories" : {
         "message" : "Aller aux",
         "return" : "Retourner aux",
-        "categories" : ["mods","utilisateurs","vaisseaux","communautés","codes"]
+        "categories" : ["mods","utilisateurs","vaisseaux","communautés","codes"],
+        "tags": ["Staff officiel","Contributeur officiel","Moddeur officiel","Utilisateur UCP"]
     },
     "user_informations" : {
         "user" : ["À Propos","Réseaux sociaux"],
