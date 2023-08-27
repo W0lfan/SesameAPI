@@ -5,7 +5,7 @@
         "desc" : "Starting ship",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/7/72/Fly3D.png/revision/latest?cb=20230530035116",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Delta Fighter",
@@ -13,7 +13,7 @@
         "desc" : "Lv2 ship",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/8c/Delta1.png/revision/latest?cb=20200121055159",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Trident",
@@ -21,7 +21,7 @@
         "desc" : "Lv2 ship",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/9a/Trident.png/revision/latest?cb=20200121071251",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Pulse-Fighter",
@@ -29,7 +29,7 @@
         "desc" : "Lv3 ship",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/0b/Pulse_fighter.png/revision/latest?cb=20200512070432Vani",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Side-Fighter",
@@ -37,7 +37,7 @@
         "desc" : "Lv3 ship",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/88/S-F.png/revision/latest?cb=20200512070537",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Shadow X-1",
@@ -45,7 +45,7 @@
         "desc" : "Lv3 ship",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/5/56/Shadow_x-1.png/revision/latest?cb=20200512070700",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Y-Defender",
@@ -53,7 +53,7 @@
         "desc" : "Lv3 ship",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/47/Starblast-1609262094776.png/revision/latest?cb=20201229171518",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Vanguard",
@@ -61,7 +61,7 @@
         "desc" : "Lv4 ship",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/cd/Vanguard_without_alloy.png/revision/latest?cb=20200512071225",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Mercury",
@@ -69,7 +69,7 @@
         "desc" : "Lv4 ship",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d8/Zinc_mercury.png/revision/latest?cb=20200512071442",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "X-Warrior",
@@ -77,7 +77,7 @@
         "desc" : "Lv4 ship",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4c/X_warrior.png/revision/latest?cb=20200512071721",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Side-Interceptor",
@@ -85,7 +85,7 @@
         "desc" : "Lv4 ship",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d7/Zinc_interceptor.png/revision/latest?cb=20200512071930",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Pioneer",
@@ -93,7 +93,7 @@
         "desc" : "Pioneer is a Tier 4 ship in Starblast.io. It fires two lasers from the front at a slightly slow speed that does moderate damage.",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/8f/Zinc_pioneer.png/revision/latest?cb=20200512072208",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Crusader",
@@ -101,7 +101,7 @@
         "desc" : "Crusader is a Tier 4 ship in Starblast.io. It fires two parallel shots from the nose of the ship that deals a moderate amount of damage",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/2/25/Crus-zinc.png/revision/latest?cb=20200512072338",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "U-Sniper",
@@ -109,7 +109,7 @@
         "desc" : "The U-Sniper is a Tier 5 ship in Starblast.io. It fires two pulses from the front that do large damage with very large recoil and slight knockback on the victim.",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/80/U-Sniper-zinc.png/revision/latest?cb=20200411080807",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "T-Warrior",
@@ -117,7 +117,7 @@
         "desc" : "T-Warrior is a Tier 5 ship in Starblast.io. It fires five frontal lasers that diverge, and as such is best at close ranges. It is an incredible ship for mining asteroids and can stand on its own against other players in combat.",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/3a/Zinc_T_warrior.png/revision/latest?cb=20200512072706",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "FuryStar",
@@ -133,7 +133,7 @@
         "desc" : "Aetos is a Tier 5 ship in Starblast.io. It fires two slightly converging side lasers from the front that do moderate damage. It is moderately good at mining asteroids with a good ship speed, but is very weak against enemy vessels unless fully upgraded.",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4f/Zinc_aetos.png/revision/latest?cb=20200512072833",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Shadow X-2",
@@ -141,7 +141,7 @@
         "desc" : "Shadow X-2 is a Tier 5 ship in Starblast.io. It is a Tier 5 version of the Shadow X-1 and X-3, sharing similar characteristics to the X1 more than the X3.",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f8/X-2_in_zinc.png/revision/latest?cb=20200512073007",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Howler",
@@ -157,7 +157,7 @@
         "desc" : "Bat-Defender is a Tier 5 ship in Starblast.io. It is a tier 5 version of the Crusader, has the highest shield capacity of any Tier 5 ship, and fires 2 side converging lasers from the front.",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/a/a5/Bat_defender_zinc.png/revision/latest?cb=20200512073548",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Advanced-Fighter",
@@ -165,7 +165,7 @@
         "desc" : "The Advanced-Fighter is a Tier 6 ship in Starblast.io. It fires one frontal pulse with immense damage (equivalent to the pulse of an Aries when maxed) and knockback, and four small side lasers from the front, and like the Shadow X-3, it is a typical glass cannon ship. ",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/0d/Advanced-Fighter3D.png/revision/latest?cb=20200512074947",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Scorpion",
@@ -173,7 +173,7 @@
         "desc" : "Scorpion is a Tier 6 ship in Starblast.io. It fires one frontal pulse with large damage and knockback, and two small lasers from each side that do almost no damage.",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/63/Scorpion3D.png/revision/latest?cb=20200512075257",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Marauder",
@@ -189,7 +189,7 @@
         "desc" : "Condor is a Tier 6 ship in Starblast.io. It fires one frontal pulse with moderate damage and knockback as well as two frontal lasers. It has a high rate of fire, which allows it to quickly attack while moving, and is the third-fastest Tier 6 ship, after the Marauder.",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f5/Condor_3D.png/revision/latest?cb=20200512075415",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "A-Speedster",
@@ -197,7 +197,7 @@
         "desc" : "A-Speedster is a Tier 6 ship in Starblast.io. It fires one frontal pulse with moderate damage, knockback, and recoil as well as two frontal diverging lasers. ",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/1a/A-Speedster3DD.png/revision/latest?cb=20200512075523",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Rock-Tower",
@@ -205,7 +205,7 @@
         "desc" : "Rock-Tower is a Tier 6 ship in Starblast.io. It fires two tiny frontal lasers extremely rapidly, while simultaneously having great ramming damage.",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4f/Rock-Tower3D.png/revision/latest?cb=20200512075621",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "Barracuda",
@@ -213,28 +213,28 @@
         "desc" : "Barracuda is a Tier 6 ship in Starblast.io. It is a ship meant purely for ramming and fires nothing. Instead, it has an ability called Dash, essentially charging ahead at increased speed to ram, inflicting impact damage.",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/ee/Barracuda3D.png/revision/latest?cb=20200512075739",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },{
         "name" : "O-Defender",
         "code" : [{"name":"O-Defender","level":6,"model":8,"size":2.2,"specs":{"shield":{"capacity":[400,550],"reload":[10,13]},"generator":{"capacity":[70,100],"reload":[25,40]},"ship":{"mass":500,"speed":[70,80],"rotation":[30,40],"acceleration":[60,80]}},"bodies":{"main":{"section_segments":8,"offset":{"x":0,"y":0,"z":0},"position":{"x":[0,0,0,0,0],"y":[-90,-88,0,90,91],"z":[0,0,0,0,0]},"width":[5,6,25,10,20],"height":[2,10,40,20,20],"texture":[63,1,10],"propeller":true,"laser":{"damage":[35,60],"rate":2,"type":2,"speed":[130,180],"number":1,"angle":0,"error":0}},"side":{"section_segments":10,"offset":{"x":50,"y":0,"z":0},"position":{"x":[-40,-5,15,25,20,0,-50],"y":[-100,-70,-40,-10,20,50,90],"z":[0,0,0,0,0,0,0]},"width":[5,20,20,20,20,20,5],"height":[15,25,30,30,30,25,0],"texture":[0,1,2,3,4,63]},"cockpit":{"section_segments":8,"offset":{"x":0,"y":-60,"z":18},"position":{"x":[0,0,0,0,0,0,0],"y":[-10,0,20,30,40],"z":[0,0,0,0,0]},"width":[0,5,10,10,0],"height":[0,5,10,12,0],"texture":[9]},"top_propulsor":{"section_segments":15,"offset":{"x":0,"y":0,"z":10},"position":{"x":[0,0,0,0],"y":[80,95,100,90],"z":[0,0,0,0]},"width":[5,20,10,0],"height":[5,15,5,0],"propeller":true,"texture":[1,63,12]},"bottom_propulsor":{"section_segments":15,"offset":{"x":0,"y":0,"z":-10},"position":{"x":[0,0,0,0],"y":[80,95,100,90],"z":[0,0,0,0]},"width":[5,20,10,0],"height":[5,15,5,0],"propeller":true,"texture":[1,63,12]}},"wings":{"join":{"offset":{"x":0,"y":20,"z":0},"length":[80,0],"width":[130,50],"angle":[-1],"position":[0,-30],"texture":[8],"bump":{"position":-20,"size":15}}},"typespec":{"name":"O-Defender","level":6,"model":8,"code":608,"specs":{"shield":{"capacity":[400,550],"reload":[10,13]},"generator":{"capacity":[70,100],"reload":[25,40]},"ship":{"mass":500,"speed":[70,80],"rotation":[30,40],"acceleration":[60,80]}},"shape":[4.409,4.448,4.372,4.204,4.119,4.136,4.174,4.107,4.066,4.094,4.073,4.141,4.16,4.062,4.015,3.966,3.83,3.76,3.742,3.591,3.502,3.494,3.575,4.291,4.422,4.409,4.422,4.291,3.575,3.494,3.502,3.591,3.742,3.76,3.83,3.966,4.015,4.062,4.16,4.141,4.073,4.094,4.066,4.107,4.174,4.136,4.119,4.204,4.372,4.448],"lasers":[{"x":0,"y":-3.96,"z":0,"angle":0,"damage":[35,60],"rate":2,"type":2,"speed":[130,180],"number":1,"spread":0,"error":0,"recoil":0}],"radius":4.448}}],
         "desc" : "O-Defender is a Tier 6 ship in Starblast.io. It has the highest shield capacity and regen among Tier 6's and fires one frontal pulse that does moderate damage and knockback.",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/06/O-Defender3D.png/revision/latest?cb=20200512075831",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },{
         "name" : "Odyssey",
         "code" : [{"name":"Odyssey","level":7,"model":1,"size":4,"specs":{"shield":{"capacity":[750,750],"reload":[15,15]},"generator":{"capacity":[330,330],"reload":[150,150]},"ship":{"mass":700,"speed":[45,45],"rotation":[20,20],"acceleration":[150,150]}},"tori":{"circle":{"segments":20,"radius":95,"section_segments":12,"offset":{"x":0,"y":0,"z":0},"position":{"x":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"y":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"z":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"width":[20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20],"height":[8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8],"texture":[63,63,4,10,4,4,10,4,63,63,63,63,3,10,3,3,10,3,63]}},"bodies":{"main":{"section_segments":20,"offset":{"x":0,"y":-10,"z":0},"position":{"x":[0,0,0,0,0,0,0,0,0,0,0,0],"y":[-130,-130,-85,-70,-60,-20,-25,40,40,100,90],"z":[0,0,0,0,0,0,0,0,0,0,0]},"width":[0,20,40,45,10,12,30,30,40,30,0],"height":[0,20,25,25,10,12,25,25,20,10,0],"texture":[4,15,63,4,4,4,11,10,4,12]},"laser1":{"section_segments":12,"offset":{"x":110,"y":0,"z":0},"position":{"x":[0,0,0,0,0,0,0],"y":[-25,-30,-20,0,20,30,20],"z":[0,0,0,0,0,0,0]},"width":[0,3,5,5,5,3,0],"height":[0,3,5,5,5,3,0],"texture":[12,6,63,63,6,12],"laser":{"damage":[20,20],"rate":3,"type":1,"speed":[200,200],"number":1,"error":0}},"laser2":{"section_segments":12,"offset":{"x":110,"y":0,"z":0},"position":{"x":[0,0,0,0,0,0,0],"y":[-25,-30,-20,0,20,30,20],"z":[0,0,0,0,0,0,0]},"width":[0,3,5,5,5,3,0],"height":[0,3,5,5,5,3,0],"texture":[12,6,63,63,6,12],"angle":180,"laser":{"damage":[20,20],"rate":3,"type":1,"speed":[200,200],"number":1,"error":0}},"cannon":{"section_segments":6,"offset":{"x":0,"y":-115,"z":0},"position":{"x":[0,0,0,0],"y":[-25,-30,-20,0],"z":[0,0,0,0]},"width":[0,15,9,7],"height":[0,10,9,7],"texture":[6,6,6,10],"laser":{"damage":[250,250],"rate":1,"type":1,"speed":[100,100],"number":1,"error":0,"recoil":300}},"cockpit":{"section_segments":10,"offset":{"x":0,"y":0,"z":15},"position":{"x":[0,0,0,0,0,0,0],"y":[-30,-10,0,10,30],"z":[0,0,0,0,0]},"width":[0,12,15,10,0],"height":[0,20,22,18,0],"texture":[9]},"bumpers":{"section_segments":8,"offset":{"x":85,"y":20,"z":0},"position":{"x":[-5,0,5,10,5,0,-5],"y":[-85,-80,-40,0,20,50,55],"z":[0,0,0,0,0,0,0]},"width":[0,10,15,15,15,5,0],"height":[0,20,35,35,25,15,0],"texture":[11,2,63,4,3],"angle":0},"toppropulsors":{"section_segments":10,"offset":{"x":17,"y":50,"z":15},"position":{"x":[0,0,0,0,0,0,0,0,0,0],"y":[-20,-15,0,10,20,25,30,40,50,40],"z":[0,0,0,0,0,0,0,0,0,0]},"width":[0,10,15,15,15,10,10,15,10,0],"height":[0,10,15,15,15,10,10,15,10,0],"texture":[3,4,10,3,3,63,4],"propeller":true},"bottompropulsors":{"section_segments":10,"offset":{"x":17,"y":50,"z":-15},"position":{"x":[0,0,0,0,0,0,0,0,0,0],"y":[-20,-15,0,10,20,25,30,40,50,40],"z":[0,0,0,0,0,0,0,0,0,0]},"width":[0,10,15,15,15,10,10,15,10,0],"height":[0,10,15,15,15,10,10,15,10,0],"texture":[3,4,10,3,3,63,4],"propeller":true}},"wings":{"topjoin":{"offset":{"x":0,"y":-3,"z":0},"doubleside":true,"length":[100],"width":[20,20],"angle":[25],"position":[0,0,0,50],"texture":[1],"bump":{"position":10,"size":30}},"bottomjoin":{"offset":{"x":0,"y":-3,"z":0},"doubleside":true,"length":[100],"width":[20,20],"angle":[-25],"position":[0,0,0,50],"texture":[1],"bump":{"position":-10,"size":30}}},"typespec":{"name":"Odyssey","level":7,"model":1,"code":701,"specs":{"shield":{"capacity":[750,750],"reload":[15,15]},"generator":{"capacity":[330,330],"reload":[150,150]},"ship":{"mass":700,"speed":[45,45],"rotation":[20,20],"acceleration":[150,150]}},"shape":[11.623,11.646,10.525,8.979,7.873,3.633,3.688,8.551,8.989,8.821,9.353,9.348,9.272,9.272,9.348,9.353,8.977,9.064,9.121,4.686,5.299,6.216,7.781,8.276,8.144,7.775,8.144,8.276,7.781,6.216,5.299,4.686,9.121,9.064,8.977,9.353,9.348,9.272,9.272,9.348,9.353,8.821,8.989,8.551,3.688,3.633,7.873,8.979,10.525,11.646],"lasers":[{"x":8.8,"y":-2.4,"z":0,"angle":0,"damage":[20,20],"rate":3,"type":1,"speed":[200,200],"number":1,"spread":0,"error":0,"recoil":0},{"x":-8.8,"y":-2.4,"z":0,"angle":0,"damage":[20,20],"rate":3,"type":1,"speed":[200,200],"number":1,"spread":0,"error":0,"recoil":0},{"x":8.8,"y":2.4,"z":0,"angle":180,"damage":[20,20],"rate":3,"type":1,"speed":[200,200],"number":1,"spread":0,"error":0,"recoil":0},{"x":-8.8,"y":2.4,"z":0,"angle":-180,"damage":[20,20],"rate":3,"type":1,"speed":[200,200],"number":1,"spread":0,"error":0,"recoil":0},{"x":0,"y":-11.6,"z":0,"angle":0,"damage":[250,250],"rate":1,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":300}],"radius":11.646}}],
         "desc" : "Odyssey is a Tier 7 ship in Starblast.io. It has the second-highest shield capacity and the second-slowest ship speed in the game, both after the Aries. It fires one gigantic frontal pulse that is slow but has the highest laser damage in vanilla currently.",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/e7/Odyssey3D.png/revision/latest?cb=20200512080105",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },{
         "name" : "Shadow X-3",
         "code" : [{"name":"Shadow X-3","level":7,"model":2,"size":2.5,"specs":{"shield":{"capacity":[400,400],"reload":[12,12]},"generator":{"capacity":[225,225],"reload":[50,50]},"ship":{"mass":300,"speed":[130,130],"rotation":[35,35],"acceleration":[90,90]}},"bodies":{"main":{"section_segments":20,"offset":{"x":0,"y":0,"z":0},"position":{"x":[0,0,0,0,0,0,0,0,0,0,0,0],"y":[-130,-128,-115,-70,-40,0,40,70,80,90,100],"z":[0,0,0,0,0,0,0,0,0,0,0]},"width":[0,5,10,20,20,20,20,30,30,30,20,0],"height":[0,5,10,30,20,10,10,15,15,15,10,10],"texture":[12,3,15,4,63,63,4,4,5],"laser":{"damage":[200,200],"rate":1,"type":1,"speed":[200,200],"number":1,"error":0,"recoil":500}},"air":{"section_segments":10,"offset":{"x":0,"y":0,"z":0},"position":{"x":[0,0,0,0,0,0,0,0,0,0],"y":[0,-80,-30,-10,10,30,50],"z":[0,0,0,0,0,0,0]},"width":[0,25,35,30,30,32,20],"height":[0,15,10,10,10,10,10,15,15,15,10,10],"texture":[4,3,2,2,2,3]},"back":{"section_segments":10,"offset":{"x":0,"y":0,"z":0},"position":{"x":[0,0,0,0,0],"y":[90,95,100,105,90],"z":[0,0,0,0,0]},"width":[10,15,18,22,2],"height":[3,5,7,8,2],"texture":[63],"propeller":true},"cockpit":{"section_segments":8,"offset":{"x":0,"y":-30,"z":18},"position":{"x":[0,0,0,0,0,0,0,0],"y":[-65,-25,0,25,60,90,100],"z":[0,0,0,0,-10,-8,-10]},"width":[0,10,15,10,20,15,10],"height":[0,15,20,10,10,10,10],"texture":[9,9,9,10,63,3]},"laser":{"section_segments":10,"offset":{"x":90,"y":10,"z":-19},"position":{"x":[0,0,0,0,0,0,0,0,0,0],"y":[-30,-25,0,10,20,25,30,40,70,60],"z":[0,0,0,0,0,0,0,0,0,0]},"width":[0,10,15,15,15,10,10,15,10,0],"height":[0,10,15,15,15,10,10,15,5,0],"texture":[6,4,10,3,4,3,2],"propeller":true,"laser":{"damage":[7,7],"rate":3,"type":1,"speed":[150,150],"number":1}},"laser2":{"section_segments":10,"offset":{"x":50,"y":-20,"z":-20},"position":{"x":[0,0,0,0,0,0,0,0,0,0],"y":[-30,-25,0,10,20,25,30,40,70,60],"z":[0,0,0,0,0,0,0,0,0,0]},"width":[0,10,15,15,15,10,10,15,12,0],"height":[0,10,15,15,15,10,10,15,5,0],"texture":[6,4,10,3,4,3,2],"propeller":true,"laser":{"damage":[7,7],"rate":4,"type":1,"speed":[150,150],"number":1}}},"wings":{"wings":{"offset":{"x":10,"y":0,"z":0},"length":[35,15,30,25],"width":[100,50,60,30,45],"angle":[-10,20,0,0],"position":[0,0,10,30,-10],"texture":[4],"bump":{"position":-20,"size":15}}},"typespec":{"name":"Shadow X-3","level":7,"model":2,"code":702,"specs":{"shield":{"capacity":[400,400],"reload":[12,12]},"generator":{"capacity":[225,225],"reload":[50,50]},"ship":{"mass":300,"speed":[130,130],"rotation":[35,35],"acceleration":[90,90]}},"shape":[6.5,6.068,4.366,3.971,3.26,2.789,3.571,3.73,3.692,3.514,5.906,5.859,5.721,5.71,5.65,5.425,5.886,6.211,6.384,5.843,3.244,2.675,4.759,5.353,5.344,5.26,5.344,5.353,4.759,2.675,3.244,5.843,6.384,6.211,5.886,5.425,5.65,5.71,5.721,5.859,5.906,3.514,3.692,3.73,3.571,2.789,3.26,3.971,4.366,6.068],"lasers":[{"x":0,"y":-6.5,"z":0,"angle":0,"damage":[200,200],"rate":1,"type":1,"speed":[200,200],"number":1,"spread":0,"error":0,"recoil":500},{"x":4.5,"y":-1,"z":-0.95,"angle":0,"damage":[7,7],"rate":3,"type":1,"speed":[150,150],"number":1,"spread":0,"error":0,"recoil":0},{"x":-4.5,"y":-1,"z":-0.95,"angle":0,"damage":[7,7],"rate":3,"type":1,"speed":[150,150],"number":1,"spread":0,"error":0,"recoil":0},{"x":2.5,"y":-2.5,"z":-1,"angle":0,"damage":[7,7],"rate":4,"type":1,"speed":[150,150],"number":1,"spread":0,"error":0,"recoil":0},{"x":-2.5,"y":-2.5,"z":-1,"angle":0,"damage":[7,7],"rate":4,"type":1,"speed":[150,150],"number":1,"spread":0,"error":0,"recoil":0}],"radius":6.5}}],
         "desc" : "Shadow X-3 is a Tier 7 ship in Starblast.io. It is the Tier 7 version of the Shadow X-2 and Shadow X-1, yet shares a lot of characteristics with the Advanced-Fighter; it is a glass cannon ship which fires one frontal pulse with immense speed, damage, and knockback, as well as 4 small lasers from the sides.",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/7/77/ShadowX-33D.png/revision/latest?cb=20200512080159",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },{
         "name" : "Bastion",
         "code" : [{"name":"Bastion","level":7,"model":3,"size":4,"specs":{"shield":{"capacity":[400,400],"reload":[20,20]},"generator":{"capacity":[500,500],"reload":[100,100]},"ship":{"mass":350,"speed":[80,80],"rotation":[15,15],"acceleration":[125,125]}},"bodies":{"main":{"section_segments":8,"offset":{"x":0,"y":50,"z":10},"position":{"x":[0,0,0,0,0,0,0],"y":[-40,-50,-20,0,20,40,25],"z":[0,0,0,0,0,0,0]},"width":[0,5,22,18,16,15,0],"height":[0,2,12,16,16,15,0],"texture":[10,1,1,10,8,17],"propeller":true},"thrusters":{"section_segments":8,"offset":{"x":40,"y":43,"z":-24},"position":{"x":[0,0,0,0,0,0],"y":[-25,-20,0,20,40,30],"z":[0,0,0,0,0,0]},"width":[0,8,12,8,8,0],"height":[0,12,12,8,8,0],"texture":[63,2,2,2,17],"propeller":true},"cockpit":{"section_segments":8,"offset":{"x":0,"y":30,"z":20},"position":{"x":[0,0,0,0,0,0,0],"y":[-15,-10,0,11,35],"z":[-5,-3,-1,0,0]},"width":[0,5,10,10,0],"height":[0,3,5,7,0],"texture":[9]},"cannon1":{"section_segments":4,"offset":{"x":10,"y":-80,"z":1},"position":{"x":[0,0,0,0,0,0,0],"y":[-10,0,20,30,40],"z":[0,0,0,0,0]},"width":[0,2,4,7,3],"height":[0,1,3,6,0],"texture":[17,4],"laser":{"damage":[6,6],"rate":5,"type":1,"speed":[200,200],"number":1}},"cannon2":{"section_segments":4,"offset":{"x":42,"y":-129,"z":8},"position":{"x":[0,0,0,0,0,0,0],"y":[-10,0,20,30,40],"z":[0,0,0,0,0]},"width":[0,2,4,7,3],"height":[0,1,3,6,0],"texture":[17,4],"angle":3,"laser":{"damage":[8,8],"rate":4,"type":1,"speed":[180,180],"number":1}},"cannon3":{"section_segments":4,"offset":{"x":75,"y":-105,"z":-8},"position":{"x":[0,0,0,0,0,0,0],"y":[-10,0,20,30,40],"z":[0,0,0,0,0]},"width":[0,2,4,7,3],"height":[0,1,3,6,0],"texture":[17,4],"angle":5,"laser":{"damage":[20,20],"rate":1.5,"type":1,"speed":[160,160],"number":1}}},"wings":{"main1":{"doubleside":true,"offset":{"x":9,"y":15,"z":0},"length":[0,15,0,7],"width":[0,160,70,30,30],"angle":[0,20,0,-10],"position":[30,-20,30,30,30],"texture":[13,63,13,8],"bump":{"position":35,"size":5}},"main2":{"doubleside":true,"offset":{"x":30,"y":15,"z":0},"length":[0,15,0,20],"width":[0,80,90,200,30],"angle":[30,30,30,30],"position":[30,30,10,-45,30],"texture":[13,3,13,4],"bump":{"position":35,"size":7}},"main3":{"doubleside":true,"offset":{"x":0,"y":25,"z":-7},"length":[45,35,0,20],"width":[40,40,40,200,40],"angle":[-20,20,-20,-5],"position":[20,30,0,-30,10],"texture":[0,8,13,63],"bump":{"position":35,"size":20}}},"typespec":{"name":"Bastion","level":7,"model":3,"code":703,"specs":{"shield":{"capacity":[400,400],"reload":[20,20]},"generator":{"capacity":[500,500],"reload":[100,100]},"ship":{"mass":350,"speed":[80,80],"rotation":[15,15],"acceleration":[125,125]}},"shape":[4.056,7.244,11.603,11.152,9.19,10.943,9.896,9.163,8.149,7.735,7.473,7.332,7.401,7.615,7.85,8.175,8.679,8.889,9.155,9.588,9.692,7.67,7.338,6.661,7.299,7.214,7.299,6.661,7.338,7.67,9.692,9.588,9.155,8.889,8.679,8.175,7.85,7.615,7.401,7.332,7.473,7.735,8.149,9.163,9.896,10.943,9.19,11.152,11.603,7.244],"lasers":[{"x":0.8,"y":-7.2,"z":0.08,"angle":0,"damage":[6,6],"rate":5,"type":1,"speed":[200,200],"number":1,"spread":0,"error":0,"recoil":0},{"x":-0.8,"y":-7.2,"z":0.08,"angle":0,"damage":[6,6],"rate":5,"type":1,"speed":[200,200],"number":1,"spread":0,"error":0,"recoil":0},{"x":3.318,"y":-11.119,"z":0.64,"angle":3,"damage":[8,8],"rate":4,"type":1,"speed":[180,180],"number":1,"spread":0,"error":0,"recoil":0},{"x":-3.318,"y":-11.119,"z":0.64,"angle":-3,"damage":[8,8],"rate":4,"type":1,"speed":[180,180],"number":1,"spread":0,"error":0,"recoil":0},{"x":5.93,"y":-9.197,"z":-0.64,"angle":5,"damage":[20,20],"rate":1.5,"type":1,"speed":[160,160],"number":1,"spread":0,"error":0,"recoil":0},{"x":-5.93,"y":-9.197,"z":-0.64,"angle":-5,"damage":[20,20],"rate":1.5,"type":1,"speed":[160,160],"number":1,"spread":0,"error":0,"recoil":0}],"radius":11.603}}],
@@ -248,21 +248,21 @@
         "desc" : "The Aries fires one slow frontal pulse that does gigantic damage and has no recoil, as well as four moderate lasers from the four sides at roughly right angles. ",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/81/Aries3D.png/revision/latest/scale-to-width-down/353?cb=20200512080504",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },{
         "name" : "H-Mercury",
         "code" : [{"name":"H-Mercury","level":6,"model":3,"size":2,"specs":{"shield":{"capacity":[250,350],"reload":[6,8]},"generator":{"capacity":[100,150],"reload":[45,60]},"ship":{"mass":500,"speed":[75,95],"rotation":[50,60],"acceleration":[55,90]}},"bodies":{"main":{"section_segments":8,"offset":{"x":0,"y":0,"z":20},"position":{"x":[0,0,0,0,0,0,0,0,0],"y":[-65,-70,-60,-40,0,50,110,100],"z":[0,0,0,0,0,0,0,0]},"width":[1,5,10,20,30,25,10,0],"height":[1,5,10,15,25,20,10,0],"texture":[6,4,4,63,11,63,12],"propeller":true,"laser":{"damage":[5,8],"rate":8,"type":1,"speed":[100,150],"number":1,"error":0}},"cockpit":{"section_segments":8,"offset":{"x":0,"y":-20,"z":35},"position":{"x":[0,0,0,0,0,0,0],"y":[-20,-10,0,15,25],"z":[0,0,0,0,0]},"width":[0,10,12,10,5],"height":[0,10,13,12,5],"texture":[9,9,4,4],"propeller":false},"arms":{"section_segments":8,"offset":{"x":60,"y":0,"z":-10},"position":{"x":[0,0,0,5,10,0,0,-10],"y":[-85,-70,-80,-30,0,30,100,90],"z":[0,0,0,0,0,0,0,0]},"width":[1,5,6,15,15,15,10,0],"height":[1,5,6,20,30,25,10,0],"texture":[6,4,4,4,4,4,12],"angle":1,"propeller":true,"laser":{"damage":[3,5],"rate":4,"type":1,"speed":[150,200],"number":1,"error":0}},"canon":{"section_segments":12,"offset":{"x":100,"y":27,"z":5},"position":{"x":[0,0,0,0,0,0,0],"y":[-50,-45,-20,0,20,30,40],"z":[0,0,0,0,0,0,0]},"width":[0,5,7,7,3,5,0],"height":[0,5,15,15,3,5,0],"angle":3,"laser":{"damage":[5,9],"rate":1,"type":1,"speed":[150,200],"number":1,"error":0},"propeller":false,"texture":[6,4,10,4,4,4]}},"wings":{"main":{"offset":{"x":0,"y":-15,"z":20},"length":[60,40],"width":[60,30,20],"angle":[-20,10],"position":[30,50,30],"texture":[11,11],"bump":{"position":30,"size":10}},"font":{"length":[60],"width":[20,15],"angle":[-10,20],"position":[-20,-40],"texture":[63],"bump":{"position":30,"size":10},"offset":{"x":0,"y":0,"z":0}},"font2":{"offset":{"x":0,"y":40,"z":8},"length":[60],"width":[20,15],"angle":[-10,20],"position":[20,40],"texture":[63],"bump":{"position":30,"size":10}}},"typespec":{"name":"H-Mercury","level":6,"model":3,"code":603,"specs":{"shield":{"capacity":[250,350],"reload":[6,8]},"generator":{"capacity":[100,150],"reload":[45,60]},"ship":{"mass":500,"speed":[75,95],"rotation":[50,60],"acceleration":[55,90]}},"shape":[2.806,2.807,2.354,2.037,1.822,4.151,4.081,3.789,3.595,3.471,3.406,4.17,4.202,4.284,4.413,4.508,4.834,4.883,4.011,4.534,4.917,4.734,3.583,3.454,4.418,4.409,4.418,3.454,3.583,4.734,4.917,4.534,4.011,4.883,4.834,4.508,4.413,4.284,4.202,4.17,3.406,3.471,3.595,3.789,4.081,4.151,1.822,2.037,2.354,2.807],"lasers":[{"x":0,"y":-2.8,"z":0.8,"angle":0,"damage":[5,8],"rate":8,"type":1,"speed":[100,150],"number":1,"spread":0,"error":0,"recoil":0},{"x":2.341,"y":-3.399,"z":-0.4,"angle":1,"damage":[3,5],"rate":4,"type":1,"speed":[150,200],"number":1,"spread":0,"error":0,"recoil":0},{"x":-2.341,"y":-3.399,"z":-0.4,"angle":-1,"damage":[3,5],"rate":4,"type":1,"speed":[150,200],"number":1,"spread":0,"error":0,"recoil":0},{"x":3.895,"y":-0.917,"z":0.2,"angle":3,"damage":[5,9],"rate":1,"type":1,"speed":[150,200],"number":1,"spread":0,"error":0,"recoil":0},{"x":-3.895,"y":-0.917,"z":0.2,"angle":-3,"damage":[5,9],"rate":1,"type":1,"speed":[150,200],"number":1,"spread":0,"error":0,"recoil":0}],"radius":4.917}}],
         "desc" : "H-Mercury is a retired Tier 6 ship in Starblast.io which was replaced by the Marauder. It is also a ship in the KEST mod. It is a Tier 6 version of the Mercury, sacrificing the pulse for one very rapid frontal laser and four converging lasers from the sides.",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/9f/H-Mercury3D.png/revision/latest/scale-to-width-down/1000?cb=20170512004009",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },{
         "name" : "Toscain",
         "code" : [{"name":"Toscain","level":5,"model":6,"size":1.7,"specs":{"shield":{"capacity":[275,350],"reload":[5,8]},"generator":{"capacity":[75,100],"reload":[35,50]},"ship":{"mass":300,"speed":[80,90],"rotation":[50,80],"acceleration":[80,110]}},"bodies":{"front":{"section_segments":8,"offset":{"x":0,"y":0,"z":0},"position":{"x":[0,0,0,0,0],"y":[-100,-95,-25,0,25],"z":[0,0,0,0,0]},"width":[0,20,40,40,20],"height":[0,10,35,20,5],"texture":[63,11,2,63],"laser":{"damage":[14,30],"rate":1,"type":2,"speed":[150,200],"number":1,"recoil":50,"error":0}},"cockpit":{"section_segments":8,"offset":{"x":0,"y":0,"z":10},"position":{"x":[0,0,0,0,0],"y":[-70,-70,-25,0,100],"z":[0,0,0,0,9]},"width":[0,10,15,15,10],"height":[0,15,35,20,0],"texture":[9,9,9,4]},"lasers":{"section_segments":8,"angle":15,"offset":{"x":1,"y":-5,"z":-3},"position":{"x":[0,0,0],"y":[-90,-70,-100],"z":[0,0,0]},"width":[5,5,0],"height":[5,5,0],"texture":[6],"laser":{"damage":[3.75,6],"rate":2,"type":1,"speed":[100,130],"number":2,"angle":45,"error":0}},"motor":{"section_segments":8,"offset":{"x":0,"y":0,"z":0},"position":{"x":[0,0,0,0,0],"y":[10,20,30,100,95],"z":[0,0,0,0,0]},"width":[0,40,50,50,0],"height":[0,10,15,20,0],"texture":[63,63,10,4]},"propulsors":{"section_segments":8,"offset":{"x":25,"y":0,"z":0},"position":{"x":[0,0,0],"y":[30,105,100],"z":[0,0,0]},"width":[15,15,0],"height":[10,10,0],"propeller":true,"texture":[12]}},"wings":{"main":{"doubleside":true,"offset":{"x":30,"y":80,"z":0},"length":[70,20],"width":[80,20],"angle":[0,0],"position":[-20,0],"texture":[11],"bump":{"position":20,"size":10}},"winglets":{"doubleside":true,"offset":{"x":98,"y":81,"z":-20},"length":[20,50,20],"width":[20,35,20],"angle":[90,90,90],"position":[0,0,0,0],"texture":[63],"bump":{"position":30,"size":50}}},"typespec":{"name":"Toscain","level":5,"model":6,"code":506,"specs":{"shield":{"capacity":[275,350],"reload":[5,8]},"generator":{"capacity":[75,100],"reload":[35,50]},"ship":{"mass":300,"speed":[80,90],"rotation":[50,80],"acceleration":[80,110]}},"shape":[3.4,3.354,3.556,2.748,2.336,2.055,1.858,1.732,1.634,1.548,1.462,1.404,1.371,1.36,1.241,1.161,1.723,4.485,5.01,4.795,4.111,3.842,3.82,3.753,3.634,3.407,3.634,3.753,3.82,3.842,4.111,4.795,5.01,4.485,1.723,1.161,1.241,1.353,1.371,1.404,1.462,1.548,1.634,1.732,1.858,2.055,2.336,2.748,3.556,3.354],"lasers":[{"x":0,"y":-3.4,"z":0,"angle":0,"damage":[14,30],"rate":1,"type":2,"speed":[150,200],"number":1,"spread":0,"error":0,"recoil":50},{"x":-0.846,"y":-3.454,"z":-0.102,"angle":15,"damage":[3.75,6],"rate":2,"type":1,"speed":[100,130],"number":2,"spread":45,"error":0,"recoil":0},{"x":0.846,"y":-3.454,"z":-0.102,"angle":-15,"damage":[3.75,6],"rate":2,"type":1,"speed":[100,130],"number":2,"spread":45,"error":0,"recoil":0}],"radius":5.01}}],
         "desc" : "Toscain was a Tier 5 ship in Starblast.io. It is a unique ship compared to other ships, firing four frontal lasers that diverge with varying angles, and one pulse that has slight knockback to the victim. ",
         "img" : "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4f/Toscain3D.png/revision/latest/scale-to-width-down/1000?cb=20170412125120",
         "mod" : "Vanilla",
-        "author" : "Neuronality"
+        "author" : "PMGL"
     },
     {
         "name" : "U-Sniper Mk 2",
