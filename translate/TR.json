@@ -1,0 +1,131 @@
+{
+    "id" : "Türkçe",
+    "home" : {
+        "input_placeholder" : "Anahtar kelimelerle arayın",
+        "scroll_menu" : {
+            "top" : "Küresel Araştırma",
+            "infos_items" : ["Modlama","Topluluk"],
+            "click_query" : [
+                "Tüm kodlar",
+                "Tüm modlar",
+                "Tüm gemiler",
+                "Resmi Modlar",
+                "Tüm topluluklar",
+                "Tüm Kullanıcılar",
+                "Katkı Sağlayanlar",
+                "Sesame Ekibi"
+            ]
+        },
+        "results" : "Sonuçlar için",
+        "no_results" : "İlgili sonuç bulunamadı",
+        "404":"Başka bir şey aramayı deneyin"
+    },
+    "parameters" : {
+        "titles" : ["Tema","Makaleler","Dil"],
+        "descriptions" : ["Sesame Temasını Değiştir","Makale Görüntülemesini Yönet","Sesame Dilini Değiştir"]
+    },
+    "actions" : {
+        "download" : "İndir",
+        "open":"Aç",
+        "documentation":"Dokümantasyon"
+    },
+    "categories" : {
+        "message" : "Git",
+        "return" : "Geri dön",
+        "categories" : ["modlar","kullanıcılar","gemiler","topluluklar","kodlar"]
+    },
+    "user_informations" : {
+        "user" : ["Hakkında","Sosyal"],
+        "content" : {
+            "no_content":"Bu kullanıcının yayınlanmış içeriği bulunmuyor",
+            "content": "Yaratıcı çalışmaları aşağıda görüntüleniyor"
+        }
+    },
+    "InformativeSheets" : {
+        "Tüm Modlar": {
+            "name": "Starblast.io Modlar",
+            "user_article": "naf",
+            "height": "540px",
+            "container": [{
+                "title": "Sınırlı Erişim",
+                "content": "Starblast Modlama kaynaklarına erişim belirli gereksinimlerle gelir. Gemileri bağımsız olarak tasarlama ücretsizdir, ancak modları barındırmak için Elite Komutan Geçişi (ECP) paketi satın almayı gerektirir. Bu yatırım, yaratıcı çalışmalarınızı modlama topluluğu içinde sergileme yeteneği sağlar."
+            }, {
+                "title": "Geniş Kaynak",
+                "content": "Starblast Modlama dünyası sınırsız olanaklar sunar; istediğiniz modları tasarlamanıza ve geliştirmenize olanak tanır. Bazı modlar resmi olarak Starblast Modlama Alanına dahil edilirken, diğerleri eğlence amacıyla topluluk tarafından oluşturulur. Bu yaratıcı çalışmaların birçoğu önemli ölçüde büyüktür, karmaşık kodları ve benzersiz oyun içi özellikleri içerir."
+            }],
+            "links": {
+                "resources": [{
+                    "name": "Starblast Modlama",
+                    "src": "https://starblast.io/modding.html",
+                    "id": "link"
+                }, {
+                    "name": "Starblast Gemi Düzenleyici",
+                    "src": "https://starblast.io/shipeditor/",
+                    "id": "link"
+                }, {
+                    "name": "Modlama Dokümantasyonu",
+                    "src": "https://starblast.fandom.com/wiki/Modding_Tutorial",
+                    "id": "docs"
+    
+                }],
+                "actions": [{
+                        "name": "Mod ekle",
+                        "act": "window.open('https://discord.gg/C5RRhPNH')",
+                        "id": "add"
+                    },
+                    {
+                        "name": "Resmi Modları Gözat",
+                        "act": "Search('Resmi Modlar', false, 'modlar', [], 'resmi', [1, 2])",
+                        "id": "search"
+                    }
+                ],
+                "banner": ""
+            }
+        },
+        "Tüm Klanlar": {
+            "name": "Starblast.io Toplulukları",
+            "user_article": "naf",
+            "height": "388px",
+            "container": [{
+                    "title": "Hakkında",
+                    "content": "Tüm Starblast klanları, takımları ve toplulukları listelenir, ancak toksisite ve hile nedeniyle yasaklanmış sunucular için Discord davetleri mevcut değildir."
+                },
+                {
+                    "title": "Bilgiler",
+                    "content": "Klanlar ve takımlar, basitlik için tek bir topluluk bölümünde birleştirilir. Ancak bazı topluluk sunucuları takım olarak işlev görür. Her klan veya takım genellikle bir kurucu lider ve yardımcı kuruculara sahiptir. Topluluklar çeşitli etkinlikler oluşturur ve kendilerini oyun içinde tanımlamak için benzersiz etiketler kullanır." 
+                },
+                {
+                    "title": "Büyük Tarih",
+                    "content": "Starblast toplulukları, oyunun başlangıcından beri var olan bir geçmişe sahiptir; SDF klanı en eski olanıdır. Klanlar ve takımlar genellikle oyun içi eşitsizliklere, hilecilere ve toksisiteye karşı mücadele etmeyi amaçlar. Birçok topluluk, hilecilik ve toksik davranış nedeniyle dramalara karışmıştır."
+                }
+            ],
+            "links": {
+                "resources": [],
+                "actions": [],
+                "banner": ""
+            }
+        },
+        "Resmi Modlar": {
+            "name": "Resmi Modlar",
+            "user_article": "naf",
+            "height": "520px",
+            "container": [{
+                    "title": "Modlama Alanı",
+                    "content": "29 Haziran 2018'de tanıtılan Modlama Alanı, en iyi ve yüksek övgü alan modlar için merkezi bir merkez olarak hizmet eder. Modlama Cuma adlı olağanüstü bir etkinlik, tüm hafta boyunca yeni modların tanıtımını yapar. Şu anda platformda 10 olağanüstü modun seçilmiş bir koleksiyonu bulunuyor."
+                },
+                {
+                    "title": "Topluluk Tarafından",
+                    "content": "Starblast'ın Resmi modları, topluluğun özel yaratımlarıdır. Kendini adamış geliştiriciler karmaşık ve eğlenceli modlar tasarlamak için zaman ve uzmanlık harcar. Bu modlardan bazıları Modlama Alanı'na dahil edilmek üzere resmi geliştirici onayını alır. 13'ten fazla topluluk geliştiricisi bu tanımayı kazanmıştır, tutkularını ve özverilerini gösteren örnekler sunar."
+                }, {
+                    "title": "Eğlenceli ve Döngüsel",
+                    "content": "Modlama Alanı'nda önde gelen bir mod 10 milyondan fazla oynama sahipken, diğerleri yüz binlerce oynama sayısına sahiptir. Modlar adil bir şekilde sergilenmek üzere döner, ancak Modlama Cuma günleri iki mod vurgulanır. Ancak, rotasyon sistemi mod erişilebilirliği ve görünürlüğünü etkilediği için topluluk eleştirileriyle karşılaşmıştır."
+                }
+            ],
+            "links": {
+                "resources": [],
+                "actions": [],
+                "banner": ""
+            }
+        }
+    }
+}
