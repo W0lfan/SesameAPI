@@ -14,6 +14,22 @@
         "youtube" : "https://www.youtube.com/channel/UCr0gpbHDyZUr-tF5QmiSm1g"
       }
     },
+  {
+      "name" : "Naflouille Creations",
+      "lead": ["Naflouille"],
+      "tag" : [""],
+      "language" : [""], 
+      "infos" : "All Naflouille Creations",
+      "server" : "",
+      "active" : true,
+      "birth" : "",
+      "content":["Starblast Team Fights","Starblast Arena: Origins"],
+      "links" : {
+        "join" : "https://discord.gg/Q5RTE3GF9Y", 
+        "picture" : "https://media.discordapp.net/attachments/951567105596207169/1145310535387201536/Design_sans_titre_13.png?width=2407&height=1354",
+        "youtube" : "unknown"
+      }
+    },
     {
       "name" : "French Alliance",
       "lead": ["Megalodon"],
