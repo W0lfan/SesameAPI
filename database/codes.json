@@ -29,5 +29,29 @@
         "description" : "Kick annoying players from your game.",
         "code": "game.modding.commands.kick=function(req){let args=req.trimStart().replace(/\\s+/,\" \").split(\" \"),id=Number(args[1]||\"NaN\");if(isNaN(id))game.modding.terminal.error(\"Please specify an id to kick\");else{let ship=game.findShip(id);if(!ship)game.modding.terminal.error(\"Requested ship not found!\");else{try{ship.gameover({\"Info\":\"You've been kicked by the map host\",\"Reason\":args.slice(2,args.length).join(\" \")||\"No reason has been provided\"});echo(\"Ship with id \"+id+\" was kicked\");}catch(e){game.modding.terminal.error(\"An error occured while kicking the requested ship!\");}}}}",
         "author" : [{"name":"Bhpsngum","link":""}]
+    },
+    {
+        "name": "Subspace Detector",
+        "description": "This code helps you allow or disallow subspace in your mod",
+        "code": "const Subspace_allow = true;function Subspace_Detector(ship){if(Subspace_allow){if(!ship.custom.cheater){game.modding.terminal.echo(\"[[g;#AA00FF;]Subspace alert:]\\n[[g;#ff0000;][[g;#F9D800;]\"+ship.name+\"] has been caught using Subspace.\\n[[g;#F9D800;]\"+ship.name+\"] has not been kicked as Subspace is allowed by map host.\");ship.custom.cheater=true;}}else{ship.set({type:101,vx:0,vy:0,idle:true,collider:false});ship.gameover({\"You have been caught using Subspace\":\" \",\"If you want to play, come without Subspace\":\" \"});game.modding.terminal.echo(\"[[g;#AA00FF;]Subspace alert:]\\n[[g;#ff0000;][[g;#F9D800;]\"+ship.name+\"] has been caught using Subspace.\\n[[g;#F9D800;]\"+ship.name+\"] has been kicked as Subspace is not allowed by map host.\");}this.event=function(event){const ship=event.ship;switch(event.name){case \"ui_component_clicked\":if(event.id===\"using_subspace\"){Subspace_Detector(ship);}break;}};}",
+        "author": [
+          {
+            "name": "Basit",
+            "link": "https://github.com/Modraxis/Usefull-codes/blob/main/Subspace%20detector.JS"
+          }
+        ]
+    },
+    {
+        "name" : "Modding console cleaner",
+        "description" : "This code can remove lines like \"(Tick CPU time: average 0 ms ; max 0 ms, Data sent: 0 bytes per second)\" from the modding console.",
+        "code" : "game.modding.tick=function(t){this.game.tick(t);if(this.context.tick!=null){this.context.tick(this.game);}};",
+        "author" : [{"name":"Basit","link":"https://github.com/Modraxis/Usefull-codes/blob/main/IDK%20what%20i%20name%20it.JS"}]
+    },
+    {
+        "name" : "Set custom text color",
+        "description" : "This code lets you customize the text color of the modding console.",
+        "code" : "game.modding.terminal.echo=(function(echo){const textcolor=\"#cde\",Numbercolor=\"#cde\";return function(text){if(!isNaN(text))echo.call(this,`[[i;${Numbercolor};]${text}]`);else if(/^https?:\/\//i.test(text))echo.call(this,text);else echo.call(this,`[[b;${textcolor};]${text}]`);};})(game.modding.terminal.echo);",
+        "author" : [{"name":"Basit","link":"https://github.com/Modraxis/Usefull-codes/blob/main/Set%20custom%20text%20color.JS"}]
     }
+      
 ]
