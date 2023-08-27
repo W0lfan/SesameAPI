@@ -47,7 +47,8 @@
     "categories" : {
         "message" : "Git",
         "return" : "Geri dön",
-        "categories" : ["modlar","kullanıcılar","gemiler","topluluklar","kodlar"]
+        "categories" : ["modlar","kullanıcılar","gemiler","topluluklar","kodlar"],
+        "tags": ["Resmi personel","Resmi katkı sağlayıcı","Resmi Modder","UCP Kullanıcısı"]
     },
     "user_informations" : {
         "user" : ["Hakkında","Sosyal"],
