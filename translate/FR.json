@@ -1,4 +1,11 @@
 {
+    "id":"Français",
+    "pop": {
+        "link to": "Lien copié vers",
+        "sesame_says": "Sesame vous informe",
+        "discord_username": "Nom d'utilisateur Discord copié de",
+        "downloaded": "Téléchargé"
+    },
     "home" : {
         "input_placeholder" : "Rechercher par mots-clés",
         "scroll_menu" : {
