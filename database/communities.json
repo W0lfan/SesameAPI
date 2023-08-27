@@ -15,6 +15,22 @@
       }
     },
   {
+      "name" : "",
+      "lead": ["Naflouille"],
+      "tag" : [],
+      "language" : [], 
+      "infos" : "All Naflouille Creations",
+      "server" : "",
+      "active" : true,
+      "birth" : "",
+      "content":["Starblast Team Fights","Starblast Arena: Origins"],
+      "links" : {
+        "join" : "https://discord.gg/Q5RTE3GF9Y", 
+        "picture" : "https://media.discordapp.net/attachments/951567105596207169/1145310535387201536/Design_sans_titre_13.png?width=2407&height=1354",
+        "youtube" : "unknown"
+      }
+    },
+    {
       "name" : "Naflouille Creations",
       "lead": ["Naflouille"],
       "tag" : [],
@@ -106,17 +122,17 @@
       }
     },
     {
-      "name" : "Neo Space Army",
+      "name" : "Pandemic Legion",
       "lead": ["Neo Space"],
-      "tag" : ["ƝSΛ ⯌"], 
-      "language" : ["English"], 
+      "tag" : ["╠⛒╣"], 
+      "language" : ["English", "Spanish"], 
       "infos" : "Clans is the successor to F4, and the leader is well-known youtuber Neo space.",
       "server" : "International",
       "active" : true,
       "birth" : "",
       "links" : {
         "join" : "https://discord.gg/GDzGmWEm25",
-        "picture" : "https://cdn.discordapp.com/icons/973585722227458068/a_4b7072d4bbf437e6f11cfbd93f917a0f.webp?",
+        "picture" : "",
         "youtube" : "https://www.youtube.com/@neospaceyt"
       }
     },
