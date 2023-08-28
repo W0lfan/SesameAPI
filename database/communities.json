@@ -30,6 +30,22 @@
         "youtube" : "unknown"
       }
     },
+      {
+      "name" : "Naflouille Creations",
+      "lead": ["LX","Megalodon"],
+      "tag" : [],
+      "language" : [], 
+      "infos" : "The Official Starblast Asteroid War Discord server.",
+      "server" : "",
+      "active" : true,
+      "birth" : "",
+      "content":["Asteroid War"],
+      "links" : {
+        "join" : "https://discord.gg/NZw52JGdU9", 
+        "picture" : "https://media.discordapp.net/attachments/951567105596207169/1145741630717038753/dcad31dcc24e78944ddf4a4aaf7da7c4.webp?width=540&height=540",
+        "youtube" : "unknown"
+      }
+    },
     {
       "name" : "French Alliance",
       "lead": ["Megalodon"],
@@ -72,21 +88,6 @@
       "links" : {
         "join" : "https://discord.gg/GwufZc4b6C",
         "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/ISclans.jpg?raw=true",
-        "youtube" : "unknown"
-      }
-    },
-    {
-      "name" : "Flammmable Violets (FV)",
-      "lead": ["Anchar", "Wanda"],
-      "tag" : ["✯F℣➛"], 
-      "language" : ["English"], 
-      "infos" : "International Anti-Cheat Clan",
-      "server" : "International",
-      "active" : true,
-      "birth" : "",
-      "links" : {
-        "join" : "",
-        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/FVclan.gif?raw=true",
         "youtube" : "unknown"
       }
     },
