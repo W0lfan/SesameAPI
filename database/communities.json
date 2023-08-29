@@ -30,7 +30,23 @@
         "youtube" : "unknown"
       }
     },
-      {
+    {
+      "name" : "Game Of The Night (GOTN)",
+      "lead": ["Notus"],
+      "tag" : [],
+      "language" : [], 
+      "infos" : "Discord server of the European GOTN, it's a team mode game held every evening at 7:30 pm, where most of the players in the community meet up.",
+      "server" : "EU",
+      "active" : true,
+      "birth" : "",
+      "content":[],
+      "links" : {
+        "join" : "https://discord.gg/qvngAfKPQy", 
+        "picture" : "https://cdn.discordapp.com/icons/857391477989441536/77261eee58b6bcb18378e71cd56a4c15.webp?",
+        "youtube" : "unknown"
+      }
+    },
+    {
       "name" : "SAW Starblast",
       "lead": ["LX","Megalodon","Nebuleuse","Hazard"],
       "tag" : [],
