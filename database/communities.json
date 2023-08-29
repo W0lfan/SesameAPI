@@ -39,7 +39,6 @@
       "server" : "EU",
       "active" : true,
       "birth" : "",
-      "content":[],
       "links" : {
         "join" : "https://discord.gg/qvngAfKPQy", 
         "picture" : "https://cdn.discordapp.com/icons/857391477989441536/77261eee58b6bcb18378e71cd56a4c15.webp?",
@@ -55,7 +54,6 @@
       "server" : "International",
       "active" : true,
       "birth" : "",
-      "content":[],
       "links" : {
         "join" : "https://discord.gg/44uBrbwFQH", 
         "picture" : "https://cdn.discordapp.com/icons/833162807390371841/d514039e0ad89e8dc4ca62395cc34769.webp?",
