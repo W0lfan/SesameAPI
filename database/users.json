@@ -231,7 +231,7 @@
 		}
 	}, {
 		"name": "Kleinem",
-		"pfp": "https://cdn.discordapp.com/avatars/883834901248499734/43229e9e1855f5f385b4a5111605f395.webp",
+		"pfp": "https://starblast.io/ecp/kleinem.jpg",
 		"links": [{
 			"id": "discord",
 			"src": "_kleinem"
@@ -283,7 +283,7 @@
 		}
 	}, {
 		"name": "Nova",
-		"pfp": "https://cdn.discordapp.com/avatars/380861033784410112/ea8e84706585539152ae2e6a3c59847a.webp?size=128",
+		"pfp": "https://starblast.io/ecp/nova.jpg",
 		"links": [{
 				"id": "github",
 				"src": "https://github.com/Nova-was-taken"
@@ -354,7 +354,7 @@
 		}
 	}, {
 		"name": "SChickenMan",
-		"pfp": "https://cdn.discordapp.com/avatars/850485971409698868/c2052e9eb1026322fae786ee5639ce95.webp",
+		"pfp": "https://starblast.io/ecp/schickenman.png",
 		"links": [{
 			"id": "discord",
 			"src": "thirdtoeman"
@@ -1741,7 +1741,7 @@
    }
   }, {
   "name" : "paralx",
-  "pfp" : "https://cdn.discordapp.com/avatars/147052695876796416/ba0620f780334db990b04c178b61eb4f.webp?size=128",
+  "pfp" : "https://starblast.io/ecp/paralx.jpg",
   "links" : [
     { "id" : "discord",
       "src" : "v4lp"},
@@ -2020,6 +2020,22 @@
       "isStaff" : false,
       "isModder" : false,
       "isUCP" : false,
+      "isContrib" : false,
+      "isAdmin" : false
+   }
+  },{
+  "name" : "Destroy",
+  "pfp" : "https://starblast.io/ecp/destroy.png",
+  "links" : [
+    { "id" : "discord",
+      "src" : "DragonFruit#1768"},
+    { "id" : "spotify",
+      "src" : "https://open.spotify.com/user/dyayk0s1ou0x82t7qhy7antb5?si=0d61851035eb45ec"}
+   ],
+    "about" : {
+      "isStaff" : true,
+      "isModder" : false,
+      "isUCP" : true,
       "isContrib" : false,
       "isAdmin" : false
    }
