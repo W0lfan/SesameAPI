@@ -92,6 +92,21 @@
       }
     },
     {
+      "name" : "Stack",
+      "lead": ["NukePhysics"],
+      "tag" : ["ǂꞨͲȺꞒꝀǂ"], 
+      "language" : ["English"], 
+      "infos" : "",
+      "server" : "International",
+      "active" : false,
+      "birth" : "",
+      "links" : {
+        "join" : "https://discord.gg/qwE88ED",
+        "picture" : "https://cdn.discordapp.com/icons/473827695734554632/336cc05ae052880139dd9e93d88f4e0f.webp?",
+        "youtube" : "unknown"
+      }
+    },
+    {
       "name" : "Delta",
       "lead": ["AGXXXX"],
       "tag" : ["[△]"], 
