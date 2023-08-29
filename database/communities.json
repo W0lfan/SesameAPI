@@ -122,6 +122,20 @@
       }
     },
     {
+      "name" : "Doge",
+      "lead": ["LX"],
+      "tag" : ["[Doge]"], 
+      "language" : ["English"], 
+      "infos" : "Private clans with good players, the main aim of these clans is to make occasional gotn stacks.",
+      "server" : "EU",
+      "active" : true,
+      "birth" : "",
+      "links" : {
+        "picture" : "https://cdn.discordapp.com/icons/967833248120057947/a_903d05b2e373bd0cafe7b25eca905088.webp?",
+        "youtube" : "unknown"
+      }
+    },
+    {
       "name" : "Synthesis RC2",
       "lead": ["Hazard","Twidash"],
       "tag" : ["R.C²"], 
