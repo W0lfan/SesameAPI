@@ -109,7 +109,7 @@
     {
       "name" : "Starblast main",
       "lead": ["Oh"],
-      "tag" : [""], 
+      "tag" : [], 
       "language" : ["English"], 
       "infos" : "Official Discord server of the Starblast.io game.",
       "server" : "International",
@@ -124,7 +124,7 @@
     {
       "name" : "Starblast Shipyard",
       "lead": ["Finalizer"],
-      "tag" : [""], 
+      "tag" : [], 
       "language" : ["English"], 
       "infos" : "Official Shipbuilding Discord server on Starblast.io.",
       "server" : "International",
