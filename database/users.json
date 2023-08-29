@@ -369,7 +369,7 @@
 	},
 	{
 		"name": "Rithy",
-		"pfp": "https://avatars.githubusercontent.com/u/121094713?v=4",
+		"pfp": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/rithy.png?raw=true",
 		"links": [{
 				"id": "github",
 				"src": "https://github.com/rithyn"
@@ -381,6 +381,10 @@
 			{
 				"id": "youtube",
 				"src": "https://www.youtube.com/channel/UC65eZXj9BG119teoSwBsFtQ"
+			},
+			{
+				"id": "spotify",
+				"src": "https://open.spotify.com/user/31dsb3dy4frbiw6l6yy25co7xf2m?si=7b4a767b03244da8"
 			}
 		],
 		"about": {
