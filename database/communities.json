@@ -47,6 +47,22 @@
       }
     },
     {
+      "name" : "dankdmitron's projects",
+      "lead": ["Dank Dmitron"],
+      "tag" : [],
+      "language" : [], 
+      "infos" : "Dankdmitron's discord server, where you can talk about his famous tools, ServerList+, and play on his Minecraft server.",
+      "server" : "International",
+      "active" : true,
+      "birth" : "",
+      "content":[],
+      "links" : {
+        "join" : "https://discord.gg/44uBrbwFQH", 
+        "picture" : "https://cdn.discordapp.com/icons/833162807390371841/d514039e0ad89e8dc4ca62395cc34769.webp?",
+        "youtube" : "unknown"
+      }
+    },
+    {
       "name" : "SAW Starblast",
       "lead": ["LX","Megalodon","Nebuleuse","Hazard"],
       "tag" : [],
