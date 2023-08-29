@@ -107,6 +107,21 @@
       }
     },
     {
+      "name" : "Starblast main",
+      "lead": ["Oh"],
+      "tag" : [""], 
+      "language" : ["English"], 
+      "infos" : "Official Discord server of the Starblast.io game.",
+      "server" : "International",
+      "active" : true,
+      "birth" : "",
+      "links" : {
+        "join" : "https://discord.gg/JwfJSFmXtn",
+        "picture" : "https://cdn.discordapp.com/icons/265400368765075456/a_c4939e8c21f0f665f9690778a4bbba53.webp?",
+        "youtube" : "unknown"
+      }
+    },
+    {
       "name" : "Sky2Fly",
       "lead": ["PASHA77", "Sergio-L", "Inspectro"],
       "tag" : ["SᄅF-"], 
