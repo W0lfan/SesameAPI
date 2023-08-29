@@ -122,6 +122,21 @@
       }
     },
     {
+      "name" : "Starblast Shipyard",
+      "lead": ["Finalizer"],
+      "tag" : [""], 
+      "language" : ["English"], 
+      "infos" : "Official Shipbuilding Discord server on Starblast.io.",
+      "server" : "International",
+      "active" : true,
+      "birth" : "",
+      "links" : {
+        "join" : "https://discord.gg/MWhz2G2W2Q",
+        "picture" : "https://cdn.discordapp.com/icons/386989973770862603/5b8de7cb1b3a19e728a6ad2c80f2805a.webp?",
+        "youtube" : "unknown"
+      }
+    },
+    {
       "name" : "Sky2Fly",
       "lead": ["PASHA77", "Sergio-L", "Inspectro"],
       "tag" : ["SᄅF-"], 
