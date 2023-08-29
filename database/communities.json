@@ -62,6 +62,21 @@
       }
     },
     {
+      "name" : "Royal Ekip",
+      "lead": ["TrolBaba25"],
+      "tag" : ["|℟ˠ𝕃|"], 
+      "language" : ["English"], 
+      "infos" : "European clans led by Trollbaba, unfortunately no longer active.",
+      "server" : "EU",
+      "active" : false,
+      "birth" : "",
+      "links" : {
+        "join" : "https://discord.gg/V6h6V6qW74",
+        "picture" : "https://cdn.discordapp.com/icons/869331644333584404/e7ed9b74abdd2f3842cd3723d7fda2cf.webp?",
+        "youtube" : "unknown"
+      }
+    },
+    {
       "name" : "Sky2Fly",
       "lead": ["PASHA77", "Sergio-L", "Inspectro"],
       "tag" : ["SᄅF-"], 
