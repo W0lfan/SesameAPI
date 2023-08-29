@@ -32,7 +32,7 @@
     {
         "name" : "Starblast ECP Icon Viewer",
         "description" : "Image gallery of all ecp icons in Starblast, also the place to test your custom icon.",
-        "open": "hpsngum.github.io/starblast/ecp",
+        "open": "https://bhpsngum.github.io/starblast/ecp/",
         "author" : [{"name":["Bhpsngum"],"link":""}]
     },
     {
