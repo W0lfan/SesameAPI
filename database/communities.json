@@ -46,6 +46,36 @@
       }
     },
     {
+      "name" : " Asia Game Of The Night (GOTN)",
+      "lead": ["Leader", "YGamin", "WDWD", "M3dumb"],
+      "tag" : [],
+      "language" : [], 
+      "infos" : "Discord server of the Asian GOTN, it's a team mode game held every evening at 11:30 UTC+0, where most of the players in the community meet up.",
+      "server" : "Asia",
+      "active" : true,
+      "birth" : "9/8/2023",
+      "links" : {
+        "join" : "https://discord.gg/9rhEN7YhFx", 
+        "picture" : "https://cdn.discordapp.com/icons/1138794381596446770/671b773b1b638035738c26f9a391a7a1.webp?",
+        "youtube" : "unknown"
+      }
+    },
+    {
+      "name" : "US Game Of The Night (GOTN)",
+      "lead": ["Nova", "SChickenMan"],
+      "tag" : [],
+      "language" : [], 
+      "infos" : "Discord server of the US GOTN, it's a team mode game held every evening at  9:30pm EST, where most of the players in the community meet up.",
+      "server" : "US",
+      "active" : true,
+      "birth" : "",
+      "links" : {
+        "join" : "https://discord.gg/rvFn5ah2aV", 
+        "picture" : "https://cdn.discordapp.com/icons/1138794381596446770/671b773b1b638035738c26f9a391a7a1.webp",
+        "youtube" : "unknown"
+      }
+    },
+    {
       "name" : "dankdmitron's projects",
       "lead": ["Dank Dmitron"],
       "tag" : [],
