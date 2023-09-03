@@ -1020,6 +1020,24 @@
           }
         ],
         "official": 0
+      },
+    {
+        "name": "Starblast Insect Mod",
+        "abvrt": "",
+        "version": "",
+        "description": "Custom ships designed as insects.",
+        "modes": "",
+        "img": "",
+        "link": {
+          "url": "https://github.com/AlbieMorrison/Insect_Mod"
+        },
+        "author": [
+          {
+            "name": ["AlbieMorrison"],
+            "link": ""
+          }
+        ],
+        "official": 0
       }
   ]
   
