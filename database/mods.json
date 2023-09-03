@@ -1002,6 +1002,24 @@
           }
         ],
         "official": 0
+      },
+    {
+        "name": "Starblast Tag Mod",
+        "abvrt": "STM",
+        "version": "",
+        "description": "Tag Mode is a Team mode game but when you kill one player, that player when respawned will become your teammate, or will be 'tagged' by you, The game ends when one team 'tags' all the players in that server.",
+        "modes": "",
+        "img": "",
+        "link": {
+          "url": "https://github.com/Bhpsngum/StarblastTagMode/blob/master/StarblastTagMode.js"
+        },
+        "author": [
+          {
+            "name": ["Bhpsngum"],
+            "link": ""
+          }
+        ],
+        "official": 0
       }
   ]
   
