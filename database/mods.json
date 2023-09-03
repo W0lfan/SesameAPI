@@ -1092,6 +1092,24 @@
           }
         ],
         "official": 0
+      },
+    {
+        "name": "Optimized Mining Mod",
+        "abvrt": "",
+        "version": "",
+        "description": "Betterfied Mining Mod",
+        "modes": "",
+        "img": "",
+        "link": {
+          "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/opt%20mining%20mod.js"
+        },
+        "author": [
+          {
+            "name": ["__"],
+            "link": ""
+          }
+        ],
+        "official": 0
       }
   ]
   
