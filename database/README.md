@@ -21,7 +21,7 @@ Open the file that matches the pattern and paste it at the end of the file.
 
 Once the changes are made, commit the commit.
 
-## 3. Verification
+### 3. Verification
 Once the commit is complete, go to  [Sesame](https://w0lfan.github.io/sesame/) and verify that the changes are made.
 
 ⚠️ It is normal that changes take a little time. Typically, the download time from validation to changes on the website is 60 seconds. ⚠️
