@@ -1625,7 +1625,7 @@
    }	
   }, {
   "name" : "Double K",
-  "pfp" : "https://cdn.discordapp.com/avatars/258646747755184129/224e0bfc819f1a805dd80749a2c75959.webp?size=128",
+  "pfp" : "https://starblast.io/ecp/2k.jpg",
   "links" : [
     { "id" : "github",
       "src" : "unknown"},
@@ -1639,8 +1639,8 @@
     "about" : {
       "isStaff" : false,
       "isModder" : false,
-      "isUCP" : false,
-      "isContrib" : false,
+      "isUCP" : true,
+      "isContrib" : true,
       "isAdmin" : false
    }	
   }, {
