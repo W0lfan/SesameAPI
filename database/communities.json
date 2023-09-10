@@ -212,21 +212,6 @@
       }
     },
     {
-      "name" : "Delta",
-      "lead": ["AGXXXX"],
-      "tag" : ["[△]"], 
-      "language" : [""], 
-      "infos" : "A small but quickly growing clan with many experienced players, shipbuilders, and modders there to help you improve.",
-      "server" : "International",
-      "active" : true,
-      "birth" : "",
-      "links" : {
-        "join" : "https://discord.gg/RHpcXtDY",
-        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/Delta_animated_logo.gif?raw=true",
-        "youtube" : "unknown"
-      }
-    },
-    {
       "name" : "Pandemic Legion",
       "lead": ["Neo Space"],
       "tag" : ["╠⛒╣"], 
