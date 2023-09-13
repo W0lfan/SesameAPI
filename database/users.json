@@ -2034,22 +2034,6 @@
       "isAdmin" : false
    }
   },{
-  "name" : "Pasha",
-  "pfp" : "https://lestradersrenko.com/wp-content/uploads/2022/03/Logo-Discord-1.png",
-  "links" : [
-    { "id" : "youtube",
-      "src" : "https://www.youtube.com/@pashassseng2015"},
-    { "id" : "discord",
-      "src" : "pashasss"}
-   ],
-    "about" : {
-      "isStaff" : false,
-      "isModder" : false,
-      "isUCP" : false,
-      "isContrib" : false,
-      "isAdmin" : false
-   }
-  },{
   "name" : "Destroy",
   "pfp" : "https://starblast.io/ecp/destroy.png",
   "links" : [
