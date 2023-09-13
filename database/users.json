@@ -146,6 +146,10 @@
 				"src": "nebuleuse."
 			},
 			{
+				"id": "spotify",
+				"src": "https://open.spotify.com/user/32hqo7eihra0fmi6ekn4jvvcl?si=76e9a66495914cd9"
+			},			
+			{
 				"id": "youtube",
 				"src": "https://www.youtube.com/channel/UCh37M4k1kAw3SSddjhNjJkw"
 			}
