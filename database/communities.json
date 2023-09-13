@@ -107,6 +107,22 @@
       }
     },
     {
+      "name" : "Starblast Invasion War",
+      "lead": ["Nebuleuse","Megalodon","NOK"],
+      "tag" : [],
+      "language" : [], 
+      "infos" : "The Official Starblast Invasion War Discord server.",
+      "server" : "",
+      "active" : true,
+      "birth" : "",
+      "content":["Invasion War"],
+      "links" : {
+        "join" : "https://discord.gg/Mtd47MWMnY", 
+        "picture" : "https://cdn.discordapp.com/icons/1038561715413065761/7cdaeeb7722f9b964b43d032af10b9b1.webp?",
+        "youtube" : "unknown"
+      }
+    },
+    {
       "name" : "French Alliance",
       "lead": ["Megalodon","Nebuleuse","NOK"],
       "tag" : ["ҒΛ▸"], 
