@@ -255,5 +255,21 @@
         "picture" : "https://media.discordapp.net/attachments/855809119406391316/1139652171093250219/rc2s.png?width=610&height=610",
         "youtube" : "unknown"
       }
+    },
+    {
+      "name" : "Re:Arena - Arena Mod Remake/Recontinuation",
+      "lead": ["Bhpsngum","Tost"],
+      "tag" : [],
+      "language" : [], 
+      "infos" : "Welcome to the AMR (Re:Arena) Official Discord Server! Participate in the server to receive notifications and announcements about updates, hosts and more from Re:Arena developers!",
+      "server" : "",
+      "active" : true,
+      "birth" : "15/03/2023 13:05",
+      "content":["Arena Mod Remake/Recontinuation"],
+      "links" : {
+        "join" : "https://discord.gg/NZw52JGdU9", 
+        "picture" : "https://cdn.discordapp.com/icons/1085534169184075877/450a176e6d49ad97bcedcb58a36d9690.webp",
+        "youtube" : "unknown"
+      }
     }
 ]
