@@ -353,6 +353,10 @@
 			{
 				"id": "discord",
 				"src": "123_notus"
+			},
+			{
+				"id": "reddit",
+				"src": "https://www.reddit.com/user/123_Notus"
 			}
 		],
 		"description" : "Famous Starblast player, Starblast Discord server administrator. Made the racing championship with Goldman.",
