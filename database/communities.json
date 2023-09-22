@@ -1,7 +1,7 @@
 [
   {
       "name" : "FR team",
-      "lead": ["Megalodon"],
+      "lead": ["Megalodon", "NOK"],
       "tag" : ["ҒR▸"],
       "language" : ["French"], 
       "infos" : "French People exclusively. DM Megalodon to enter the team.",
@@ -123,9 +123,9 @@
       }
     },
     {
-      "name" : "French Alliance",
+      "name" : "Pure Space",
       "lead": ["Megalodon","Nebuleuse","NOK"],
-      "tag" : ["ҒΛ▸"], 
+      "tag" : ["ⱣꞨ▸"], 
       "language" : ["English", "French"], 
       "infos" : "Make the Game great again and to prove to everyone that cheats are not needed to be strong.",
       "server" : "EU",
@@ -133,7 +133,7 @@
       "birth" : "16/07/2023",
       "links" : {
         "join" : "https://discord.gg/3nuThPcEEj",
-        "picture" : "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/serv_logo.png?raw=true",
+        "picture" : "https://raw.githubusercontent.com/rithyn/rithy-archive/main/ps__barac.png",
         "youtube" : "unknown"
       }
     },
