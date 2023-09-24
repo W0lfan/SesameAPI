@@ -287,5 +287,21 @@
         "picture" : "https://cdn.discordapp.com/icons/1085534169184075877/450a176e6d49ad97bcedcb58a36d9690.webp",
         "youtube" : "unknown"
       }
+    },
+    {
+      "name" : "Starblast Dueling Championship",
+      "lead": ["Thuliux"],
+      "tag" : [],
+      "language" : [], 
+      "infos" : "Seasonal Dueling championships - SDC sUCP for the winners. General discussion and feedback about the mod. Submission for new ships and maps. Playtesting of in-development updates, join to be notified of these.",
+      "server" : "",
+      "active" : true,
+      "birth" : "09/02/2021 12:06",
+      "content":["Starblast Dueling Championship"],
+      "links" : {
+        "join" : "https://discord.gg/yydUyzdUdT", 
+        "picture" : "https://cdn.discordapp.com/icons/808655015257309204/29ed02b9b00043288bf29fa8958a4c79.webp",
+        "youtube" : "unknown"
+      }
     }
 ]
