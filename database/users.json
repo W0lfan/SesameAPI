@@ -2058,6 +2058,34 @@
       "isContrib" : false,
       "isAdmin" : false
    }
-  }
+  }, {
+  "name": "Happy Whale",
+  "about": {
+    "about": "",
+    "isStaff": false,
+    "isModder": false,
+    "isUCP": false,
+    "isContrib": true,
+    "isSesame": false
+  },
+  "description": "╚HᗩPPY🐋ΨHᗩLΣ╝.",
+  "pfp": "https://raw.githubusercontent.com/rithyn/rithy-archive/main/pictures/ucp/happy-whale.jpg",
+  "links": [{
+    "id": "discord",
+    "src": "nightwhale"
+  }, {
+    "id": "",
+    "src": ""
+  }, {
+    "id": "",
+    "src": ""
+  }, {
+    "id": "",
+    "src": ""
+  }, {
+    "id": "",
+    "src": ""
+  }]
+}
 
 ]
