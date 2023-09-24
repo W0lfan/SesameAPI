@@ -242,21 +242,7 @@
         "youtube" : "https://www.youtube.com/@neospaceyt"
       }
     },
-    {
-      "name" : "Doge",
-      "lead": ["LX"],
-      "tag" : ["[Doge]"], 
-      "language" : ["English"], 
-      "infos" : "Private clans with good players, the main aim of these clans is to make occasional gotn stacks.",
-      "server" : "EU",
-      "active" : true,
-      "birth" : "",
-      "links" : {
-        "join" : "unknown",
-        "picture" : "https://cdn.discordapp.com/icons/967833248120057947/a_903d05b2e373bd0cafe7b25eca905088.webp?",
-        "youtube" : "unknown"
-      }
-    },
+    
     {
       "name" : "Synthesis RC2",
       "lead": ["Hazard","Twidash"],
@@ -269,6 +255,21 @@
       "links" : {
         "join" : "https://discord.gg/r9XqhvnxU2",
         "picture" : "https://media.discordapp.net/attachments/855809119406391316/1139652171093250219/rc2s.png?width=610&height=610",
+        "youtube" : "unknown"
+      }
+    },
+    {
+      "name" : "Providence",
+      "lead": ["Leader"],
+      "tag" : [], 
+      "language" : ["English", "Turkish"], 
+      "infos" : "Starblast Esoteric community. DM Leader to enter the server.",
+      "server" : "EU",
+      "active" : true,
+      "birth" : "13/05/2021 13:46",
+      "links" : {
+        "join" : "unknown",
+        "picture" : "https://cdn.discordapp.com/icons/842367228858990602/22df63c085282680596af024c47c225c.webp",
         "youtube" : "unknown"
       }
     },
