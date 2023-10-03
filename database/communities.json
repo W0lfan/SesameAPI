@@ -61,6 +61,21 @@
       }
     },
     {
+      "name" : "Mega's World",
+      "lead": ["Megalodon"],
+      "tag" : [],
+      "language" : [], 
+      "infos" : "the Discord server of our favorite Megalodon",
+      "server" : "International",
+      "active" : true,
+      "birth" : "",
+      "links" : {
+        "join" : "https://discord.gg/nR5QW7KDUV", 
+        "picture" : "https://cdn.discordapp.com/icons/436255814462734337/6b16dbf7c43d4c076788f745b82d3063.webp?",
+        "youtube" : "unknown"
+      }
+    },
+    {
       "name" : "US Game Of The Night (GOTN)",
       "lead": ["Nova", "SChickenMan"],
       "tag" : [],
