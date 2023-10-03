@@ -61,6 +61,21 @@
       }
     },
     {
+      "name" : "Arena Mod",
+      "lead": ["Nexagon"],
+      "tag" : [],
+      "language" : [], 
+      "infos" : "Original Arena mod discord server",
+      "server" : "International",
+      "active" : true,
+      "birth" : "",
+      "links" : {
+        "join" : "https://discord.gg/Nsavm8pqcG", 
+        "picture" : "https://cdn.discordapp.com/icons/958886979938955285/dd8724c9cb5896340a554c8fbc5988a5.webp?",
+        "youtube" : "unknown"
+      }
+    },
+    {
       "name" : "Mega's World",
       "lead": ["Megalodon"],
       "tag" : [],
