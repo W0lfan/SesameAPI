@@ -2086,6 +2086,34 @@
     "id": "",
     "src": ""
   }]
+},{
+  "name": "gc overlord wertd",
+  "about": {
+    "about": "",
+    "isStaff": false,
+    "isModder": false,
+    "isUCP": false,
+    "isContrib": false,
+    "isSesame": false
+  },
+  "description": "",
+  "pfp": "https://raw.githubusercontent.com/rithyn/rithy-archive/main/pictures/ucp/GC-overlord.png",
+  "links": [{
+    "id": "youtube",
+    "src": " https://www.youtube.com/channel/UCJa7dqH8_o01HVBaBLVpKGA"
+  }, {
+    "id": "discord",
+    "src": "gcoverlordwertd"
+  }, {
+    "id": "github",
+    "src": "https://github.com/wertd123"
+  }, {
+    "id": "spotify",
+    "src": "https://open.spotify.com/user/313sxgvuc7ochzkepza22xvkw53e?si=be12053cb8f749ab"
+  }, {
+    "id": "reddit",
+    "src": "https://www.reddit.com/user/gc_overlord_wertd"
+  }]
 }
 
 ]
