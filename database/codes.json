@@ -11,7 +11,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Svr-Sts-6TDzdZYULx"
+    "sesameID": "cds-SSs-QlmGKqmTtU"
   },
   {
     "name": "Starblast Map Editor",
@@ -25,7 +25,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Sbt-Map-Etr-V9mmND8s2E"
+    "sesameID": "cds-SMr-qCGnGiGLlt"
   },
   {
     "name": "Starblast Ship Mod Export / Code Converters",
@@ -39,7 +39,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Sbt-Sip-Mod-Eot-///-Cde-Crs-cWQeKRklYh"
+    "sesameID": "cds-Sps-QGIzBTdKjZ"
   },
   {
     "name": "Ship Tree Path Finder",
@@ -53,7 +53,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Sip-Tee-Pth-Fdr-Ay3TuLu1nL"
+    "sesameID": "cds-Sar-djnpPkH0IO"
   },
   {
     "name": "Starblast Modding Space Mods - Live Statistics",
@@ -67,7 +67,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Sbt-Mdg-Sae-Mds-----Lve-Sss-XE0UhSdR3P"
+    "sesameID": "cds-Scs-pnYxnClHRG"
   },
   {
     "name": "Starblast ECP Icon Viewer",
@@ -81,7 +81,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Sbt-ECP-Ion-Vwr-BhG3Wbspcm"
+    "sesameID": "cds-SPr-hNPEeqcEGx"
   },
   {
     "name": "Timer",
@@ -95,7 +95,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Tmr-KCzACDn5wp"
+    "sesameID": "cds-Tmr-pyXN4bNdhR"
   },
   {
     "name": "Map Generator",
@@ -109,7 +109,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Map-Grr-5lG2RzILLW"
+    "sesameID": "cds-Mer-Cy7ReLt9jG"
   },
   {
     "name": "Prevent Upgrade Shortcuts",
@@ -123,7 +123,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Pvt-Ure-Sts-KGF3Nv8Q4k"
+    "sesameID": "cds-Pas-GIbU9sHHs2"
   },
   {
     "name": "Reset Button",
@@ -135,7 +135,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Rst-Btn-GzD3KP72D0"
+    "sesameID": "cds-RBn-y69gXDDhK4"
   },
   {
     "name": "Terminal Player List",
@@ -149,7 +149,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Til-Pyr-Lst-eyM0Go13aW"
+    "sesameID": "cds-Tlt-QQ20peag0c"
   },
   {
     "name": "Kick a player",
@@ -163,7 +163,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Kck-aaa-pyr-9cqDBVBdjc"
+    "sesameID": "cds-Kpr-0fpinEjaZS"
   },
   {
     "name": "Subspace Detector",
@@ -177,7 +177,7 @@
         "link": "https://github.com/Modraxis/Usefull-codes/blob/main/Subspace%20detector.JS"
       }
     ],
-    "sesameID": "cds-Spe-Dcr-UlzGM3IVrG"
+    "sesameID": "cds-SDr-MSYnHgULtz"
   },
   {
     "name": "Modding console cleaner",
@@ -191,7 +191,7 @@
         "link": "https://github.com/Modraxis/Usefull-codes/blob/main/IDK%20what%20i%20name%20it.JS"
       }
     ],
-    "sesameID": "cds-Mdg-cse-car-xGYB4dAmGh"
+    "sesameID": "cds-Msr-7gKubhz22U"
   },
   {
     "name": "Set custom text color",
@@ -205,6 +205,6 @@
         "link": "https://github.com/Modraxis/Usefull-codes/blob/main/Set%20custom%20text%20color.JS"
       }
     ],
-    "sesameID": "cds-Set-ctm-txt-clr-XTovbv6d0Y"
+    "sesameID": "cds-Str-ZTGWtFFGYq"
   }
 ]
