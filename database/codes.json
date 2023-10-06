@@ -11,7 +11,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-SSs-QlmGKqmTtU"
+    "sesameID": "cds-SSS-0FkV0iPNoP"
   },
   {
     "name": "Starblast Map Editor",
@@ -25,7 +25,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-SMr-qCGnGiGLlt"
+    "sesameID": "cds-SMR-SbbEPPiQEO"
   },
   {
     "name": "Starblast Ship Mod Export / Code Converters",
@@ -39,7 +39,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Sps-QGIzBTdKjZ"
+    "sesameID": "cds-SPS-fzoxMKYx2f"
   },
   {
     "name": "Ship Tree Path Finder",
@@ -53,7 +53,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Sar-djnpPkH0IO"
+    "sesameID": "cds-SAR-ESWUoQw5KB"
   },
   {
     "name": "Starblast Modding Space Mods - Live Statistics",
@@ -67,7 +67,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Scs-pnYxnClHRG"
+    "sesameID": "cds-SCS-a8bdwtYnoH"
   },
   {
     "name": "Starblast ECP Icon Viewer",
@@ -81,7 +81,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-SPr-hNPEeqcEGx"
+    "sesameID": "cds-SPR-LXmsEpPSG0"
   },
   {
     "name": "Timer",
@@ -95,7 +95,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Tmr-pyXN4bNdhR"
+    "sesameID": "cds-TMR-YSzIpVc1VZ"
   },
   {
     "name": "Map Generator",
@@ -109,7 +109,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Mer-Cy7ReLt9jG"
+    "sesameID": "cds-MER-ZaYDLIfgmY"
   },
   {
     "name": "Prevent Upgrade Shortcuts",
@@ -123,7 +123,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Pas-GIbU9sHHs2"
+    "sesameID": "cds-PAS-1CWBE9lSKq"
   },
   {
     "name": "Reset Button",
@@ -135,7 +135,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-RBn-y69gXDDhK4"
+    "sesameID": "cds-RBN-kfpI1CUA9I"
   },
   {
     "name": "Terminal Player List",
@@ -149,7 +149,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Tlt-QQ20peag0c"
+    "sesameID": "cds-TLT-3aPL8ruvAr"
   },
   {
     "name": "Kick a player",
@@ -163,7 +163,7 @@
         "link": ""
       }
     ],
-    "sesameID": "cds-Kpr-0fpinEjaZS"
+    "sesameID": "cds-KPR-fDXN8EMMjQ"
   },
   {
     "name": "Subspace Detector",
@@ -177,7 +177,7 @@
         "link": "https://github.com/Modraxis/Usefull-codes/blob/main/Subspace%20detector.JS"
       }
     ],
-    "sesameID": "cds-SDr-MSYnHgULtz"
+    "sesameID": "cds-SDR-qFtHpEEtzx"
   },
   {
     "name": "Modding console cleaner",
@@ -191,7 +191,7 @@
         "link": "https://github.com/Modraxis/Usefull-codes/blob/main/IDK%20what%20i%20name%20it.JS"
       }
     ],
-    "sesameID": "cds-Msr-7gKubhz22U"
+    "sesameID": "cds-MSR-dZlSou2XZY"
   },
   {
     "name": "Set custom text color",
@@ -205,6 +205,6 @@
         "link": "https://github.com/Modraxis/Usefull-codes/blob/main/Set%20custom%20text%20color.JS"
       }
     ],
-    "sesameID": "cds-Str-ZTGWtFFGYq"
+    "sesameID": "cds-STR-0OwFkyQSOM"
   }
 ]
