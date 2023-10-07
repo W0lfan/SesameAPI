@@ -12,18 +12,10 @@
     },
     "author": [
       {
-        "name": [
-          "PMGL",
-          "Gilles"
-        ],
-        "link": "https://github.com/pmgl"
+        "name": "PMGL"
       },
       {
-        "name": [
-          "45rfew",
-          "Money"
-        ],
-        "link": "https://github.com/45rfew/"
+        "name": "45rfew"
       }
     ],
     "official": 1,
@@ -36,7 +28,6 @@
     "version": "Acamar Sector",
     "description": "Starblast Official and monthly event.",
     "modes": "Team",
-    "img": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/30712488/2d1fd7aa6d15eb47cff6de4a889e73ef573b61a7.jpg",
     "link": {
       "url": "https://github.com/GoldmanAerospace/AOW",
       "type": "storage",
@@ -44,28 +35,19 @@
     },
     "author": [
       {
-        "name": [
-          "PMGL",
-          "Gilles"
-        ],
-        "link": "https://github.com/pmgl"
+        "name": "PMGL"
       },
       {
-        "name": [
-          "Goldman"
-        ],
-        "link": "https://github.com/GoldmanAeroSpace"
+        "name": "Goldman"
       },
       {
-        "name": [
-          "Notus"
-        ],
-        "link": "https://github.com/123-Notus"
+        "name": "Notus"
       }
     ],
     "official": 1,
     "event": 1,
-    "sesameID": "md-Air-116bD21mob"
+    "sesameID": "md-Air-116bD21mob",
+    "templateImage": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/30712488/2d1fd7aa6d15eb47cff6de4a889e73ef573b61a7.jpg"
   },
   {
     "name": "Escalation",
@@ -73,23 +55,19 @@
     "version": "1.1",
     "description": "Removed Official Mod, based on the Valorant game mode.",
     "modes": "",
-    "img": "https://starblast.data.neuronality.com/modding/img/escalation.jpg",
     "link": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/escalation.js",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "45rfew",
-          "Money"
-        ],
-        "link": "https://github.com/45rfew/"
+        "name": "45rfew"
       }
     ],
     "official": 1,
     "event": 0,
-    "sesameID": "md-Ean-xf9kQ0XiWu"
+    "sesameID": "md-Ean-xf9kQ0XiWu",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/escalation.jpg"
   },
   {
     "name": "Starblast Dueling Championship",
@@ -97,29 +75,22 @@
     "version": "2.0",
     "description": "This is the Starblast Dueling Championship mod, here you fight people in fair, 1 on 1 matches (duels).\nChoose your ship and fight!",
     "modes": "",
-    "img": "https://starblast.data.neuronality.com/modding/img/sdc.jpg",
     "link": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/dueling_championship.js",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "Bhpsngum"
-        ],
-        "link": "https://github.com/Bhpsngum"
+        "name": "Bhpsngum"
       },
       {
-        "name": [
-          "Eggsagon",
-          "Thuliux"
-        ],
-        "link": ""
+        "name": "Eggsagon"
       }
     ],
     "official": 1,
     "event": 0,
-    "sesameID": "md-Snp-5RXTgkZtkw"
+    "sesameID": "md-Snp-5RXTgkZtkw",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/sdc.jpg"
   },
   {
     "name": "Multi-Class Ship Tree",
@@ -127,28 +98,22 @@
     "version": "1.4",
     "description": "This is a ship tree with hundreds of different ships to explore. You may select your class of ships between Fighter, Heavy, Speedster and Support. Be the top on the leaderboard and kill teamers!",
     "modes": "Free For All (FFA)",
-    "img": "https://starblast.data.neuronality.com/modding/img/mcst.jpg",
     "link": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/mcst.js",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "SChickenMan"
-        ],
-        "link": ""
+        "name": "SChickenMan"
       },
       {
-        "name": [
-          "(featuring Various authors)"
-        ],
-        "link": ""
+        "name": "(featuring Various authors)"
       }
     ],
     "official": 1,
     "event": 0,
-    "sesameID": "md-Mse-Gws6g1lxem"
+    "sesameID": "md-Mse-Gws6g1lxem",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/mcst.jpg"
   },
   {
     "name": "Destroy the Mothership",
@@ -156,30 +121,22 @@
     "version": "1.3",
     "description": "Defend the mothership in this thrilling official game mode full of new ships and epicness.",
     "modes": "",
-    "img": "https://starblast.data.neuronality.com/modding/img/dtm.jpg",
     "link": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/destroy_the_mothership.js",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "45rfew",
-          "Money"
-        ],
-        "link": "https://github.com/45rfew/"
+        "name": "45rfew"
       },
       {
-        "name": [
-          "Kirito",
-          "Absolute Kun"
-        ],
-        "link": ""
+        "name": "Kirito"
       }
     ],
     "official": 1,
     "event": 0,
-    "sesameID": "md-DMp-dOl7ENGK8U"
+    "sesameID": "md-DMp-dOl7ENGK8U",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/dtm.jpg"
   },
   {
     "name": "Capture The Flag",
@@ -187,29 +144,22 @@
     "version": "1.4",
     "description": "Based on the Capture The Point game. Capture the flag, and go back safely to your base.",
     "modes": "",
-    "img": "https://starblast.data.neuronality.com/modding/img/ctf.jpg",
     "link": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/capture_the_flag.js",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "Bhpsngum"
-        ],
-        "link": "https://github.com/Bhpsngum/"
+        "name": "Bhpsngum"
       },
       {
-        "name": [
-          "45rfew",
-          "Money"
-        ],
-        "link": "https://github.com/45rfew/"
+        "name": "45rfew"
       }
     ],
     "official": 1,
     "event": 0,
-    "sesameID": "md-CTg-z5Q2GsTNqL"
+    "sesameID": "md-CTg-z5Q2GsTNqL",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/ctf.jpg"
   },
   {
     "name": "Rumble",
@@ -217,23 +167,19 @@
     "version": "1.3",
     "description": "Fight in thrilling battles full of vanilla ships of each tier, and win the most points before the other team takes over!",
     "modes": "",
-    "img": "https://starblast.data.neuronality.com/modding/img/rumble.jpg",
     "link": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/rumble.js",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "45rfew",
-          "Money"
-        ],
-        "link": "https://github.com/45rfew/"
+        "name": "45rfew"
       }
     ],
     "official": 1,
     "event": 0,
-    "sesameID": "md-Rbe-IAMuUGSdpy"
+    "sesameID": "md-Rbe-IAMuUGSdpy",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/rumble.jpg"
   },
   {
     "name": "Starblast Racing Championship",
@@ -241,28 +187,22 @@
     "version": "2.1",
     "description": "Race against your opponents to won the Racing cup!",
     "modes": "",
-    "img": "https://starblast.data.neuronality.com/modding/img/src2.jpg",
     "link": {
       "url": "https://github.com/GoldmanAerospace/SRC-All-track-codes-/",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "Goldman"
-        ],
-        "link": "https://github.com/GoldmanAeroSpace"
+        "name": "Goldman"
       },
       {
-        "name": [
-          "Notus"
-        ],
-        "link": "https://github.com/123-Notus"
+        "name": "Notus"
       }
     ],
     "official": 1,
     "event": 0,
-    "sesameID": "md-Snp-k7sNXoYyap"
+    "sesameID": "md-Snp-k7sNXoYyap",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/src2.jpg"
   },
   {
     "name": "Nautic Series",
@@ -270,22 +210,19 @@
     "version": "3.1",
     "description": "A Starblast Team Mode game based on the Nautic animals and creatures.",
     "modes": "Team",
-    "img": "https://starblast.data.neuronality.com/modding/img/nauticseries.jpg",
     "link": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/nauticseries.js",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "Goldman"
-        ],
-        "link": "https://github.com/GoldmanAeroSpace"
+        "name": "Goldman"
       }
     ],
     "official": 1,
     "event": 0,
-    "sesameID": "md-NSs-jUfGZNag2e"
+    "sesameID": "md-NSs-jUfGZNag2e",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/nauticseries.jpg"
   },
   {
     "name": "Alien Intrusion",
@@ -293,22 +230,19 @@
     "version": "5.0.5",
     "description": "A Starblast Team Mode game based on space ships fighting in an arena full of aliens.",
     "modes": "Team",
-    "img": "https://starblast.data.neuronality.com/modding/img/alienintrusion.jpg",
     "link": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/alienintrusion.js",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "Goldman"
-        ],
-        "link": "https://github.com/GoldmanAeroSpace"
+        "name": "Goldman"
       }
     ],
     "official": 1,
     "event": 0,
-    "sesameID": "md-Atn-bik5SOEWbZ"
+    "sesameID": "md-Atn-bik5SOEWbZ",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/alienintrusion.jpg"
   },
   {
     "name": "U-Series",
@@ -316,22 +250,19 @@
     "version": "4.0",
     "description": "A Starblast Team Mode game based on the U-Sniper ship.",
     "modes": "Team",
-    "img": "https://starblast.data.neuronality.com/modding/img/useries.jpg",
     "link": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/useries.js",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "Finalizer"
-        ],
-        "link": "https://github.com/StarblastFinalizer"
+        "name": "Finalizer"
       }
     ],
     "official": 1,
     "event": 0,
-    "sesameID": "md-Urs-L6pqi9zcsQ"
+    "sesameID": "md-Urs-L6pqi9zcsQ",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/useries.jpg"
   },
   {
     "name": "Battle Royale",
@@ -339,23 +270,19 @@
     "version": "2.0",
     "description": "Choose a ship and fight to death in a shrinking arena.",
     "modes": "",
-    "img": "https://starblast.data.neuronality.com/modding/img/battleroyale.jpg",
     "link": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/battleroyale.js",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "PMGL",
-          "Gilles"
-        ],
-        "link": "https://github.com/pmgl"
+        "name": "PMGL"
       }
     ],
     "official": 1,
     "event": 0,
-    "sesameID": "md-BRe-zRf1xhjUpV"
+    "sesameID": "md-BRe-zRf1xhjUpV",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/battleroyale.jpg"
   },
   {
     "name": "Starblast Racing",
@@ -363,23 +290,19 @@
     "version": "1.1",
     "description": "Race against your opponents in different tracks.",
     "modes": "",
-    "img": "https://starblast.data.neuronality.com/modding/img/src.jpg",
     "link": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/racing.js",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "PMGL",
-          "Gilles"
-        ],
-        "link": "https://github.com/pmgl"
+        "name": "PMGL"
       }
     ],
     "official": 2,
     "event": 0,
-    "sesameID": "md-Ssg-u6kj6LPD2Y"
+    "sesameID": "md-Ssg-u6kj6LPD2Y",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/src.jpg"
   },
   {
     "name": "Starblast Prototypes",
@@ -387,23 +310,19 @@
     "version": "1.0.0",
     "description": "Zero mining. Pure combat.",
     "modes": "",
-    "img": "https://starblast.data.neuronality.com/modding/img/prototypes.jpg",
     "link": {
       "url": "https://github.com/Bhpsngum/Uranus-Starblast-Prototypes",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "Uranus",
-          "UranusOrbiter"
-        ],
-        "link": "https://bitbucket.org/strutinsky5386"
+        "name": "Uranus"
       }
     ],
     "official": 2,
     "event": 0,
-    "sesameID": "md-SPs-3SUxBHFr7S"
+    "sesameID": "md-SPs-3SUxBHFr7S",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/prototypes.jpg"
   },
   {
     "name": "Arena Mod Remake/Recontinuation",
@@ -411,7 +330,6 @@
     "version": "4.0.0",
     "description": "Custom ships with abilities, made for epic and chaotic battles.",
     "modes": "",
-    "img": "https://bhpsngum.github.io/starblast/mods/img/re_arena.png",
     "link": {
       "url": "https://github.com/Bhpsngum/Arena-mod-remake",
       "state": 2,
@@ -419,27 +337,19 @@
     },
     "author": [
       {
-        "name": [
-          "Bhpsngum"
-        ],
-        "link": "https://github.com/bhpsngum/"
+        "name": "Bhpsngum"
       },
       {
-        "name": [
-          "Nexagon"
-        ],
-        "link": ""
+        "name": "Nexagon"
       },
       {
-        "name": [
-          "Tost"
-        ],
-        "link": ""
+        "name": "Tost"
       }
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-ARn-GqjwjBr0B3"
+    "sesameID": "md-ARn-GqjwjBr0B3",
+    "templateImage": "https://bhpsngum.github.io/starblast/mods/img/re_arena.png"
   },
   {
     "name": "Private Dueling",
@@ -454,37 +364,19 @@
     },
     "author": [
       {
-        "name": [
-          "45rfew",
-          "Money"
-        ],
-        "link": "https://github.com/45rfew/"
+        "name": "45rfew"
       },
       {
-        "name": [
-          "___"
-        ],
-        "link": "https://github.com/DoDucMinh1608"
+        "name": "___"
       },
       {
-        "name": [
-          "Apathy",
-          "X7"
-        ],
-        "link": "https://github.com/apxthyy/"
+        "name": "Apathy"
       },
       {
-        "name": [
-          "Bhpsngum"
-        ],
-        "link": "https://github.com/bhpsngum/"
+        "name": "Bhpsngum"
       },
       {
-        "name": [
-          "Robonuko",
-          "M.K"
-        ],
-        "link": "https://github.com/Mike-Kill/"
+        "name": "Robonuko"
       }
     ],
     "official": 0,
@@ -504,37 +396,19 @@
     },
     "author": [
       {
-        "name": [
-          "45rfew",
-          "Money"
-        ],
-        "link": "https://github.com/45rfew/"
+        "name": "45rfew"
       },
       {
-        "name": [
-          "___"
-        ],
-        "link": "https://github.com/DoDucMinh1608"
+        "name": "___"
       },
       {
-        "name": [
-          "Apathy",
-          "X7"
-        ],
-        "link": "https://github.com/apxthyy/"
+        "name": "Apathy"
       },
       {
-        "name": [
-          "Bhpsngum"
-        ],
-        "link": "https://github.com/bhpsngum/"
+        "name": "Bhpsngum"
       },
       {
-        "name": [
-          "Robonuko",
-          "M.K"
-        ],
-        "link": "https://github.com/Mike-Kill/"
+        "name": "Robonuko"
       }
     ],
     "official": 0,
@@ -554,10 +428,7 @@
     },
     "author": [
       {
-        "name": [
-          "Nova"
-        ],
-        "link": ""
+        "name": "Nova"
       }
     ],
     "official": 0,
@@ -577,10 +448,7 @@
     },
     "author": [
       {
-        "name": [
-          "Finalizer"
-        ],
-        "link": "https://github.com/StarblastFinalizer"
+        "name": "Finalizer"
       }
     ],
     "official": 0,
@@ -600,11 +468,7 @@
     },
     "author": [
       {
-        "name": [
-          "45rfew",
-          "Money"
-        ],
-        "link": "https://github.com/45rfew/"
+        "name": "45rfew"
       }
     ],
     "official": 0,
@@ -624,11 +488,7 @@
     },
     "author": [
       {
-        "name": [
-          "45rfew",
-          "Money"
-        ],
-        "link": "https://github.com/45rfew/"
+        "name": "45rfew"
       }
     ],
     "official": 0,
@@ -641,35 +501,25 @@
     "version": "0.96.96",
     "description": "A combination between team battles and Pro DeathMatch (PDM)",
     "modes": "",
-    "img": "https://bhpsngum.github.io/starblast/mods/img/tdm.png",
     "link": {
       "url": "https://github.com/Bhpsngum/TDM",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "Lexagon"
-        ],
-        "link": "https://www.youtube.com/channel/UCM7D5GzpRA8pxhgMbMcADpQ"
+        "name": "Lexagon"
       },
       {
-        "name": [
-          "Bhpsngum"
-        ],
-        "link": "https://github.com/Bhpsngum"
+        "name": "Bhpsngum"
       },
       {
-        "name": [
-          "45rfew",
-          "Money"
-        ],
-        "link": "https://github.com/45rfew/"
+        "name": "45rfew"
       }
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Tth-kktPhLUa8F"
+    "sesameID": "md-Tth-kktPhLUa8F",
+    "templateImage": "https://bhpsngum.github.io/starblast/mods/img/tdm.png"
   },
   {
     "name": "Starfleet",
@@ -677,22 +527,19 @@
     "version": "3.2.1",
     "description": "Basically a Star Wars mod. CC meta.",
     "modes": "Varies",
-    "img": "https://bhpsngum.github.io/starblast/mods/img/Starfleet.png",
     "link": {
       "url": "https://github.com/InterdictorSD/starfleetships-public",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "Interdictor"
-        ],
-        "link": ""
+        "name": "Interdictor"
       }
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Sft-jfCbGa7TCL"
+    "sesameID": "md-Sft-jfCbGa7TCL",
+    "templateImage": "https://bhpsngum.github.io/starblast/mods/img/Starfleet.png"
   },
   {
     "name": "Anarchy Mod",
@@ -707,11 +554,7 @@
     },
     "author": [
       {
-        "name": [
-          "Malefor",
-          "MaleficArtist"
-        ],
-        "link": "https://github.com/MALEFOR27/"
+        "name": "Malefor"
       }
     ],
     "official": 0,
@@ -731,10 +574,7 @@
     },
     "author": [
       {
-        "name": [
-          "Kleinem"
-        ],
-        "link": ""
+        "name": "Kleinem"
       }
     ],
     "official": 0,
@@ -754,16 +594,10 @@
     },
     "author": [
       {
-        "name": [
-          "Void"
-        ],
-        "link": ""
+        "name": "Void"
       },
       {
-        "name": [
-          "MGRocket"
-        ],
-        "link": ""
+        "name": "MGRocket"
       }
     ],
     "official": 0,
@@ -783,10 +617,7 @@
     },
     "author": [
       {
-        "name": [
-          "Void"
-        ],
-        "link": ""
+        "name": "Void"
       }
     ],
     "official": 0,
@@ -806,11 +637,7 @@
     },
     "author": [
       {
-        "name": [
-          "Uranus",
-          "UranusOrbiter"
-        ],
-        "link": "https://bitbucket.org/strutinsky5386"
+        "name": "Uranus"
       }
     ],
     "official": 0,
@@ -830,11 +657,7 @@
     },
     "author": [
       {
-        "name": [
-          "Uranus",
-          "UranusOrbiter"
-        ],
-        "link": "https://bitbucket.org/strutinsky5386"
+        "name": "Uranus"
       }
     ],
     "official": 0,
@@ -854,10 +677,7 @@
     },
     "author": [
       {
-        "name": [
-          "Bhpsngum"
-        ],
-        "link": "https://github.com/Bhpsngum/"
+        "name": "Bhpsngum"
       }
     ],
     "official": 0,
@@ -877,17 +697,10 @@
     },
     "author": [
       {
-        "name": [
-          "TheFish",
-          "ProfessorPi31415"
-        ],
-        "link": ""
+        "name": "TheFish"
       },
       {
-        "name": [
-          "(featuring Various authors)"
-        ],
-        "link": ""
+        "name": "(featuring Various authors)"
       }
     ],
     "official": 0,
@@ -907,10 +720,7 @@
     },
     "author": [
       {
-        "name": [
-          "__"
-        ],
-        "link": "https://github.com/DoDucMinh1608"
+        "name": "__"
       }
     ],
     "official": 0,
@@ -930,10 +740,7 @@
     },
     "author": [
       {
-        "name": [
-          "Bhpsngum"
-        ],
-        "link": "https://github.com/Bhpsngum/"
+        "name": "Bhpsngum"
       }
     ],
     "official": 0,
@@ -953,10 +760,7 @@
     },
     "author": [
       {
-        "name": [
-          "Naflouille"
-        ],
-        "link": ""
+        "name": "Naflouille"
       }
     ],
     "official": 0,
@@ -976,10 +780,7 @@
     },
     "author": [
       {
-        "name": [
-          "[USDF] OD"
-        ],
-        "link": ""
+        "name": "[USDF] OD"
       }
     ],
     "official": 0,
@@ -992,22 +793,19 @@
     "version": "",
     "description": "A Team Dueling mod. Strategic duels, shrinking arena, where you can pick only one ship per cycle.",
     "modes": "Team",
-    "img": "https://images-ext-2.discordapp.net/external/TvL2ShzGkNcx1JF3A59GTk5eHvXIsIn8TXxsVSgG2bw/https/repository-images.githubusercontent.com/347675356/196ef3dc-bd2e-461a-923c-10afc73a148a?width=2710&height=1355",
     "link": {
       "url": "https://github.com/W0lfan/STF/blob/main/main/stable.js",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "Naflouille"
-        ],
-        "link": ""
+        "name": "Naflouille"
       }
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-STs-LGK2DmBmpW"
+    "sesameID": "md-STs-LGK2DmBmpW",
+    "templateImage": "https://images-ext-2.discordapp.net/external/TvL2ShzGkNcx1JF3A59GTk5eHvXIsIn8TXxsVSgG2bw/https/repository-images.githubusercontent.com/347675356/196ef3dc-bd2e-461a-923c-10afc73a148a?width=2710&height=1355"
   },
   {
     "name": "Meg's Dueling",
@@ -1022,10 +820,7 @@
     },
     "author": [
       {
-        "name": [
-          "Megalodon"
-        ],
-        "link": "https://github.com/TheGreatMegalodon"
+        "name": "Megalodon"
       }
     ],
     "official": 0,
@@ -1045,10 +840,7 @@
     },
     "author": [
       {
-        "name": [
-          "Megalodon"
-        ],
-        "link": "https://github.com/TheGreatMegalodon"
+        "name": "Megalodon"
       }
     ],
     "official": 0,
@@ -1068,10 +860,7 @@
     },
     "author": [
       {
-        "name": [
-          "Megalodon"
-        ],
-        "link": "https://github.com/TheGreatMegalodon"
+        "name": "Megalodon"
       }
     ],
     "official": 0,
@@ -1091,22 +880,13 @@
     },
     "author": [
       {
-        "name": [
-          "Megalodon"
-        ],
-        "link": "https://github.com/TheGreatMegalodon"
+        "name": "Megalodon"
       },
       {
-        "name": [
-          "ByLoloPro"
-        ],
-        "link": ""
+        "name": "ByLoloPro"
       },
       {
-        "name": [
-          "Neo Space"
-        ],
-        "link": ""
+        "name": "Neo Space"
       }
     ],
     "official": 0,
@@ -1119,40 +899,28 @@
     "version": "",
     "description": "Starblast Asteroid War is a team-based game in which players must battle for survival against perilous asteroid waves and cunning alien adversaries. The inclusion of our new custom ship tree introduces fresh gameplay elements, and the game offers an extensive selection of collectibles as rewards. It is imperative to avoid falling victim to our formidable adversary, the Saucer, often referred to as the 'King of Asteroids.' Defeating this foe bestows a substantial advantage upon the ennemy teams. And guess what.. This is only the beginning!",
     "modes": "",
-    "img": "https://media.discordapp.net/attachments/960124329104900158/1137732157377368136/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313032373535383931323035383230303135352f313036313633343037373839373237333338352f5341575f42616e6e65725f335f636f6c6f725f76657273696f6e2e706e67.png?width=2425&height=1355",
     "link": {
       "url": "https://github.com/TheGreatMegalodon/Starblast-Asteroid-War/blob/main/(%20v3.4.2%20)%20SAW%20Modding%20Space%20Code.js",
       "state": 2
     },
     "author": [
       {
-        "name": [
-          "Megalodon"
-        ],
-        "link": "https://github.com/TheGreatMegalodon"
+        "name": "Megalodon"
       },
       {
-        "name": [
-          "LX"
-        ],
-        "link": ""
+        "name": "LX"
       },
       {
-        "name": [
-          "Hazard"
-        ],
-        "link": ""
+        "name": "Hazard"
       },
       {
-        "name": [
-          "Nebuleuse"
-        ],
-        "link": "https://github.com/NebuleuseTheGreat"
+        "name": "Nebuleuse"
       }
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Aor-MP3exGGVHt"
+    "sesameID": "md-Aor-MP3exGGVHt",
+    "templateImage": "https://media.discordapp.net/attachments/960124329104900158/1137732157377368136/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313032373535383931323035383230303135352f313036313633343037373839373237333338352f5341575f42616e6e65725f335f636f6c6f725f76657273696f6e2e706e67.png?width=2425&height=1355"
   },
   {
     "name": "Starblast Chatting System",
@@ -1167,10 +935,7 @@
     },
     "author": [
       {
-        "name": [
-          "Halcyon"
-        ],
-        "link": ""
+        "name": "Halcyon"
       }
     ],
     "official": 0,
@@ -1183,21 +948,17 @@
     "version": "3.1.2",
     "description": "Arena Mod Original v3.1.2",
     "modes": "",
-    "img": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/arena-mod-season-2.png?raw=true",
     "link": {
       "url": "https://raw.githubusercontent.com/W0lfan/SesameAPI/main/database/mods/arena-mod_v3.1.2.js"
     },
     "author": [
       {
-        "name": [
-          "Nexagon",
-          "Lexagon"
-        ],
-        "link": ""
+        "name": "Nexagon"
       }
     ],
     "official": 0,
-    "sesameID": "md-AOl-nLgobsBFxg"
+    "sesameID": "md-AOl-nLgobsBFxg",
+    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/arena-mod-season-2.png?raw=true"
   },
   {
     "name": "Overpowered Speedster",
@@ -1205,22 +966,17 @@
     "version": "2.0.0",
     "description": "For fun with Speedster",
     "modes": "",
-    "img": "https://github.com/Modraxis/Overpowered-Speedster/assets/117416934/ed295f76-3752-4126-a8fe-b53de94509c5",
     "link": {
       "url": "https://github.com/Modraxis/Overpowered-Speedster/blob/main/Overpowered%20Speedster%20mod%20code.JS"
     },
     "author": [
       {
-        "name": [
-          "Basit",
-          "HELPER",
-          "ATTACK AS TEAM"
-        ],
-        "link": "https://github.com/Modraxis"
+        "name": "Basit"
       }
     ],
     "official": 0,
-    "sesameID": "md-Odr-2BYw4beExh"
+    "sesameID": "md-Odr-2BYw4beExh",
+    "templateImage": "https://github.com/Modraxis/Overpowered-Speedster/assets/117416934/ed295f76-3752-4126-a8fe-b53de94509c5"
   },
   {
     "name": "Starblast Tag Mod",
@@ -1234,10 +990,7 @@
     },
     "author": [
       {
-        "name": [
-          "Bhpsngum"
-        ],
-        "link": ""
+        "name": "Bhpsngum"
       }
     ],
     "official": 0,
@@ -1255,10 +1008,7 @@
     },
     "author": [
       {
-        "name": [
-          "AlbieMorrison"
-        ],
-        "link": ""
+        "name": "AlbieMorrison"
       }
     ],
     "official": 0,
@@ -1276,10 +1026,7 @@
     },
     "author": [
       {
-        "name": [
-          "naflouille"
-        ],
-        "link": ""
+        "name": "naflouille"
       }
     ],
     "official": 0,
@@ -1297,10 +1044,7 @@
     },
     "author": [
       {
-        "name": [
-          "naflouille"
-        ],
-        "link": ""
+        "name": "naflouille"
       }
     ],
     "official": 0,
@@ -1318,10 +1062,7 @@
     },
     "author": [
       {
-        "name": [
-          "naflouille"
-        ],
-        "link": ""
+        "name": "naflouille"
       }
     ],
     "official": 0,
@@ -1339,10 +1080,7 @@
     },
     "author": [
       {
-        "name": [
-          "__"
-        ],
-        "link": ""
+        "name": "__"
       }
     ],
     "official": 0,
