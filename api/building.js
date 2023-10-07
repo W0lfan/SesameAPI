@@ -8,14 +8,7 @@
  */
     const __Path__ = "https://raw.githubusercontent.com/W0lfan/sesame/main/database/";
 
-    const __LINKS__ = {
-        codes: "codes.json",
-        users: "users.json",
-        mods: "mods.json",
-        communities: "communities.json",
-        ships: "ships.json"
-    };
-    
+
     const __Version__ = "0.0.1";
     
     
@@ -56,13 +49,21 @@
                 const gathering_available = content.filter(item =>
                     gathering.some(gather =>
                         item.name.toLowerCase().includes(gather) ||
-                        (item.description && item.description.toLowerCase().includes(gather.toLowerCase())) ||
-                        (item.author && Array.isArray(item.author) && item.author.some(aut => aut && aut.name.toLowerCase().includes(gather.toLowerCase()))))
+                        (
+                            item.description && item.description.toLowerCase().includes(gather.toLowerCase())
+                        ) 
+                        ||
+                        (
+                            item.author && item.author.some(
+                                aut => aut && aut.name.toLowerCase().includes(gather.toLowerCase())
+                            )
+                        )
+                    )
                 );
     
     
     
-    
+                console.log(gathering_available,"EEEE")
                 return gathering_available;
             }
         } catch (error) {
