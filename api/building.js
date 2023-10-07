@@ -44,15 +44,12 @@
         }
     
         let path = __Path__ + directory + ".json";
-        console.log('New request to the Sesame database. Fetching from ' + path);
     
         try {
             const content = await fetchData(path);
     
-            console.log(`Sesame Database - Z${directory}.json\nFound ${content.length} replies. Extracting datas.`);
     
             if (gathering === 1) {
-                console.log(`Returning all datas from ${directory}.json.`);
                 return content;
             } else {
                 gathering = gathering.map(value => value.toLowerCase());
@@ -69,8 +66,6 @@
     
     
     
-                console.log(`Compatibility found in ${directory}.json for "${gathering.join(', ')}". Returning datas.`);
-                console.log(gathering_available)
                 return gathering_available;
             }
         } catch (error) {
