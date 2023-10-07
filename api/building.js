@@ -8,6 +8,13 @@
  */
     const __Path__ = "https://raw.githubusercontent.com/W0lfan/sesame/main/database/";
 
+    const __LINKS__ = {
+        codes :                 "codes",
+        users :                 "users",
+        mods :                  "mods",
+        communities :           "communities",
+        ships :                 "ships"
+    };
 
     const __Version__ = "0.0.1";
     
