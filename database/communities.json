@@ -286,15 +286,15 @@
       "English"
     ],
     "server": "EU",
-    "active": false,
+    "active": true,
     "birth": "",
     "links": {
-      "join": "https://discord.gg/V6h6V6qW74",
+      "join": "https://discord.gg/w82qzaESDW",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Rlp-oeEhsUNI4j",
-    "templateImage": "https://cdn.discordapp.com/icons/869331644333584404/e7ed9b74abdd2f3842cd3723d7fda2cf.webp?",
-    "description": "European clans led by Trollbaba, unfortunately no longer active.",
+    "templateImage": "https://cdn.discordapp.com/icons/1045719521605984316/2c71d9609077ef057a359632fd304b8f.webp?",
+    "description": "European clans led by Trollbaba, who have since become active again with the return of their leader.",
     "author": [
       {
         "name": "TrolBaba25"
