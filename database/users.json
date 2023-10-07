@@ -1,7 +1,6 @@
 [
   {
     "name": "Bhpsngum",
-    "pfp": "https://avatars.githubusercontent.com/u/53442511?v=4",
     "links": [
       {
         "id": "github",
@@ -23,11 +22,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-BNM-Go4A6f6RX9"
+    "sesameID": "usr-BNM-Go4A6f6RX9",
+    "templateImage": "https://avatars.githubusercontent.com/u/53442511?v=4"
   },
   {
     "name": "naflouille",
-    "pfp": "https://media.discordapp.net/attachments/951567105596207169/1138081934531117086/1691408578172.jpg?width=1292&height=1355",
     "links": [
       {
         "id": "github",
@@ -54,11 +53,11 @@
       "isContrib": true,
       "isSesame": true
     },
-    "sesameID": "usr-NUE-XrwWHCTUWX"
+    "sesameID": "usr-NUE-XrwWHCTUWX",
+    "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1138081934531117086/1691408578172.jpg?width=1292&height=1355"
   },
   {
     "name": "Nexagon",
-    "pfp": "https://cdn.discordapp.com/avatars/490447169959231498/700a636d2cb17aa54fbf608be2568c65.webp",
     "links": [
       {
         "id": "discord",
@@ -76,11 +75,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-NAN-p46G1vdXZF"
+    "sesameID": "usr-NAN-p46G1vdXZF",
+    "templateImage": "https://cdn.discordapp.com/avatars/490447169959231498/700a636d2cb17aa54fbf608be2568c65.webp"
   },
   {
     "name": "Megalodon",
-    "pfp": "https://cdn.discordapp.com/attachments/929812373810847854/1138074318656516106/sharkyyyyyyyyyyy.png",
     "links": [
       {
         "id": "github",
@@ -107,11 +106,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-MLN-aYHlV7DC18"
+    "sesameID": "usr-MLN-aYHlV7DC18",
+    "templateImage": "https://cdn.discordapp.com/attachments/929812373810847854/1138074318656516106/sharkyyyyyyyyyyy.png"
   },
   {
     "name": "PMGL",
-    "pfp": "https://avatars.githubusercontent.com/u/17835059?v=4",
     "links": [
       {
         "id": "github",
@@ -129,11 +128,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-PGL-LUG7myiPqA"
+    "sesameID": "usr-PGL-LUG7myiPqA",
+    "templateImage": "https://avatars.githubusercontent.com/u/17835059?v=4"
   },
   {
     "name": "45rfew",
-    "pfp": "https://starblast.io/ecp/45rfew.jpg",
     "links": [
       {
         "id": "github",
@@ -151,11 +150,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-4FW-Vnd5Fs1s9F"
+    "sesameID": "usr-4FW-Vnd5Fs1s9F",
+    "templateImage": "https://starblast.io/ecp/45rfew.jpg"
   },
   {
     "name": "Nebuleuse",
-    "pfp": "https://avatars.githubusercontent.com/u/109994049?v=4",
     "links": [
       {
         "id": "github",
@@ -182,11 +181,11 @@
       "isContrib": true,
       "isSesame": true
     },
-    "sesameID": "usr-NLE-TfoUb7v5kw"
+    "sesameID": "usr-NLE-TfoUb7v5kw",
+    "templateImage": "https://avatars.githubusercontent.com/u/109994049?v=4"
   },
   {
     "name": "Hazard",
-    "pfp": "https://avatars.githubusercontent.com/u/118680841?v=4",
     "links": [
       {
         "id": "github",
@@ -208,11 +207,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-HAD-mAFkeTbvE9"
+    "sesameID": "usr-HAD-mAFkeTbvE9",
+    "templateImage": "https://avatars.githubusercontent.com/u/118680841?v=4"
   },
   {
     "name": "LX",
-    "pfp": "https://avatars.githubusercontent.com/u/56999185?v=4",
     "links": [
       {
         "id": "github",
@@ -230,11 +229,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-LXX-nLN6umFD2E"
+    "sesameID": "usr-LXX-nLN6umFD2E",
+    "templateImage": "https://avatars.githubusercontent.com/u/56999185?v=4"
   },
   {
     "name": "Double Dash",
-    "pfp": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/X2-DashUCP.png?raw=true",
     "links": [
       {
         "id": "discord",
@@ -248,11 +247,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-DEH-xGw1NAWzCg"
+    "sesameID": "usr-DEH-xGw1NAWzCg",
+    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/X2-DashUCP.png?raw=true"
   },
   {
     "name": "void",
-    "pfp": "unknown",
     "links": [
       {
         "id": "discord",
@@ -266,11 +265,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-VID-3SXcjspfG8"
+    "sesameID": "usr-VID-3SXcjspfG8",
+    "templateImage": "unknown"
   },
   {
     "name": "Kleinem",
-    "pfp": "https://starblast.io/ecp/kleinem.jpg",
     "links": [
       {
         "id": "discord",
@@ -284,11 +283,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-KIM-GuG0E8ubRc"
+    "sesameID": "usr-KIM-GuG0E8ubRc",
+    "templateImage": "https://starblast.io/ecp/kleinem.jpg"
   },
   {
     "name": "Interdictor",
-    "pfp": "https://avatars.githubusercontent.com/u/51348990?v=4",
     "links": [
       {
         "id": "github",
@@ -306,11 +305,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-IDR-vSFfzrE7Ro"
+    "sesameID": "usr-IDR-vSFfzrE7Ro",
+    "templateImage": "https://avatars.githubusercontent.com/u/51348990?v=4"
   },
   {
     "name": "Finalizer",
-    "pfp": "https://avatars.githubusercontent.com/u/40551089?v=4",
     "links": [
       {
         "id": "github",
@@ -328,11 +327,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-FLR-uRDiyQbHCW"
+    "sesameID": "usr-FLR-uRDiyQbHCW",
+    "templateImage": "https://avatars.githubusercontent.com/u/40551089?v=4"
   },
   {
     "name": "Nova",
-    "pfp": "https://starblast.io/ecp/nova.jpg",
     "links": [
       {
         "id": "github",
@@ -350,11 +349,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-NVA-2zCitaxmuc"
+    "sesameID": "usr-NVA-2zCitaxmuc",
+    "templateImage": "https://starblast.io/ecp/nova.jpg"
   },
   {
     "name": "Tost",
-    "pfp": "https://cdn.discordapp.com/avatars/1037515230789517434/c673df1f2ba3641820512a47e1bc6738.webp",
     "links": [
       {
         "id": "discord",
@@ -368,11 +367,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-TST-tewAf3A4gU"
+    "sesameID": "usr-TST-tewAf3A4gU",
+    "templateImage": "https://cdn.discordapp.com/avatars/1037515230789517434/c673df1f2ba3641820512a47e1bc6738.webp"
   },
   {
     "name": "Goldman",
-    "pfp": "https://avatars.githubusercontent.com/u/40668886?v=4",
     "links": [
       {
         "id": "github",
@@ -390,11 +389,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-GDN-sp6SrddvUL"
+    "sesameID": "usr-GDN-sp6SrddvUL",
+    "templateImage": "https://avatars.githubusercontent.com/u/40668886?v=4"
   },
   {
     "name": "Notus",
-    "pfp": "https://starblast.io/ecp/notus.png",
     "links": [
       {
         "id": "github",
@@ -417,11 +416,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-NTS-MczkElVlz2"
+    "sesameID": "usr-NTS-MczkElVlz2",
+    "templateImage": "https://starblast.io/ecp/notus.png"
   },
   {
     "name": "SChickenMan",
-    "pfp": "https://starblast.io/ecp/schickenman.png",
     "links": [
       {
         "id": "discord",
@@ -435,11 +434,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-SKN-Z6YKGOtnZt"
+    "sesameID": "usr-SKN-Z6YKGOtnZt",
+    "templateImage": "https://starblast.io/ecp/schickenman.png"
   },
   {
     "name": "Rithy",
-    "pfp": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/rithy.png?raw=true",
     "links": [
       {
         "id": "github",
@@ -465,11 +464,11 @@
       "isContrib": false,
       "isSesame": true
     },
-    "sesameID": "usr-RTY-bDEO1zR7Gx"
+    "sesameID": "usr-RTY-bDEO1zR7Gx",
+    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/rithy.png?raw=true"
   },
   {
     "name": "JavRedstone",
-    "pfp": "https://avatars.githubusercontent.com/u/85136616?v=4",
     "links": [
       {
         "id": "github",
@@ -487,11 +486,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-JDE-G7jHhcfP4n"
+    "sesameID": "usr-JDE-G7jHhcfP4n",
+    "templateImage": "https://avatars.githubusercontent.com/u/85136616?v=4"
   },
   {
     "name": "Thuliux",
-    "pfp": "https://yt3.googleusercontent.com/ytc/AOPolaQrNqhEhQRuffQWsqs48f1eC_WHlcP7lo0wlnsl=s176-c-k-c0x00ffffff-no-rj",
     "links": [
       {
         "id": "github",
@@ -513,11 +512,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-TLX-ZGQU8IZMxq"
+    "sesameID": "usr-TLX-ZGQU8IZMxq",
+    "templateImage": "https://yt3.googleusercontent.com/ytc/AOPolaQrNqhEhQRuffQWsqs48f1eC_WHlcP7lo0wlnsl=s176-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "Loveship",
-    "pfp": "https://starblast.io/ecp/loveship.png",
     "links": [
       {
         "id": "github",
@@ -531,11 +530,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-LSP-H0vbe6Gv7G"
+    "sesameID": "usr-LSP-H0vbe6Gv7G",
+    "templateImage": "https://starblast.io/ecp/loveship.png"
   },
   {
     "name": "Dank Dmitron",
-    "pfp": "https://avatars.githubusercontent.com/u/22554516?v=4",
     "links": [
       {
         "id": "github",
@@ -553,11 +552,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-DMN-gUpDanmwih"
+    "sesameID": "usr-DMN-gUpDanmwih",
+    "templateImage": "https://avatars.githubusercontent.com/u/22554516?v=4"
   },
   {
     "name": "Tournebulle",
-    "pfp": "https://starblast.io/ecp/tournebulle.png",
     "links": [
       {
         "id": "discord",
@@ -571,11 +570,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-TEE-hFEmtcFYPj"
+    "sesameID": "usr-TEE-hFEmtcFYPj",
+    "templateImage": "https://starblast.io/ecp/tournebulle.png"
   },
   {
     "name": "Bot Lore",
-    "pfp": "https://avatars.githubusercontent.com/u/51336474?v=4",
     "links": [
       {
         "id": "github",
@@ -593,11 +592,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-BLE-bVKw0GwFiF"
+    "sesameID": "usr-BLE-bVKw0GwFiF",
+    "templateImage": "https://avatars.githubusercontent.com/u/51336474?v=4"
   },
   {
     "name": "X-27",
-    "pfp": "https://avatars.githubusercontent.com/u/10255368?v=4",
     "links": [
       {
         "id": "github",
@@ -619,11 +618,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-X27-yxerQG6b6X"
+    "sesameID": "usr-X27-yxerQG6b6X",
+    "templateImage": "https://avatars.githubusercontent.com/u/10255368?v=4"
   },
   {
     "name": "BloodyDubstep",
-    "pfp": "https://cdn.discordapp.com/avatars/365053226053140491/dd53df2c4bb6c9c2f72555ff6dc12ef9.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -645,11 +644,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-BDP-VOK6Xmbopw"
+    "sesameID": "usr-BDP-VOK6Xmbopw",
+    "templateImage": "https://cdn.discordapp.com/avatars/365053226053140491/dd53df2c4bb6c9c2f72555ff6dc12ef9.webp?size=128"
   },
   {
     "name": "Lexydrow",
-    "pfp": "https://avatars.githubusercontent.com/u/95083154?v=4",
     "links": [
       {
         "id": "github",
@@ -671,11 +670,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-LDW-l0slaxRQrf"
+    "sesameID": "usr-LDW-l0slaxRQrf",
+    "templateImage": "https://avatars.githubusercontent.com/u/95083154?v=4"
   },
   {
     "name": "Dimed",
-    "pfp": "https://starblast.io/ecp/dimed.jpg",
     "links": [
       {
         "id": "discord",
@@ -689,11 +688,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-DMD-V6WUQiBCGd"
+    "sesameID": "usr-DMD-V6WUQiBCGd",
+    "templateImage": "https://starblast.io/ecp/dimed.jpg"
   },
   {
     "name": "Oh",
-    "pfp": "https://starblast.io/ecp/oh.jpg",
     "links": [
       {
         "id": "discord",
@@ -707,11 +706,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-OHH-v1C36jtDQ3"
+    "sesameID": "usr-OHH-v1C36jtDQ3",
+    "templateImage": "https://starblast.io/ecp/oh.jpg"
   },
   {
     "name": "43615",
-    "pfp": "https://avatars.githubusercontent.com/u/53740368?v=4",
     "links": [
       {
         "id": "github",
@@ -729,11 +728,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-465-6fPhTgRGsH"
+    "sesameID": "usr-465-6fPhTgRGsH",
+    "templateImage": "https://avatars.githubusercontent.com/u/53740368?v=4"
   },
   {
     "name": "Carme",
-    "pfp": "https://starblast.io/ecp/carme.jpg",
     "links": [
       {
         "id": "github",
@@ -751,11 +750,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-CRE-Uh4ws66kOj"
+    "sesameID": "usr-CRE-Uh4ws66kOj",
+    "templateImage": "https://starblast.io/ecp/carme.jpg"
   },
   {
     "name": "Acarii",
-    "pfp": "https://starblast.io/ecp/acarii.jpg",
     "links": [
       {
         "id": "github",
@@ -773,11 +772,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-ARI-IGGPTLy9Gw"
+    "sesameID": "usr-ARI-IGGPTLy9Gw",
+    "templateImage": "https://starblast.io/ecp/acarii.jpg"
   },
   {
     "name": "Partytime",
-    "pfp": "https://cdn.discordapp.com/avatars/616029738779279360/bb9e0cf294fc5483b36a783fe0b70c96.webp",
     "links": [
       {
         "id": "discord",
@@ -791,11 +790,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-PYE-w3zBiYcIGS"
+    "sesameID": "usr-PYE-w3zBiYcIGS",
+    "templateImage": "https://cdn.discordapp.com/avatars/616029738779279360/bb9e0cf294fc5483b36a783fe0b70c96.webp"
   },
   {
     "name": "xys!",
-    "pfp": "https://avatars.githubusercontent.com/u/133616366?v=4",
     "links": [
       {
         "id": "github",
@@ -813,11 +812,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-XYS-nv0ikfuPwm"
+    "sesameID": "usr-XYS-nv0ikfuPwm",
+    "templateImage": "https://avatars.githubusercontent.com/u/133616366?v=4"
   },
   {
     "name": "Serendibite",
-    "pfp": "https://cdn.discordapp.com/avatars/384384379423686657/27907a195ee559965bde88badc705775.webp",
     "links": [
       {
         "id": "discord",
@@ -831,11 +830,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-SDE-qj32SUx8Up"
+    "sesameID": "usr-SDE-qj32SUx8Up",
+    "templateImage": "https://cdn.discordapp.com/avatars/384384379423686657/27907a195ee559965bde88badc705775.webp"
   },
   {
     "name": "Supernova",
-    "pfp": "https://cdn.discordapp.com/avatars/497549771125424128/6196b2cd353c372e55d8d479f0a4990b.webp",
     "links": [
       {
         "id": "discord",
@@ -849,11 +848,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-SRA-CArulefOZu"
+    "sesameID": "usr-SRA-CArulefOZu",
+    "templateImage": "https://cdn.discordapp.com/avatars/497549771125424128/6196b2cd353c372e55d8d479f0a4990b.webp"
   },
   {
     "name": "Absolute Kun",
-    "pfp": "https://cdn.discordapp.com/avatars/655357190361841675/dc45909da19d75b0d239e97ef276c8a3.webp",
     "links": [
       {
         "id": "discord",
@@ -867,11 +866,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-AUN-xm99h5xwjB"
+    "sesameID": "usr-AUN-xm99h5xwjB",
+    "templateImage": "https://cdn.discordapp.com/avatars/655357190361841675/dc45909da19d75b0d239e97ef276c8a3.webp"
   },
   {
     "name": "Endersult",
-    "pfp": "https://yt3.googleusercontent.com/tCPBFC4IIPJB-npFHdXUJ83p5Oh1b0UjHxdR2_v1ytRvvqYj_YF60ynoX2vKBMp6_qbC81-yfQ=s176-c-k-c0x00ffffff-no-rj",
     "links": [
       {
         "id": "discord",
@@ -889,11 +888,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-ERT-58GsPqw4z5"
+    "sesameID": "usr-ERT-58GsPqw4z5",
+    "templateImage": "https://yt3.googleusercontent.com/tCPBFC4IIPJB-npFHdXUJ83p5Oh1b0UjHxdR2_v1ytRvvqYj_YF60ynoX2vKBMp6_qbC81-yfQ=s176-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "201x Captain",
-    "pfp": "https://cdn.discordapp.com/avatars/864026236652355625/3645461db68e5f99cf0b31c2b8386999.webp",
     "links": [
       {
         "id": "discord",
@@ -907,11 +906,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-2AN-uE6Utb3UNg"
+    "sesameID": "usr-2AN-uE6Utb3UNg",
+    "templateImage": "https://cdn.discordapp.com/avatars/864026236652355625/3645461db68e5f99cf0b31c2b8386999.webp"
   },
   {
     "name": "Admiral Forever",
-    "pfp": "https://avatars.githubusercontent.com/u/55037968?v=4",
     "links": [
       {
         "id": "github",
@@ -929,11 +928,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-AFR-zFpPFVCZD5"
+    "sesameID": "usr-AFR-zFpPFVCZD5",
+    "templateImage": "https://avatars.githubusercontent.com/u/55037968?v=4"
   },
   {
     "name": "Glitch",
-    "pfp": "https://cdn.discordapp.com/avatars/467860839076986881/2cab018e1dbde2f8e87e90aa784b1b60.webp",
     "links": [
       {
         "id": "discord",
@@ -947,11 +946,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-GTH-xHd7AAKMXy"
+    "sesameID": "usr-GTH-xHd7AAKMXy",
+    "templateImage": "https://cdn.discordapp.com/avatars/467860839076986881/2cab018e1dbde2f8e87e90aa784b1b60.webp"
   },
   {
     "name": "Dark Shadow Evil",
-    "pfp": "https://avatars.githubusercontent.com/u/82825962?v=4",
     "links": [
       {
         "id": "github",
@@ -969,11 +968,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-DDL-EBPVPKkfCB"
+    "sesameID": "usr-DDL-EBPVPKkfCB",
+    "templateImage": "https://avatars.githubusercontent.com/u/82825962?v=4"
   },
   {
     "name": "Badger",
-    "pfp": "https://cdn.discordapp.com/avatars/292330835867074560/4d827c55342794c2b6dae339e7d4cd4b.webp?size=80",
     "links": [
       {
         "id": "discord",
@@ -987,11 +986,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-BGR-u1OL7T1DlG"
+    "sesameID": "usr-BGR-u1OL7T1DlG",
+    "templateImage": "https://cdn.discordapp.com/avatars/292330835867074560/4d827c55342794c2b6dae339e7d4cd4b.webp?size=80"
   },
   {
     "name": "Dschmoneys",
-    "pfp": "https://cdn.discordapp.com/avatars/687401446509117447/fa1727bc611d9c965ec088f97f3720c9.webp",
     "links": [
       {
         "id": "discord",
@@ -1005,11 +1004,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-DOS-mPagjdtHGR"
+    "sesameID": "usr-DOS-mPagjdtHGR",
+    "templateImage": "https://cdn.discordapp.com/avatars/687401446509117447/fa1727bc611d9c965ec088f97f3720c9.webp"
   },
   {
     "name": "Emperor",
-    "pfp": "https://cdn.discordapp.com/avatars/416341552764551168/cdc3eb4a9bdb14ab854b8b7b7c4cd4fb.webp",
     "links": [
       {
         "id": "discord",
@@ -1023,11 +1022,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-EER-w4aIqjNL8M"
+    "sesameID": "usr-EER-w4aIqjNL8M",
+    "templateImage": "https://cdn.discordapp.com/avatars/416341552764551168/cdc3eb4a9bdb14ab854b8b7b7c4cd4fb.webp"
   },
   {
     "name": "Tez",
-    "pfp": "https://cdn.discordapp.com/avatars/875837972904284182/fb96c46ab1d9a27c20f0f0ceee128d92.webp",
     "links": [
       {
         "id": "discord",
@@ -1041,11 +1040,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-TEZ-2UPGEUAhyr"
+    "sesameID": "usr-TEZ-2UPGEUAhyr",
+    "templateImage": "https://cdn.discordapp.com/avatars/875837972904284182/fb96c46ab1d9a27c20f0f0ceee128d92.webp"
   },
   {
     "name": "NukePhysics",
-    "pfp": "https://cdn.discordapp.com/avatars/450197793882112001/57704ce25b79a0fca77bb45c41af8489.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1063,11 +1062,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-NHS-nqGBCul0iW"
+    "sesameID": "usr-NHS-nqGBCul0iW",
+    "templateImage": "https://cdn.discordapp.com/avatars/450197793882112001/57704ce25b79a0fca77bb45c41af8489.webp?size=128"
   },
   {
     "name": "Otsu",
-    "pfp": "https://cdn.discordapp.com/avatars/292090325785247754/53e983afa493ed93a6491f703c48399f.webp",
     "links": [
       {
         "id": "discord",
@@ -1081,11 +1080,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-OSU-FNN172l1xV"
+    "sesameID": "usr-OSU-FNN172l1xV",
+    "templateImage": "https://cdn.discordapp.com/avatars/292090325785247754/53e983afa493ed93a6491f703c48399f.webp"
   },
   {
     "name": "Azimi",
-    "pfp": "https://cdn.discordapp.com/avatars/292090325785247754/53e983afa493ed93a6491f703c48399f.webp",
     "links": [
       {
         "id": "discord",
@@ -1099,11 +1098,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-AII-D5NcLhGG7O"
+    "sesameID": "usr-AII-D5NcLhGG7O",
+    "templateImage": "https://cdn.discordapp.com/avatars/292090325785247754/53e983afa493ed93a6491f703c48399f.webp"
   },
   {
     "name": "TwiDash",
-    "pfp": "https://yt3.googleusercontent.com/n60LC5Krn2FW27vB-1OaU2Myw0WNh0R_7W-sG-FAGucanGJ5hbL79yP_0LHG-0aP38Ah6JXt=s176-c-k-c0x00ffffff-no-rj",
     "links": [
       {
         "id": "discord",
@@ -1117,11 +1116,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-TDH-r8QDnPi1eP"
+    "sesameID": "usr-TDH-r8QDnPi1eP",
+    "templateImage": "https://yt3.googleusercontent.com/n60LC5Krn2FW27vB-1OaU2Myw0WNh0R_7W-sG-FAGucanGJ5hbL79yP_0LHG-0aP38Ah6JXt=s176-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "Ayaka Aram",
-    "pfp": "https://avatars.githubusercontent.com/u/78714474?v=4",
     "links": [
       {
         "id": "github",
@@ -1143,11 +1142,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-AAM-heslwVf8G3"
+    "sesameID": "usr-AAM-heslwVf8G3",
+    "templateImage": "https://avatars.githubusercontent.com/u/78714474?v=4"
   },
   {
     "name": "Neo Space",
-    "pfp": "https://yt3.googleusercontent.com/YiE8AlHEbHErw6G8I9ShwU6_oNebSECumFp-o7VWdwWIgtbflvQQqpe-59LiyG-TpLHDJvtCx-w=s176-c-k-c0x00ffffff-no-rj",
     "links": [
       {
         "id": "discord",
@@ -1165,11 +1164,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-NPE-n3Z5Fkq7dr"
+    "sesameID": "usr-NPE-n3Z5Fkq7dr",
+    "templateImage": "https://yt3.googleusercontent.com/YiE8AlHEbHErw6G8I9ShwU6_oNebSECumFp-o7VWdwWIgtbflvQQqpe-59LiyG-TpLHDJvtCx-w=s176-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "Anchar",
-    "pfp": "https://yt3.googleusercontent.com/cRWMQ0p8oqvSdZhJWkOXennE9yR2YTESR_SozGkNE3oJ0IilAiXkkENpTKiAnRM5dVZkA1vQ=s176-c-k-c0x00ffffff-no-rj",
     "links": [
       {
         "id": "discord",
@@ -1187,11 +1186,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-AHR-Btz6Zpj4rg"
+    "sesameID": "usr-AHR-Btz6Zpj4rg",
+    "templateImage": "https://yt3.googleusercontent.com/cRWMQ0p8oqvSdZhJWkOXennE9yR2YTESR_SozGkNE3oJ0IilAiXkkENpTKiAnRM5dVZkA1vQ=s176-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "Sciences",
-    "pfp": "https://yt3.googleusercontent.com/ytc/AOPolaSL2-iZiIVtfm1-4ddnqHkVPj3p-a8tbJsoKg_1JA=s176-c-k-c0x00ffffff-no-rj",
     "links": [
       {
         "id": "github",
@@ -1213,11 +1212,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-SNS-EuNkMkOQmS"
+    "sesameID": "usr-SNS-EuNkMkOQmS",
+    "templateImage": "https://yt3.googleusercontent.com/ytc/AOPolaSL2-iZiIVtfm1-4ddnqHkVPj3p-a8tbJsoKg_1JA=s176-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "Fady",
-    "pfp": "https://yt3.googleusercontent.com/ytc/AOPolaTc0iThrliBM26f8AoXxC0-T7oBg6HCN6nkC6rP=s176-c-k-c0x00ffffff-no-rj",
     "links": [
       {
         "id": "discord",
@@ -1235,11 +1234,11 @@
       "isContrib": true,
       "isSesame": false
     },
-    "sesameID": "usr-FDY-NBwIVYSIGv"
+    "sesameID": "usr-FDY-NBwIVYSIGv",
+    "templateImage": "https://yt3.googleusercontent.com/ytc/AOPolaTc0iThrliBM26f8AoXxC0-T7oBg6HCN6nkC6rP=s176-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "Alex",
-    "pfp": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/AlexUCP.jpg?raw=true",
     "links": [
       {
         "id": "discord",
@@ -1253,11 +1252,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-AEX-Eh6t4bok3i"
+    "sesameID": "usr-AEX-Eh6t4bok3i",
+    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/AlexUCP.jpg?raw=true"
   },
   {
     "name": "NOK",
-    "pfp": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/NokUCP.png?raw=true",
     "links": [
       {
         "id": "github",
@@ -1276,11 +1275,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-NOK-qzQ9KGBfNp"
+    "sesameID": "usr-NOK-qzQ9KGBfNp",
+    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/NokUCP.png?raw=true"
   },
   {
     "name": "Pasha",
-    "pfp": "https://yt3.googleusercontent.com/tldXp3IyWEjxSBOHMfaaZEhaGSfEfYbGRyKFy21b1Uz-mYW0mrVZuqcfgQbGkfrg9QVGMe5X7g=s176-c-k-c0x00ffffff-no-rj",
     "links": [
       {
         "id": "discord",
@@ -1298,11 +1297,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-PSA-MHXTCVLlWL"
+    "sesameID": "usr-PSA-MHXTCVLlWL",
+    "templateImage": "https://yt3.googleusercontent.com/tldXp3IyWEjxSBOHMfaaZEhaGSfEfYbGRyKFy21b1Uz-mYW0mrVZuqcfgQbGkfrg9QVGMe5X7g=s176-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "Sergio L",
-    "pfp": "https://starblast.io/ecp/sdcchamp.png",
     "links": [
       {
         "id": "discord",
@@ -1316,11 +1315,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-SGL-4eyVryEEVM"
+    "sesameID": "usr-SGL-4eyVryEEVM",
+    "templateImage": "https://starblast.io/ecp/sdcchamp.png"
   },
   {
     "name": "Inspectro",
-    "pfp": "https://yt3.googleusercontent.com/ytc/AOPolaTRIJoKNWAZ2dPTXxB2thCvXx054fjocchZKidA=s176-c-k-c0x00ffffff-no-rj",
     "links": [
       {
         "id": "github",
@@ -1338,11 +1337,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-IEO-bH0kPzKOga"
+    "sesameID": "usr-IEO-bH0kPzKOga",
+    "templateImage": "https://yt3.googleusercontent.com/ytc/AOPolaTRIJoKNWAZ2dPTXxB2thCvXx054fjocchZKidA=s176-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "Halcyon",
-    "pfp": "https://avatars.githubusercontent.com/u/111774390?v=4",
     "links": [
       {
         "id": "github",
@@ -1360,11 +1359,11 @@
       "isContrib": false,
       "isSesame": false
     },
-    "sesameID": "usr-HCN-KWnQf05ZWl"
+    "sesameID": "usr-HCN-KWnQf05ZWl",
+    "templateImage": "https://avatars.githubusercontent.com/u/111774390?v=4"
   },
   {
     "name": "Leader",
-    "pfp": "https://media.discordapp.net/attachments/948927227087687762/1043600853245886554/images_1.jpg?width=1355&height=1355",
     "links": [
       {
         "id": "discord",
@@ -1377,11 +1376,11 @@
       "isUCP": false,
       "isContrib": true
     },
-    "sesameID": "usr-LDR-4QpmKFP6Zz"
+    "sesameID": "usr-LDR-4QpmKFP6Zz",
+    "templateImage": "https://media.discordapp.net/attachments/948927227087687762/1043600853245886554/images_1.jpg?width=1355&height=1355"
   },
   {
     "name": "Iran",
-    "pfp": "https://cdn.discordapp.com/avatars/997817506649608243/8d18d52395ccc7ad056a1b8e1a012f52.webp",
     "links": [
       {
         "id": "discord",
@@ -1394,11 +1393,11 @@
       "isUCP": false,
       "isContrib": false
     },
-    "sesameID": "usr-IAN-v16BVR206r"
+    "sesameID": "usr-IAN-v16BVR206r",
+    "templateImage": "https://cdn.discordapp.com/avatars/997817506649608243/8d18d52395ccc7ad056a1b8e1a012f52.webp"
   },
   {
     "name": "Basit",
-    "pfp": "https://cdn.discordapp.com/avatars/1026551616637255690/972886c78f815828d0585928795b1b01.png?size=1024 ",
     "links": [
       {
         "id": "github",
@@ -1416,11 +1415,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-BST-zgqLaSW1Bi"
+    "sesameID": "usr-BST-zgqLaSW1Bi",
+    "templateImage": "https://cdn.discordapp.com/avatars/1026551616637255690/972886c78f815828d0585928795b1b01.png?size=1024 "
   },
   {
     "name": "iom",
-    "pfp": "https://cdn.discordapp.com/avatars/574660769078312982/c013f5e61678900775240a555f23ac7e.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1434,11 +1433,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-IOM-NGap4W4KNN"
+    "sesameID": "usr-IOM-NGap4W4KNN",
+    "templateImage": "https://cdn.discordapp.com/avatars/574660769078312982/c013f5e61678900775240a555f23ac7e.webp?size=128"
   },
   {
     "name": "Diw",
-    "pfp": "https://cdn.discordapp.com/avatars/906971757225844766/538e631e4966141c949fea260f3fb2d1.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1456,11 +1455,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-DIW-lG7pdPDiHd"
+    "sesameID": "usr-DIW-lG7pdPDiHd",
+    "templateImage": "https://cdn.discordapp.com/avatars/906971757225844766/538e631e4966141c949fea260f3fb2d1.webp?size=128"
   },
   {
     "name": "Samed",
-    "pfp": "https://cdn.discordapp.com/avatars/851891289263177738/298a07dd56a33d30dbed9172d834bb4c.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1474,11 +1473,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-SMD-7nhE6BdNsW"
+    "sesameID": "usr-SMD-7nhE6BdNsW",
+    "templateImage": "https://cdn.discordapp.com/avatars/851891289263177738/298a07dd56a33d30dbed9172d834bb4c.webp?size=128"
   },
   {
     "name": "Karlin",
-    "pfp": "https://cdn.discordapp.com/avatars/1093140025748762664/528813f6d72b18e0bac5c40ee157c813.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1492,11 +1491,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-KLN-njWu47atiE"
+    "sesameID": "usr-KLN-njWu47atiE",
+    "templateImage": "https://cdn.discordapp.com/avatars/1093140025748762664/528813f6d72b18e0bac5c40ee157c813.webp?size=128"
   },
   {
     "name": "PURPOO",
-    "pfp": "https://cdn.discordapp.com/avatars/732722546243534979/a_a6717ef14d571b33f7d6917dc0bca6d4.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1510,11 +1509,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-PPO-Wt7GyMyGut"
+    "sesameID": "usr-PPO-Wt7GyMyGut",
+    "templateImage": "https://cdn.discordapp.com/avatars/732722546243534979/a_a6717ef14d571b33f7d6917dc0bca6d4.webp?size=128"
   },
   {
     "name": "koromgo",
-    "pfp": "https://cdn.discordapp.com/avatars/338381480696741888/54f8b0945098319aa17da245f0ec15c6.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1528,11 +1527,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-KOO-LpVT9YEQ8I"
+    "sesameID": "usr-KOO-LpVT9YEQ8I",
+    "templateImage": "https://cdn.discordapp.com/avatars/338381480696741888/54f8b0945098319aa17da245f0ec15c6.webp?size=128"
   },
   {
     "name": "Neagoe",
-    "pfp": "https://cdn.discordapp.com/avatars/270923689602711552/e8ed84860da081f3d5369fcd17ca2784.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1546,11 +1545,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-NGE-jzch622ozD"
+    "sesameID": "usr-NGE-jzch622ozD",
+    "templateImage": "https://cdn.discordapp.com/avatars/270923689602711552/e8ed84860da081f3d5369fcd17ca2784.webp?size=128"
   },
   {
     "name": "Jannes™",
-    "pfp": "https://cdn.discordapp.com/avatars/850461397263056967/12fcb70a619b72f8c52786ab3818f52d.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1568,11 +1567,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-JNS-1MO0HLxseb"
+    "sesameID": "usr-JNS-1MO0HLxseb",
+    "templateImage": "https://cdn.discordapp.com/avatars/850461397263056967/12fcb70a619b72f8c52786ab3818f52d.webp?size=128"
   },
   {
     "name": "JACKIE",
-    "pfp": "https://cdn.discordapp.com/avatars/622329678254047235/b638c6d2098a65808bdd16cec38ae549.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1586,11 +1585,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-JKE-lF9UGSNsqR"
+    "sesameID": "usr-JKE-lF9UGSNsqR",
+    "templateImage": "https://cdn.discordapp.com/avatars/622329678254047235/b638c6d2098a65808bdd16cec38ae549.webp?size=128"
   },
   {
     "name": "CARNAGE",
-    "pfp": "https://cdn.discordapp.com/avatars/479777190758842379/dc97877c9ed6d071366a1855294c34e4.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1612,11 +1611,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-CNE-iPp7foZLD5"
+    "sesameID": "usr-CNE-iPp7foZLD5",
+    "templateImage": "https://cdn.discordapp.com/avatars/479777190758842379/dc97877c9ed6d071366a1855294c34e4.webp?size=128"
   },
   {
     "name": "ACAR",
-    "pfp": "https://cdn.discordapp.com/avatars/580795154802147328/55eb1f4877f66f0da4507741f962587e.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1630,11 +1629,11 @@
       "isContrib": true,
       "isAdmin": false
     },
-    "sesameID": "usr-AAR-iSYflBGjr6"
+    "sesameID": "usr-AAR-iSYflBGjr6",
+    "templateImage": "https://cdn.discordapp.com/avatars/580795154802147328/55eb1f4877f66f0da4507741f962587e.webp?size=128"
   },
   {
     "name": "Orio",
-    "pfp": "https://cdn.discordapp.com/avatars/698457387794694155/8db756c39b28866eb8cabea7a3553a5a.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1648,11 +1647,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-OIO-3AG6YdsGLT"
+    "sesameID": "usr-OIO-3AG6YdsGLT",
+    "templateImage": "https://cdn.discordapp.com/avatars/698457387794694155/8db756c39b28866eb8cabea7a3553a5a.webp?size=128"
   },
   {
     "name": "mirage",
-    "pfp": "https://cdn.discordapp.com/avatars/366199753802907649/070ffcfa18147acb5fde2fcc530de231.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1666,11 +1665,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-MAE-Cm7wSVFBG3"
+    "sesameID": "usr-MAE-Cm7wSVFBG3",
+    "templateImage": "https://cdn.discordapp.com/avatars/366199753802907649/070ffcfa18147acb5fde2fcc530de231.webp?size=128"
   },
   {
     "name": "SpankyXT",
-    "pfp": "https://cdn.discordapp.com/avatars/351371245591199746/45fffda5f9c521888c0c92a2fa7ec14a.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1684,11 +1683,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-SKT-epxa0bAgG9"
+    "sesameID": "usr-SKT-epxa0bAgG9",
+    "templateImage": "https://cdn.discordapp.com/avatars/351371245591199746/45fffda5f9c521888c0c92a2fa7ec14a.webp?size=128"
   },
   {
     "name": "Duschi",
-    "pfp": "https://cdn.discordapp.com/avatars/336148222948933632/381cae5daabde28fef530397a147c577.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1706,11 +1705,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-DCI-0l280enHMp"
+    "sesameID": "usr-DCI-0l280enHMp",
+    "templateImage": "https://cdn.discordapp.com/avatars/336148222948933632/381cae5daabde28fef530397a147c577.webp?size=128"
   },
   {
     "name": "Rj",
-    "pfp": "https://cdn.discordapp.com/avatars/783746549037400066/b6a50a1422514350915a14e8e34a158d.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -1736,11 +1735,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-RJJ-jDM5BkpFAP"
+    "sesameID": "usr-RJJ-jDM5BkpFAP",
+    "templateImage": "https://cdn.discordapp.com/avatars/783746549037400066/b6a50a1422514350915a14e8e34a158d.webp?size=128"
   },
   {
     "name": "Zerd",
-    "pfp": "https://cdn.discordapp.com/avatars/628096954773012481/ff7765df4fe03751e8e108f2a348004f.webp?size=128",
     "links": [
       {
         "id": "discord",
@@ -1754,11 +1753,11 @@
       "isContrib": true,
       "isAdmin": false
     },
-    "sesameID": "usr-ZRD-uBvxpa5Ylq"
+    "sesameID": "usr-ZRD-uBvxpa5Ylq",
+    "templateImage": "https://cdn.discordapp.com/avatars/628096954773012481/ff7765df4fe03751e8e108f2a348004f.webp?size=128"
   },
   {
     "name": "Fury",
-    "pfp": "https://cdn.discordapp.com/avatars/921742763026960384/fd60f2a11035ef400e2b7ec7d995eb6b.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -1784,11 +1783,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-FRY-9GND9YXN0d"
+    "sesameID": "usr-FRY-9GND9YXN0d",
+    "templateImage": "https://cdn.discordapp.com/avatars/921742763026960384/fd60f2a11035ef400e2b7ec7d995eb6b.webp?size=128"
   },
   {
     "name": "bylolopro",
-    "pfp": "https://cdn.discordapp.com/avatars/599291389099900957/c51321b457070067eeb469b92d363b23.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -1814,11 +1813,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-BLO-L56LOk8j7T"
+    "sesameID": "usr-BLO-L56LOk8j7T",
+    "templateImage": "https://cdn.discordapp.com/avatars/599291389099900957/c51321b457070067eeb469b92d363b23.webp?size=128"
   },
   {
     "name": "Leader 1",
-    "pfp": "https://cdn.discordapp.com/avatars/713578902865575936/ecef02313b93651225326edcc921798b.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -1844,11 +1843,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-LD1-BL8mvqw4sb"
+    "sesameID": "usr-LD1-BL8mvqw4sb",
+    "templateImage": "https://cdn.discordapp.com/avatars/713578902865575936/ecef02313b93651225326edcc921798b.webp?size=128"
   },
   {
     "name": "TheProPizza",
-    "pfp": "https://cdn.discordapp.com/avatars/535544753014439936/5f201489e4fb3ed8929cd3c0b610e231.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -1874,11 +1873,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-TOA-dvi5B6KR1g"
+    "sesameID": "usr-TOA-dvi5B6KR1g",
+    "templateImage": "https://cdn.discordapp.com/avatars/535544753014439936/5f201489e4fb3ed8929cd3c0b610e231.webp?size=128"
   },
   {
     "name": "Devilion",
-    "pfp": "https://cdn.discordapp.com/avatars/682972966530842635/172dcb33da5880c350ce54861f7dfa71.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -1904,11 +1903,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-DLN-caju8hT1Ei"
+    "sesameID": "usr-DLN-caju8hT1Ei",
+    "templateImage": "https://cdn.discordapp.com/avatars/682972966530842635/172dcb33da5880c350ce54861f7dfa71.webp?size=128"
   },
   {
     "name": "ADVANCED",
-    "pfp": "https://cdn.discordapp.com/avatars/845718856441397298/8eadeededcc99978bde233e336763df8.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -1934,11 +1933,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-AND-URmRkCkcGZ"
+    "sesameID": "usr-AND-URmRkCkcGZ",
+    "templateImage": "https://cdn.discordapp.com/avatars/845718856441397298/8eadeededcc99978bde233e336763df8.webp?size=128"
   },
   {
     "name": "Centauri",
-    "pfp": "https://cdn.discordapp.com/avatars/803273515344068709/1c11716094ceb0862ca265076e6f9b4a.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -1964,11 +1963,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-CAI-CnnaxUZkH1"
+    "sesameID": "usr-CAI-CnnaxUZkH1",
+    "templateImage": "https://cdn.discordapp.com/avatars/803273515344068709/1c11716094ceb0862ca265076e6f9b4a.webp?size=128"
   },
   {
     "name": "Wargod",
-    "pfp": "https://cdn.discordapp.com/avatars/790210397663526912/99044e48e200657802069e70c622884b.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -1994,11 +1993,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-WGD-Gpml8NRutK"
+    "sesameID": "usr-WGD-Gpml8NRutK",
+    "templateImage": "https://cdn.discordapp.com/avatars/790210397663526912/99044e48e200657802069e70c622884b.webp?size=128"
   },
   {
     "name": "A.S",
-    "pfp": "https://cdn.discordapp.com/avatars/700366070376169593/841b552146376a3c007605ecbf3f076b.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -2024,11 +2023,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-ASS-teHFfPzGiY"
+    "sesameID": "usr-ASS-teHFfPzGiY",
+    "templateImage": "https://cdn.discordapp.com/avatars/700366070376169593/841b552146376a3c007605ecbf3f076b.webp?size=128"
   },
   {
     "name": "Double K",
-    "pfp": "https://starblast.io/ecp/2k.jpg",
     "links": [
       {
         "id": "github",
@@ -2054,11 +2053,11 @@
       "isContrib": true,
       "isAdmin": false
     },
-    "sesameID": "usr-DBK-VPv3Z2lL2d"
+    "sesameID": "usr-DBK-VPv3Z2lL2d",
+    "templateImage": "https://starblast.io/ecp/2k.jpg"
   },
   {
     "name": "blitz",
-    "pfp": "https://cdn.discordapp.com/avatars/865051870464311337/eeb5b798d2371003ca577104fbeab1fc.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -2084,11 +2083,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-BIZ-QCEtdL4cZH"
+    "sesameID": "usr-BIZ-QCEtdL4cZH",
+    "templateImage": "https://cdn.discordapp.com/avatars/865051870464311337/eeb5b798d2371003ca577104fbeab1fc.webp?size=128"
   },
   {
     "name": "Rossiya",
-    "pfp": "https://cdn.discordapp.com/avatars/783097495999873024/ec5bd5405b8fb0d3c9a4f1929cf28864.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -2114,11 +2113,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-RSA-OXYC1eHX11"
+    "sesameID": "usr-RSA-OXYC1eHX11",
+    "templateImage": "https://cdn.discordapp.com/avatars/783097495999873024/ec5bd5405b8fb0d3c9a4f1929cf28864.webp?size=128"
   },
   {
     "name": "gatoville",
-    "pfp": "https://cdn.discordapp.com/avatars/292438774238019584/bf34782b289fe60a86359dc5f147df77.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -2144,11 +2143,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-GVE-je5jNIXGAw"
+    "sesameID": "usr-GVE-je5jNIXGAw",
+    "templateImage": "https://cdn.discordapp.com/avatars/292438774238019584/bf34782b289fe60a86359dc5f147df77.webp?size=128"
   },
   {
     "name": "KHALIL",
-    "pfp": "https://cdn.discordapp.com/avatars/954844641679794278/3ac6def614c4f1537df21d7994f8cd4b.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -2174,11 +2173,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-KLL-FUAhy1Y9Pb"
+    "sesameID": "usr-KLL-FUAhy1Y9Pb",
+    "templateImage": "https://cdn.discordapp.com/avatars/954844641679794278/3ac6def614c4f1537df21d7994f8cd4b.webp?size=128"
   },
   {
     "name": "FenixSt75",
-    "pfp": "https://cdn.discordapp.com/avatars/967273359412969524/e45ef21795f002f6e763c6465e070a24.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -2204,11 +2203,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-FX5-TRWhG91aXG"
+    "sesameID": "usr-FX5-TRWhG91aXG",
+    "templateImage": "https://cdn.discordapp.com/avatars/967273359412969524/e45ef21795f002f6e763c6465e070a24.webp?size=128"
   },
   {
     "name": "paralx",
-    "pfp": "https://starblast.io/ecp/paralx.jpg",
     "links": [
       {
         "id": "discord",
@@ -2230,11 +2229,11 @@
       "isContrib": true,
       "isAdmin": false
     },
-    "sesameID": "usr-PAX-KmrRN7FboD"
+    "sesameID": "usr-PAX-KmrRN7FboD",
+    "templateImage": "https://starblast.io/ecp/paralx.jpg"
   },
   {
     "name": "Anos",
-    "pfp": "https://cdn.discordapp.com/avatars/789404645915230208/5ea3b9ded354aeefc9c914a0f52deeab.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -2260,11 +2259,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-AOS-Vi7c95Typ1"
+    "sesameID": "usr-AOS-Vi7c95Typ1",
+    "templateImage": "https://cdn.discordapp.com/avatars/789404645915230208/5ea3b9ded354aeefc9c914a0f52deeab.webp?size=128"
   },
   {
     "name": "HELPER",
-    "pfp": "https://github.com/Modraxis/background-pngs/blob/main/giphy.gif?raw=true",
     "links": [
       {
         "id": "github",
@@ -2290,11 +2289,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-HPR-VrtiiQVMfW"
+    "sesameID": "usr-HPR-VrtiiQVMfW",
+    "templateImage": "https://github.com/Modraxis/background-pngs/blob/main/giphy.gif?raw=true"
   },
   {
     "name": "oldgregg32",
-    "pfp": "https://cdn.discordapp.com/avatars/993648473331216414/aea117b0223de9d813aea16738d0650b.webp?size=240",
     "links": [
       {
         "id": "github",
@@ -2320,11 +2319,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-OE2-37QZGKTiSO"
+    "sesameID": "usr-OE2-37QZGKTiSO",
+    "templateImage": "https://cdn.discordapp.com/avatars/993648473331216414/aea117b0223de9d813aea16738d0650b.webp?size=240"
   },
   {
     "name": "Darth Mac",
-    "pfp": "https://cdn.discordapp.com/avatars/548960987986788353/0ee43e993276b4aa14a0971faa76b0fe.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -2350,11 +2349,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-DHC-o1VD3ch00j"
+    "sesameID": "usr-DHC-o1VD3ch00j",
+    "templateImage": "https://cdn.discordapp.com/avatars/548960987986788353/0ee43e993276b4aa14a0971faa76b0fe.webp?size=128"
   },
   {
     "name": "Sopilote",
-    "pfp": "https://cdn.discordapp.com/avatars/1061795750771691610/6d3e661799d8a286601eb0323b73ad91.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -2380,11 +2379,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-SLE-8AVQXxj2EC"
+    "sesameID": "usr-SLE-8AVQXxj2EC",
+    "templateImage": "https://cdn.discordapp.com/avatars/1061795750771691610/6d3e661799d8a286601eb0323b73ad91.webp?size=128"
   },
   {
     "name": "Titan",
-    "pfp": "https://cdn.discordapp.com/avatars/781307296524795904/18a0e422a71ebf7abe32e21bf1e496e8.webp?size=128",
     "links": [
       {
         "id": "github",
@@ -2410,11 +2409,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-TTN-DVlGL4ANCH"
+    "sesameID": "usr-TTN-DVlGL4ANCH",
+    "templateImage": "https://cdn.discordapp.com/avatars/781307296524795904/18a0e422a71ebf7abe32e21bf1e496e8.webp?size=128"
   },
   {
     "name": "ADRIAN",
-    "pfp": "https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png",
     "links": [
       {
         "id": "github",
@@ -2440,11 +2439,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-AIN-btYyWoSUmN"
+    "sesameID": "usr-AIN-btYyWoSUmN",
+    "templateImage": "https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png"
   },
   {
     "name": "ZEX",
-    "pfp": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/unnamed.jpg?raw=true",
     "links": [
       {
         "id": "discord",
@@ -2466,11 +2465,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-ZEX-cTnOjsbQY0"
+    "sesameID": "usr-ZEX-cTnOjsbQY0",
+    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/unnamed.jpg?raw=true"
   },
   {
     "name": "Bao_vn",
-    "pfp": "https://cdn.discordapp.com/avatars/1124949878594863224/80ac0c1a1c8ee921c97e5f314defae97.png?size=1024",
     "links": [
       {
         "id": "discord",
@@ -2484,11 +2483,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-BON-8HDM3GKMpD"
+    "sesameID": "usr-BON-8HDM3GKMpD",
+    "templateImage": "https://cdn.discordapp.com/avatars/1124949878594863224/80ac0c1a1c8ee921c97e5f314defae97.png?size=1024"
   },
   {
     "name": "ATTACK AS TEAM",
-    "pfp": "https://cdn.discordapp.com/avatars/1015967730102444042/72fe32b5d03df11d80c8ce22220ca832.png?size=1024",
     "links": [
       {
         "id": "discord",
@@ -2506,11 +2505,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-AAM-zY0MN0qoXs"
+    "sesameID": "usr-AAM-zY0MN0qoXs",
+    "templateImage": "https://cdn.discordapp.com/avatars/1015967730102444042/72fe32b5d03df11d80c8ce22220ca832.png?size=1024"
   },
   {
     "name": "Bryce",
-    "pfp": "https://cdn.discordapp.com/avatars/254231161096634368/4dd19f79e1225b8cf0ffefac2c163103.gif?size=1024",
     "links": [
       {
         "id": "discord",
@@ -2524,11 +2523,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-BYE-sRGceWgkuM"
+    "sesameID": "usr-BYE-sRGceWgkuM",
+    "templateImage": "https://cdn.discordapp.com/avatars/254231161096634368/4dd19f79e1225b8cf0ffefac2c163103.gif?size=1024"
   },
   {
     "name": "Physic YT",
-    "pfp": "https://cdn.discordapp.com/avatars/862227728979591189/7278c3b058b5dd47e840854d957e51de.png?size=1024",
     "links": [
       {
         "id": "discord",
@@ -2542,11 +2541,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-PIT-uDPs32Q6Fu"
+    "sesameID": "usr-PIT-uDPs32Q6Fu",
+    "templateImage": "https://cdn.discordapp.com/avatars/862227728979591189/7278c3b058b5dd47e840854d957e51de.png?size=1024"
   },
   {
     "name": "Zard",
-    "pfp": "https://cdn.discordapp.com/avatars/887891398035136572/545c025bf9ece015c7aebd4d30fc66e3.png?size=1024",
     "links": [
       {
         "id": "github",
@@ -2572,11 +2571,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-ZRD-SDRWyGrPQq"
+    "sesameID": "usr-ZRD-SDRWyGrPQq",
+    "templateImage": "https://cdn.discordapp.com/avatars/887891398035136572/545c025bf9ece015c7aebd4d30fc66e3.png?size=1024"
   },
   {
     "name": "Heartbeat",
-    "pfp": "https://github.com/Modraxis/images/blob/main/Heartbeat.gif?raw=true",
     "links": [
       {
         "id": "discord",
@@ -2590,11 +2589,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-HTT-4DOGm0DZk4"
+    "sesameID": "usr-HTT-4DOGm0DZk4",
+    "templateImage": "https://github.com/Modraxis/images/blob/main/Heartbeat.gif?raw=true"
   },
   {
     "name": "AGXXXX",
-    "pfp": "https://cdn.discordapp.com/avatars/797949012670021632/aeda747073b7009de8bf49acc8aba914.webp",
     "links": [
       {
         "id": "github",
@@ -2612,11 +2611,11 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-AXX-OFEYdaKP4G"
+    "sesameID": "usr-AXX-OFEYdaKP4G",
+    "templateImage": "https://cdn.discordapp.com/avatars/797949012670021632/aeda747073b7009de8bf49acc8aba914.webp"
   },
   {
     "name": "Destroy",
-    "pfp": "https://starblast.io/ecp/destroy.png",
     "links": [
       {
         "id": "discord",
@@ -2634,7 +2633,8 @@
       "isContrib": false,
       "isAdmin": false
     },
-    "sesameID": "usr-DTY-wRwprWKsYw"
+    "sesameID": "usr-DTY-wRwprWKsYw",
+    "templateImage": "https://starblast.io/ecp/destroy.png"
   },
   {
     "name": "Happy Whale",
@@ -2647,7 +2647,6 @@
       "isSesame": false
     },
     "description": "╚HᗩPPY🐋ΨHᗩLΣ╝.",
-    "pfp": "https://raw.githubusercontent.com/rithyn/rithy-archive/main/pictures/ucp/happy-whale.jpg",
     "links": [
       {
         "id": "discord",
@@ -2670,7 +2669,8 @@
         "src": ""
       }
     ],
-    "sesameID": "usr-HWE-eF2kZZ9Gx9"
+    "sesameID": "usr-HWE-eF2kZZ9Gx9",
+    "templateImage": "https://raw.githubusercontent.com/rithyn/rithy-archive/main/pictures/ucp/happy-whale.jpg"
   },
   {
     "name": "gc overlord wertd",
@@ -2683,7 +2683,6 @@
       "isSesame": false
     },
     "description": "",
-    "pfp": "https://raw.githubusercontent.com/rithyn/rithy-archive/main/pictures/ucp/GC-overlord.png",
     "links": [
       {
         "id": "youtube",
@@ -2706,6 +2705,7 @@
         "src": "https://www.reddit.com/user/gc_overlord_wertd"
       }
     ],
-    "sesameID": "usr-GOD-00uv8KdtNc"
+    "sesameID": "usr-GOD-00uv8KdtNc",
+    "templateImage": "https://raw.githubusercontent.com/rithyn/rithy-archive/main/pictures/ucp/GC-overlord.png"
   }
 ]
