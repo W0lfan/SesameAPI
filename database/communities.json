@@ -546,5 +546,26 @@
         "name": "Thuliux"
       }
     ]
+  },{
+    "name": "Zex's Community",
+    "tag": [],
+    "language": [],
+    "server": "",
+    "active": true,
+    "birth": "04/07/2023",
+    "content": [
+      ""
+    ],
+    "links": {
+      "join": "https://discord.gg/zxdsx8rG9N",
+      "youtube": "https://www.youtube.com/channel/UCSBJLAAq26z66epXleUpPLQ"
+    },
+    "templateImage": "https://cdn.discordapp.com/icons/1125902451371950202/e12fef8b370c1ce3804697f5b0e22586.webp",
+    "description": "",
+    "author": [
+      {
+        "name": "ZEX"
+      }
+    ]
   }
 ]
