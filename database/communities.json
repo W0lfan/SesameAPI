@@ -424,9 +424,9 @@
     ]
   },
   {
-    "name": "Pandemic Legion",
+    "name": "Legion F4",
     "tag": [
-      "╠⛒╣"
+      "⌥Ƒᔦ"
     ],
     "language": [
       "English",
@@ -434,14 +434,13 @@
     ],
     "server": "International",
     "active": true,
-    "birth": "",
+    "birth": "10/05/2022",
     "links": {
       "join": "https://discord.gg/GDzGmWEm25",
       "youtube": "https://www.youtube.com/@neospaceyt"
     },
-    "sesameID": "cmnt-Pcn-ZdZGb2GM1i",
-    "templateImage": "https://cdn.discordapp.com/icons/973585722227458068/a_51401888d5a48327bcee67c85c62c1fd.webp?",
-    "description": "Clans is the successor to F4, and the leader is well-known youtuber Neo space.",
+    "templateImage": "https://cdn.discordapp.com/icons/973585722227458068/a_2543da6e46a9375b76ec338f5721ecae.webp?size=96",
+    "description": "",
     "author": [
       {
         "name": "Neo Space"
