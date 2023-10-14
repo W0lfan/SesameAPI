@@ -566,5 +566,26 @@
         "name": "ZEX"
       }
     ]
+  },{
+    "name": "Aramtomy Corporation",
+    "tag": [],
+    "language": [],
+    "server": "Asia",
+    "active": true,
+    "birth": "04/06/2022",
+    "content": [
+      ""
+    ],
+    "links": {
+      "join": "https://discord.gg/2u5ZZCzXd",
+      "youtube": "https://www.youtube.com/channel/UC5KSc70uKwsowUZzzy_b1sg"
+    },
+    "templateImage": "https://cdn.discordapp.com/icons/982608914921173034/59e6bd8f264ad5c85aa6c4e41bc45696.webp",
+    "description": "The invitation may have expired",
+    "author": [
+      {
+        "name": "Ayaka Aram"
+      }
+    ]
   }
 ]
