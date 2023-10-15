@@ -27,7 +27,7 @@
   },
   {
     "name": "naflouille",
-    "description": "Coder, moder, designer. Owner of Naflouille Creations and Sesame products (Sesame, Sesadmin, Linkel).",
+    "description": "Active coder, modder, webdesigner. Owner of Naflouille Creations and Sesame products (Sesame, Sesadmin, Linkel). Made a lot of mods. Creator of Starblast Arena / Starblast Team Fights.",
     "links": [
       {
         "id": "github",
@@ -43,7 +43,7 @@
       },
       {
         "id": "reddit",
-        "src": ""
+        "src": "https://www.reddit.com/user/Modderval"
       },
       {
         "id": "spotify",
@@ -314,6 +314,7 @@
   },
   {
     "name": "Finalizer",
+    "description": "Starblast discord server administrator, modder, shipbuilder. Owner of U-Series.",
     "links": [
       {
         "id": "github",
@@ -322,6 +323,18 @@
       {
         "id": "discord",
         "src": "finalizer14"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
       }
     ],
     "about": {
@@ -398,6 +411,7 @@
   },
   {
     "name": "Notus",
+    "description": "Famous Starblast player, Starblast Discord server administrator. Made the racing championship with Goldman. Starblast Discord server Administrator.",
     "links": [
       {
         "id": "github",
@@ -408,11 +422,18 @@
         "src": "123_notus"
       },
       {
+        "id": "youtube",
+        "src": ""
+      },
+      {
         "id": "reddit",
         "src": "https://www.reddit.com/user/123_Notus"
+      },
+      {
+        "id": "spotify",
+        "src": ""
       }
     ],
-    "description": "Famous Starblast player, Starblast Discord server administrator. Made the racing championship with Goldman.",
     "about": {
       "isStaff": true,
       "isModder": true,
@@ -937,21 +958,38 @@
   },
   {
     "name": "Glitch",
+    "description": "Former staff member. Active player of the community.",
     "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
       {
         "id": "discord",
         "src": "Glitch#0479"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
       }
     ],
     "about": {
-      "isStaff": false,
+      "isStaff": true,
       "isModder": false,
       "isUCP": false,
       "isContrib": false,
       "isSesame": false
     },
     "sesameID": "usr-GTH-xHd7AAKMXy",
-    "templateImage": "https://cdn.discordapp.com/avatars/467860839076986881/2cab018e1dbde2f8e87e90aa784b1b60.webp"
+    "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1163187279163043890/4c69670c280382b5dd86c2c81d40db58.webp?ex=653ea992&is=652c3492&hm=2dd15b25873da450396fd5921c072af12dab9ccb38d2a51db967536faf2ccfd2&="
   },
   {
     "name": "Dark Shadow Evil",
@@ -977,14 +1015,31 @@
   },
   {
     "name": "Badger",
+    "description": "Former Starblast staff member. G4 leader.",
     "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
       {
         "id": "discord",
         "src": "BADGER {⅁₄}#4551"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
       }
     ],
     "about": {
-      "isStaff": false,
+      "isStaff": true,
       "isModder": false,
       "isUCP": false,
       "isContrib": true,
