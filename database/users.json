@@ -115,6 +115,7 @@
   },
   {
     "name": "PMGL",
+    "description": "Owner of Neuronality and Starblast.",
     "links": [
       {
         "id": "github",
@@ -123,6 +124,18 @@
       {
         "id": "discord",
         "src": "microgilles"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
       }
     ],
     "about": {
