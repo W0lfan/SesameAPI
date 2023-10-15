@@ -27,7 +27,7 @@
   },
   {
     "name": "naflouille",
-    "description": "Coder, Moder, Designer. Litterature teen. Owner of Naflouille Creations and Sesame products.",
+    "description": "Coder, Moder, Designer. Owner of Naflouille Creations and Sesame products (Sesame, Sesadmin, Linkel).",
     "links": [
       {
         "id": "github",
@@ -40,6 +40,10 @@
       {
         "id": "youtube",
         "src": "https://youtube.com/@naflouille"
+      },
+      {
+        "id": "reddit",
+        "src": ""
       },
       {
         "id": "spotify",
