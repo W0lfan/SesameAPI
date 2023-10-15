@@ -789,21 +789,15 @@
   },
   {
     "name": "Starblast Team Fights",
-    "abvrt": "STF",
-    "version": "",
-    "description": "A Team Dueling mod. Strategic duels, shrinking arena, where you can pick only one ship per cycle.",
-    "modes": "Team",
-    "link": {
-      "url": "https://github.com/W0lfan/STF/blob/main/main/stable.js",
-      "state": 2
-    },
     "author": [
       {
         "name": "Naflouille"
       }
     ],
-    "official": 0,
-    "event": 0,
+    "description": "A Team Dueling mod. Strategic duels, shrinking arena, where you can pick only one ship per cycle. Former Starblast Arena.",
+    "about": {
+      "url": "https://github.com/W0lfan/STF/blob/main/main/stable.js"
+    },
     "sesameID": "md-STs-LGK2DmBmpW",
     "templateImage": "https://images-ext-2.discordapp.net/external/TvL2ShzGkNcx1JF3A59GTk5eHvXIsIn8TXxsVSgG2bw/https/repository-images.githubusercontent.com/347675356/196ef3dc-bd2e-461a-923c-10afc73a148a?width=2710&height=1355"
   },
