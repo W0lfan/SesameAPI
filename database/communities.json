@@ -1,35 +1,30 @@
 [
   {
     "name": "FR team",
+    "tag": [
+      "ҒR▸"
+    ],
+    "language": [
+      "French"
+    ],
+    "server": "EU",
+    "active": true,
+    "birth": "",
+    "links": {
+      "join": "https://discord.gg/4NZZanHX9",
+      "youtube": "https://www.youtube.com/channel/UCr0gpbHDyZUr-tF5QmiSm1g"
+    },
+    "sesameID": "cmnt-Fem-kL9wTT0sXF",
+    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/FRteams.png?raw=true",
+    "description": "French People exclusively. DM Megalodon to enter the team.",
     "author": [
       {
         "name": "Megalodon"
       },
       {
-        "name": " NOK"
-      },
-      {
-        "name": " Zeldris"
+        "name": "NOK"
       }
-    ],
-    "description": "French People exclusively. DM Megalodon to enter the team.",
-    "tag": "ҒR▸",
-    "language": "French",
-    "server": "EU",
-    "active": true,
-    "birth": "",
-    "links": [
-      {
-        "id": "join",
-        "src": "https://discord.gg/4NZZanHX9"
-      },
-      {
-        "id": "youtube",
-        "src": "https://www.youtube.com/channel/UCr0gpbHDyZUr-tF5QmiSm1g"
-      }
-    ],
-    "sesameID": "cmnt-Fem-kL9wTT0sXF",
-    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/FRteams.png?raw=true"
+    ]
   },
   {
     "name": "Naflouille Creations",
