@@ -441,21 +441,20 @@
       }
     ],
     "description": "Neo Space's official Discord server.",
-    "tag": [],
+    "content": [
+      ""
+    ],
+    "tag": [
+      ""
+    ],
     "language": "English,Spanish",
     "server": "International",
     "active": true,
     "birth": "10/05/2022",
-    "links": [
-      {
-        "id": "join",
-        "src": "https://discord.gg/GDzGmWEm25"
-      },
-      {
-        "id": "youtube",
-        "src": "https://www.youtube.com/@neospaceyt"
-      }
-    ],
+    "links": {
+      "join": "https://discord.gg/GDzGmWEm25",
+      "youtube": ""
+    },
     "sesameID": "cmnt-Lo4-WawguY2GR2",
     "templateImage": "https://cdn.discordapp.com/icons/973585722227458068/a_2543da6e46a9375b76ec338f5721ecae.webp?size=96"
   },
