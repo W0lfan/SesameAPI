@@ -27,6 +27,7 @@
   },
   {
     "name": "naflouille",
+    "description": "Coder, Moder, Designer. Litterature teen. Owner of Naflouille Creations and Sesame products.",
     "links": [
       {
         "id": "github",
@@ -41,15 +42,14 @@
         "src": "https://youtube.com/@naflouille"
       },
       {
-        "id": "reddit",
-        "src": "https://www.reddit.com/user/Modderval"
+        "id": "spotify",
+        "src": ""
       }
     ],
-    "description": "Coder, Moder, Designer. Litterature teen. Passioned by creations.",
     "about": {
       "isStaff": true,
-      "isModder": false,
-      "isUCP": false,
+      "isModder": true,
+      "isUCP": true,
       "isContrib": true,
       "isSesame": true
     },
