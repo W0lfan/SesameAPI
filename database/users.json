@@ -446,10 +446,27 @@
   },
   {
     "name": "SChickenMan",
+    "description": "Starblast modder, shipbuilder, UCP holder.",
     "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
       {
         "id": "discord",
         "src": "thirdtoeman"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
       }
     ],
     "about": {
@@ -1316,6 +1333,7 @@
   },
   {
     "name": "NOK",
+    "description": "Co-Leader of Team FR and FA clan since June 2023. Experienced shipbuilder and player since 2017.",
     "links": [
       {
         "id": "github",
@@ -1324,15 +1342,26 @@
       {
         "id": "discord",
         "src": ".nok."
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/31nezt5ta7prrxegu6c7u24vfvcm"
       }
     ],
-    "description": "Co-Leader of Team FR and FA clan since June 2023. Experienced shipbuilder and player since 2017.",
     "about": {
       "isStaff": false,
       "isModder": false,
       "isUCP": false,
       "isContrib": false,
-      "isSesame": false
+      "isSesame": true
     },
     "sesameID": "usr-NOK-qzQ9KGBfNp",
     "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/NokUCP.png?raw=true"
