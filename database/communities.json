@@ -279,27 +279,29 @@
   },
   {
     "name": "Royal Ekip",
-    "tag": [
-      "|℟ˠ𝕃|"
-    ],
-    "language": [
-      "English"
-    ],
-    "server": "EU",
-    "active": true,
-    "birth": "",
-    "links": {
-      "join": "https://discord.gg/w82qzaESDW",
-      "youtube": "unknown"
-    },
-    "sesameID": "cmnt-Rlp-oeEhsUNI4j",
-    "templateImage": "https://cdn.discordapp.com/icons/1045719521605984316/2c71d9609077ef057a359632fd304b8f.webp?",
-    "description": "European clans led by Trollbaba, who have since become active again with the return of their leader.",
     "author": [
       {
         "name": "TrolBaba25"
       }
-    ]
+    ],
+    "description": "European clans led by Trollbaba, who have since become active again with the return of their leader.",
+    "tag": "|℟ˠ𝕃|",
+    "language": "English",
+    "server": "EU",
+    "active": true,
+    "birth": "",
+    "links": [
+      {
+        "id": "join",
+        "src": "https://discord.gg/w82qzaESDW"
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
+      }
+    ],
+    "sesameID": "cmnt-Rlp-oeEhsUNI4j",
+    "templateImage": "https://images-ext-2.discordapp.net/external/VjqdeIvX6jmOvfuamd5su8Ht_wM5dja_r2PkqZsySl8/https/cdn.discordapp.com/icons/1045719521605984316/173be9d2ff243eb42564f3db2479dc83.webp?width=115&height=115"
   },
   {
     "name": "Starblast main",
@@ -425,28 +427,29 @@
   },
   {
     "name": "Legion F4",
-    "tag": [
-      "⌥Ƒᔦ"
-    ],
-    "language": [
-      "English",
-      "Spanish"
-    ],
-    "server": "International",
-    "active": true,
-    "birth": "10/05/2022",
-    "links": {
-      "join": "https://discord.gg/GDzGmWEm25",
-      "youtube": "https://www.youtube.com/@neospaceyt"
-    },
-    "templateImage": "https://cdn.discordapp.com/icons/973585722227458068/a_2543da6e46a9375b76ec338f5721ecae.webp?size=96",
-    "description": "",
     "author": [
       {
         "name": "Neo Space"
       }
     ],
-    "sesameID": "cmnt-Lo4-WawguY2GR2"
+    "description": "Neo Space's official Discord server.",
+    "tag": "⌥Ƒᔦ",
+    "language": "English,Spanish",
+    "server": "International",
+    "active": true,
+    "birth": "10/05/2022",
+    "links": [
+      {
+        "id": "join",
+        "src": "https://discord.gg/GDzGmWEm25"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@neospaceyt"
+      }
+    ],
+    "sesameID": "cmnt-Lo4-WawguY2GR2",
+    "templateImage": "https://cdn.discordapp.com/icons/973585722227458068/a_2543da6e46a9375b76ec338f5721ecae.webp?size=96"
   },
   {
     "name": "Synthesis RC2",
