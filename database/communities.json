@@ -28,11 +28,12 @@
   },
   {
     "name": "Naflouille Creations",
-    "tag": [],
-    "language": [],
-    "server": "",
-    "active": true,
-    "birth": "",
+    "author": [
+      {
+        "name": "Naflouille"
+      }
+    ],
+    "description": "All Naflouille Creations",
     "content": [
       "Starblast Team Fights",
       "Starblast Arena: Origins",
@@ -40,18 +41,25 @@
       "Quest Mod",
       "Starblast Mining Mod"
     ],
-    "links": {
-      "join": "https://discord.gg/Q5RTE3GF9Y",
-      "youtube": "unknown"
-    },
-    "sesameID": "cmnt-Nes-PG9eSkOFme",
-    "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1145310535387201536/Design_sans_titre_13.png?width=2407&height=1354",
-    "description": "All Naflouille Creations",
-    "author": [
+    "tag": [
+      ""
+    ],
+    "language": "",
+    "server": "",
+    "active": true,
+    "birth": "",
+    "links": [
       {
-        "name": "Naflouille"
+        "id": "join",
+        "src": "https://discord.gg/Q5RTE3GF9Y"
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
       }
-    ]
+    ],
+    "sesameID": "cmnt-Nes-PG9eSkOFme",
+    "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1145310535387201536/Design_sans_titre_13.png?width=2407&height=1354"
   },
   {
     "name": "Game Of The Night (GOTN)",
