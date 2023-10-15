@@ -154,20 +154,15 @@
   },
   {
     "name": "Reset Button",
-    "description": "Reset your ship to the initial vessel of the ship tree.",
-    "code": "var reset_button = { id: \"reset\", position: [5,30,8,14], clickable: true, shortcut: \"R\", visible: true, components: [{ type: \"box\",position:[0,0,100,100],stroke:\"#CDE\",width:2}, { type: \"text\",position:[10,35,80,30],value:\"RESET\",color:\"#CDE\"}, { type: \"text\",position:[20,70,60,20],value:\"[R]\",color:\"#CDE\"} ]}; var resetShip = function(ship) { ship.set({type:101, crystals: 20}); }; this.tick = function(game) { if (game.step%60===0) { for (var i=0;i<game.ships.length;i++) { var ship = game.ships[i]; if (!ship.custom.reset_button_installed) { ship.custom.reset_button_installed = true; ship.setUIComponent(reset_button); } } } }; this.event = function(event,game) { switch (event.name) { case \"ui_component_clicked\": var ship = event.ship; var component = event.id; if (component == \"reset\") { resetShip(ship); } break; } };",
     "author": [
       {
-        "name": "G"
+        "name": "Goldman"
       }
     ],
+    "description": "Reset your ship to the initial vessel of the ship tree.",
     "sesameID": "cds-RBN-T9vkQeb6fn",
-    "direct": [
-      {
-        "id": "code",
-        "content": "var reset_button = { id: \"reset\", position: [5,30,8,14], clickable: true, shortcut: \"R\", visible: true, components: [{ type: \"box\",position:[0,0,100,100],stroke:\"#CDE\",width:2}, { type: \"text\",position:[10,35,80,30],value:\"RESET\",color:\"#CDE\"}, { type: \"text\",position:[20,70,60,20],value:\"[R]\",color:\"#CDE\"} ]}; var resetShip = function(ship) { ship.set({type:101, crystals: 20}); }; this.tick = function(game) { if (game.step%60===0) { for (var i=0;i<game.ships.length;i++) { var ship = game.ships[i]; if (!ship.custom.reset_button_installed) { ship.custom.reset_button_installed = true; ship.setUIComponent(reset_button); } } } }; this.event = function(event,game) { switch (event.name) { case \"ui_component_clicked\": var ship = event.ship; var component = event.id; if (component == \"reset\") { resetShip(ship); } break; } };"
-      }
-    ]
+    "open": "",
+    "code": "var reset_button = { id: \"reset\", position: [5,30,8,14], clickable: true, shortcut: \"R\", visible: true, components: [{ type: \"box\",position:[0,0,100,100],stroke:\"#CDE\",width:2}, { type: \"text\",position:[10,35,80,30],value:\"RESET\",color:\"#CDE\"}, { type: \"text\",position:[20,70,60,20],value:\"[R]\",color:\"#CDE\"} ]}; var resetShip = function(ship) { ship.set({type:101, crystals: 20}); }; this.tick = function(game) { if (game.step%60===0) { for (var i=0;i<game.ships.length;i++) { var ship = game.ships[i]; if (!ship.custom.reset_button_installed) { ship.custom.reset_button_installed = true; ship.setUIComponent(reset_button); } } } }; this.event = function(event,game) { switch (event.name) { case \"ui_component_clicked\": var ship = event.ship; var component = event.id; if (component == \"reset\") { resetShip(ship); } break; } };"
   },
   {
     "name": "Terminal Player List",
@@ -217,23 +212,6 @@
       {
         "id": "code",
         "content": "const Subspace_allow = true;function Subspace_Detector(ship){if(Subspace_allow){if(!ship.custom.cheater){game.modding.terminal.echo(\"[[g;#AA00FF;]Subspace alert:]\\n[[g;#ff0000;][[g;#F9D800;]\"+ship.name+\"] has been caught using Subspace.\\n[[g;#F9D800;]\"+ship.name+\"] has not been kicked as Subspace is allowed by map host.\");ship.custom.cheater=true;}}else{ship.set({type:101,vx:0,vy:0,idle:true,collider:false});ship.gameover({\"You have been caught using Subspace\":\" \",\"If you want to play, come without Subspace\":\" \"});game.modding.terminal.echo(\"[[g;#AA00FF;]Subspace alert:]\\n[[g;#ff0000;][[g;#F9D800;]\"+ship.name+\"] has been caught using Subspace.\\n[[g;#F9D800;]\"+ship.name+\"] has been kicked as Subspace is not allowed by map host.\");}this.event=function(event){const ship=event.ship;switch(event.name){case \"ui_component_clicked\":if(event.id===\"using_subspace\"){Subspace_Detector(ship);}break;}};}"
-      }
-    ]
-  },
-  {
-    "name": "Modding console cleaner",
-    "description": "This code can remove lines like \"(Tick CPU time: average 0 ms ; max 0 ms, Data sent: 0 bytes per second)\" from the modding console.",
-    "code": "game.modding.tick=function(t){this.game.tick(t);if(this.context.tick!=null){this.context.tick(this.game);}};",
-    "author": [
-      {
-        "name": "Basit"
-      }
-    ],
-    "sesameID": "cds-MSR-8rehTDmobA",
-    "direct": [
-      {
-        "id": "code",
-        "content": "game.modding.tick=function(t){this.game.tick(t);if(this.context.tick!=null){this.context.tick(this.game);}};"
       }
     ]
   },
