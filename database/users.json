@@ -52,8 +52,8 @@
     ],
     "about": {
       "isStaff": true,
-      "isModder": true,
-      "isUCP": true,
+      "isModder": false,
+      "isUCP": false,
       "isContrib": true,
       "isSesame": true
     },
