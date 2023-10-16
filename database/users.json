@@ -2813,5 +2813,40 @@
     ],
     "sesameID": "usr-GOD-00uv8KdtNc",
     "templateImage": "https://raw.githubusercontent.com/rithyn/rithy-archive/main/pictures/ucp/GC-overlord.png"
+  },
+  {
+    "name": "Aleed",
+    "description": "Aleed is a good French player in starblast. Artist 🖌️",
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": "_breaaw_"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
+    "about": {
+      "isStaff": false,
+      "isModder": false,
+      "isUCP": false,
+      "isContrib": false,
+      "isSesame": false
+    },
+    "sesameID": "usr-XXX-9LOAebML7t",
+    "templateImage": "https://cdn.discordapp.com/avatars/1037162880631574658/eb863fae18bedc06c7eeb2dda773257e.webp"
   }
 ]
