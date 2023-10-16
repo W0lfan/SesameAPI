@@ -33,7 +33,7 @@
         "name": "Naflouille"
       }
     ],
-    "description": "All Naflouille Creations",
+    "description": "All Naflouille Creations. Home of the Starblast innovation.",
     "content": [
       "Starblast Team Fights",
       "Starblast Arena: Origins",
@@ -48,16 +48,10 @@
     "server": "",
     "active": true,
     "birth": "",
-    "links": [
-      {
-        "id": "join",
-        "src": "https://discord.gg/Q5RTE3GF9Y"
-      },
-      {
-        "id": "youtube",
-        "src": "unknown"
-      }
-    ],
+    "links": {
+      "join": "function join() { [native code] }",
+      "youtube": "undefined"
+    },
     "sesameID": "cmnt-Nes-PG9eSkOFme",
     "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1145310535387201536/Design_sans_titre_13.png?width=2407&height=1354"
   },
