@@ -30,10 +30,10 @@
     "name": "Naflouille Creations",
     "author": [
       {
-        "name": "Naflouille"
+        "name": "naflouille"
       }
     ],
-    "description": "All Naflouille Creations. Home of the Starblast innovation.",
+    "description": "All Naflouille Creations. Home of the Starblast innovation. Linkel, Sesame, Starblast mods.",
     "content": [
       "Starblast Team Fights",
       "Starblast Arena: Origins",
@@ -49,7 +49,7 @@
     "active": true,
     "birth": "",
     "links": {
-      "join": "function join() { [native code] }",
+      "join": "https://discord.gg/E3zMKDDXzx",
       "youtube": "undefined"
     },
     "sesameID": "cmnt-Nes-PG9eSkOFme",
@@ -594,5 +594,30 @@
       }
     ],
     "sesameID": "cmnt-Aon-rp63PM1A5c"
+  },
+  {
+    "name": "Sesame",
+    "author": [
+      {
+        "name": "naflouille"
+      }
+    ],
+    "description": "The official Sesame discord server.",
+    "content": [
+      ""
+    ],
+    "tag": [
+      ""
+    ],
+    "language": "English",
+    "server": "International",
+    "active": true,
+    "birth": "",
+    "links": {
+      "join": "https://discord.gg/sYjjjJ6QQV",
+      "youtube": ""
+    },
+    "sesameID": "cmnt-XXX-wHZEVxS6fo",
+    "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1163451049282129960/nafcreations.png?ex=653f9f3a&is=652d2a3a&hm=d5f5299049baeeb27687cd6c476b5554d75f401211e3c029cdb7194d0056375b&=&width=473&height=473"
   }
 ]
