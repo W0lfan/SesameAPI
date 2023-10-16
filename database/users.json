@@ -494,6 +494,7 @@
   },
   {
     "name": "Rithy",
+    "description": "",
     "links": [
       {
         "id": "github",
@@ -506,6 +507,10 @@
       {
         "id": "youtube",
         "src": "https://www.youtube.com/channel/UC65eZXj9BG119teoSwBsFtQ"
+      },
+      {
+        "id": "reddit",
+        "src": "https://www.reddit.com/user/rithyn/"
       },
       {
         "id": "spotify",
