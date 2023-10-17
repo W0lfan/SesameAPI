@@ -1526,10 +1526,27 @@
   },
   {
     "name": "iom",
+    "description": "Queen of S&C, active starblast player. « Cooler than Dejvo ».",
     "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
       {
         "id": "discord",
         "src": "iom2206"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
       }
     ],
     "about": {
@@ -1537,7 +1554,7 @@
       "isModder": false,
       "isUCP": false,
       "isContrib": false,
-      "isAdmin": false
+      "isSesame": false
     },
     "sesameID": "usr-IOM-NGap4W4KNN",
     "templateImage": "https://cdn.discordapp.com/avatars/574660769078312982/c013f5e61678900775240a555f23ac7e.webp?size=128"
