@@ -20,7 +20,10 @@
     ],
     "official": 1,
     "event": 1,
-    "sesameID": "md-Mue-FiCVk4f9Wa"
+    "sesameID": "md-Mue-FiCVk4f9Wa",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/mega_rumble.js"
+    }
   },
   {
     "name": "Alpha Orionis War",
@@ -47,7 +50,10 @@
     "official": 1,
     "event": 1,
     "sesameID": "md-Air-116bD21mob",
-    "templateImage": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/30712488/2d1fd7aa6d15eb47cff6de4a889e73ef573b61a7.jpg"
+    "templateImage": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/30712488/2d1fd7aa6d15eb47cff6de4a889e73ef573b61a7.jpg",
+    "about": {
+      "url": "https://github.com/GoldmanAerospace/AOW"
+    }
   },
   {
     "name": "Escalation",
@@ -67,7 +73,10 @@
     "official": 1,
     "event": 0,
     "sesameID": "md-Ean-xf9kQ0XiWu",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/escalation.jpg"
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/escalation.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/escalation.js"
+    }
   },
   {
     "name": "Starblast Dueling Championship",
@@ -90,7 +99,10 @@
     "official": 1,
     "event": 0,
     "sesameID": "md-Snp-5RXTgkZtkw",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/sdc.jpg"
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/sdc.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/dueling_championship.js"
+    }
   },
   {
     "name": "Multi-Class Ship Tree",
@@ -113,7 +125,10 @@
     "official": 1,
     "event": 0,
     "sesameID": "md-Mse-Gws6g1lxem",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/mcst.jpg"
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/mcst.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/mcst.js"
+    }
   },
   {
     "name": "Destroy the Mothership",
@@ -136,7 +151,10 @@
     "official": 1,
     "event": 0,
     "sesameID": "md-DMp-dOl7ENGK8U",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/dtm.jpg"
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/dtm.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/destroy_the_mothership.js"
+    }
   },
   {
     "name": "Capture The Flag",
@@ -159,7 +177,10 @@
     "official": 1,
     "event": 0,
     "sesameID": "md-CTg-z5Q2GsTNqL",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/ctf.jpg"
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/ctf.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/capture_the_flag.js"
+    }
   },
   {
     "name": "Rumble",
@@ -179,7 +200,10 @@
     "official": 1,
     "event": 0,
     "sesameID": "md-Rbe-IAMuUGSdpy",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/rumble.jpg"
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/rumble.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/rumble.js"
+    }
   },
   {
     "name": "Starblast Racing Championship",
@@ -202,7 +226,10 @@
     "official": 1,
     "event": 0,
     "sesameID": "md-Snp-k7sNXoYyap",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/src2.jpg"
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/src2.jpg",
+    "about": {
+      "url": "https://github.com/GoldmanAerospace/SRC-All-track-codes-/"
+    }
   },
   {
     "name": "Nautic Series",
@@ -222,7 +249,10 @@
     "official": 1,
     "event": 0,
     "sesameID": "md-NSs-jUfGZNag2e",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/nauticseries.jpg"
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/nauticseries.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/nauticseries.js"
+    }
   },
   {
     "name": "Alien Intrusion",
@@ -242,7 +272,10 @@
     "official": 1,
     "event": 0,
     "sesameID": "md-Atn-bik5SOEWbZ",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/alienintrusion.jpg"
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/alienintrusion.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/alienintrusion.js"
+    }
   },
   {
     "name": "U-Series",
@@ -262,7 +295,10 @@
     "official": 1,
     "event": 0,
     "sesameID": "md-Urs-L6pqi9zcsQ",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/useries.jpg"
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/useries.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/useries.js"
+    }
   },
   {
     "name": "Battle Royale",
@@ -282,7 +318,10 @@
     "official": 1,
     "event": 0,
     "sesameID": "md-BRe-zRf1xhjUpV",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/battleroyale.jpg"
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/battleroyale.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/battleroyale.js"
+    }
   },
   {
     "name": "Starblast Racing",
@@ -302,7 +341,10 @@
     "official": 2,
     "event": 0,
     "sesameID": "md-Ssg-u6kj6LPD2Y",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/src.jpg"
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/src.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/racing.js"
+    }
   },
   {
     "name": "Starblast Prototypes",
@@ -322,7 +364,10 @@
     "official": 2,
     "event": 0,
     "sesameID": "md-SPs-3SUxBHFr7S",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/prototypes.jpg"
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/prototypes.jpg",
+    "about": {
+      "url": "https://github.com/Bhpsngum/Uranus-Starblast-Prototypes"
+    }
   },
   {
     "name": "Arena Mod Remake/Recontinuation",
@@ -349,7 +394,10 @@
     "official": 0,
     "event": 0,
     "sesameID": "md-ARn-GqjwjBr0B3",
-    "templateImage": "https://bhpsngum.github.io/starblast/mods/img/re_arena.png"
+    "templateImage": "https://bhpsngum.github.io/starblast/mods/img/re_arena.png",
+    "about": {
+      "url": "https://github.com/Bhpsngum/Arena-mod-remake"
+    }
   },
   {
     "name": "Private Dueling",
@@ -381,7 +429,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-PDg-V22Vj7Ugsl"
+    "sesameID": "md-PDg-V22Vj7Ugsl",
+    "about": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/pds.js"
+    }
   },
   {
     "name": "Private Dueling (Lite version)",
@@ -413,7 +464,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Pnn-vTfRq604Lx"
+    "sesameID": "md-Pnn-vTfRq604Lx",
+    "about": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/pds_lite.js"
+    }
   },
   {
     "name": "Strawberry",
@@ -433,7 +487,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Sby-9xwcjEPvLy"
+    "sesameID": "md-Sby-9xwcjEPvLy",
+    "about": {
+      "url": "https://github.com/Nova-was-taken/Various-mod-codes/blob/main/Strawberry%20mod"
+    }
   },
   {
     "name": "Pirate Mod",
@@ -453,7 +510,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Ptd-G1IQHLKR0q"
+    "sesameID": "md-Ptd-G1IQHLKR0q",
+    "about": {
+      "url": "https://pastebin.com/7rNLrjAN"
+    }
   },
   {
     "name": "Money's Mod",
@@ -473,7 +533,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Myd-dFdICl50GA"
+    "sesameID": "md-Myd-dFdICl50GA",
+    "about": {
+      "url": "https://github.com/45rfew/Starblast-mods-n-objs/tree/master/Mods/"
+    }
   },
   {
     "name": "Piranha Mod",
@@ -493,7 +556,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Phd-C7pG2EPjov"
+    "sesameID": "md-Phd-C7pG2EPjov",
+    "about": {
+      "url": "https://github.com/45rfew/Starblast-mods-n-objs/tree/master/Mods/Piranha%20mod.js"
+    }
   },
   {
     "name": "Team Deathmatch",
@@ -519,7 +585,10 @@
     "official": 0,
     "event": 0,
     "sesameID": "md-Tth-kktPhLUa8F",
-    "templateImage": "https://bhpsngum.github.io/starblast/mods/img/tdm.png"
+    "templateImage": "https://bhpsngum.github.io/starblast/mods/img/tdm.png",
+    "about": {
+      "url": "https://github.com/Bhpsngum/TDM"
+    }
   },
   {
     "name": "Starfleet",
@@ -539,7 +608,10 @@
     "official": 0,
     "event": 0,
     "sesameID": "md-Sft-jfCbGa7TCL",
-    "templateImage": "https://bhpsngum.github.io/starblast/mods/img/Starfleet.png"
+    "templateImage": "https://bhpsngum.github.io/starblast/mods/img/Starfleet.png",
+    "about": {
+      "url": "https://github.com/InterdictorSD/starfleetships-public"
+    }
   },
   {
     "name": "Anarchy Mod",
@@ -559,7 +631,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Ahd-fB5HZLVGGx"
+    "sesameID": "md-Ahd-fB5HZLVGGx",
+    "about": {
+      "url": "https://github.com/MALEFOR27/Anarchy"
+    }
   },
   {
     "name": "Kleinem's Enhanced Ship Tree",
@@ -579,7 +654,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Kne-9V07q6mQxu"
+    "sesameID": "md-Kne-9V07q6mQxu",
+    "about": {
+      "url": "https://pastebin.com/jSXp6CT6"
+    }
   },
   {
     "name": "H-Series",
@@ -602,7 +680,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Hrs-530LNTvfHI"
+    "sesameID": "md-Hrs-530LNTvfHI",
+    "about": {
+      "url": "https://pastebin.com/PzYfZBMi"
+    }
   },
   {
     "name": "X-Series",
@@ -622,7 +703,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Xrs-chYdaEGx9Z"
+    "sesameID": "md-Xrs-chYdaEGx9Z",
+    "about": {
+      "url": "https://pastebin.com/HHK4dyYN"
+    }
   },
   {
     "name": "In-game Map Editor",
@@ -642,7 +726,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Iar-c64TXszC4G"
+    "sesameID": "md-Iar-c64TXszC4G",
+    "about": {
+      "url": "https://pastebin.com/yKUsardk"
+    }
   },
   {
     "name": "Football Mod",
@@ -662,7 +749,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Fad-5BuOTqsUhg"
+    "sesameID": "md-Fad-5BuOTqsUhg",
+    "about": {
+      "url": "https://pastebin.com/9rfN2QKi"
+    }
   },
   {
     "name": "Safe Zones Mod",
@@ -682,7 +772,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Snd-G4IfyoVRal"
+    "sesameID": "md-Snd-G4IfyoVRal",
+    "about": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/safeZones.js"
+    }
   },
   {
     "name": "Starblast O.P",
@@ -705,7 +798,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-SlP-2VvnQlgZXx"
+    "sesameID": "md-SlP-2VvnQlgZXx",
+    "about": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/Starblast_OP_(by_TheFish-ProfessorPi31415).js"
+    }
   },
   {
     "name": "Tic Tac Toe",
@@ -725,7 +821,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Tae-0sus7FmmGT"
+    "sesameID": "md-Tae-0sus7FmmGT",
+    "about": {
+      "url": "https://github.com/DoDucMinh1608/mod/blob/master/XO/xoX10.js"
+    }
   },
   {
     "name": "Starblast Murder Mystery",
@@ -745,7 +844,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Sry-rLD3FMFGwZ"
+    "sesameID": "md-Sry-rLD3FMFGwZ",
+    "about": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/murder_mystery.js"
+    }
   },
   {
     "name": "Starblast Arena: Origins",
@@ -765,7 +867,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Srs-Lt9oqh2Z32"
+    "sesameID": "md-Srs-Lt9oqh2Z32",
+    "about": {
+      "url": "https://github.com/W0lfan/STF/blob/main/archives/main/Starbast%20Arena%20Version%201-09.js"
+    }
   },
   {
     "name": "Barracuda Series",
@@ -785,7 +890,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Bds-0SBAcnmIm1"
+    "sesameID": "md-Bds-0SBAcnmIm1",
+    "about": {
+      "url": "https://github.com/USDFOD/USDFOD/blob/main/Barracuda%20Series%201.0"
+    }
   },
   {
     "name": "Starblast Team Fights",
@@ -819,7 +927,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Mug-CEkUozGPWK"
+    "sesameID": "md-Mug-CEkUozGPWK",
+    "about": {
+      "url": "https://github.com/TheGreatMegalodon/Megalodon-s-dueling-code/blob/main/Meg's%20Dueling%20Official.js"
+    }
   },
   {
     "name": "Meg's Dueling OP",
@@ -839,7 +950,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-MeP-BSvSh46pB6"
+    "sesameID": "md-MeP-BSvSh46pB6",
+    "about": {
+      "url": "https://github.com/TheGreatMegalodon/Megalodon-s-dueling-code/blob/main/Meg's%20Dueling%20(Light%20Version).js"
+    }
   },
   {
     "name": "Alien Speedrun",
@@ -859,7 +973,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Apn-lCrIaSHuaP"
+    "sesameID": "md-Apn-lCrIaSHuaP",
+    "about": {
+      "url": "https://github.com/TheGreatMegalodon/Alien-Speedrun/blob/main/Alien-Speedrun.js"
+    }
   },
   {
     "name": "Mini Series",
@@ -885,7 +1002,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Mes-mUW06NOgxz"
+    "sesameID": "md-Mes-mUW06NOgxz",
+    "about": {
+      "url": "https://github.com/TheGreatMegalodon/miniSeries/blob/main/mainCode.js"
+    }
   },
   {
     "name": "Asteroid War",
@@ -914,7 +1034,10 @@
     "official": 0,
     "event": 0,
     "sesameID": "md-Aor-MP3exGGVHt",
-    "templateImage": "https://media.discordapp.net/attachments/960124329104900158/1137732157377368136/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313032373535383931323035383230303135352f313036313633343037373839373237333338352f5341575f42616e6e65725f335f636f6c6f725f76657273696f6e2e706e67.png?width=2425&height=1355"
+    "templateImage": "https://media.discordapp.net/attachments/960124329104900158/1137732157377368136/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313032373535383931323035383230303135352f313036313633343037373839373237333338352f5341575f42616e6e65725f335f636f6c6f725f76657273696f6e2e706e67.png?width=2425&height=1355",
+    "about": {
+      "url": "https://github.com/TheGreatMegalodon/Starblast-Asteroid-War/blob/main/(%20v3.4.2%20)%20SAW%20Modding%20Space%20Code.js"
+    }
   },
   {
     "name": "Starblast Chatting System",
@@ -934,7 +1057,10 @@
     ],
     "official": 0,
     "event": 0,
-    "sesameID": "md-Sam-DUGpfCPfgK"
+    "sesameID": "md-Sam-DUGpfCPfgK",
+    "about": {
+      "url": "https://raw.githubusercontent.com/W0lfan/Sesame/main/database/mods/chat.js"
+    }
   },
   {
     "name": "Arena Mod Original",
@@ -952,7 +1078,10 @@
     ],
     "official": 0,
     "sesameID": "md-AOl-nLgobsBFxg",
-    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/arena-mod-season-2.png?raw=true"
+    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/arena-mod-season-2.png?raw=true",
+    "about": {
+      "url": "https://raw.githubusercontent.com/W0lfan/SesameAPI/main/database/mods/arena-mod_v3.1.2.js"
+    }
   },
   {
     "name": "Overpowered Speedster",
@@ -970,7 +1099,10 @@
     ],
     "official": 0,
     "sesameID": "md-Odr-2BYw4beExh",
-    "templateImage": "https://github.com/Modraxis/Overpowered-Speedster/assets/117416934/ed295f76-3752-4126-a8fe-b53de94509c5"
+    "templateImage": "https://github.com/Modraxis/Overpowered-Speedster/assets/117416934/ed295f76-3752-4126-a8fe-b53de94509c5",
+    "about": {
+      "url": "https://github.com/Modraxis/Overpowered-Speedster/blob/main/Overpowered%20Speedster%20mod%20code.JS"
+    }
   },
   {
     "name": "Starblast Tag Mod",
@@ -988,7 +1120,10 @@
       }
     ],
     "official": 0,
-    "sesameID": "md-Ssd-adfKzRLlRh"
+    "sesameID": "md-Ssd-adfKzRLlRh",
+    "about": {
+      "url": "https://github.com/Bhpsngum/StarblastTagMode/blob/master/StarblastTagMode.js"
+    }
   },
   {
     "name": "Starblast Insect Mod",
@@ -1006,7 +1141,10 @@
       }
     ],
     "official": 0,
-    "sesameID": "md-SId-jAFA4jSjGo"
+    "sesameID": "md-SId-jAFA4jSjGo",
+    "about": {
+      "url": "https://github.com/AlbieMorrison/Insect_Mod"
+    }
   },
   {
     "name": "Starblast Mining Mod",
@@ -1024,7 +1162,10 @@
       }
     ],
     "official": 0,
-    "sesameID": "md-SMd-8v6aUQdmzO"
+    "sesameID": "md-SMd-8v6aUQdmzO",
+    "about": {
+      "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/mining_mod.js"
+    }
   },
   {
     "name": "Quest Mod",
@@ -1042,7 +1183,10 @@
       }
     ],
     "official": 0,
-    "sesameID": "md-Qtd-YHnw0ZKpwc"
+    "sesameID": "md-Qtd-YHnw0ZKpwc",
+    "about": {
+      "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/stats_dueling_mod.js"
+    }
   },
   {
     "name": "Taupe Mod",
@@ -1060,7 +1204,10 @@
       }
     ],
     "official": 0,
-    "sesameID": "md-Ted-zIgvApOuka"
+    "sesameID": "md-Ted-zIgvApOuka",
+    "about": {
+      "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/taupe_v_0.0.1.js"
+    }
   },
   {
     "name": "Optimized Mining Mod",
@@ -1078,6 +1225,9 @@
       }
     ],
     "official": 0,
-    "sesameID": "md-OMd-GWxT9ZQCyG"
+    "sesameID": "md-OMd-GWxT9ZQCyG",
+    "about": {
+      "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/opt%20mining%20mod.js"
+    }
   }
 ]
