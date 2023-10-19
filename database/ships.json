@@ -11,7 +11,7 @@
       }
     ],
     "sesameID": "shp-Fly-7IfoPQeEGL",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/7/72/Fly3D.png/revision/latest?cb=20230530035116",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/7/72/Fly3D.png",
     "description": "Starting ship"
   },
   {
@@ -26,7 +26,7 @@
       }
     ],
     "sesameID": "shp-Dir-SxNeoVcCSN",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/8c/Delta1.png/revision/latest?cb=20200121055159",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/8c/Delta1.png",
     "description": "Lv2 ship"
   },
   {
@@ -41,7 +41,7 @@
       }
     ],
     "sesameID": "shp-Tdt-LTxMk7Dban",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/15/Trident-blue.png/revision/latest?cb=20200512065956",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/15/Trident-blue.png",
     "description": "Lv2 ship"
   },
   {
@@ -56,7 +56,7 @@
       }
     ],
     "sesameID": "shp-Pir-ari9GGXzG1",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/0b/Pulse_fighter.png/revision/latest?cb=20200512070432Vani",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/0b/Pulse_fighter.png",
     "description": "Lv3 ship"
   },
   {
@@ -71,7 +71,7 @@
       }
     ],
     "sesameID": "shp-Sir-2ySkweCKMe",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/88/S-F.png/revision/latest?cb=20200512070537",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/88/S-F.png",
     "description": "Lv3 ship"
   },
   {
@@ -86,7 +86,7 @@
       }
     ],
     "sesameID": "shp-So1-vXlpzvVZjz",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/5/56/Shadow_x-1.png/revision/latest?cb=20200512070700",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/5/56/Shadow_x-1.png",
     "description": "Lv3 ship"
   },
   {
@@ -101,7 +101,7 @@
       }
     ],
     "sesameID": "shp-Yer-Gm3ER7PsQF",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/47/Starblast-1609262094776.png/revision/latest?cb=20201229171518",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/47/Starblast-1609262094776.png",
     "description": "Lv3 ship"
   },
   {
@@ -116,7 +116,7 @@
       }
     ],
     "sesameID": "shp-Vud-Ng8cI1VB6Z",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/cd/Vanguard_without_alloy.png/revision/latest?cb=20200512071225",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/cd/Vanguard_without_alloy.png",
     "description": "Lv4 ship"
   },
   {
@@ -131,7 +131,7 @@
       }
     ],
     "sesameID": "shp-Mcy-wCV6GSGgvK",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d8/Zinc_mercury.png/revision/latest?cb=20200512071442",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d8/Zinc_mercury.png",
     "description": "Lv4 ship"
   },
   {
@@ -146,7 +146,7 @@
       }
     ],
     "sesameID": "shp-Xrr-V0vGjNrRG9",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4c/X_warrior.png/revision/latest?cb=20200512071721",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4c/X_warrior.png",
     "description": "Lv4 ship"
   },
   {
@@ -161,7 +161,7 @@
       }
     ],
     "sesameID": "shp-Ser-vUZAERVPVB",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d7/Zinc_interceptor.png/revision/latest?cb=20200512071930",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d7/Zinc_interceptor.png",
     "description": "Lv4 ship"
   },
   {
@@ -176,7 +176,7 @@
       }
     ],
     "sesameID": "shp-Pnr-hVpV1cvbFi",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/8f/Zinc_pioneer.png/revision/latest?cb=20200512072208",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/8f/Zinc_pioneer.png",
     "description": "Pioneer is a Tier 4 ship in Starblast.io. It fires two lasers from the front at a slightly slow speed that does moderate damage."
   },
   {
@@ -191,7 +191,7 @@
       }
     ],
     "sesameID": "shp-Car-p4tSwKz1NN",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/2/25/Crus-zinc.png/revision/latest?cb=20200512072338",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/2/25/Crus-zinc.png",
     "description": "Crusader is a Tier 4 ship in Starblast.io. It fires two parallel shots from the nose of the ship that deals a moderate amount of damage"
   },
   {
@@ -206,7 +206,7 @@
       }
     ],
     "sesameID": "shp-Uir-vGY5mp3qxp",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/80/U-Sniper-zinc.png/revision/latest?cb=20200411080807",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/80/U-Sniper-zinc.png",
     "description": "The U-Sniper is a Tier 5 ship in Starblast.io. It fires two pulses from the front that do large damage with very large recoil and slight knockback on the victim."
   },
   {
@@ -221,7 +221,7 @@
       }
     ],
     "sesameID": "shp-Trr-cs0ZgyBPXL",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/3a/Zinc_T_warrior.png/revision/latest?cb=20200512072706",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/3a/Zinc_T_warrior.png",
     "description": "T-Warrior is a Tier 5 ship in Starblast.io. It fires five frontal lasers that diverge, and as such is best at close ranges. It is an incredible ship for mining asteroids and can stand on its own against other players in combat."
   },
   {
@@ -236,7 +236,7 @@
       }
     ],
     "sesameID": "shp-FSr-nMSytfbxj9",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/68/Furystar_corrected.png/revision/latest?cb=20200512072528",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/68/Furystar_corrected.png",
     "description": "FuryStar is a Tier 5 ship in Starblast.io. This was the second instance of a ship design/idea being pulled from the subreddit community and implemented into the game."
   },
   {
@@ -251,7 +251,7 @@
       }
     ],
     "sesameID": "shp-Ats-icOwzEcDqH",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4f/Zinc_aetos.png/revision/latest?cb=20200512072833",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4f/Zinc_aetos.png",
     "description": "Aetos is a Tier 5 ship in Starblast.io. It fires two slightly converging side lasers from the front that do moderate damage. It is moderately good at mining asteroids with a good ship speed, but is very weak against enemy vessels unless fully upgraded."
   },
   {
@@ -266,7 +266,7 @@
       }
     ],
     "sesameID": "shp-So2-SlGCUHz5YV",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f8/X-2_in_zinc.png/revision/latest?cb=20200512073007",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f8/X-2_in_zinc.png",
     "description": "Shadow X-2 is a Tier 5 ship in Starblast.io. It is a Tier 5 version of the Shadow X-1 and X-3, sharing similar characteristics to the X1 more than the X3."
   },
   {
@@ -281,7 +281,7 @@
       }
     ],
     "sesameID": "shp-Hlr-SCQsi1K8P9",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/e2/Howler_updated.png/revision/latest?cb=20200512073323",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/e2/Howler_updated.png",
     "description": "The Howler is the newest ship in the vanilla ship tree. It is a Tier 5, on the right side of the tree. It replaced the Toscain on 1/28/2020. It is also a little bit like a mini-Marauder."
   },
   {
@@ -296,7 +296,7 @@
       }
     ],
     "sesameID": "shp-Bfr-U9hKOW7oSj",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/a/a5/Bat_defender_zinc.png/revision/latest?cb=20200512073548",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/a/a5/Bat_defender_zinc.png",
     "description": "Bat-Defender is a Tier 5 ship in Starblast.io. It is a tier 5 version of the Crusader, has the highest shield capacity of any Tier 5 ship, and fires 2 side converging lasers from the front."
   },
   {
@@ -311,7 +311,7 @@
       }
     ],
     "sesameID": "shp-Adr-3sUgqr3PXf",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/0d/Advanced-Fighter3D.png/revision/latest?cb=20200512074947",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/0d/Advanced-Fighter3D.png",
     "description": "The Advanced-Fighter is a Tier 6 ship in Starblast.io. It fires one frontal pulse with immense damage (equivalent to the pulse of an Aries when maxed) and knockback, and four small side lasers from the front, and like the Shadow X-3, it is a typical glass cannon ship. "
   },
   {
@@ -326,7 +326,7 @@
       }
     ],
     "sesameID": "shp-Spn-Q0jxucI11t",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/63/Scorpion3D.png/revision/latest?cb=20200512075257",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/63/Scorpion3D.png",
     "description": "Scorpion is a Tier 6 ship in Starblast.io. It fires one frontal pulse with large damage and knockback, and two small lasers from each side that do almost no damage."
   },
   {
@@ -341,7 +341,7 @@
       }
     ],
     "sesameID": "shp-Mur-qODTgKEWGA",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c4/Marauder_3d.png/revision/latest?cb=20200512075334",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c4/Marauder_3d.png",
     "description": "Marauder is a Tier 6 ship in Starblast.io that replaced the H-Mercury. It sacrifices a frontal pulse for a rapidly firing central laser and two side lasers."
   },
   {
@@ -356,7 +356,7 @@
       }
     ],
     "sesameID": "shp-Cdr-AkeYqDakFm",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f5/Condor_3D.png/revision/latest?cb=20200512075415",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f5/Condor_3D.png",
     "description": "Condor is a Tier 6 ship in Starblast.io. It fires one frontal pulse with moderate damage and knockback as well as two frontal lasers. It has a high rate of fire, which allows it to quickly attack while moving, and is the third-fastest Tier 6 ship, after the Marauder."
   },
   {
@@ -371,7 +371,7 @@
       }
     ],
     "sesameID": "shp-Adr-LDBuijm29l",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/1a/A-Speedster3DD.png/revision/latest?cb=20200512075523",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/1a/A-Speedster3DD.png",
     "description": "A-Speedster is a Tier 6 ship in Starblast.io. It fires one frontal pulse with moderate damage, knockback, and recoil as well as two frontal diverging lasers. "
   },
   {
@@ -386,7 +386,7 @@
       }
     ],
     "sesameID": "shp-RTr-oSoW4tujfU",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4f/Rock-Tower3D.png/revision/latest?cb=20200512075621",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4f/Rock-Tower3D.png",
     "description": "Rock-Tower is a Tier 6 ship in Starblast.io. It fires two tiny frontal lasers extremely rapidly, while simultaneously having great ramming damage."
   },
   {
@@ -401,7 +401,7 @@
       }
     ],
     "sesameID": "shp-Baa-mnnuGlfHGz",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/ee/Barracuda3D.png/revision/latest?cb=20200512075739",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/ee/Barracuda3D.png",
     "description": "Barracuda is a Tier 6 ship in Starblast.io. It is a ship meant purely for ramming and fires nothing. Instead, it has an ability called Dash, essentially charging ahead at increased speed to ram, inflicting impact damage."
   },
   {
@@ -416,7 +416,7 @@
       }
     ],
     "sesameID": "shp-Oer-MuupFdse1X",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/06/O-Defender3D.png/revision/latest?cb=20200512075831",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/06/O-Defender3D.png",
     "description": "O-Defender is a Tier 6 ship in Starblast.io. It has the highest shield capacity and regen among Tier 6's and fires one frontal pulse that does moderate damage and knockback."
   },
   {
@@ -431,7 +431,7 @@
       }
     ],
     "sesameID": "shp-Osy-EIkCxWOjSc",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/e7/Odyssey3D.png/revision/latest?cb=20200512080105",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/e7/Odyssey3D.png",
     "description": "Odyssey is a Tier 7 ship in Starblast.io. It has the second-highest shield capacity and the second-slowest ship speed in the game, both after the Aries. It fires one gigantic frontal pulse that is slow but has the highest laser damage in vanilla currently."
   },
   {
@@ -446,7 +446,7 @@
       }
     ],
     "sesameID": "shp-So3-SuBsCpZybz",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/7/77/ShadowX-33D.png/revision/latest?cb=20200512080159",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/7/77/ShadowX-33D.png",
     "description": "Shadow X-3 is a Tier 7 ship in Starblast.io. It is the Tier 7 version of the Shadow X-2 and Shadow X-1, yet shares a lot of characteristics with the Advanced-Fighter; it is a glass cannon ship which fires one frontal pulse with immense speed, damage, and knockback, as well as 4 small lasers from the sides."
   },
   {
@@ -461,7 +461,7 @@
       }
     ],
     "sesameID": "shp-Btn-0VcAFGeHcf",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/47/Bastion3d.png/revision/latest?cb=20200512080406",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/47/Bastion3d.png",
     "description": "The Bastion is a Tier 7 ship in Starblast that was designed by Kleinem and was added to the game on Aug 4, 2017. It is the only tier 7 ship in Starblast that is a total bullet hose and is most similar to the former H-Mercury (Now replaced with Marauder, also similar to the Bastion)."
   },
   {
@@ -476,7 +476,7 @@
       }
     ],
     "sesameID": "shp-Ais-ADKzDbWn5A",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/81/Aries3D.png/revision/latest/scale-to-width-down/353?cb=20200512080504",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/81/Aries3D.png",
     "description": "The Aries fires one slow frontal pulse that does gigantic damage and has no recoil, as well as four moderate lasers from the four sides at roughly right angles. "
   },
   {
@@ -491,7 +491,7 @@
       }
     ],
     "sesameID": "shp-Hcy-HDywG1hXtv",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/9f/H-Mercury3D.png/revision/latest/scale-to-width-down/1000?cb=20170512004009",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/9f/H-Mercury3D.png",
     "description": "H-Mercury is a retired Tier 6 ship in Starblast.io which was replaced by the Marauder. It is also a ship in the KEST mod. It is a Tier 6 version of the Mercury, sacrificing the pulse for one very rapid frontal laser and four converging lasers from the sides."
   },
   {
@@ -506,7 +506,7 @@
       }
     ],
     "sesameID": "shp-Tcn-Vai89Qt0Tf",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4f/Toscain3D.png/revision/latest/scale-to-width-down/1000?cb=20170412125120",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4f/Toscain3D.png",
     "description": "Toscain was a Tier 5 ship in Starblast.io. It is a unique ship compared to other ships, firing four frontal lasers that diverge with varying angles, and one pulse that has slight knockback to the victim. "
   },
   {
@@ -521,7 +521,7 @@
       }
     ],
     "sesameID": "shp-Ue2-Qk0q30Iwgj",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/86/USniperMK2_3D.png/revision/latest?cb=20190325190846",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/86/USniperMK2_3D.png",
     "description": "U-Sniper MK 2 is a starting ship (Tier 1) in U-Series. It is very similar to the vanilla U-Sniper, although the U-Sniper MK2 has higher minimum stats, faster speed, and cannons that are closer together."
   },
   {
@@ -536,7 +536,7 @@
       }
     ],
     "sesameID": "shp-Uir-8baMrZ292f",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/92/U-Cruiser3D.png/revision/latest?cb=20190325191121",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/92/U-Cruiser3D.png",
     "description": "The U-Cruiser is a Tier 2 ship in the U-Series mod. It has two side cannons which fire high damage pulses and a central cannon which rapidly fires a pulse."
   },
   {
@@ -551,7 +551,7 @@
       }
     ],
     "sesameID": "shp-Uud-RKyocxisRX",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c1/U-Quad3D.png/revision/latest?cb=20190325191244",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c1/U-Quad3D.png",
     "description": "The U-Quad is a Tier 2 ship in the U-Series mod. It has 2 cannons at the front which each fire two pulses stacked on top of each other."
   },
   {
@@ -566,7 +566,7 @@
       }
     ],
     "sesameID": "shp-Una-84CiQ9dvP9",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/97/U-Penta3D.png/revision/latest?cb=20190325191326",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/97/U-Penta3D.png",
     "description": "The U-Penta is a Tier 3 ship in the U-Series mod. As suggested by its name, it has 5 cannons each firing pulses. The central cannon fires a slightly weaker pulse at a higher rate. Maxing damage on this ship prevents the outer cannons from firing at all, except on burst shots."
   },
   {
@@ -581,7 +581,7 @@
       }
     ],
     "sesameID": "shp-Urd-SOc4aG5vtA",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/1e/U-Spread3D.png/revision/latest?cb=20190325191412",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/1e/U-Spread3D.png",
     "description": "The U-Spread is a Tier 3 ship in the U-Series mod. It fires a spread of 5 lasers from all different angles. The main cannon at the front fires a weaker pulse at a higher rate. This ship is a mix of Support and Offense. "
   },
   {
@@ -596,7 +596,7 @@
       }
     ],
     "sesameID": "shp-Hrr-5GgnGDHyvR",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/05/H-warrior.png/revision/latest?cb=20200411065341",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/05/H-warrior.png",
     "description": "The H-Warrior is a Tier 3 ship in the U-Series mod. As suggested by its name, the ship takes the shape of the letter : H . "
   },
   {
@@ -611,7 +611,7 @@
       }
     ],
     "sesameID": "shp-Uny-4ZL1TsPclS",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/36/U-Sentry3D.png/revision/latest?cb=20190325191546",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/36/U-Sentry3D.png",
     "description": "The U-Sentry is a Tier 3 ship in the U-Series mod. It has two front cannons which each fires a pulse each rapidly with high recoil, allowing it to escape easily, similar to the vanilla ship, the Shadow X-3."
   },
   {
@@ -626,7 +626,7 @@
       }
     ],
     "sesameID": "shp-Uel-NO70Dxfa6O",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f8/U-Arsenal3D.png/revision/latest?cb=20190325191638",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f8/U-Arsenal3D.png",
     "description": "The U-Arsenal is a Tier 4 ship in the U-Series mod. It is one of the best Tier 4 in the game. It fires a frenzy of 7 pulses all from the front. This gives it high burst damage and makes it a good ship for attacking, and is a decent miner. It has rather terrifying speed for its size, and it can easily kill anything up to a Tier 6."
   },
   {
@@ -641,7 +641,7 @@
       }
     ],
     "sesameID": "shp-Ucr-NpO1pHRHLG",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b1/U-Interceptor3D.png/revision/latest?cb=20190325191816",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b1/U-Interceptor3D.png",
     "description": "The U-Interceptor is a Tier 4 ship in the U-Series mod. It fires 4 pulses from the back to propel itself forward as well as a lower damage pulse from the front. It is built for speed, however lacks in agility."
   },
   {
@@ -656,7 +656,7 @@
       }
     ],
     "sesameID": "shp-Uer-7fcI7AT2XM",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/48/U-Speeder3D.png/revision/latest?cb=20190325191909",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/48/U-Speeder3D.png",
     "description": "The U-Speeder is a Tier 4 ship in the U-Series mod. It has a dual cannon at the front which fires two pulses and a cannon at the back which rapidly fires a low damage pulse. The back cannon's recoil allows this ship to propel itself forward at insane speeds. However agility is a weakness. it can't make tight turns very well, and is purely and offensive-styled ship."
   },
   {
@@ -671,7 +671,7 @@
       }
     ],
     "sesameID": "shp-Uee-4y6bmRMEEy",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/9b/Starblast-1609362733057.png/revision/latest?cb=20201230211310",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/9b/Starblast-1609362733057.png",
     "description": "The U-Siege is a Tier 4 ship in the U-Series mod. It has 4 cannons at the front; a dual cannon which fires 2 pulses rapidly and two central cannons stacked on top of each other which both rapidly fire inaccurate, lower damage pulses."
   },
   {
@@ -686,7 +686,7 @@
       }
     ],
     "sesameID": "shp-Uir-Aa3cK0GF7I",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/bc/U-Punisher3D.png/revision/latest?cb=20190325192015",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/bc/U-Punisher3D.png",
     "description": "The U-Punisher is a Tier 5 ship in the U-Series mod. The U-Punisher falls in the Assault ship category. It fires a frenzy of 9 lasers all from the front which have insane recoil. Because of the recoil, this ship can escape easily and combined with its high burst damage makes it a great ship for attacking, due to it being so overpowered."
   },
   {
@@ -701,7 +701,7 @@
       }
     ],
     "sesameID": "shp-Uca-xG1EDFgp4G",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/a/a5/U-Octa3D.png/revision/latest?cb=20190325192109",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/a/a5/U-Octa3D.png",
     "description": "The U-Octa is a tier 5 ship in the U-Series mod. This is an excellent miner and attacker! This ship fires a total of 8 bullets in every direction, or in one direction, depending on how you choose to upgrade."
   },
   {
@@ -716,7 +716,7 @@
       }
     ],
     "sesameID": "shp-Tbr-Pza1szeAhB",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/14/Trailblazer3D.png/revision/latest?cb=20190325192251",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/14/Trailblazer3D.png",
     "description": "The Trailblazer is a tier 5 ship in the U-Series mod. This ship is similar to the U-Demon, but it is much smaller and has much less recoil! It regains energy faster than the U-Demon, moves far faster, and is heavier, but the agility is slightly worse. "
   },
   {
@@ -731,7 +731,7 @@
       }
     ],
     "sesameID": "shp-Umn-GH2yqZhOmi",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/86/U-Demon3D.png/revision/latest?cb=20190325192349",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/86/U-Demon3D.png",
     "description": "The U-Demon is a tier 5 in the U-Series mod. This ship has similar abilities to the U-Punisher, where it has immense recoil, but very damaging lasers. There is a twist, however. It has cannons on the back which make it double as a bullet dasher, with moderate speed compared to the other speedsters of U-Series. This Ship is best used on the offensive, not defensive, and is mediocre at mining."
   },
   {
@@ -746,7 +746,7 @@
       }
     ],
     "sesameID": "shp-Ulr-oUqSHXWXSh",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/a/a2/U-Pulsar3D.png/revision/latest?cb=20190325192454",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/a/a2/U-Pulsar3D.png",
     "description": "The U-Pulsar is a tier 5 ship in the U-Series mod. This ship operates like a glass cannon, being quite fragile with its low shields and mass. However, the two slow 'pulsars' that it fires each cause MASSIVE amounts of damage, being able to take down even the U-Octa's shields."
   },
   {
@@ -761,7 +761,7 @@
       }
     ],
     "sesameID": "shp-Uie-IZirIEsfd0",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f4/U-Barricade3D.png/revision/latest?cb=20190325192605",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f4/U-Barricade3D.png",
     "description": "The U-Barricade is a tier 6 in the U-Series mod. Similar to the U-Bruiser, it features immense power and recoil, but it has poor agility. While fast, it accelerates slowly."
   },
   {
@@ -776,7 +776,7 @@
       }
     ],
     "sesameID": "shp-Uir-G1idNlX0mu",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/63/Starblast-1608658311224.png/revision/latest?cb=20201222173232",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/63/Starblast-1608658311224.png",
     "description": "The U-Monitor is a tier 6 ship in the U-Series mod. This ship is another mining base ship with great attack power and a great fire rate! This ship is very formidable as a healer mainly because of its side lasers. This ship can shoot from the starboard side."
   },
   {
@@ -791,7 +791,7 @@
       }
     ],
     "sesameID": "shp-Umr-FNUTg4Y9Zt",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/05/Starblast-1608658468001.png/revision/latest?cb=20201222173601",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/05/Starblast-1608658468001.png",
     "description": "The U-Perimeter is a tier 6 ship in the U-Series mod. This ship is an excellent miner, but this ship is pretty slow and very bulky. "
   },
   {
@@ -806,7 +806,7 @@
       }
     ],
     "sesameID": "shp-Uir-QoeTjgpRUc",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c3/Starblast-1608658710841.png/revision/latest?cb=20201222173937",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c3/Starblast-1608658710841.png",
     "description": "The U-Bruiser is a tier 6 ship in the U-Series mod. This ship a generic power house, with eight powerful lasers. But with great power comes disadvantages: it is very slow and its bullets can be dodged pretty easily."
   },
   {
@@ -821,7 +821,7 @@
       }
     ],
     "sesameID": "shp-Urn-Soo18SlkTu",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f0/U-Afterburn3D.png/revision/latest?cb=20190325192917",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f0/U-Afterburn3D.png",
     "description": "The U-Afterburn is a Tier 6 ship in the U-Series mod. It shoots two high damage pulses from the front while using its back lasers to propel itself forward at insane speeds. "
   },
   {
@@ -836,7 +836,7 @@
       }
     ],
     "sesameID": "shp-Usr-MCcM9dwYGH",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/87/U-Smasher3D.png/revision/latest?cb=20190325193007",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/87/U-Smasher3D.png",
     "description": "The U-Smasher is a tier 6 in the U-Series mod. This ship is an excellent rammer that goes very fast with its canons in the back. This ship is a much better version of the Barracuda and it shreds most ships if caught unexpected."
   },
   {
@@ -851,7 +851,7 @@
       }
     ],
     "sesameID": "shp-Hfe-cfFFQAyG5k",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/39/Hellfire3D.png/revision/latest?cb=20190325193105",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/39/Hellfire3D.png",
     "description": "This ship is known for its very high fire rate and stunning abilities! One stream of attacks from this thing can leave an opponent defenseless! Initially, it may face some risks, but when maxed, it can destroy pretty much anything, including Tier 7 ships). But it does have some drawbacks such as its slow speed. But, if any ship gets cornered, they'll probably be shredded."
   },
   {
@@ -866,7 +866,7 @@
       }
     ],
     "sesameID": "shp-Uur-tssD23rzF2",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/2/20/U-10_Thunder3D.png/revision/latest?cb=20190325193149",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/2/20/U-10_Thunder3D.png",
     "description": "The U-10 Thunder is tier 6 ship in the U-Series mod. This ship is like a heavily upgraded U-Sentry, being a bigger version with much faster firerate and damage making it very useful in team battles! However, the amount of damage it can hit at once is limited due to the high recoil per shot, so you need to time your shots well, or you will blast yourself into the void."
   },
   {
@@ -881,7 +881,7 @@
       }
     ],
     "sesameID": "shp-Ual-YnfSEbweyK",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c1/U-Wall3D.png/revision/latest?cb=20190325193249",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c1/U-Wall3D.png",
     "description": "The U-Wall is a Tier-7 ship in the U-Series mod, upgrading from the U-Barricade and U-Monitor. It fires a wave of bullets spanning the length of the entire ship, with bullet speed gradually decreasing away form the center. It is the largest ship in the mod, as well as the second fastest Tier-7, despite its size."
   },
   {
@@ -896,7 +896,7 @@
       }
     ],
     "sesameID": "shp-Hrr-4zxrYAxTKP",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b4/Starblast-1608658020971.png/revision/latest?cb=20201222172926",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b4/Starblast-1608658020971.png",
     "description": "The Heartbreaker is Tier-7 ship in the U-Series mod, and upgrades from the U-Barricade, U-Monitor, U-Perimeter, and the U-Bruiser. It has medium-high power cannons all across its circular body to shower a heart-shaped pattern of bullets around it. The Heartbreaker is the fastest turning Tier-7 in the mod."
   },
   {
@@ -911,7 +911,7 @@
       }
     ],
     "sesameID": "shp-Usn-OEYTy8CeHZ",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c7/U-Fusion-Finalizer.png/revision/latest?cb=20200411033317",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c7/U-Fusion-Finalizer.png",
     "description": "The U-Fusion is a tier 7 ship in the U-Series mod, upgrading from the U-Perimeter, U-Bruiser, U-Afterburn, and U-Smasher."
   },
   {
@@ -926,7 +926,7 @@
       }
     ],
     "sesameID": "shp-Ukn-rRLs35Cspf",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/cf/Starblast-1586591205716.png/revision/latest?cb=20200411074724",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/cf/Starblast-1586591205716.png",
     "description": "The U-Marksman is a tier 7 ship in the U-Series mod, upgrading from the U-Afterburn, U-Smasher, Hellfire, and U-10 Thunder. This tier 7 ship is designed to be a sniper, shooting a single extremely heavy and fast shot at enemies with no other weapons other than a small rapid fire beam-type laser that deals the damage of an energy-empty un-upgraded Fly (10 DPS) and mostly exists in spirit of a laser sight."
   },
   {
@@ -941,7 +941,7 @@
       }
     ],
     "sesameID": "shp-So7-NdirwlWzVZ",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/ec/Starblast-1586591436270.png/revision/latest?cb=20200411075123",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/ec/Starblast-1586591436270.png",
     "description": "Shadow X-27 is a tier 7 in the U-Series mod. This ship is very similar to the U-Pulsar but it has none of the disadvantages that the Pulsar had other than the aspect of fragile compared to the other Tier 7's."
   },
   {
@@ -956,7 +956,7 @@
       }
     ],
     "sesameID": "shp-Bes-h9wxHoabZG",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1137732398642110484/Black_Keselios.png?width=1202&height=676",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1137732398642110484/Black_Keselios.png",
     "description": "NOK's third and biggest mothership"
   },
   {
@@ -971,7 +971,7 @@
       }
     ],
     "sesameID": "shp-Aid-2GTpStTHo3",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081503108531748936/starblast-1677920813894.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081503108531748936/starblast-1677920813894.png",
     "description": "V.1"
   },
   {
@@ -986,7 +986,7 @@
       }
     ],
     "sesameID": "shp-ARe-Hd7sAnmjGY",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081504558678806569/starblast-1677921168862.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081504558678806569/starblast-1677921168862.png",
     "description": "V.2"
   },
   {
@@ -1001,7 +1001,7 @@
       }
     ],
     "sesameID": "shp-Boy-D15AvGgOdg",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081508254766608475/starblast-1677922034980.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081508254766608475/starblast-1677922034980.png",
     "description": "V.1"
   },
   {
@@ -1016,7 +1016,7 @@
       }
     ],
     "sesameID": "shp-Bey-WkyOkdYrbX",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1142139150888345621/starblast-1692376859205.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1142139150888345621/starblast-1692376859205.png",
     "description": "V.2"
   },
   {
@@ -1031,7 +1031,7 @@
       }
     ],
     "sesameID": "shp-Ccu-7PHEAjoUIv",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1140753376011886643/starblast-1692047145112.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1140753376011886643/starblast-1692047145112.png",
     "description": "V.1"
   },
   {
@@ -1046,7 +1046,7 @@
       }
     ],
     "sesameID": "shp-Cir-tsqVCG5Z6l",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1107322280058564669/starblast-1684076536067.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1107322280058564669/starblast-1684076536067.png",
     "description": "V.1"
   },
   {
@@ -1061,7 +1061,7 @@
       }
     ],
     "sesameID": "shp-Dar-hmeeExfhnE",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1141477965524369478/starblast-1692219796632.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1141477965524369478/starblast-1692219796632.png",
     "description": "V.2"
   },
   {
@@ -1076,7 +1076,7 @@
       }
     ],
     "sesameID": "shp-Dta-Cha9cQxllL",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081504111314350140/starblast-1677921060496.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081504111314350140/starblast-1677921060496.png",
     "description": "V.3"
   },
   {
@@ -1091,7 +1091,7 @@
       }
     ],
     "sesameID": "shp-Dit-pdpuyP1GiB",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1141089354522034186/starblast-1692123071844.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1141089354522034186/starblast-1692123071844.png",
     "description": "V.1"
   },
   {
@@ -1106,7 +1106,7 @@
       }
     ],
     "sesameID": "shp-Fan-zVm6VATyDF",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081505777187041280/starblast-1677921457788.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081505777187041280/starblast-1677921457788.png",
     "description": "V.3"
   },
   {
@@ -1121,7 +1121,7 @@
       }
     ],
     "sesameID": "shp-Lyr-3XDhmGebXs",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1142546017443643462/starblast-1692474536059.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1142546017443643462/starblast-1692474536059.png",
     "description": "V.2"
   },
   {
@@ -1136,7 +1136,7 @@
       }
     ],
     "sesameID": "shp-Nin-pygnGkCMCt",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1097110253369303130/starblast-1681641840665.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1097110253369303130/starblast-1681641840665.png",
     "description": "V.4"
   },
   {
@@ -1151,7 +1151,7 @@
       }
     ],
     "sesameID": "shp-Smr-Nlv4rR2cGN",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1101963318803050617/starblast-1682798894738.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1101963318803050617/starblast-1682798894738.png",
     "description": "V.4"
   },
   {
@@ -1166,7 +1166,7 @@
       }
     ],
     "sesameID": "shp-Slo-MGGNPrrKLD",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1096170492328685769/i5a7mLxwAAAAASUVORK5CYII.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1096170492328685769/i5a7mLxwAAAAASUVORK5CYII.png",
     "description": "V.2"
   },
   {
@@ -1181,7 +1181,7 @@
       }
     ],
     "sesameID": "shp-Ton-7aZSxqTGDv",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081507939703083028/starblast-1677921974033.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081507939703083028/starblast-1677921974033.png",
     "description": "V.4"
   },
   {
@@ -1196,7 +1196,7 @@
       }
     ],
     "sesameID": "shp-Uir-39HVKeG1TE",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1140738078311461015/starblast-1692043494273.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1140738078311461015/starblast-1692043494273.png",
     "description": "V.3"
   },
   {
@@ -1211,7 +1211,7 @@
       }
     ],
     "sesameID": "shp-Uey-rGisO84O6u",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1142918909914267728/starblast-1692563422341.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1142918909914267728/starblast-1692563422341.png",
     "description": "V.1"
   },
   {
@@ -1226,7 +1226,7 @@
       }
     ],
     "sesameID": "shp-Vpr-sUs6ybxCRR",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081508772553429052/starblast-1677922163569.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081508772553429052/starblast-1677922163569.png",
     "description": "V.1"
   },
   {
@@ -1241,7 +1241,7 @@
       }
     ],
     "sesameID": "shp-WRr-bOgs6P5gbD",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081507225425686588/starblast-1677921804975.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081507225425686588/starblast-1677921804975.png",
     "description": "V.2"
   },
   {
@@ -1256,7 +1256,7 @@
       }
     ],
     "sesameID": "shp-Yay-DSvxHHXYXH",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081507750699347998/starblast-1677921926408.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081507750699347998/starblast-1677921926408.png",
     "description": "V.3"
   },
   {
@@ -1271,7 +1271,7 @@
       }
     ],
     "sesameID": "shp-Cao-tXEdOBjGlq",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1142459349659295845/starblast-1692453895796.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1142459349659295845/starblast-1692453895796.png",
     "description": "V.1"
   },
   {
@@ -1286,7 +1286,7 @@
       }
     ],
     "sesameID": "shp-Eee-8oGpbSK7VW",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1102234586957742141/starblast-1682863399354.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1102234586957742141/starblast-1682863399354.png",
     "description": "V.2"
   },
   {
@@ -1301,7 +1301,7 @@
       }
     ],
     "sesameID": "shp-Jet-aMfXF00Ikh",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1144618885262360586/starblast-1692968755768.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1144618885262360586/starblast-1692968755768.png",
     "description": "V.3"
   },
   {
@@ -1316,7 +1316,7 @@
       }
     ],
     "sesameID": "shp-Mlr-GNtZnOwu4s",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1096493719156441219/starblast-1681494789657.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1096493719156441219/starblast-1681494789657.png",
     "description": "V.2"
   },
   {
@@ -1331,7 +1331,7 @@
       }
     ],
     "sesameID": "shp-Cls-RvfOKtPSLW",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081504844143132722/starblast-1677921232149.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081504844143132722/starblast-1677921232149.png",
     "description": "First NOK's Mothership - V.3"
   },
   {
@@ -1346,7 +1346,7 @@
       }
     ],
     "sesameID": "shp-Gon-1z6RsjY1TG",
-    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081502329888571392/AXsyzKELDrSLAAAAAElFTkSuQmCC.png?width=610&height=610",
+    "templateImage": "https://media.discordapp.net/attachments/778662702662549537/1081502329888571392/AXsyzKELDrSLAAAAAElFTkSuQmCC.png",
     "description": "Second NOK's Mothership"
   },
   {
@@ -1361,7 +1361,7 @@
       }
     ],
     "sesameID": "shp-Sal-vPxFGGPgQm",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/44/Starblast_snail.png/revision/latest?cb=20190813215632",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/44/Starblast_snail.png",
     "description": "The Snail is a Tier 1 ship in the Nautic Series mod. It rapidly shoots inaccurate, slow, and low-damage lasers from the front."
   },
   {
@@ -1376,7 +1376,7 @@
       }
     ],
     "sesameID": "shp-Jyh-k3yR5FUshO",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/7/76/Jellyfish3D.png/revision/latest?cb=20190901163039",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/7/76/Jellyfish3D.png",
     "description": "The Jellyfish is a Tier 2 ship in the Nautic Series mod. It is a small but heavy ship that rams opponents to fight."
   },
   {
@@ -1391,7 +1391,7 @@
       }
     ],
     "sesameID": "shp-Cab-hHq7chOGNn",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/1d/Crab3D.png/revision/latest?cb=20190901163211",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/1d/Crab3D.png",
     "description": "The Crab is a Tier 2 ship in the Nautic Series mod. It rapidly fires two low damage lasers from the front."
   },
   {
@@ -1406,7 +1406,7 @@
       }
     ],
     "sesameID": "shp-Sud-uGaWXkk6O2",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/ec/Squid3D.png/revision/latest?cb=20190830143054",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/ec/Squid3D.png",
     "description": "The Squid is a Tier 3 ship in the Nautic Series mod and a retired Tier 5 ship in the Alien Intrusion mod."
   },
   {
@@ -1421,7 +1421,7 @@
       }
     ],
     "sesameID": "shp-Arh-F5GUwF3luP",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/8d/Starblast_archer.png/revision/latest?cb=20190813220229",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/8d/Starblast_archer.png",
     "description": "The Archerfish is a Tier 3 ship in the Nautic Series mod. It was added in a later update and replaced the Mullet, as the Mullet was almost identical to the Lionfish. "
   },
   {
@@ -1436,7 +1436,7 @@
       }
     ],
     "sesameID": "shp-Grh-59cUgM7jat",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/1e/Guitarfish3D.png/revision/latest?cb=20190830165506",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/1e/Guitarfish3D.png",
     "description": "The Guitarfish is a Tier 3 ship in the Nautic Series mod. It rapidly fires two medium damage lasers from the front."
   },
   {
@@ -1451,7 +1451,7 @@
       }
     ],
     "sesameID": "shp-Tte-RayFQDtfoO",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d3/Turtle3D.png/revision/latest?cb=20190901163758",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d3/Turtle3D.png",
     "description": "The Turtle is a Tier 3 ship in the Nautic Series mod. It fires a frontal pulse as well as two low damage lasers from the back to propel itself forward. Turtle is also part of the Prototypes mod."
   },
   {
@@ -1466,7 +1466,7 @@
       }
     ],
     "sesameID": "shp-Ceh-YVDkO4vwcx",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/9a/Cuttlefish3D.png/revision/latest?cb=20190830165722",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/9a/Cuttlefish3D.png",
     "description": "The Cuttlefish is a Tier 4 ship in the Nautic Series mod. Like other ships in its upgrade path, it has high mass and its method of damaging enemy ships is to ram them. However, unlike other rammers, the Cuttlefish uses its high speed to ram, rather than a dash."
   },
   {
@@ -1481,7 +1481,7 @@
       }
     ],
     "sesameID": "shp-Lfh-RzyXaP5KDv",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/34/Lionfish3D.png/revision/latest?cb=20190830165952",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/34/Lionfish3D.png",
     "description": "The Lionfish is a Tier 4 ship in the Nautic Series mod. It rapidly fires two low damage lasers from the front."
   },
   {
@@ -1496,7 +1496,7 @@
       }
     ],
     "sesameID": "shp-Sfh-X2O761jGb5",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/3a/ScadFish3D.png/revision/latest?cb=20190830144325",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/3a/ScadFish3D.png",
     "description": "The Scad Fish is a Tier 4 ship in the Nautic Series mod. It rapidly fires a single, medium damage laser from the front."
   },
   {
@@ -1511,7 +1511,7 @@
       }
     ],
     "sesameID": "shp-Sgy-4NZI0DF4lz",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/1a/Stingray_%28Nautic_Series%293D.png/revision/latest?cb=20190901164224",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/1a/Stingray_%28Nautic_Series%293D.png",
     "description": "The Stingray is a Tier 4 ship in the Nautic Series mod. It is a wide ship that fires 4 medium damage lasers from the front, with a high burst damage."
   },
   {
@@ -1526,7 +1526,7 @@
       }
     ],
     "sesameID": "shp-Lsr-NIXAQXXLji",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/7/76/Lobster3D.png/revision/latest?cb=20190901164030",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/7/76/Lobster3D.png",
     "description": "The Lobster is a Tier 4 ship in the Nautic Series mod. It fires a high damage laser from the front as well as two low damage lasers from the sides that converge."
   },
   {
@@ -1541,7 +1541,7 @@
       }
     ],
     "sesameID": "shp-Fgh-oFWEdGhoMk",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/67/Starblast_flying_fish.png/revision/latest?cb=20190813220834",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/67/Starblast_flying_fish.png",
     "description": "The Flying Fish is a Tier 4 ship in the Nautic Series mod. It fires two strong lasers from the front and two lasers from the back which propel itself forward."
   },
   {
@@ -1556,7 +1556,7 @@
       }
     ],
     "sesameID": "shp-Sfh-RGP81GyP3N",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d0/Starblast_starfish.png/revision/latest?cb=20190813220954",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d0/Starblast_starfish.png",
     "description": "The Starfish is a Tier 4 ship in the Nautic Series mod. Since the design is based off a starfish, it fires 5 different lasers."
   },
   {
@@ -1571,7 +1571,7 @@
       }
     ],
     "sesameID": "shp-Sdh-yGmDqLrTEL",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/8f/Swordfish3D.png/revision/latest?cb=20190901164537",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/8f/Swordfish3D.png",
     "description": "The Swordfish is a Tier 5 ship in the Nautic Series mod. Like other ships in the upgrade path, it is a rammer."
   },
   {
@@ -1586,7 +1586,7 @@
       }
     ],
     "sesameID": "shp-Gsd-cAhFHMBRQP",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/2/21/Giant_Squid3D.png/revision/latest?cb=20190901164708",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/2/21/Giant_Squid3D.png",
     "description": "The Giant Squid is a Tier 5 ship in the Nautic Series mod. It is a very fast ship that shoots two high damage pulses from the front and a stream of low damage lasers."
   },
   {
@@ -1601,7 +1601,7 @@
       }
     ],
     "sesameID": "shp-Cfh-ZGhaaLoOI4",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/fe/Catfish3D.png/revision/latest?cb=20190901164835",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/fe/Catfish3D.png",
     "description": "The Catfish is a Tier 5 ship in the Nautic Series mod. It has many pairs of cannons at the front which all simultaneously shoot low damage lasers."
   },
   {
@@ -1616,7 +1616,7 @@
       }
     ],
     "sesameID": "shp-Dpn-dvZSrKSCiG",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/0a/Dolphin3D.png/revision/latest?cb=20190901164949",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/0a/Dolphin3D.png",
     "description": "The Dolphin is a Tier 5 ship in the Nautic Series mod. It is a classic pulse ship that shoots one main pulse and two weak auxiliary lasers."
   },
   {
@@ -1631,7 +1631,7 @@
       }
     ],
     "sesameID": "shp-Rsk-COq57O3v18",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/67/ReefShark3D.png/revision/latest?cb=20190830150532",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/67/ReefShark3D.png",
     "description": "The Reef Shark is a Tier 5 ship in the Nautic Series mod. It is a stronger, Tier 5 version of the Scad Fish. "
   },
   {
@@ -1646,7 +1646,7 @@
       }
     ],
     "sesameID": "shp-Paa-5Qo6vLZnRz",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4c/Piranha3D.png/revision/latest?cb=20190901165100",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4c/Piranha3D.png",
     "description": "The Piranha is a Tier 5 ship in the Nautic Series mod. It has a rapidly firing stream at the front as well as two similar damage lasers that fire much slower."
   },
   {
@@ -1661,7 +1661,7 @@
       }
     ],
     "sesameID": "shp-Sfh-lpCFdn7hlr",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/48/Sawfish3D.png/revision/latest?cb=20190901165227",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/48/Sawfish3D.png",
     "description": "The Sawfish is a Tier 5 ship in the Nautic Series mod. It rapidly fires two lasers from the front with a large gap in between as well as a laser from the back to propel itself forward at high speeds."
   },
   {
@@ -1676,7 +1676,7 @@
       }
     ],
     "sesameID": "shp-Lae-E0wNDDLpCd",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f3/Starblast_leather.png/revision/latest?cb=20190813221214",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f3/Starblast_leather.png",
     "description": "The Leatherback Turtle is a Tier 5 ship in the Nautic Series mod. It fires 4 different high damage pulses from its side at different angles as well as streams of bullets from both the back and front to propel itself forward at high speeds."
   },
   {
@@ -1691,7 +1691,7 @@
       }
     ],
     "sesameID": "shp-Srb-BSrGPCP3He",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/e7/Strblast_spider.png/revision/latest?cb=20190901165438",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/e7/Strblast_spider.png",
     "description": "The Spider Crab is a Tier 5 ship in the Nautic Series mod. It fires 3 lasers close together in 3 different directions. Because of its high energy regen, the Spider Crab can mine very quickly."
   },
   {
@@ -1706,7 +1706,7 @@
       }
     ],
     "sesameID": "shp-Nwl-a9txI5IIBA",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/e1/Narwhal3D.png/revision/latest?cb=20190901165546",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/e1/Narwhal3D.png",
     "description": "The Narwhal is a Tier 6 ship in the Nautic Series mod. It is a much stronger, tier 6 version of the Swordfish as they have very similar ship designs and both dash and ram to damage enemy ships."
   },
   {
@@ -1721,7 +1721,7 @@
       }
     ],
     "sesameID": "shp-Oca-p2IAZxGfvh",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/99/Orca3D.png/revision/latest?cb=20190901165739",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/99/Orca3D.png",
     "description": "The Orca is a Tier 6 ship in the Nautic Series mod. It fires high damage pulses from the front rapidly (350 DPS when maxed) with a dash, making it a very good ship for surprise attacks."
   },
   {
@@ -1736,7 +1736,7 @@
       }
     ],
     "sesameID": "shp-Oos-evsRVvZeVf",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/e2/Octopus3D.png/revision/latest?cb=20190901165848A",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/e2/Octopus3D.png",
     "description": "The Octopus is a Tier 6 ship in the Nautic Series mod. It fires a large number of low damage lasers at once from the front. "
   },
   {
@@ -1766,7 +1766,7 @@
       }
     ],
     "sesameID": "shp-Sak-oLGOH4njn4",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/9e/Starblast_shark.png/revision/latest?cb=20190901170226",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/9e/Starblast_shark.png",
     "description": "The Shark is a Tier 6 ship in the Nautic Series mod. It is a stronger, Tier 6 version of the Tier 5 Reef Shark and the Tier 4 Scad Fish."
   },
   {
@@ -1781,7 +1781,7 @@
       }
     ],
     "sesameID": "shp-Geh-dcGcaPO99x",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/0e/GrouperFish3D.png/revision/latest?cb=20190830160513",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/0e/GrouperFish3D.png",
     "description": "Grouper Fish is a tier 6 in the Nautic Series mod. This ship has the same laser pattern as the old Shark before it was modified. "
   },
   {
@@ -1796,7 +1796,7 @@
       }
     ],
     "sesameID": "shp-Alr-QUcNk3qgL0",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/6c/Angler3D.png/revision/latest?cb=20190901173035",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/6c/Angler3D.png",
     "description": "The Angler is a Tier 6 ship in the Nautic Series mod. It rapidly fires 4 identical lasers from the front."
   },
   {
@@ -1811,7 +1811,7 @@
       }
     ],
     "sesameID": "shp-Hek-ISMNodIU4h",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/82/Hammerhead_Shark3D.png/revision/latest?cb=20190901173154",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/82/Hammerhead_Shark3D.png",
     "description": "The Hammerhead Shark is a Tier 6 ship in the Nautic Series mod. It is a direct upgrade to the Sawfish given their nearly identical shot pattern; 2 fast firing cannons at the front and one fast firing cannon at the back to propel the ship forward."
   },
   {
@@ -1826,7 +1826,7 @@
       }
     ],
     "sesameID": "shp-Mna-qNShNtfbq6",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/fa/Manta3D.png/revision/latest?cb=20190830162136",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/fa/Manta3D.png",
     "description": "The Manta is a Tier 6 ship in the Nautic Series. It fires one high damage frontal pulse, two low damage converging auxiliary lasers and a low damage laser from the back."
   },
   {
@@ -1841,7 +1841,7 @@
       }
     ],
     "sesameID": "shp-Bua-UIG6ihGHpe",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b7/Beluga3D.png/revision/latest?cb=20190830163145",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b7/Beluga3D.png",
     "description": "The Beluga is a Tier 6 ship in the Nautic Series mod. It inaccurately fires high damage pulses from the front. The lasers also have high recoil, which pilots can use to their advantage."
   },
   {
@@ -1856,7 +1856,7 @@
       }
     ],
     "sesameID": "shp-Cad-Ln7OyU6DAX",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/de/Colossal_Squid3D.png/revision/latest?cb=20190901173340",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/de/Colossal_Squid3D.png",
     "description": "The Colossal Squid is a Tier 7 ship in the Nautic Series mod. It fires two high damage pulses from the front and a high number of low damage lasers from the back with high recoil."
   },
   {
@@ -1871,7 +1871,7 @@
       }
     ],
     "sesameID": "shp-Wsk-Pcc0v3CcKV",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/88/Whale_Shark3D.png/revision/latest?cb=20190830164335",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/88/Whale_Shark3D.png",
     "description": "The Whale Shark is a Tier 7 ship in the Nautic Series mod. While it doesn't have any high damage pulses, it rapidly fires medium damage lasers from the front which are effective at stunning enemy ships. "
   },
   {
@@ -1886,7 +1886,7 @@
       }
     ],
     "sesameID": "shp-Cat-P7Q3BL2Wu1",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/36/Cachalot3D.png/revision/latest?cb=20190830164826",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/36/Cachalot3D.png",
     "description": "The Cachalot is a Tier 7 ship in the Nautic Series mod. It fires a very high damage frontal pulse as well as two low damage lasers."
   },
   {
@@ -1901,7 +1901,7 @@
       }
     ],
     "sesameID": "shp-Fhe-lXDRwAGy7T",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4d/Blue_Whale3D.png/revision/latest?cb=20190830163854",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4d/Blue_Whale3D.png",
     "description": "The Fin Whale (formerly Blue Whale) is a Tier 7 ship in the Nautic Series mod. It fires one main pulse and 4 auxiliary lasers from the front."
   },
   {
@@ -1916,7 +1916,7 @@
       }
     ],
     "sesameID": "shp-Tnk-kxnChonFKO",
-    "templateImage": "https://media.discordapp.net/attachments/327515470993293312/1145849357216796797/starblast-1693262140480.png?width=1177&height=1177",
+    "templateImage": "https://media.discordapp.net/attachments/327515470993293312/1145849357216796797/starblast-1693262140480.png",
     "description": "Ship from diep.io"
   },
   {
@@ -2186,7 +2186,7 @@
       }
     ],
     "sesameID": "shp-Lap-hTgYNUOz6G",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/96/Lunatic_Battleship.png/",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/96/Lunatic_Battleship.png",
     "description": "As the name suggests, the Lunatic Battleship has heavy shielding and immense firepower, although like most tank ships, has low agility and speed. Soaks up enemy fire quite well."
   },
   {
@@ -2201,7 +2201,7 @@
       }
     ],
     "sesameID": "shp-LBe-r87VlhN9W2",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/6d/Lunar_Blade.png/",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/6d/Lunar_Blade.png",
     "description": "A crescent-shaped cruiser that fires spread bullets."
   },
   {
@@ -2216,7 +2216,7 @@
       }
     ],
     "sesameID": "shp-Lcs-TEpnmxkaQ1",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c4/Lunatic_Lobos.png/revision/latest?cb=20201106151559",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c4/Lunatic_Lobos.png",
     "description": "Rapid-firing double machine gun ship with recoil. Good for shooting at advancing targets."
   },
   {
@@ -2231,7 +2231,7 @@
       }
     ],
     "sesameID": "shp-Lcr-CITwzoG3Hc",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/65/Lunatic_Invader.png/",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/65/Lunatic_Invader.png",
     "description": "Medium-sized ship with a single pulse cannon in the center, accompanied by 4 secondary guns."
   },
   {
@@ -2246,7 +2246,7 @@
       }
     ],
     "sesameID": "shp-LIr-Fad5bICZbA",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/65/Lunatic_Invader.png/",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/65/Lunatic_Invader.png",
     "description": "A speedy fighter with double-pulse main guns and a pair of secondary cannons, although a bit lacking on the durability side."
   },
   {
@@ -2261,7 +2261,7 @@
       }
     ],
     "sesameID": "shp-Laa-hl3THkGzBu",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/bc/Lunatic_Tarantula.png/",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/bc/Lunatic_Tarantula.png",
     "description": "A rammer that uses backwards lasers to propel itself. Has weak frontal guns."
   },
   {
@@ -2276,7 +2276,7 @@
       }
     ],
     "sesameID": "shp-Llr-R1ePAX9QGr",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/5/5b/Lunatic_Falling_Star.png/",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/5/5b/Lunatic_Falling_Star.png",
     "description": "Fast bomber-like ship that hurls lasers at its enemies."
   },
   {
@@ -2291,7 +2291,7 @@
       }
     ],
     "sesameID": "shp-SBr-zh21CgKt5c",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/2/26/Solarium_Berserker.png/",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/2/26/Solarium_Berserker.png",
     "description": "Medium-sized craft with slightly converging lasers - first blast is a pulse, followed by quickfire machine-gun like lasers."
   },
   {
@@ -2306,7 +2306,7 @@
       }
     ],
     "sesameID": "shp-Smr-mHG1jv91dE",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b4/Solarium_Reaper.png/",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b4/Solarium_Reaper.png",
     "description": "A small interceptor with a powerful pulse laser."
   },
   {
@@ -2321,7 +2321,7 @@
       }
     ],
     "sesameID": "shp-SBe-aIWCrIMnYY",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/cd/Solarium_Barricade.png/",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/cd/Solarium_Barricade.png",
     "description": "Rounded heavy ship that fires 3 lasers at a time."
   },
   {
@@ -2336,7 +2336,7 @@
       }
     ],
     "sesameID": "shp-SSr-bBw2YrFT8c",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/eb/Solar_Spear.png/",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/eb/Solar_Spear.png",
     "description": "Heavily shielded spearhead ship with strong forward firepower."
   },
   {
@@ -2351,7 +2351,7 @@
       }
     ],
     "sesameID": "shp-Smr-pOfVoWgd71",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d0/Solarium_Warder.png/",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d0/Solarium_Warder.png",
     "description": "A medium-sized fighter that fires lasers from the front and back, using recoil to move."
   },
   {
@@ -2366,7 +2366,7 @@
       }
     ],
     "sesameID": "shp-SAy-Qy3yzD1pFG",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/97/Solarium_Artillery.png/",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/97/Solarium_Artillery.png",
     "description": "Rounded cruiser with 4 main guns, making for powerful burstfire. Has a pair of secondary cannons."
   },
   {
@@ -2411,7 +2411,7 @@
       }
     ],
     "sesameID": "shp-Fy2-gAcibGI6Zp",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/2/28/Fly_V2_3D.png/revision/latest?cb=20190914185758",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/2/28/Fly_V2_3D.png",
     "description": "The Fly V2 is the starting ship in Goldman Aerospace Alien Intrusion mod. It has two fast firing lasers at the front. Compared to the vanilla Fly, it does more damage and has more energy, but its other stats are the same. Just like the Fly, the Fly V2 is very small, fast and agile, but has ridiculously low shields and mass."
   },
   {
@@ -2426,7 +2426,7 @@
       }
     ],
     "sesameID": "shp-Lir-ADuEsVyUX8",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c6/Light-Fighter3D.png/revision/latest?cb=20190914205827",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c6/Light-Fighter3D.png",
     "description": "The Light-Fighter is a Tier 2 in the Alien Intrusion mod. It has one fast-firing frontal laser that does low damage."
   },
   {
@@ -2441,7 +2441,7 @@
       }
     ],
     "sesameID": "shp-Aom-hppv7He5UO",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/0b/Atom3D.png/revision/latest?cb=20190914205940",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/0b/Atom3D.png",
     "description": "The Atom is a Tier 2 in the Alien Intrusion mod. It has two fast-firing frontal lasers, but has very limited shielding. Best to skip any upgrades and go to Tier 3."
   },
   {
@@ -2456,7 +2456,7 @@
       }
     ],
     "sesameID": "shp-Pas-g1hZw1opOu",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/6d/Pegasus3D.png/revision/latest?cb=20190914210445",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/6d/Pegasus3D.png",
     "description": "The Pegasus is a Tier 3 in the Alien Intrusion mod. It has a frontal pulse in the middle as well as two fast firing cannons at the side. This is basically the Pulse fighter of Intrusion, so Speed and turning rate are definitely a factors you should consider when upgrading to the Pegasus."
   },
   {
@@ -2471,7 +2471,7 @@
       }
     ],
     "sesameID": "shp-Alg-0YXdTMGW9W",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/0e/Angel_Wing3D.png/revision/latest?cb=20190914210950",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/0e/Angel_Wing3D.png",
     "description": "The Angel Wing is a Tier 3 in the Alien Intrusion mod. It has two fast firing cannons with a large gap in-between, so hitting anything tiny is more difficult. Best to attack bigger targets first. This ship is best used when on the offensive."
   },
   {
@@ -2486,7 +2486,7 @@
       }
     ],
     "sesameID": "shp-Cmn-baNEfuTCV9",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/7/70/Cayman3D.png/revision/latest?cb=20190914211009",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/7/70/Cayman3D.png",
     "description": "The Cayman is a Tier 3 ship in the Alien Intrusion mod. It rapidly fires 3 lasers from the middle. It shoots lasers from the sides, similar to the Toscain, except the gap isn't as big. This ship is best used when on the Offensive. The Cayman was originally a part of the Battle Royale Mod. when maxed, is preferably the best T3."
   },
   {
@@ -2501,7 +2501,7 @@
       }
     ],
     "sesameID": "shp-Hmr-IlOHGG881d",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/a/a5/Hammer3D.png/revision/latest?cb=20190914211029",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/a/a5/Hammer3D.png",
     "description": "The Hammer is a Tier 3 ship in the Alien Intrusion mod and is also one of the 5 ships available in the Battle Royale mod. It is the only Tier 3 that is a Rammer, using its dash to ram enemies into asteroids and city buildings. When using the Hammer one should be careful to not accidentally ram their teammates into city walls as it will cause them to take a huge amount of damage, sometimes even killing them. This Ship replaced the Spearhead, In Battle Royale. Unfortunately there is not much data on it."
   },
   {
@@ -2516,7 +2516,7 @@
       }
     ],
     "sesameID": "shp-Doy-4lHqaWBpRp",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f8/Dragonfly3D.png/revision/latest?cb=20190914211052",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f8/Dragonfly3D.png",
     "description": "The Dragonfly is a Tier 4 ship in the Alien Intrusion mod obtained by upgrading all the way to the left. Just like the Pegasus, the only ship that upgrades into it, it has a frontal pulse along with two fast-firing lasers at the side. Similar to The Pulse Fighter, or the Mercury from vanilla. This ship is best played offensively, and has reasonable max speed. Fly safe, pilots."
   },
   {
@@ -2531,7 +2531,7 @@
       }
     ],
     "sesameID": "shp-Sgy-mnc5fKqGf1",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/40/Stingray_%28Intrusion_%26_Battle_Royale%293D.png/revision/latest?cb=20190914211246",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/40/Stingray_%28Intrusion_%26_Battle_Royale%293D.png",
     "description": "The Stingray is a Tier 4 ship in the Alien Intrusion mod and is a ship choice in the Battle Royale mod. It has two medium damage frontal pulses that are fired at a moderate rate, similar with the vanilla ship The Vanguard. This ship, along with every ship in Intrusion has gotten a major remodel with the release of Alien Intrusion 5.0 by Goldman. It was availible in the 2020 March AOW as a T6 in the UNGE shiptree along with the simuran."
   },
   {
@@ -2546,7 +2546,7 @@
       }
     ],
     "sesameID": "shp-Amh-cvZsEoL8rd",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/93/Azimuth3D.png/revision/latest?cb=20190914211308",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/93/Azimuth3D.png",
     "description": "The Azimuth is a Tier 4 ship in the Alien Intrusion mod. It has one cannon at the front that rapidly fires lasers. While capable of dealing a lot of damage and having high dps, the Azimuth suffers from low shields, and Slow Regen."
   },
   {
@@ -2561,7 +2561,7 @@
       }
     ],
     "sesameID": "shp-Fhr-SI6AHjivNb",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/e5/Flash_Star3D.png/revision/latest?cb=20190914211416",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/e5/Flash_Star3D.png",
     "description": "The Flash Star is a Tier 4 ship in the Alien Intrusion mod. It has 3 fast-firing cannons at the front and 2 slow firing cannons at the side which shoot diverging lasers, similar to the Now removed Vanilla ship; The Toscain. It has decent overall stats, with slightly faster speed than the other Tier 4's. It would double as a miner, but with Intrusion Asteroids yield no gems. This ship is best used on the Defensive."
   },
   {
@@ -2576,7 +2576,7 @@
       }
     ],
     "sesameID": "shp-Tex-8x5RLuEmm2",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/60/T-Rex3D.png/revision/latest?cb=20190914211517",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/60/T-Rex3D.png",
     "description": "The T-Rex is a Tier 4 ship in the Alien Intrusion mod. It has a medium damage frontal pulse as well as two fast-firing diverging side lasers. It is one of the slower ships in Tier 4, however, it has decent damage output, and shielding, with the addition of a smaller hit-box than most ships at this level. This ship is best used when on the offensive."
   },
   {
@@ -2591,7 +2591,7 @@
       }
     ],
     "sesameID": "shp-Hur-iVr6tuOq6h",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b8/H_Conqueror3D.png/revision/latest?cb=20190914211632",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b8/H_Conqueror3D.png",
     "description": "The H-Conqueror is a Tier 4 ship in the Alien Intrusion mod. It fires a frontal pulse as well as two low damage lasers from its sides. The ship's laser pattern is very similar to the Mercury from Vanilla Starblast"
   },
   {
@@ -2606,7 +2606,7 @@
       }
     ],
     "sesameID": "shp-Mer-oKlsWbqceR",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d9/M-Defender3D.png/revision/latest?cb=20190914211833",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d9/M-Defender3D.png",
     "description": "The M-Defender is a Tier 4 ship in the Alien Intrusion mod. It fires two lasers from the front that do a moderate amount of damage. This ship is quite slow, which makes it hard to obtain gems until the ship's max speed is upgraded. Despite the powerful looking blasts, there is little to no recoil."
   },
   {
@@ -2621,7 +2621,7 @@
       }
     ],
     "sesameID": "shp-Sun-uDa51lBXXt",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/60/Simuran3D.png/revision/latest?cb=20190914212010",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/60/Simuran3D.png",
     "description": "The Simuran is a Tier 4 ship in the Alien Intrusion mod obtained by upgrading all the way to the right of the tree. It has one frontal pulse that does medium damage. This ship has high shields and mass compared to other ships of its tier. However, at a cost of speed and agility. This ship was availible in the 2020 March AOW as a T6 in the NBR ship tree along with the Stingray (Intrusion & Battle Royale)."
   },
   {
@@ -2636,7 +2636,7 @@
       }
     ],
     "sesameID": "shp-Aat-MlAoN7GGAZ",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/fa/Atlant3D.png/revision/latest?cb=20190914212834",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/fa/Atlant3D.png",
     "description": "The Atlant is a Tier 5 ship in the Alien Intrusion mod obtained by upgrading all the way to the left of the ship tree. Just like the other ships in its upgrade path, it fires a high damage frontal pulse along with two low damage side lasers."
   },
   {
@@ -2651,7 +2651,7 @@
       }
     ],
     "sesameID": "shp-Vtx-zRqBlSFm4p",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b9/Vortex3D.png/revision/latest?cb=20190914212932",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b9/Vortex3D.png",
     "description": "The Vortex is a Tier 5 ship in the Alien Intrusion mod. It fires two medium damage lasers from the front with recoil, similar to the U-Sniper."
   },
   {
@@ -2666,7 +2666,7 @@
       }
     ],
     "sesameID": "shp-Der-mhplkki8se",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c3/DeltaSpeedster3D.png/revision/latest?cb=20190914192842",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c3/DeltaSpeedster3D.png",
     "description": "The Delta Speedster is a Tier 5 ship in the Alien Intrusion mod which replaced the Squid in the 5.0 update. It fires two slow pulses from the sides and a stream from the middle. As suggested by the name, the Delta Speedster is one of the fastest ships in its tier."
   },
   {
@@ -2681,7 +2681,7 @@
       }
     ],
     "sesameID": "shp-Hwk-E6vkEC5sks",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/36/Hawk3D.png/revision/latest?cb=20190914214733",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/36/Hawk3D.png",
     "description": "The Hawk is a Tier 5 ship in the Alien Intrusion mod. It fires a frontal pulse as well as four low damage lasers from the front. It is a fast ship compared to other ships of its tier."
   },
   {
@@ -2696,7 +2696,7 @@
       }
     ],
     "sesameID": "shp-Ptn-ucrisXsulb",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/fd/Photon3D.png/revision/latest?cb=20190914214915",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/fd/Photon3D.png",
     "description": "The Photon is a Tier 5 ship in the Alien Intrusion mod. It fires a medium damage central lasers as well as two other medium damage lasers from the front. This ship excels at ripping ships and aliens apart, it is even more devastating with attack pods. It is the fastest ship in its tier, and possibly second-fastest in the entire mod after Fly V2."
   },
   {
@@ -2711,7 +2711,7 @@
       }
     ],
     "sesameID": "shp-Vrn-TYrv3Qq1oR",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/90/Varan3D.png/revision/latest?cb=20190914215001",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/90/Varan3D.png",
     "description": "The Varan is a Tier 5 ship in the Alien Intrusion mod. It fires 4 medium damage lasers from the front. While it is capable of dealing insane damage, the space between the lasers mean that most lasers often won't hit the target."
   },
   {
@@ -2726,7 +2726,7 @@
       }
     ],
     "sesameID": "shp-Sak-USfkZIrpPa",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/7/7f/Spark3D.png/revision/latest?cb=20190914215106",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/7/7f/Spark3D.png",
     "description": "The Spark is a Tier 5 ship in the Alien Intrusion mod. It fires two medium damage lasers from the sides and two low damage lasers from the middle."
   },
   {
@@ -2741,7 +2741,7 @@
       }
     ],
     "sesameID": "shp-Par-reCLDeSQbw",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d3/Predator3D.png/revision/latest?cb=20190914215202",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d3/Predator3D.png",
     "description": "The Predator is a Tier 5 ship in the Alien Intrusion mod. It fires two medium damage lasers from the front."
   },
   {
@@ -2756,7 +2756,7 @@
       }
     ],
     "sesameID": "shp-Vpe-vxL4GROItM",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/10/Vampire3D.png/revision/latest?cb=20190914215338",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/10/Vampire3D.png",
     "description": "The Vampire is a Tier 5 ship in the Alien Intrusion mod. It has one cannon at the front that fires a medium damage laser."
   },
   {
@@ -2771,7 +2771,7 @@
       }
     ],
     "sesameID": "shp-Ber-2a9Fjrf3Fh",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c4/Berserk3D.png/revision/latest?cb=20190914215437",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c4/Berserk3D.png",
     "description": "The Berserker is a Tier 5 ship in the Alien Intrusion mod obtained by upgrading all the way to the right. It is an upgraded version of the Tier 3 Hammer which is a part of its upgrade path, as its only method of damaging aliens and enemy ships is to charge and ram."
   },
   {
@@ -2786,7 +2786,7 @@
       }
     ],
     "sesameID": "shp-Lan-ufy1EvKFiK",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b1/Leviathan3D.png/revision/latest?cb=20190914215616",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b1/Leviathan3D.png",
     "description": "The Leviathan is a Tier 6 ship in the Alien Intrusion mod obtained by upgrading all the way to the Left. Like other ships in its upgrade path, it has a high damage frontal pulse. It also has 4 auxiliary lasers. It has weak shields and low mass as compensation for its fast pulse with huge knockback.With teammates,hit and run is quite effective in bursts,but don’t do it against speedsters."
   },
   {
@@ -2801,7 +2801,7 @@
       }
     ],
     "sesameID": "shp-Ssr-FodkXQe3gG",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/ec/Side-Destroyer3D.png/revision/latest?cb=20190914220125",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/ec/Side-Destroyer3D.png",
     "description": "The Side-Destroyer is a Tier 6 ship in the Alien Intrusion mod. It fires two high-damage pulses from the side and multiple streams of low-damage bullets from the middle, similar to the U-Siege. Statistics-wise, it is very overpowered."
   },
   {
@@ -2816,7 +2816,7 @@
       }
     ],
     "sesameID": "shp-Fcn-FpyeFOrPoW",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/67/Falcon3D.png/revision/latest?cb=20190914220358",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/67/Falcon3D.png",
     "description": "The Falcon is a Tier 6 ship in the Alien Intrusion mod. It shoots one high damage main pulse from the front as well as 4 auxiliary low damage lasers and a backward firing laser to help damaging enemies while escaping. This is the only ship in the mod that fires a laser backward."
   },
   {
@@ -2831,7 +2831,7 @@
       }
     ],
     "sesameID": "shp-His-K8eWm80f5V",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/95/Helius3D.png/revision/latest?cb=20190914201601",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/95/Helius3D.png",
     "description": "The Helius is a Tier 6 ship in the Alien Intrusion mod which replaced the Typhoon in the 5.0 update. Its cannons fire a pair of medium damage pulses from the front which are very close together. The pulses are fired quite rapidly which gives the ship high burst damage. While fast, quite agile and has high firepower, it has really low shield compared to the other T6s."
   },
   {
@@ -2846,7 +2846,7 @@
       }
     ],
     "sesameID": "shp-Pex-Geux0dCk6P",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/04/Phoenix3D.png/revision/latest?cb=20190914220554",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/04/Phoenix3D.png",
     "description": "The Phoenix is a Tier 6 ship in the Alien Intrusion mod. It rapidly fires 5 lasers from the front. Being fast and agile, this ship is a good hit-and-run ship as it is capable of both dealing a lot of damage and escaping easily."
   },
   {
@@ -2861,7 +2861,7 @@
       }
     ],
     "sesameID": "shp-Hry-GLwC5aq5G6",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d0/Harpy3D.png/revision/latest?cb=20190914220721",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d0/Harpy3D.png",
     "description": "The Harpy is a Tier 6 ship in the Alien Intrusion mod. In addition to being very fast and agile, it is capable of dealing a lot of damage. Because of its high energy capacity and burst damage, the Harpy is a great hit and run ship."
   },
   {
@@ -2876,7 +2876,7 @@
       }
     ],
     "sesameID": "shp-Wrr-e5LLo7TMfo",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/05/W-Warrior3D.png/revision/latest?cb=20190914220844",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/05/W-Warrior3D.png",
     "description": "The W-Warrior is a Tier 6 ship in the Alien Intrusion mod. It fires a storm of bullets from the front. Because of this, it is best to use this ship at close range as more lasers will hit, unless against a Chronos or Cthulhu, which will throw you out of control before they have to regen. It is quite a powerhouse second to Side-Destroyer, but its laser spread and low knockback makes it horrible at combat."
   },
   {
@@ -2891,7 +2891,7 @@
       }
     ],
     "sesameID": "shp-Gih-0epROGFKCZ",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/3b/Goliath3D.png/revision/latest?cb=20190914220954",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/3b/Goliath3D.png",
     "description": "The Goliath is a Tier 6 ship in the Alien Intrusion mod, not to be confused with the CTF ship with the same name. It fires 3 medium damage lasers from the front that are close together. It has high shields and mass for defense, and its only weakness is offense."
   },
   {
@@ -2906,7 +2906,7 @@
       }
     ],
     "sesameID": "shp-Cun-76lHGh4IGS",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b1/Centurion3D.png/revision/latest?cb=20190914231126",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b1/Centurion3D.png",
     "description": "The Centurion is a Tier 6 ship in the Alien Intrusion mod. It fires two slow medium damage lasers from the front with a wide gap in between. It also has high shields and mass."
   },
   {
@@ -2921,7 +2921,7 @@
       }
     ],
     "sesameID": "shp-Pts-lGnKNuVvvG",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/cc/Prometheus3D.png/revision/latest?cb=20190914231322",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/cc/Prometheus3D.png",
     "description": "The Prometheus is a Tier 6 ship in the Alien Intrusion mod. It fires a high damage frontal pulse as well as two low damage auxiliary lasers. In addition to its high firepower, it has high shields and mass, making it a formidable opponent."
   },
   {
@@ -2936,7 +2936,7 @@
       }
     ],
     "sesameID": "shp-Cos-idY3I643Cs",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/1e/Chronos3D.png/revision/latest?cb=20190914231417",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/1/1e/Chronos3D.png",
     "description": "The Chronos is a Tier 6 ship in the Alien Intrusion mod. It fires a high damage frontal pulse as well as two low damage auxiliary lasers."
   },
   {
@@ -2951,7 +2951,7 @@
       }
     ],
     "sesameID": "shp-Cuu-rpXpUd1tty",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/5/5c/Cthulhu3D.png/revision/latest?cb=20190914231552",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/5/5c/Cthulhu3D.png",
     "description": "The Cthulhu is a Tier 6 ship in the Alien Intrusion mod. Just like other ships in its upgrade path, it has high shields and high mass. It fires a high damage frontal pulse rapidly. It is somewhat similar to the U-Octa with max damage and no energy regen upgrades, but without recoil. A fully upgraded Cthulhu can take out a Yellow Saucer completely on its own, and can easily destroy most slow ships with low bullet speed and mass quite easily."
   },
   {
@@ -2966,7 +2966,7 @@
       }
     ],
     "sesameID": "shp-Vrr-nYRcpfGlre",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/36/V-Destroyer3D.png/revision/latest?cb=20190914231720",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/36/V-Destroyer3D.png",
     "description": "The V-Destroyer is a Tier 7 ship in the Alien Intrusion mod. It fires a very high damage frontal pulse capable of knocking back most ships at high speeds and four low damage auxiliary lasers."
   },
   {
@@ -2981,7 +2981,7 @@
       }
     ],
     "sesameID": "shp-Wnr-6fIuEfLnzK",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/06/WaspSniper3D.png/revision/latest?cb=20190914204036",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/0/06/WaspSniper3D.png",
     "description": "Wasp Sniper is a Tier 7 ship in the Alien Intrusion mod which replaced the Bee Sniper in the 5.0 update. It is the fastest Tier 7 in the mod. It shoots a high-damage frontal pulse as well as 4 side lasers, similar to the Advanced-Fighter. While fast, it has quite poor acceleration. The Wasp Sniper is also very similar to the Shadow X-3, with both of them having a high damage pulse, high speed, and poor agility. However, the Wasp Sniper has slightly more damage and shields, and the side lasers are easier to use."
   },
   {
@@ -2996,7 +2996,7 @@
       }
     ],
     "sesameID": "shp-Mls-t8icAwcixr",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/2/2b/Miles3D.png/revision/latest?cb=20190914231946",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/2/2b/Miles3D.png",
     "description": "The Miles is a Tier 7 ship in the Alien Intrusion mod. It, like the Himera, sacrifices a frontal pulse for two cannons at the front that rapidly fire medium damage lasers, although the Himera lasers do more damage."
   },
   {
@@ -3011,7 +3011,7 @@
       }
     ],
     "sesameID": "shp-Hea-NXTRMKYPUG",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/3f/Himera3D.png/revision/latest?cb=20190914232229",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/3/3f/Himera3D.png",
     "description": "The Himera is a Tier 7 ship in the Alien Intrusion mod. It sacrifices a frontal pulse to fire multiple medium damage lasers from the front."
   },
   {
@@ -3026,7 +3026,7 @@
       }
     ],
     "sesameID": "shp-Co5-B8azWS5iD8",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/5/52/Chronos_R35_3D.png/revision/latest?cb=20190919011047",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/5/52/Chronos_R35_3D.png",
     "description": "The Chronos R35 is a Tier 7 ship in the Alien Intrusion mod. It is a bulky ship given its high shield, high mass and high firepower. It fires a very high damage frontal pulse as well as two low damage side lasers. It is the upgraded version of the Chronos with a lowered energy regen."
   },
   {
@@ -3038,7 +3038,7 @@
     "mod": "Starblast Dueling Championship",
     "author": "",
     "sesameID": "shp-Boy-8wvHGGegaD",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f4/Broly3d.png/revision/latest?cb=20210326130050"
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/f/f4/Broly3d.png"
   },
   {
     "name": "Sparrow",
@@ -3052,7 +3052,7 @@
       }
     ],
     "sesameID": "shp-Srw-dTraXhywj7",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c8/Sparrow3d.png/revision/latest?cb=20210326130124",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c8/Sparrow3d.png",
     "description": "The sparrow is a dueling ship that has a frontal pulse that fires in rapid succession with a back pulse with decent recoil. It is used as a rammer or a fast burster as the frontal pulse has 210 dps."
   },
   {
@@ -3063,7 +3063,7 @@
     "mod": "Starblast Dueling Championship",
     "author": "",
     "sesameID": "shp-Ced-DNFwI54GH0",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/88/Image_2021-02-05_120556.png/revision/latest?cb=20210205190558",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/88/Image_2021-02-05_120556.png",
     "description": "An average size ship with a large pulse, it is good at hit & run tactics."
   },
   {
@@ -3079,7 +3079,7 @@
       }
     ],
     "sesameID": "shp-Aas-lBL2SSZaIT",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4b/A-Stasis3d.png/revision/latest?cb=20210326130201"
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/4/4b/A-Stasis3d.png"
   },
   {
     "name": "Tripod",
@@ -3094,7 +3094,7 @@
       }
     ],
     "sesameID": "shp-Tpd-AYSScSAj49",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b0/Tripod3d.png/revision/latest?cb=20210326130226"
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b0/Tripod3d.png"
   },
   {
     "name": "Streamliner",
@@ -3109,7 +3109,7 @@
       }
     ],
     "sesameID": "shp-Smr-az8gpAjPCG",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/e5/Streamliner3d.png/revision/latest?cb=20210326130255"
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/e/e5/Streamliner3d.png"
   },
   {
     "name": "Mk47",
@@ -3119,7 +3119,7 @@
     "mod": "Starblast Dueling Championship",
     "author": "",
     "sesameID": "shp-M47-0YFiNM2WoK",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/8f/Mk473d.png/revision/latest?cb=20210326130326",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/8f/Mk473d.png",
     "description": "The Mk47 looks like a marauder and performs like one. It is hard to hit and annoying to kill. (You can thank Lexagon for having to draw in a 0 loss game because a stupid Mk47 isn't dying) It has decent firepower."
   },
   {
@@ -3131,7 +3131,7 @@
     "mod": "Starblast Dueling Championship",
     "author": "",
     "sesameID": "shp-R34-BNtSAyG0cG",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/99/R-343d.png/revision/latest?cb=20230722112709"
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/99/R-343d.png"
   },
   {
     "name": "F-22",
@@ -3145,7 +3145,7 @@
       }
     ],
     "sesameID": "shp-F22-3Kt3nB1T0z",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c0/F-223d.png/revision/latest?cb=20230722125612",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c0/F-223d.png",
     "description": "The ship fires 3 slow pulses that inherit the ship's velocity at the time of firing, making this a niche 'skill ship' in SDC. It can annihilate enemies regardless of their speed and does immense knockback. Its high speed and agility is balanced with its low shields."
   },
   {
@@ -3160,7 +3160,7 @@
       }
     ],
     "sesameID": "shp-Pnm-hQCiZ5UV7a",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b7/Phantom%28SDC%293d.png/revision/latest?cb=20230722135441",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/b/b7/Phantom%28SDC%293d.png",
     "description": "The Phantom is a ship in SDC. It is relatively small and inagile but has great burst damage and mass which makes it good for rushing. It is not prone against large pulse hits, and the only disadvantage is its shield cap of 190, while the Vampire has 325."
   },
   {
@@ -3175,7 +3175,7 @@
       }
     ],
     "sesameID": "shp-Sse-AjC9X4pNY2",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/6a/Sinistyte.png/revision/latest?cb=20221115165127",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/6/6a/Sinistyte.png",
     "description": "Sinistyte is a ship found in the Starblast Dueling Championship mod, ship designed by Nova"
   },
   {
@@ -3191,7 +3191,7 @@
       }
     ],
     "sesameID": "shp-Dst-qcxDiwmfeE",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/7/7c/Deadshot3d.png/revision/latest?cb=20230722144510"
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/7/7c/Deadshot3d.png"
   },
   {
     "name": "Chimera",
@@ -3206,7 +3206,7 @@
       }
     ],
     "sesameID": "shp-Cma-mIGOGMdAtd",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/5/5a/Chimera3d.png/revision/latest?cb=20230722150953"
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/5/5a/Chimera3d.png"
   },
   {
     "name": "Vampire",
@@ -3221,7 +3221,7 @@
       }
     ],
     "sesameID": "shp-Vpe-BEzIvxykEq",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d7/Vampire%28SDC%293d.png/revision/latest?cb=20230722153424"
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/d/d7/Vampire%28SDC%293d.png"
   },
   {
     "name": "Booster",
@@ -3235,7 +3235,7 @@
       }
     ],
     "sesameID": "shp-Bsr-KPZFmRAfS4",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/ce/Booster3D.png/revision/latest?cb=20190326151841",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/ce/Booster3D.png",
     "description": "The Booster is a ship in the Racing mod and the Starblast racing championship mod. It is the ship with the highest mass and fastest dash in the mod. It is also tied for the highest acceleration. However, it lacks in speed and turning speed compared to other ships."
   },
   {
@@ -3250,7 +3250,7 @@
       }
     ],
     "sesameID": "shp-Acr-sFWaHiSZhY",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/8f/Astral_Accelerator3D.png/revision/latest?cb=20190326151909",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/8/8f/Astral_Accelerator3D.png",
     "description": "The Astral Accelerator is a ship in the Racing mod and the Starblast racing championship. It has the highest top speed out of all ships in the mod. However, it also has the lowest mass(after the space phantom), making it very vulnerable to collisions with asteroids, other ships and Secondaries. Because of this, it is best to use the Astral Accelerator on tracks with many long, straight segments and not on maps with constant sharp turns."
   },
   {
@@ -3265,7 +3265,7 @@
       }
     ],
     "sesameID": "shp-V11-OLBni6GN1f",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/2/22/V1_3D.png/revision/latest?cb=20190326151942",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/2/22/V1_3D.png",
     "description": "The V1 is a ship in the Racing mod and the Starblast racing championship mod. While it is quite fast compared to other ships in the mod, it lacks turning speed and acceleration, making turns tough."
   },
   {
@@ -3280,7 +3280,7 @@
       }
     ],
     "sesameID": "shp-Rnr-svGGla7Nvq",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c9/RAD_Diamond_Lancer3D.png/revision/latest?cb=20190326152011",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/c/c9/RAD_Diamond_Lancer3D.png",
     "description": "The RAD Diamond Lancer is a ship in the Racing mod and the Starblast racing championship mod. It is quite balanced in its stats compared to the other ships. This is also one of the very few asymmetrical ships in the game."
   },
   {
@@ -3295,7 +3295,7 @@
       }
     ],
     "sesameID": "shp-Vgr-Gg568k3zzA",
-    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/91/Vengar3D.png/revision/latest?cb=20190326152032",
+    "templateImage": "https://static.wikia.nocookie.net/starblastio_gamepedia_en/images/9/91/Vengar3D.png",
     "description": "The Vengar is a ship in the Racing mod and the Starblast racing championship mod. It is very small, has the highest turning speed of all ships in the mod and is also tied for the highest acceleration. Because of this, the Vengar can easily make sharp turns in tracks and performs very well in maps with many turns."
   }
 ]
