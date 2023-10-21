@@ -24,7 +24,16 @@
       {
         "name": "NOK"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Naflouille Creations",
@@ -53,7 +62,16 @@
       "youtube": "undefined"
     },
     "sesameID": "cmnt-Nes-PG9eSkOFme",
-    "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1145310535387201536/Design_sans_titre_13.png?width=2407&height=1354"
+    "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1145310535387201536/Design_sans_titre_13.png?width=2407&height=1354",
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Game Of The Night (GOTN)",
@@ -73,7 +91,16 @@
       {
         "name": "Notus"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": " Asia Game Of The Night (GOTN)",
@@ -102,7 +129,16 @@
       {
         "name": "M3dumb"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Arena Mod",
@@ -122,7 +158,16 @@
       {
         "name": "Nexagon"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Mega's World",
@@ -142,7 +187,16 @@
       {
         "name": "Megalodon"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "US Game Of The Night (GOTN)",
@@ -165,7 +219,16 @@
       {
         "name": "SChickenMan"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "dankdmitron's projects",
@@ -185,7 +248,16 @@
       {
         "name": "Dank Dmitron"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "SAW Starblast",
@@ -217,7 +289,16 @@
       {
         "name": "Hazard"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Starblast Invasion War",
@@ -246,7 +327,16 @@
       {
         "name": "NOK"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Pure Space",
@@ -277,7 +367,16 @@
       {
         "name": "NOK"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Royal Ekip",
@@ -303,7 +402,16 @@
       }
     ],
     "sesameID": "cmnt-Rlp-oeEhsUNI4j",
-    "templateImage": "https://images-ext-2.discordapp.net/external/VjqdeIvX6jmOvfuamd5su8Ht_wM5dja_r2PkqZsySl8/https/cdn.discordapp.com/icons/1045719521605984316/173be9d2ff243eb42564f3db2479dc83.webp?width=115&height=115"
+    "templateImage": "https://images-ext-2.discordapp.net/external/VjqdeIvX6jmOvfuamd5su8Ht_wM5dja_r2PkqZsySl8/https/cdn.discordapp.com/icons/1045719521605984316/173be9d2ff243eb42564f3db2479dc83.webp?width=115&height=115",
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Starblast main",
@@ -325,7 +433,16 @@
       {
         "name": "Oh"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Starblast Shipyard",
@@ -347,7 +464,16 @@
       {
         "name": "Finalizer"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Sky2Fly",
@@ -377,7 +503,16 @@
       {
         "name": "Inspectro"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Inferno Squadron (IS)",
@@ -401,7 +536,16 @@
       {
         "name": "Leader 1"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Stack",
@@ -425,7 +569,16 @@
       {
         "name": "NukePhysics"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Legion F4",
@@ -450,7 +603,16 @@
       "youtube": ""
     },
     "sesameID": "cmnt-Lo4-WawguY2GR2",
-    "templateImage": "https://cdn.discordapp.com/icons/973585722227458068/a_2543da6e46a9375b76ec338f5721ecae.webp?size=96"
+    "templateImage": "https://cdn.discordapp.com/icons/973585722227458068/a_2543da6e46a9375b76ec338f5721ecae.webp?size=96",
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Synthesis RC2",
@@ -477,7 +639,16 @@
       {
         "name": "Twidash"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Providence",
@@ -500,7 +671,16 @@
       {
         "name": "Leader"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Re:Arena - Arena Mod Remake/Recontinuation",
@@ -526,7 +706,16 @@
       {
         "name": "Tost"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Starblast Dueling Championship",
@@ -549,7 +738,16 @@
       {
         "name": "Thuliux"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Zex's Community",
@@ -572,7 +770,16 @@
         "name": "ZEX"
       }
     ],
-    "sesameID": "cmnt-Zmy-m5gSBZPeE1"
+    "sesameID": "cmnt-Zmy-m5gSBZPeE1",
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Aramtomy Corporation",
@@ -593,7 +800,16 @@
         "name": "Ayaka Aram"
       }
     ],
-    "sesameID": "cmnt-Aon-rp63PM1A5c"
+    "sesameID": "cmnt-Aon-rp63PM1A5c",
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Sesame Support",
@@ -618,6 +834,15 @@
       "youtube": ""
     },
     "sesameID": "cmnt-XXX-wHZEVxS6fo",
-    "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1163451049282129960/nafcreations.png?ex=653f9f3a&is=652d2a3a&hm=d5f5299049baeeb27687cd6c476b5554d75f401211e3c029cdb7194d0056375b&=&width=473&height=473"
+    "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1163451049282129960/nafcreations.png?ex=653f9f3a&is=652d2a3a&hm=d5f5299049baeeb27687cd6c476b5554d75f401211e3c029cdb7194d0056375b&=&width=473&height=473",
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   }
 ]
