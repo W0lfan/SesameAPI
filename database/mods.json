@@ -1244,67 +1244,31 @@
   },
   {
     "name": "Meg's Dueling",
-    "abvrt": "",
-    "version": "",
-    "description": "A dueling mod made by Megalodon.",
-    "modes": "",
-    "img": "",
-    "link": {
-      "url": "https://github.com/TheGreatMegalodon/Megalodon-s-dueling-code/blob/main/Meg's%20Dueling%20Official.js",
-      "state": 2
-    },
     "author": [
       {
         "name": "Megalodon"
       }
     ],
-    "official": 0,
-    "event": 0,
-    "sesameID": "md-Mug-CEkUozGPWK",
+    "description": "A dueling mod made by Megalodon.",
     "about": {
       "url": "https://github.com/TheGreatMegalodon/Megalodon-s-dueling-code/blob/main/Meg's%20Dueling%20Official.js"
     },
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "sesameID": "md-Mug-CEkUozGPWK",
+    "templateImage": "https://media.discordapp.net/attachments/701392403554369546/1166089489005957130/LOGO_MegsDueling.png?ex=65493877&is=6536c377&hm=e247c36d250563073cb3871620fc31599b780ae31e1da6fd79ee0ffda1906e43&=&width=612&height=612"
   },
   {
     "name": "Meg's Dueling OP",
-    "abvrt": "",
-    "version": "",
-    "description": "A dueling mod made by Megalodon.",
-    "modes": "",
-    "img": "",
-    "link": {
-      "url": "https://github.com/TheGreatMegalodon/Megalodon-s-dueling-code/blob/main/Meg's%20Dueling%20(Light%20Version).js",
-      "state": 2
-    },
     "author": [
       {
         "name": "Megalodon"
       }
     ],
-    "official": 0,
-    "event": 0,
-    "sesameID": "md-MeP-BSvSh46pB6",
+    "description": "A dueling mod made by Megalodon.",
     "about": {
       "url": "https://github.com/TheGreatMegalodon/Megalodon-s-dueling-code/blob/main/Meg's%20Dueling%20(Light%20Version).js"
     },
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "sesameID": "md-MeP-BSvSh46pB6",
+    "templateImage": "https://media.discordapp.net/attachments/701392403554369546/1166089489005957130/LOGO_MegsDueling.png?ex=65493877&is=6536c377&hm=e247c36d250563073cb3871620fc31599b780ae31e1da6fd79ee0ffda1906e43&=&width=612&height=612"
   },
   {
     "name": "Alien Speedrun",
