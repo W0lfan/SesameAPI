@@ -679,7 +679,7 @@
   },
   {
     "name": "Rithy",
-    "description": "",
+    "description": "Passionate about coding and starblast player. I met IRL Megalodon and # SCIENCES and soon alex pdm pro",
     "links": [
       {
         "id": "github",
@@ -707,21 +707,10 @@
       "isModder": false,
       "isUCP": false,
       "isContrib": false,
-      "isSesame": true,
-      "isFormerStaff": false,
-      "isShipBuilder": false
+      "isSesame": true
     },
     "sesameID": "usr-RTY-bDEO1zR7Gx",
-    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/rithy.png?raw=true",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/rithy.png?raw=true"
   },
   {
     "name": "JavRedstone",
