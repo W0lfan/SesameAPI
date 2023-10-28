@@ -846,31 +846,6 @@
     }
   },
   {
-    "name": "Ether²",
-    "author": [
-      {
-        "name": "NOK"
-      }
-    ],
-    "description": "Ether mod discord server ",
-    "content": [
-      "Ether"
-    ],
-    "tag": [
-      ""
-    ],
-    "language": "English",
-    "server": "",
-    "active": true,
-    "birth": "10/07/2023",
-    "links": {
-      "join": "https://discord.gg/aZKqp6fRqn",
-      "youtube": ""
-    },
-    "sesameID": "cmnt-XXX-kYriveXXRH",
-    "templateImage": "https://cdn.discordapp.com/attachments/1160353756538474546/1162675875809067008/EtherNOK2.png?ex=654607ca&is=653392ca&hm=5cc117b23f553c4f70345fea848ab86c4b76554a234f21c2ede6c612fbd6ba81&"
-  },
-  {
     "name": "Starblast Cheat Archive",
     "author": [
       {
@@ -885,7 +860,7 @@
       ""
     ],
     "language": "",
-    "server": "Europe",
+    "server": "EU",
     "active": true,
     "birth": "02/24/2023",
     "links": {
