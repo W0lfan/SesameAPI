@@ -1,6 +1,7 @@
 [
   {
     "name": "Bhpsngum",
+    "description": "Starblast player and author of many mods and tools used by the community.",
     "links": [
       {
         "id": "github",
@@ -13,6 +14,14 @@
       {
         "id": "youtube",
         "src": "https://www.youtube.com/@bhpsngum"
+      },
+      {
+        "id": "reddit",
+        "src": "https://www.reddit.com/user/Bhpsngum"
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/cqwibnxhle2yx34aji5m5cjka?si=a542fd963c2d4209"
       }
     ],
     "about": {
@@ -20,21 +29,10 @@
       "isModder": true,
       "isUCP": true,
       "isContrib": true,
-      "isSesame": false,
-      "isFormerStaff": false,
-      "isShipBuilder": false
+      "isSesame": false
     },
     "sesameID": "usr-BNM-Go4A6f6RX9",
-    "templateImage": "https://avatars.githubusercontent.com/u/53442511?v=4",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "templateImage": "https://avatars.githubusercontent.com/u/53442511?v=4"
   },
   {
     "name": "naflouille",
@@ -921,6 +919,7 @@
   },
   {
     "name": "X-27",
+    "description": "Youtuber starblast known worldwide for his videos. Has left the community and is no longer active.",
     "links": [
       {
         "id": "github",
@@ -933,6 +932,14 @@
       {
         "id": "youtube",
         "src": "https://www.youtube.com/@X-27yt"
+      },
+      {
+        "id": "reddit",
+        "src": "https://www.reddit.com/user/X-27_WasAlreadyTaken"
+      },
+      {
+        "id": "spotify",
+        "src": ""
       }
     ],
     "about": {
@@ -940,21 +947,10 @@
       "isModder": false,
       "isUCP": true,
       "isContrib": true,
-      "isSesame": false,
-      "isFormerStaff": false,
-      "isShipBuilder": false
+      "isSesame": false
     },
     "sesameID": "usr-X27-yxerQG6b6X",
-    "templateImage": "https://avatars.githubusercontent.com/u/10255368?v=4",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "templateImage": "https://avatars.githubusercontent.com/u/10255368?v=4"
   },
   {
     "name": "BloodyDubstep",
@@ -1765,6 +1761,7 @@
   },
   {
     "name": "Ayaka Aram",
+    "description": "Asian youtuber known for his quality videos.",
     "links": [
       {
         "id": "github",
@@ -1777,6 +1774,14 @@
       {
         "id": "youtube",
         "src": "https://www.youtube.com/@AyakaAram"
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
       }
     ],
     "about": {
@@ -1784,21 +1789,10 @@
       "isModder": false,
       "isUCP": false,
       "isContrib": true,
-      "isSesame": false,
-      "isFormerStaff": false,
-      "isShipBuilder": false
+      "isSesame": false
     },
     "sesameID": "usr-AAM-heslwVf8G3",
-    "templateImage": "https://avatars.githubusercontent.com/u/78714474?v=4",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "templateImage": "https://avatars.githubusercontent.com/u/78714474?v=4"
   },
   {
     "name": "Neo Space",
