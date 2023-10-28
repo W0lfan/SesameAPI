@@ -869,5 +869,30 @@
     },
     "sesameID": "cmnt-XXX-nLlH5DTjKG",
     "templateImage": "https://cdn.discordapp.com/icons/1078666510719004672/7732650273c1e954eebd95d15c804cee.webp?size=1024"
+  },
+  {
+    "name": "X-27 Main Control Base",
+    "author": [
+      {
+        "name": "X-27"
+      }
+    ],
+    "description": "X27 discord server.",
+    "content": [
+      ""
+    ],
+    "tag": [
+      ""
+    ],
+    "language": "",
+    "server": "US",
+    "active": false,
+    "birth": "05/22/2017",
+    "links": {
+      "join": "https://discord.gg/ecUW88H",
+      "youtube": "https://www.youtube.com/@X-27yt"
+    },
+    "sesameID": "cmnt-XXX-l3ZfY8e3N1",
+    "templateImage": "https://cdn.discordapp.com/icons/315992435408896002/a518b01e5b01172555fd88787d70d712.webp?size=1024"
   }
 ]
