@@ -679,7 +679,7 @@
   },
   {
     "name": "Rithy",
-    "description": "Passionate about coding and starblast player. I met IRL Megalodon and # SCIENCES and soon alex pdm pro",
+    "description": "",
     "links": [
       {
         "id": "github",
@@ -707,10 +707,21 @@
       "isModder": false,
       "isUCP": false,
       "isContrib": false,
-      "isSesame": true
+      "isSesame": true,
+      "isFormerStaff": false,
+      "isShipBuilder": false
     },
     "sesameID": "usr-RTY-bDEO1zR7Gx",
-    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/rithy.png?raw=true"
+    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/rithy.png?raw=true",
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "JavRedstone",
@@ -1921,10 +1932,27 @@
   },
   {
     "name": "Alex",
+    "description": "1st in PDM. Always PDM. PDM, PDM and PDM",
     "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
       {
         "id": "discord",
         "src": "alex5025"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
       }
     ],
     "about": {
@@ -1932,21 +1960,10 @@
       "isModder": false,
       "isUCP": false,
       "isContrib": false,
-      "isSesame": false,
-      "isFormerStaff": false,
-      "isShipBuilder": false
+      "isSesame": false
     },
     "sesameID": "usr-AEX-Eh6t4bok3i",
-    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/AlexUCP.jpg?raw=true",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/AlexUCP.jpg?raw=true"
   },
   {
     "name": "NOK",
