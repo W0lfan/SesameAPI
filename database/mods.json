@@ -1652,5 +1652,19 @@
         }
       }
     }
+  },
+  {
+    "name": "Malefic Expanse",
+    "author": [
+      {
+        "name": "Malefor"
+      }
+    ],
+    "description": "This is Malefic Expanse, it's a mix of 4 different ship trees: U-Series, Malefic & Majestic Series, H-Series, X-Series",
+    "about": {
+      "url": "https://raw.githubusercontent.com/W0lfan/SesameAPI/main/database/mods/Malefic_Expanse.js"
+    },
+    "sesameID": "md-XXX-t3CjncdzzK",
+    "templateImage": ""
   }
 ]
