@@ -894,5 +894,33 @@
     },
     "sesameID": "cmnt-XXX-l3ZfY8e3N1",
     "templateImage": "https://cdn.discordapp.com/icons/315992435408896002/a518b01e5b01172555fd88787d70d712.webp?size=1024"
+  },
+  {
+    "name": "German Alliance",
+    "author": [
+      {
+        "name": "NND"
+      },
+      {
+        "name": " Devrim"
+      }
+    ],
+    "description": "A German alliance",
+    "content": [
+      ""
+    ],
+    "tag": [
+      "✭ƓΛꝈ⤳"
+    ],
+    "language": "German",
+    "server": "EU",
+    "active": true,
+    "birth": "08/10/2023",
+    "links": {
+      "join": "https://discord.gg/tcWARFMyf8",
+      "youtube": ""
+    },
+    "sesameID": "cmnt-XXX-3Ty9SAuIGd",
+    "templateImage": "https://cdn.discordapp.com/icons/1160662840932315268/83d87085663067db539964a29e341210.webp?size=512"
   }
 ]
