@@ -1,15 +1,7 @@
 [
   {
     "name": "FR team",
-    "tag": [
-      "ҒR▸"
-    ],
-    "language": [
-      "French"
-    ],
-    "server": "EU",
     "active": true,
-    "birth": "",
     "links": {
       "discord": "https://discord.gg/4NZZanHX9",
       "youtube": "https://www.youtube.com/channel/UCr0gpbHDyZUr-tF5QmiSm1g"
@@ -55,13 +47,7 @@
       "Quest Mod",
       "Starblast Mining Mod"
     ],
-    "tag": [
-      ""
-    ],
-    "language": "",
-    "server": "",
     "active": true,
-    "birth": "",
     "links": {
       "discord": "https://discord.gg/E3zMKDDXzx",
       "youtube": "undefined"
@@ -85,11 +71,7 @@
   },
   {
     "name": "Game Of The Night (GOTN)",
-    "tag": [],
-    "language": [],
-    "server": "EU",
     "active": true,
-    "birth": "",
     "links": {
       "discord": "https://discord.gg/qvngAfKPQy",
       "youtube": "unknown"
@@ -117,11 +99,7 @@
   },
   {
     "name": " Asia Game Of The Night (GOTN)",
-    "tag": [],
-    "language": [],
-    "server": "Asia",
     "active": true,
-    "birth": "9/8/2023",
     "links": {
       "discord": "https://discord.gg/9rhEN7YhFx",
       "youtube": "unknown"
@@ -158,11 +136,7 @@
   },
   {
     "name": "Arena Mod",
-    "tag": [],
-    "language": [],
-    "server": "International",
     "active": true,
-    "birth": "",
     "links": {
       "discord": "https://discord.gg/Nsavm8pqcG",
       "youtube": "unknown"
@@ -190,11 +164,7 @@
   },
   {
     "name": "Mega's World",
-    "tag": [],
-    "language": [],
-    "server": "International",
     "active": true,
-    "birth": "",
     "links": {
       "discord": "https://discord.gg/nR5QW7KDUV",
       "youtube": "unknown"
@@ -222,11 +192,7 @@
   },
   {
     "name": "US Game Of The Night (GOTN)",
-    "tag": [],
-    "language": [],
-    "server": "US",
     "active": true,
-    "birth": "",
     "links": {
       "discord": "https://discord.gg/rvFn5ah2aV",
       "youtube": "unknown"
@@ -257,11 +223,7 @@
   },
   {
     "name": "dankdmitron's projects",
-    "tag": [],
-    "language": [],
-    "server": "International",
     "active": true,
-    "birth": "",
     "links": {
       "discord": "https://discord.gg/44uBrbwFQH",
       "youtube": "unknown"
@@ -289,11 +251,7 @@
   },
   {
     "name": "SAW Starblast",
-    "tag": [],
-    "language": [],
-    "server": "",
     "active": true,
-    "birth": "",
     "content": [
       "Asteroid War"
     ],
@@ -333,11 +291,7 @@
   },
   {
     "name": "Starblast Invasion War",
-    "tag": [],
-    "language": [],
-    "server": "",
     "active": true,
-    "birth": "",
     "content": [
       "Invasion War"
     ],
@@ -374,16 +328,7 @@
   },
   {
     "name": "Pure Space",
-    "tag": [
-      "ⱣꞨ▸"
-    ],
-    "language": [
-      "English",
-      "French"
-    ],
-    "server": "EU",
     "active": true,
-    "birth": "16/07/2023",
     "links": {
       "discord": "https://discord.gg/3nuThPcEEj",
       "youtube": "unknown"
@@ -425,11 +370,7 @@
       }
     ],
     "description": "European clans led by Trollbaba, who have since become active again with the return of their leader.",
-    "tag": [],
-    "language": "English",
-    "server": "EU",
     "active": true,
-    "birth": "",
     "links": {},
     "sesameID": "cmnt-Rlp-oeEhsUNI4j",
     "templateImage": "https://images-ext-2.discordapp.net/external/VjqdeIvX6jmOvfuamd5su8Ht_wM5dja_r2PkqZsySl8/https/cdn.discordapp.com/icons/1045719521605984316/173be9d2ff243eb42564f3db2479dc83.webp?width=115&height=115",
@@ -448,13 +389,7 @@
   },
   {
     "name": "Starblast main",
-    "tag": [],
-    "language": [
-      "English"
-    ],
-    "server": "International",
     "active": true,
-    "birth": "",
     "links": {
       "discord": "https://discord.gg/JwfJSFmXtn",
       "youtube": "unknown"
@@ -482,13 +417,7 @@
   },
   {
     "name": "Starblast Shipyard",
-    "tag": [],
-    "language": [
-      "English"
-    ],
-    "server": "International",
     "active": true,
-    "birth": "",
     "links": {
       "discord": "https://discord.gg/MWhz2G2W2Q",
       "youtube": "unknown"
@@ -516,15 +445,7 @@
   },
   {
     "name": "Sky2Fly",
-    "tag": [
-      "SᄅF-"
-    ],
-    "language": [
-      "English"
-    ],
-    "server": "EU",
     "active": true,
-    "birth": "",
     "links": {
       "discord": "https://discord.gg/zx8NAR2z4E",
       "youtube": "unknown"
@@ -560,16 +481,8 @@
   },
   {
     "name": "Inferno Squadron (IS)",
-    "tag": [
-      "【🔥IS】"
-    ],
-    "language": [
-      "English"
-    ],
     "infos": "",
-    "server": "International",
     "active": true,
-    "birth": "",
     "links": {
       "discord": "https://discord.gg/GwufZc4b6C",
       "youtube": "https://www.youtube.com/@infernosquadronstarblast"
@@ -598,16 +511,8 @@
   },
   {
     "name": "Stack",
-    "tag": [
-      "ǂꞨͲȺꞒꝀǂ"
-    ],
-    "language": [
-      "English"
-    ],
     "infos": "",
-    "server": "International",
     "active": false,
-    "birth": "",
     "links": {
       "discord": "https://discord.gg/qwE88ED",
       "youtube": "unknown"
@@ -645,13 +550,7 @@
     "content": [
       ""
     ],
-    "tag": [
-      ""
-    ],
-    "language": "English,Spanish",
-    "server": "International",
     "active": true,
-    "birth": "10/05/2022",
     "links": {
       "discord": "https://discord.gg/GDzGmWEm25",
       "youtube": ""
@@ -675,15 +574,7 @@
   },
   {
     "name": "Synthesis RC2",
-    "tag": [
-      "Ɍ.C²"
-    ],
-    "language": [
-      "Turkish"
-    ],
-    "server": "EU",
     "active": true,
-    "birth": "",
     "links": {
       "discord": "https://discord.gg/r9XqhvnxU2",
       "youtube": "unknown"
@@ -716,14 +607,7 @@
   },
   {
     "name": "Providence",
-    "tag": [],
-    "language": [
-      "English",
-      "Turkish"
-    ],
-    "server": "EU",
     "active": true,
-    "birth": "13/05/2021 13:46",
     "links": {
       "discord": "unknown",
       "youtube": "unknown"
@@ -751,11 +635,7 @@
   },
   {
     "name": "Re:Arena - Arena Mod Remake/Recontinuation",
-    "tag": [],
-    "language": [],
-    "server": "",
     "active": true,
-    "birth": "15/03/2023 13:05",
     "content": [
       "Arena Mod Remake/Recontinuation"
     ],
@@ -789,11 +669,7 @@
   },
   {
     "name": "Starblast Dueling Championship",
-    "tag": [],
-    "language": [],
-    "server": "",
     "active": true,
-    "birth": "09/02/2021 12:06",
     "content": [
       "Starblast Dueling Championship"
     ],
@@ -824,11 +700,7 @@
   },
   {
     "name": "Zex's Community",
-    "tag": [],
-    "language": [],
-    "server": "",
     "active": true,
-    "birth": "04/07/2023",
     "content": [
       ""
     ],
@@ -859,11 +731,7 @@
   },
   {
     "name": "Aramtomy Corporation",
-    "tag": [],
-    "language": [],
-    "server": "Asia",
     "active": true,
-    "birth": "04/06/2022",
     "content": [],
     "links": {
       "discord": "https://discord.gg/2u5ZZCzXd",
@@ -901,13 +769,7 @@
     "content": [
       ""
     ],
-    "tag": [
-      ""
-    ],
-    "language": "English",
-    "server": "International",
     "active": true,
-    "birth": "",
     "links": {
       "discord": "https://discord.gg/sYjjjJ6QQV",
       "youtube": ""
@@ -940,13 +802,7 @@
     "content": [
       ""
     ],
-    "tag": [
-      ""
-    ],
-    "language": "",
-    "server": "EU",
     "active": true,
-    "birth": "02/24/2023",
     "links": {
       "discord": "https://discord.gg/q9k3HKcREN",
       "youtube": ""
@@ -979,13 +835,7 @@
     "content": [
       ""
     ],
-    "tag": [
-      ""
-    ],
-    "language": "",
-    "server": "US",
     "active": false,
-    "birth": "05/22/2017",
     "links": {
       "discord": "https://discord.gg/ecUW88H",
       "youtube": "https://www.youtube.com/@X-27yt"
@@ -1021,13 +871,7 @@
     "content": [
       ""
     ],
-    "tag": [
-      "✭ƓΛꝈ⤳"
-    ],
-    "language": "German",
-    "server": "EU",
     "active": true,
-    "birth": "08/10/2023",
     "links": {
       "discord": "https://discord.gg/tcWARFMyf8",
       "youtube": ""
