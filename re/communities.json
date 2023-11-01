@@ -11,7 +11,7 @@
     "active": true,
     "birth": "",
     "links": {
-      "join": "https://discord.gg/4NZZanHX9",
+      "discord": "https://discord.gg/4NZZanHX9",
       "youtube": "https://www.youtube.com/channel/UCr0gpbHDyZUr-tF5QmiSm1g"
     },
     "sesameID": "cmnt-Fem-kL9wTT0sXF",
@@ -25,13 +25,18 @@
         "name": "NOK"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [
+        "ҒR▸"
+      ],
+      "server": "EU",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -58,18 +63,23 @@
     "active": true,
     "birth": "",
     "links": {
-      "join": "https://discord.gg/E3zMKDDXzx",
+      "discord": "https://discord.gg/E3zMKDDXzx",
       "youtube": "undefined"
     },
     "sesameID": "cmnt-Nes-PG9eSkOFme",
     "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1145310535387201536/Design_sans_titre_13.png?width=2407&height=1354",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [
+        ""
+      ],
+      "server": "",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -81,7 +91,7 @@
     "active": true,
     "birth": "",
     "links": {
-      "join": "https://discord.gg/qvngAfKPQy",
+      "discord": "https://discord.gg/qvngAfKPQy",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-GNN-EeOG3k6jBg",
@@ -92,13 +102,16 @@
         "name": "Notus"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [],
+      "server": "EU",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -110,7 +123,7 @@
     "active": true,
     "birth": "9/8/2023",
     "links": {
-      "join": "https://discord.gg/9rhEN7YhFx",
+      "discord": "https://discord.gg/9rhEN7YhFx",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-AhN-EeGt9OGVGy",
@@ -130,13 +143,16 @@
         "name": "M3dumb"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [],
+      "server": "Asia",
+      "birth": "9/8/2023"
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -148,7 +164,7 @@
     "active": true,
     "birth": "",
     "links": {
-      "join": "https://discord.gg/Nsavm8pqcG",
+      "discord": "https://discord.gg/Nsavm8pqcG",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Aad-KjEM8IFlAn",
@@ -159,13 +175,16 @@
         "name": "Nexagon"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [],
+      "server": "International",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -177,7 +196,7 @@
     "active": true,
     "birth": "",
     "links": {
-      "join": "https://discord.gg/nR5QW7KDUV",
+      "discord": "https://discord.gg/nR5QW7KDUV",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-MWd-eGVs3a7I9P",
@@ -188,13 +207,16 @@
         "name": "Megalodon"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [],
+      "server": "International",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -206,7 +228,7 @@
     "active": true,
     "birth": "",
     "links": {
-      "join": "https://discord.gg/rvFn5ah2aV",
+      "discord": "https://discord.gg/rvFn5ah2aV",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-UeN-TTnADm5vcn",
@@ -220,13 +242,16 @@
         "name": "SChickenMan"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [],
+      "server": "US",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -238,7 +263,7 @@
     "active": true,
     "birth": "",
     "links": {
-      "join": "https://discord.gg/44uBrbwFQH",
+      "discord": "https://discord.gg/44uBrbwFQH",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-dns-RtByLPlygj",
@@ -249,13 +274,16 @@
         "name": "Dank Dmitron"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [],
+      "server": "International",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -270,7 +298,7 @@
       "Asteroid War"
     ],
     "links": {
-      "join": "https://discord.gg/NZw52JGdU9",
+      "discord": "https://discord.gg/NZw52JGdU9",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Srt-f1AjyYbNIM",
@@ -290,13 +318,16 @@
         "name": "Hazard"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [],
+      "server": "",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -311,7 +342,7 @@
       "Invasion War"
     ],
     "links": {
-      "join": "https://discord.gg/Mtd47MWMnY",
+      "discord": "https://discord.gg/Mtd47MWMnY",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Snr-gTGxFR6NOw",
@@ -328,13 +359,16 @@
         "name": "NOK"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [],
+      "server": "",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -351,7 +385,7 @@
     "active": true,
     "birth": "16/07/2023",
     "links": {
-      "join": "https://discord.gg/3nuThPcEEj",
+      "discord": "https://discord.gg/3nuThPcEEj",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-PSe-wNs2ivvft9",
@@ -368,13 +402,18 @@
         "name": "NOK"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [
+        "ⱣꞨ▸"
+      ],
+      "server": "EU",
+      "birth": "16/07/2023"
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -391,25 +430,19 @@
     "server": "EU",
     "active": true,
     "birth": "",
-    "links": [
-      {
-        "id": "join",
-        "src": "https://discord.gg/w82qzaESDW"
-      },
-      {
-        "id": "youtube",
-        "src": "unknown"
-      }
-    ],
+    "links": {},
     "sesameID": "cmnt-Rlp-oeEhsUNI4j",
     "templateImage": "https://images-ext-2.discordapp.net/external/VjqdeIvX6jmOvfuamd5su8Ht_wM5dja_r2PkqZsySl8/https/cdn.discordapp.com/icons/1045719521605984316/173be9d2ff243eb42564f3db2479dc83.webp?width=115&height=115",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [],
+      "server": "EU",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -423,7 +456,7 @@
     "active": true,
     "birth": "",
     "links": {
-      "join": "https://discord.gg/JwfJSFmXtn",
+      "discord": "https://discord.gg/JwfJSFmXtn",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-San-I9ClQ2H12N",
@@ -434,13 +467,16 @@
         "name": "Oh"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [],
+      "server": "International",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -454,7 +490,7 @@
     "active": true,
     "birth": "",
     "links": {
-      "join": "https://discord.gg/MWhz2G2W2Q",
+      "discord": "https://discord.gg/MWhz2G2W2Q",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Std-oWGjc3zOWT",
@@ -465,13 +501,16 @@
         "name": "Finalizer"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [],
+      "server": "International",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -487,7 +526,7 @@
     "active": true,
     "birth": "",
     "links": {
-      "join": "https://discord.gg/zx8NAR2z4E",
+      "discord": "https://discord.gg/zx8NAR2z4E",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-S2y-X19GhUzBaw",
@@ -504,13 +543,18 @@
         "name": "Inspectro"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [
+        "SᄅF-"
+      ],
+      "server": "EU",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -527,7 +571,7 @@
     "active": true,
     "birth": "",
     "links": {
-      "join": "https://discord.gg/GwufZc4b6C",
+      "discord": "https://discord.gg/GwufZc4b6C",
       "youtube": "https://www.youtube.com/@infernosquadronstarblast"
     },
     "sesameID": "cmnt-IqS-YR2SGVQuEP",
@@ -537,13 +581,18 @@
         "name": "Leader 1"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [
+        "【🔥IS】"
+      ],
+      "server": "International",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -560,7 +609,7 @@
     "active": false,
     "birth": "",
     "links": {
-      "join": "https://discord.gg/qwE88ED",
+      "discord": "https://discord.gg/qwE88ED",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Sak-0TkCnDBhU7",
@@ -570,13 +619,18 @@
         "name": "NukePhysics"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [
+        "ǂꞨͲȺꞒꝀǂ"
+      ],
+      "server": "International",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -599,18 +653,23 @@
     "active": true,
     "birth": "10/05/2022",
     "links": {
-      "join": "https://discord.gg/GDzGmWEm25",
+      "discord": "https://discord.gg/GDzGmWEm25",
       "youtube": ""
     },
     "sesameID": "cmnt-Lo4-WawguY2GR2",
     "templateImage": "https://cdn.discordapp.com/icons/973585722227458068/a_2543da6e46a9375b76ec338f5721ecae.webp?size=96",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [
+        ""
+      ],
+      "server": "International",
+      "birth": "10/05/2022"
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -626,7 +685,7 @@
     "active": true,
     "birth": "",
     "links": {
-      "join": "https://discord.gg/r9XqhvnxU2",
+      "discord": "https://discord.gg/r9XqhvnxU2",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Ss2-wdMQEqp3PS",
@@ -640,13 +699,18 @@
         "name": "Twidash"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [
+        "Ɍ.C²"
+      ],
+      "server": "EU",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -661,7 +725,7 @@
     "active": true,
     "birth": "13/05/2021 13:46",
     "links": {
-      "join": "unknown",
+      "discord": "unknown",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Pde-GjOYuyeTFY",
@@ -672,13 +736,16 @@
         "name": "Leader"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [],
+      "server": "EU",
+      "birth": "13/05/2021 13:46"
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -693,7 +760,7 @@
       "Arena Mod Remake/Recontinuation"
     ],
     "links": {
-      "join": "https://discord.gg/697sdMJwKj",
+      "discord": "https://discord.gg/697sdMJwKj",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Rmn-UR46fSt6uD",
@@ -707,13 +774,16 @@
         "name": "Tost"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [],
+      "server": "",
+      "birth": "15/03/2023 13:05"
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -728,7 +798,7 @@
       "Starblast Dueling Championship"
     ],
     "links": {
-      "join": "https://discord.gg/yydUyzdUdT",
+      "discord": "https://discord.gg/yydUyzdUdT",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Snp-9Yu8Tc9sZS",
@@ -739,13 +809,16 @@
         "name": "Thuliux"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [],
+      "server": "",
+      "birth": "09/02/2021 12:06"
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -760,7 +833,7 @@
       ""
     ],
     "links": {
-      "join": "https://discord.gg/zxdsx8rG9N",
+      "discord": "https://discord.gg/zxdsx8rG9N",
       "youtube": "https://www.youtube.com/channel/UCSBJLAAq26z66epXleUpPLQ"
     },
     "templateImage": "https://cdn.discordapp.com/icons/1125902451371950202/e12fef8b370c1ce3804697f5b0e22586.webp",
@@ -771,13 +844,16 @@
       }
     ],
     "sesameID": "cmnt-Zmy-m5gSBZPeE1",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [],
+      "server": "",
+      "birth": "04/07/2023"
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -790,7 +866,7 @@
     "birth": "04/06/2022",
     "content": [],
     "links": {
-      "join": "https://discord.gg/2u5ZZCzXd",
+      "discord": "https://discord.gg/2u5ZZCzXd",
       "youtube": "https://www.youtube.com/channel/UC5KSc70uKwsowUZzzy_b1sg"
     },
     "templateImage": "https://cdn.discordapp.com/icons/982608914921173034/59e6bd8f264ad5c85aa6c4e41bc45696.webp",
@@ -801,13 +877,16 @@
       }
     ],
     "sesameID": "cmnt-Aon-rp63PM1A5c",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [],
+      "server": "Asia",
+      "birth": "04/06/2022"
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -830,18 +909,23 @@
     "active": true,
     "birth": "",
     "links": {
-      "join": "https://discord.gg/sYjjjJ6QQV",
+      "discord": "https://discord.gg/sYjjjJ6QQV",
       "youtube": ""
     },
     "sesameID": "cmnt-XXX-wHZEVxS6fo",
     "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1163451049282129960/nafcreations.png?ex=653f9f3a&is=652d2a3a&hm=d5f5299049baeeb27687cd6c476b5554d75f401211e3c029cdb7194d0056375b&=&width=473&height=473",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
+    "informations": {
+      "tag": [
+        ""
+      ],
+      "server": "International",
+      "birth": ""
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
       }
     }
   },
@@ -864,11 +948,25 @@
     "active": true,
     "birth": "02/24/2023",
     "links": {
-      "join": "https://discord.gg/q9k3HKcREN",
+      "discord": "https://discord.gg/q9k3HKcREN",
       "youtube": ""
     },
     "sesameID": "cmnt-XXX-nLlH5DTjKG",
-    "templateImage": "https://cdn.discordapp.com/icons/1078666510719004672/7732650273c1e954eebd95d15c804cee.webp?size=1024"
+    "templateImage": "https://cdn.discordapp.com/icons/1078666510719004672/7732650273c1e954eebd95d15c804cee.webp?size=1024",
+    "informations": {
+      "tag": [
+        ""
+      ],
+      "server": "EU",
+      "birth": "02/24/2023"
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
+      }
+    }
   },
   {
     "name": "X-27 Main Control Base",
@@ -889,11 +987,25 @@
     "active": false,
     "birth": "05/22/2017",
     "links": {
-      "join": "https://discord.gg/ecUW88H",
+      "discord": "https://discord.gg/ecUW88H",
       "youtube": "https://www.youtube.com/@X-27yt"
     },
     "sesameID": "cmnt-XXX-l3ZfY8e3N1",
-    "templateImage": "https://cdn.discordapp.com/icons/315992435408896002/a518b01e5b01172555fd88787d70d712.webp?size=1024"
+    "templateImage": "https://cdn.discordapp.com/icons/315992435408896002/a518b01e5b01172555fd88787d70d712.webp?size=1024",
+    "informations": {
+      "tag": [
+        ""
+      ],
+      "server": "US",
+      "birth": "05/22/2017"
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
+      }
+    }
   },
   {
     "name": "German Alliance",
@@ -917,10 +1029,24 @@
     "active": true,
     "birth": "08/10/2023",
     "links": {
-      "join": "https://discord.gg/tcWARFMyf8",
+      "discord": "https://discord.gg/tcWARFMyf8",
       "youtube": ""
     },
     "sesameID": "cmnt-XXX-3Ty9SAuIGd",
-    "templateImage": "https://cdn.discordapp.com/icons/1160662840932315268/83d87085663067db539964a29e341210.webp?size=512"
+    "templateImage": "https://cdn.discordapp.com/icons/1160662840932315268/83d87085663067db539964a29e341210.webp?size=512",
+    "informations": {
+      "tag": [
+        "✭ƓΛꝈ⤳"
+      ],
+      "server": "EU",
+      "birth": "08/10/2023"
+    },
+    "shadowBan": {
+      "state": false,
+      "informations": {
+        "author": "",
+        "date": ""
+      }
+    }
   }
 ]
