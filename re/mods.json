@@ -1,0 +1,1670 @@
+[
+  {
+    "name": "Mega Rumble",
+    "abvrt": "",
+    "version": "2.0",
+    "description": "Starblast Official Event, made off the Rumble Starblast mod.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/mega_rumble.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "PMGL"
+      },
+      {
+        "name": "45rfew"
+      }
+    ],
+    "official": 1,
+    "event": 1,
+    "sesameID": "md-Mue-FiCVk4f9Wa",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/mega_rumble.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Alpha Orionis War",
+    "abvrt": "AOW",
+    "version": "Acamar Sector",
+    "description": "Starblast Official and monthly event.",
+    "modes": "Team",
+    "link": {
+      "url": "https://github.com/GoldmanAerospace/AOW",
+      "type": "storage",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "PMGL"
+      },
+      {
+        "name": "Goldman"
+      },
+      {
+        "name": "Notus"
+      }
+    ],
+    "official": 1,
+    "event": 1,
+    "sesameID": "md-Air-116bD21mob",
+    "templateImage": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/30712488/2d1fd7aa6d15eb47cff6de4a889e73ef573b61a7.jpg",
+    "about": {
+      "url": "https://github.com/GoldmanAerospace/AOW"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Escalation",
+    "abvrt": "",
+    "version": "1.1",
+    "description": "Removed Official Mod, based on the Valorant game mode.",
+    "modes": "",
+    "link": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/escalation.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "45rfew"
+      }
+    ],
+    "official": 1,
+    "event": 0,
+    "sesameID": "md-Ean-xf9kQ0XiWu",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/escalation.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/escalation.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Starblast Dueling Championship",
+    "abvrt": "SDC",
+    "version": "2.0",
+    "description": "This is the Starblast Dueling Championship mod, here you fight people in fair, 1 on 1 matches (duels).\nChoose your ship and fight!",
+    "modes": "",
+    "link": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/dueling_championship.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Bhpsngum"
+      },
+      {
+        "name": "Eggsagon"
+      }
+    ],
+    "official": 1,
+    "event": 0,
+    "sesameID": "md-Snp-5RXTgkZtkw",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/sdc.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/dueling_championship.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Multi-Class Ship Tree",
+    "abvrt": "MCST",
+    "version": "1.4",
+    "description": "This is a ship tree with hundreds of different ships to explore. You may select your class of ships between Fighter, Heavy, Speedster and Support. Be the top on the leaderboard and kill teamers!",
+    "modes": "Free For All (FFA)",
+    "link": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/mcst.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "SChickenMan"
+      },
+      {
+        "name": "(featuring Various authors)"
+      }
+    ],
+    "official": 1,
+    "event": 0,
+    "sesameID": "md-Mse-Gws6g1lxem",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/mcst.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/mcst.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Destroy the Mothership",
+    "abvrt": "DTM",
+    "version": "1.3",
+    "description": "Defend the mothership in this thrilling official game mode full of new ships and epicness.",
+    "modes": "",
+    "link": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/destroy_the_mothership.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "45rfew"
+      },
+      {
+        "name": "Kirito"
+      }
+    ],
+    "official": 1,
+    "event": 0,
+    "sesameID": "md-DMp-dOl7ENGK8U",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/dtm.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/destroy_the_mothership.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Capture The Flag",
+    "abvrt": "CTF",
+    "version": "1.4",
+    "description": "Based on the Capture The Point game. Capture the flag, and go back safely to your base.",
+    "modes": "",
+    "link": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/capture_the_flag.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Bhpsngum"
+      },
+      {
+        "name": "45rfew"
+      }
+    ],
+    "official": 1,
+    "event": 0,
+    "sesameID": "md-CTg-z5Q2GsTNqL",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/ctf.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/capture_the_flag.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Rumble",
+    "abvrt": "",
+    "version": "1.3",
+    "description": "Fight in thrilling battles full of vanilla ships of each tier, and win the most points before the other team takes over!",
+    "modes": "",
+    "link": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/rumble.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "45rfew"
+      }
+    ],
+    "official": 1,
+    "event": 0,
+    "sesameID": "md-Rbe-IAMuUGSdpy",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/rumble.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/rumble.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Starblast Racing Championship",
+    "abvrt": "SRC",
+    "version": "2.1",
+    "description": "Race against your opponents to won the Racing cup!",
+    "modes": "",
+    "link": {
+      "url": "https://github.com/GoldmanAerospace/SRC-All-track-codes-/",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Goldman"
+      },
+      {
+        "name": "Notus"
+      }
+    ],
+    "official": 1,
+    "event": 0,
+    "sesameID": "md-Snp-k7sNXoYyap",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/src2.jpg",
+    "about": {
+      "url": "https://github.com/GoldmanAerospace/SRC-All-track-codes-/"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Nautic Series",
+    "abvrt": "",
+    "version": "3.1",
+    "description": "A Starblast Team Mode game based on the Nautic animals and creatures.",
+    "modes": "Team",
+    "link": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/nauticseries.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Goldman"
+      }
+    ],
+    "official": 1,
+    "event": 0,
+    "sesameID": "md-NSs-jUfGZNag2e",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/nauticseries.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/nauticseries.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Alien Intrusion",
+    "abvrt": "AI",
+    "version": "5.0.5",
+    "description": "A Starblast Team Mode game based on space ships fighting in an arena full of aliens.",
+    "modes": "Team",
+    "link": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/alienintrusion.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Goldman"
+      }
+    ],
+    "official": 1,
+    "event": 0,
+    "sesameID": "md-Atn-bik5SOEWbZ",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/alienintrusion.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/alienintrusion.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "U-Series",
+    "abvrt": "",
+    "version": "4.0",
+    "description": "A Starblast Team Mode game based on the U-Sniper ship.",
+    "modes": "Team",
+    "link": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/useries.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Finalizer"
+      }
+    ],
+    "official": 1,
+    "event": 0,
+    "sesameID": "md-Urs-L6pqi9zcsQ",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/useries.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/useries.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Battle Royale",
+    "abvrt": "BR",
+    "version": "2.0",
+    "description": "Choose a ship and fight to death in a shrinking arena.",
+    "modes": "",
+    "link": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/battleroyale.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "PMGL"
+      }
+    ],
+    "official": 1,
+    "event": 0,
+    "sesameID": "md-BRe-zRf1xhjUpV",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/battleroyale.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/battleroyale.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Starblast Racing",
+    "abvrt": "",
+    "version": "1.1",
+    "description": "Race against your opponents in different tracks.",
+    "modes": "",
+    "link": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/racing.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "PMGL"
+      }
+    ],
+    "official": 2,
+    "event": 0,
+    "sesameID": "md-Ssg-u6kj6LPD2Y",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/src.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/racing.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Starblast Prototypes",
+    "abvrt": "SP",
+    "version": "1.0.0",
+    "description": "Zero mining. Pure combat.",
+    "modes": "",
+    "link": {
+      "url": "https://github.com/Bhpsngum/Uranus-Starblast-Prototypes",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Uranus"
+      }
+    ],
+    "official": 2,
+    "event": 0,
+    "sesameID": "md-SPs-3SUxBHFr7S",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/prototypes.jpg",
+    "about": {
+      "url": "https://github.com/Bhpsngum/Uranus-Starblast-Prototypes"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Arena Mod Remake/Recontinuation",
+    "abvrt": "Re:Arena",
+    "version": "4.0.0",
+    "description": "Custom ships with abilities, made for epic and chaotic battles.",
+    "modes": "",
+    "link": {
+      "url": "https://github.com/Bhpsngum/Arena-mod-remake",
+      "state": 2,
+      "type": "storage"
+    },
+    "author": [
+      {
+        "name": "Bhpsngum"
+      },
+      {
+        "name": "Nexagon"
+      },
+      {
+        "name": "Tost"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-ARn-GqjwjBr0B3",
+    "templateImage": "https://bhpsngum.github.io/starblast/mods/img/re_arena.png",
+    "about": {
+      "url": "https://github.com/Bhpsngum/Arena-mod-remake"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Private Dueling",
+    "abvrt": "PDS",
+    "version": "",
+    "description": "A dueling mod.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/pds.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "45rfew"
+      },
+      {
+        "name": "___"
+      },
+      {
+        "name": "Apathy"
+      },
+      {
+        "name": "Bhpsngum"
+      },
+      {
+        "name": "Robonuko"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-PDg-V22Vj7Ugsl",
+    "about": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/pds.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Private Dueling (Lite version)",
+    "abvrt": "LPDS",
+    "version": "",
+    "description": "PDS but not 'heavy as fork' as the full version. Dueling mod.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/pds_lite.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "45rfew"
+      },
+      {
+        "name": "___"
+      },
+      {
+        "name": "Apathy"
+      },
+      {
+        "name": "Bhpsngum"
+      },
+      {
+        "name": "Robonuko"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Pnn-vTfRq604Lx",
+    "about": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/pds_lite.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Strawberry",
+    "abvrt": "",
+    "version": "1.0",
+    "description": "A vanilla-based mod, made of new custom ships.",
+    "modes": "Varies",
+    "img": "",
+    "link": {
+      "url": "https://github.com/Nova-was-taken/Various-mod-codes/blob/main/Strawberry%20mod",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Nova"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Sby-9xwcjEPvLy",
+    "about": {
+      "url": "https://github.com/Nova-was-taken/Various-mod-codes/blob/main/Strawberry%20mod"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Pirate Mod",
+    "abvrt": "",
+    "version": "0.0.3",
+    "description": "A small game mode made with custom pirate ships.",
+    "modes": "Survival",
+    "img": "",
+    "link": {
+      "url": "https://pastebin.com/7rNLrjAN",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Finalizer"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Ptd-G1IQHLKR0q",
+    "about": {
+      "url": "https://pastebin.com/7rNLrjAN"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Money's Mod",
+    "abvrt": "",
+    "version": "7.0",
+    "description": "A Starblast mod based on custom ships, made by the creator of Rumble, CTF, Escalation.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/45rfew/Starblast-mods-n-objs/tree/master/Mods/",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "45rfew"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Myd-dFdICl50GA",
+    "about": {
+      "url": "https://github.com/45rfew/Starblast-mods-n-objs/tree/master/Mods/"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Piranha Mod",
+    "abvrt": "",
+    "version": "",
+    "description": "Fight Piranhas and gain points.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/45rfew/Starblast-mods-n-objs/tree/master/Mods/Piranha%20mod.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "45rfew"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Phd-C7pG2EPjov",
+    "about": {
+      "url": "https://github.com/45rfew/Starblast-mods-n-objs/tree/master/Mods/Piranha%20mod.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Team Deathmatch",
+    "abvrt": "TDM",
+    "version": "0.96.96",
+    "description": "A combination between team battles and Pro DeathMatch (PDM)",
+    "modes": "",
+    "link": {
+      "url": "https://github.com/Bhpsngum/TDM",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Lexagon"
+      },
+      {
+        "name": "Bhpsngum"
+      },
+      {
+        "name": "45rfew"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Tth-kktPhLUa8F",
+    "templateImage": "https://bhpsngum.github.io/starblast/mods/img/tdm.png",
+    "about": {
+      "url": "https://github.com/Bhpsngum/TDM"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Starfleet",
+    "abvrt": "",
+    "version": "3.2.1",
+    "description": "Basically a Star Wars mod. CC meta.",
+    "modes": "Varies",
+    "link": {
+      "url": "https://github.com/InterdictorSD/starfleetships-public",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Interdictor"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Sft-jfCbGa7TCL",
+    "templateImage": "https://bhpsngum.github.io/starblast/mods/img/Starfleet.png",
+    "about": {
+      "url": "https://github.com/InterdictorSD/starfleetships-public"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Anarchy Mod",
+    "abvrt": "",
+    "version": "1.5",
+    "description": "Custom ships, similar but one is on the dark side, the other on the light side.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/MALEFOR27/Anarchy",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Malefor"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Ahd-fB5HZLVGGx",
+    "about": {
+      "url": "https://github.com/MALEFOR27/Anarchy"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Kleinem's Enhanced Ship Tree",
+    "abvrt": "KEST",
+    "version": "1.3.3*",
+    "description": "Legendary Mod with custom ships based on the vanilla ones.",
+    "modes": "Varies",
+    "img": "",
+    "link": {
+      "url": "https://pastebin.com/jSXp6CT6",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Kleinem"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Kne-9V07q6mQxu",
+    "about": {
+      "url": "https://pastebin.com/jSXp6CT6"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "H-Series",
+    "abvrt": "",
+    "version": "",
+    "description": "Custom ships created based on the H-Mercury ship.",
+    "modes": "Varies",
+    "img": "",
+    "link": {
+      "url": "https://pastebin.com/PzYfZBMi",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Void"
+      },
+      {
+        "name": "MGRocket"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Hrs-530LNTvfHI",
+    "about": {
+      "url": "https://pastebin.com/PzYfZBMi"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "X-Series",
+    "abvrt": "",
+    "version": "",
+    "description": "Custom ships created based on the X-Mercury ship.",
+    "modes": "Varies",
+    "img": "",
+    "link": {
+      "url": "https://pastebin.com/HHK4dyYN",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Void"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Xrs-chYdaEGx9Z",
+    "about": {
+      "url": "https://pastebin.com/HHK4dyYN"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "In-game Map Editor",
+    "abvrt": "",
+    "version": "",
+    "description": "In-game map editor! Make maps in Starblast, for Starblast!\nHere's a quick tutorial: write authorize(<ship index>) in the console to be able to edit your map, then use buttons x and e to do stuff",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://pastebin.com/yKUsardk",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Uranus"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Iar-c64TXszC4G",
+    "about": {
+      "url": "https://pastebin.com/yKUsardk"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Football Mod",
+    "abvrt": "",
+    "version": "",
+    "description": "Play football in Starblast.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://pastebin.com/9rfN2QKi",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Uranus"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Fad-5BuOTqsUhg",
+    "about": {
+      "url": "https://pastebin.com/9rfN2QKi"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Safe Zones Mod",
+    "abvrt": "",
+    "version": "",
+    "description": "Based on the famous traditional game Musical Chairs.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/safeZones.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Bhpsngum"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Snd-G4IfyoVRal",
+    "about": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/safeZones.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Starblast O.P",
+    "abvrt": "SBOP",
+    "version": "",
+    "description": "OP Custom ships fighting each others.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/Starblast_OP_(by_TheFish-ProfessorPi31415).js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "TheFish"
+      },
+      {
+        "name": "(featuring Various authors)"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-SlP-2VvnQlgZXx",
+    "about": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/Starblast_OP_(by_TheFish-ProfessorPi31415).js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Tic Tac Toe",
+    "abvrt": "XO",
+    "version": "1.0.0",
+    "description": "Tic Tac Toe in Starblast",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/DoDucMinh1608/mod/blob/master/XO/xoX10.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "__"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Tae-0sus7FmmGT",
+    "about": {
+      "url": "https://github.com/DoDucMinh1608/mod/blob/master/XO/xoX10.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Starblast Murder Mystery",
+    "abvrt": "",
+    "version": "1.0.0 (Beta)",
+    "description": "Based on the Murder Mystery game",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/murder_mystery.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Bhpsngum"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Sry-rLD3FMFGwZ",
+    "about": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/murder_mystery.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Starblast Arena: Origins",
+    "abvrt": "SA",
+    "version": "1.0",
+    "description": "Starblast Arena is a mod with two teams randomly chosen. Players have to kills ennemies and aliens to gain points. The first team to reach a certain amount of players and aliens kills wins.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/W0lfan/STF/blob/main/archives/main/Starbast%20Arena%20Version%201-09.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Naflouille"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Srs-Lt9oqh2Z32",
+    "about": {
+      "url": "https://github.com/W0lfan/STF/blob/main/archives/main/Starbast%20Arena%20Version%201-09.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Barracuda Series",
+    "abvrt": "",
+    "version": "1.0",
+    "description": "A tree with dash custom ships only.",
+    "modes": "Team",
+    "img": "",
+    "link": {
+      "url": "https://github.com/USDFOD/USDFOD/blob/main/Barracuda%20Series%201.0",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "[USDF] OD"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Bds-0SBAcnmIm1",
+    "about": {
+      "url": "https://github.com/USDFOD/USDFOD/blob/main/Barracuda%20Series%201.0"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Starblast Team Fights",
+    "author": [
+      {
+        "name": "Naflouille"
+      }
+    ],
+    "description": "A Team Dueling mod. Strategic duels, shrinking arena, where you can pick only one ship per cycle. Former Starblast Arena.",
+    "about": {
+      "url": "https://github.com/W0lfan/STF/blob/main/main/stable.js"
+    },
+    "sesameID": "md-STs-LGK2DmBmpW",
+    "templateImage": "https://images-ext-2.discordapp.net/external/TvL2ShzGkNcx1JF3A59GTk5eHvXIsIn8TXxsVSgG2bw/https/repository-images.githubusercontent.com/347675356/196ef3dc-bd2e-461a-923c-10afc73a148a?width=2710&height=1355",
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Meg's Dueling",
+    "author": [
+      {
+        "name": "Megalodon"
+      }
+    ],
+    "description": "A dueling mod made by Megalodon.",
+    "about": {
+      "url": "https://github.com/TheGreatMegalodon/Megalodon-s-dueling-code/blob/main/Meg's%20Dueling%20Official.js"
+    },
+    "sesameID": "md-Mug-CEkUozGPWK",
+    "templateImage": "https://media.discordapp.net/attachments/701392403554369546/1166089489005957130/LOGO_MegsDueling.png?ex=65493877&is=6536c377&hm=e247c36d250563073cb3871620fc31599b780ae31e1da6fd79ee0ffda1906e43&=&width=612&height=612"
+  },
+  {
+    "name": "Meg's Dueling OP",
+    "author": [
+      {
+        "name": "Megalodon"
+      }
+    ],
+    "description": "A dueling mod made by Megalodon.",
+    "about": {
+      "url": "https://github.com/TheGreatMegalodon/Megalodon-s-dueling-code/blob/main/Meg's%20Dueling%20(Light%20Version).js"
+    },
+    "sesameID": "md-MeP-BSvSh46pB6",
+    "templateImage": "https://media.discordapp.net/attachments/701392403554369546/1166089489005957130/LOGO_MegsDueling.png?ex=65493877&is=6536c377&hm=e247c36d250563073cb3871620fc31599b780ae31e1da6fd79ee0ffda1906e43&=&width=612&height=612"
+  },
+  {
+    "name": "Alien Speedrun",
+    "abvrt": "",
+    "version": "",
+    "description": "Speedrun Alien waves.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/TheGreatMegalodon/Alien-Speedrun/blob/main/Alien-Speedrun.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Megalodon"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Apn-lCrIaSHuaP",
+    "about": {
+      "url": "https://github.com/TheGreatMegalodon/Alien-Speedrun/blob/main/Alien-Speedrun.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Mini Series",
+    "abvrt": "",
+    "version": "",
+    "description": "A custom ships mod made by Megalodon.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/TheGreatMegalodon/miniSeries/blob/main/mainCode.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Megalodon"
+      },
+      {
+        "name": "ByLoloPro"
+      },
+      {
+        "name": "Neo Space"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Mes-mUW06NOgxz",
+    "about": {
+      "url": "https://github.com/TheGreatMegalodon/miniSeries/blob/main/mainCode.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Asteroid War",
+    "abvrt": "SAW",
+    "version": "",
+    "description": "Starblast Asteroid War is a team-based game in which players must battle for survival against perilous asteroid waves and cunning alien adversaries. The inclusion of our new custom ship tree introduces fresh gameplay elements, and the game offers an extensive selection of collectibles as rewards. It is imperative to avoid falling victim to our formidable adversary, the Saucer, often referred to as the 'King of Asteroids.' Defeating this foe bestows a substantial advantage upon the ennemy teams. And guess what.. This is only the beginning!",
+    "modes": "",
+    "link": {
+      "url": "https://github.com/TheGreatMegalodon/Starblast-Asteroid-War/blob/main/(%20v3.4.2%20)%20SAW%20Modding%20Space%20Code.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Megalodon"
+      },
+      {
+        "name": "LX"
+      },
+      {
+        "name": "Hazard"
+      },
+      {
+        "name": "Nebuleuse"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Aor-MP3exGGVHt",
+    "templateImage": "https://media.discordapp.net/attachments/960124329104900158/1137732157377368136/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313032373535383931323035383230303135352f313036313633343037373839373237333338352f5341575f42616e6e65725f335f636f6c6f725f76657273696f6e2e706e67.png?width=2425&height=1355",
+    "about": {
+      "url": "https://github.com/TheGreatMegalodon/Starblast-Asteroid-War/blob/main/(%20v3.4.2%20)%20SAW%20Modding%20Space%20Code.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Starblast Chatting System",
+    "abvrt": "",
+    "version": "",
+    "description": "An advanced In-Game chat system.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://raw.githubusercontent.com/W0lfan/Sesame/main/database/mods/chat.js",
+      "state": 2
+    },
+    "author": [
+      {
+        "name": "Halcyon"
+      }
+    ],
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Sam-DUGpfCPfgK",
+    "about": {
+      "url": "https://raw.githubusercontent.com/W0lfan/Sesame/main/database/mods/chat.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Arena Mod Original",
+    "abvrt": "",
+    "version": "3.1.2",
+    "description": "Arena Mod Original v3.1.2",
+    "modes": "",
+    "link": {
+      "url": "https://raw.githubusercontent.com/W0lfan/SesameAPI/main/database/mods/arena-mod_v3.1.2.js"
+    },
+    "author": [
+      {
+        "name": "Nexagon"
+      }
+    ],
+    "official": 0,
+    "sesameID": "md-AOl-nLgobsBFxg",
+    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/arena-mod-season-2.png?raw=true",
+    "about": {
+      "url": "https://raw.githubusercontent.com/W0lfan/SesameAPI/main/database/mods/arena-mod_v3.1.2.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Overpowered Speedster",
+    "abvrt": "OP Speedster",
+    "version": "2.0.0",
+    "description": "For fun with Speedster",
+    "modes": "",
+    "link": {
+      "url": "https://github.com/Modraxis/Overpowered-Speedster/blob/main/Overpowered%20Speedster%20mod%20code.JS"
+    },
+    "author": [
+      {
+        "name": "Basit"
+      }
+    ],
+    "official": 0,
+    "sesameID": "md-Odr-2BYw4beExh",
+    "templateImage": "https://github.com/Modraxis/Overpowered-Speedster/assets/117416934/ed295f76-3752-4126-a8fe-b53de94509c5",
+    "about": {
+      "url": "https://github.com/Modraxis/Overpowered-Speedster/blob/main/Overpowered%20Speedster%20mod%20code.JS"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Starblast Tag Mod",
+    "abvrt": "STM",
+    "version": "",
+    "description": "Tag Mode is a Team mode game but when you kill one player, that player when respawned will become your teammate, or will be 'tagged' by you, The game ends when one team 'tags' all the players in that server.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/Bhpsngum/StarblastTagMode/blob/master/StarblastTagMode.js"
+    },
+    "author": [
+      {
+        "name": "Bhpsngum"
+      }
+    ],
+    "official": 0,
+    "sesameID": "md-Ssd-adfKzRLlRh",
+    "about": {
+      "url": "https://github.com/Bhpsngum/StarblastTagMode/blob/master/StarblastTagMode.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Starblast Insect Mod",
+    "abvrt": "",
+    "version": "",
+    "description": "Custom ships designed as insects.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/AlbieMorrison/Insect_Mod"
+    },
+    "author": [
+      {
+        "name": "AlbieMorrison"
+      }
+    ],
+    "official": 0,
+    "sesameID": "md-SId-jAFA4jSjGo",
+    "about": {
+      "url": "https://github.com/AlbieMorrison/Insect_Mod"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Starblast Mining Mod",
+    "abvrt": "",
+    "version": "",
+    "description": "Mining with custom UIs.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/mining_mod.js"
+    },
+    "author": [
+      {
+        "name": "naflouille"
+      }
+    ],
+    "official": 0,
+    "sesameID": "md-SMd-8v6aUQdmzO",
+    "about": {
+      "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/mining_mod.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Quest Mod",
+    "abvrt": "",
+    "version": "",
+    "description": "Unfinished. Play Starblast by doing quests in order to win.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/stats_dueling_mod.js"
+    },
+    "author": [
+      {
+        "name": "naflouille"
+      }
+    ],
+    "official": 0,
+    "sesameID": "md-Qtd-YHnw0ZKpwc",
+    "about": {
+      "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/stats_dueling_mod.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Taupe Mod",
+    "abvrt": "",
+    "version": "",
+    "description": "Unfinished. Find the mole in your team before it kills you.",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/taupe_v_0.0.1.js"
+    },
+    "author": [
+      {
+        "name": "naflouille"
+      }
+    ],
+    "official": 0,
+    "sesameID": "md-Ted-zIgvApOuka",
+    "about": {
+      "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/taupe_v_0.0.1.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Optimized Mining Mod",
+    "abvrt": "",
+    "version": "",
+    "description": "Betterfied Mining Mod",
+    "modes": "",
+    "img": "",
+    "link": {
+      "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/opt%20mining%20mod.js"
+    },
+    "author": [
+      {
+        "name": "__"
+      }
+    ],
+    "official": 0,
+    "sesameID": "md-OMd-GWxT9ZQCyG",
+    "about": {
+      "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/opt%20mining%20mod.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "Malefic Expanse",
+    "author": [
+      {
+        "name": "Malefor"
+      }
+    ],
+    "description": "This is Malefic Expanse, it's a mix of 4 different ship trees: U-Series, Malefic & Majestic Series, H-Series, X-Series",
+    "about": {
+      "url": "https://raw.githubusercontent.com/W0lfan/SesameAPI/main/database/mods/Malefic_Expanse.js"
+    },
+    "sesameID": "md-XXX-t3CjncdzzK",
+    "templateImage": ""
+  }
+]
