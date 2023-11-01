@@ -1,9 +1,8 @@
 [
   {
     "name": "FR team",
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/4NZZanHX9",
+      "join": "https://discord.gg/4NZZanHX9",
       "youtube": "https://www.youtube.com/channel/UCr0gpbHDyZUr-tF5QmiSm1g"
     },
     "sesameID": "cmnt-Fem-kL9wTT0sXF",
@@ -18,11 +17,15 @@
       }
     ],
     "informations": {
+      "active": true,
+      "birth": "",
+      "server": "EU",
       "tag": [
         "ҒR▸"
       ],
-      "server": "EU",
-      "birth": ""
+      "language": [
+        "French"
+      ]
     },
     "shadowBan": {
       "state": false,
@@ -47,19 +50,20 @@
       "Quest Mod",
       "Starblast Mining Mod"
     ],
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/E3zMKDDXzx",
+      "join": "https://discord.gg/E3zMKDDXzx",
       "youtube": "undefined"
     },
     "sesameID": "cmnt-Nes-PG9eSkOFme",
     "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1145310535387201536/Design_sans_titre_13.png?width=2407&height=1354",
     "informations": {
+      "active": true,
+      "birth": "",
+      "server": "",
       "tag": [
         ""
       ],
-      "server": "",
-      "birth": ""
+      "language": ""
     },
     "shadowBan": {
       "state": false,
@@ -71,9 +75,8 @@
   },
   {
     "name": "Game Of The Night (GOTN)",
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/qvngAfKPQy",
+      "join": "https://discord.gg/qvngAfKPQy",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-GNN-EeOG3k6jBg",
@@ -85,9 +88,11 @@
       }
     ],
     "informations": {
-      "tag": [],
+      "active": true,
+      "birth": "",
       "server": "EU",
-      "birth": ""
+      "tag": [],
+      "language": []
     },
     "shadowBan": {
       "state": false,
@@ -99,9 +104,8 @@
   },
   {
     "name": " Asia Game Of The Night (GOTN)",
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/9rhEN7YhFx",
+      "join": "https://discord.gg/9rhEN7YhFx",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-AhN-EeGt9OGVGy",
@@ -122,9 +126,11 @@
       }
     ],
     "informations": {
-      "tag": [],
+      "active": true,
+      "birth": "9/8/2023",
       "server": "Asia",
-      "birth": "9/8/2023"
+      "tag": [],
+      "language": []
     },
     "shadowBan": {
       "state": false,
@@ -136,9 +142,8 @@
   },
   {
     "name": "Arena Mod",
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/Nsavm8pqcG",
+      "join": "https://discord.gg/Nsavm8pqcG",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Aad-KjEM8IFlAn",
@@ -150,9 +155,11 @@
       }
     ],
     "informations": {
-      "tag": [],
+      "active": true,
+      "birth": "",
       "server": "International",
-      "birth": ""
+      "tag": [],
+      "language": []
     },
     "shadowBan": {
       "state": false,
@@ -164,9 +171,8 @@
   },
   {
     "name": "Mega's World",
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/nR5QW7KDUV",
+      "join": "https://discord.gg/nR5QW7KDUV",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-MWd-eGVs3a7I9P",
@@ -178,9 +184,11 @@
       }
     ],
     "informations": {
-      "tag": [],
+      "active": true,
+      "birth": "",
       "server": "International",
-      "birth": ""
+      "tag": [],
+      "language": []
     },
     "shadowBan": {
       "state": false,
@@ -192,9 +200,8 @@
   },
   {
     "name": "US Game Of The Night (GOTN)",
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/rvFn5ah2aV",
+      "join": "https://discord.gg/rvFn5ah2aV",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-UeN-TTnADm5vcn",
@@ -209,9 +216,11 @@
       }
     ],
     "informations": {
-      "tag": [],
+      "active": true,
+      "birth": "",
       "server": "US",
-      "birth": ""
+      "tag": [],
+      "language": []
     },
     "shadowBan": {
       "state": false,
@@ -223,9 +232,8 @@
   },
   {
     "name": "dankdmitron's projects",
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/44uBrbwFQH",
+      "join": "https://discord.gg/44uBrbwFQH",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-dns-RtByLPlygj",
@@ -237,9 +245,11 @@
       }
     ],
     "informations": {
-      "tag": [],
+      "active": true,
+      "birth": "",
       "server": "International",
-      "birth": ""
+      "tag": [],
+      "language": []
     },
     "shadowBan": {
       "state": false,
@@ -251,12 +261,11 @@
   },
   {
     "name": "SAW Starblast",
-    "active": true,
     "content": [
       "Asteroid War"
     ],
     "links": {
-      "discord": "https://discord.gg/NZw52JGdU9",
+      "join": "https://discord.gg/NZw52JGdU9",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Srt-f1AjyYbNIM",
@@ -277,9 +286,11 @@
       }
     ],
     "informations": {
-      "tag": [],
+      "active": true,
+      "birth": "",
       "server": "",
-      "birth": ""
+      "tag": [],
+      "language": []
     },
     "shadowBan": {
       "state": false,
@@ -291,12 +302,11 @@
   },
   {
     "name": "Starblast Invasion War",
-    "active": true,
     "content": [
       "Invasion War"
     ],
     "links": {
-      "discord": "https://discord.gg/Mtd47MWMnY",
+      "join": "https://discord.gg/Mtd47MWMnY",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Snr-gTGxFR6NOw",
@@ -314,9 +324,11 @@
       }
     ],
     "informations": {
-      "tag": [],
+      "active": true,
+      "birth": "",
       "server": "",
-      "birth": ""
+      "tag": [],
+      "language": []
     },
     "shadowBan": {
       "state": false,
@@ -328,9 +340,8 @@
   },
   {
     "name": "Pure Space",
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/3nuThPcEEj",
+      "join": "https://discord.gg/3nuThPcEEj",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-PSe-wNs2ivvft9",
@@ -348,11 +359,16 @@
       }
     ],
     "informations": {
+      "active": true,
+      "birth": "16/07/2023",
+      "server": "EU",
       "tag": [
         "ⱣꞨ▸"
       ],
-      "server": "EU",
-      "birth": "16/07/2023"
+      "language": [
+        "English",
+        "French"
+      ]
     },
     "shadowBan": {
       "state": false,
@@ -370,14 +386,24 @@
       }
     ],
     "description": "European clans led by Trollbaba, who have since become active again with the return of their leader.",
-    "active": true,
-    "links": {},
+    "links": [
+      {
+        "id": "join",
+        "src": "https://discord.gg/w82qzaESDW"
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
+      }
+    ],
     "sesameID": "cmnt-Rlp-oeEhsUNI4j",
     "templateImage": "https://images-ext-2.discordapp.net/external/VjqdeIvX6jmOvfuamd5su8Ht_wM5dja_r2PkqZsySl8/https/cdn.discordapp.com/icons/1045719521605984316/173be9d2ff243eb42564f3db2479dc83.webp?width=115&height=115",
     "informations": {
-      "tag": [],
+      "active": true,
+      "birth": "",
       "server": "EU",
-      "birth": ""
+      "tag": [],
+      "language": "English"
     },
     "shadowBan": {
       "state": false,
@@ -389,9 +415,8 @@
   },
   {
     "name": "Starblast main",
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/JwfJSFmXtn",
+      "join": "https://discord.gg/JwfJSFmXtn",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-San-I9ClQ2H12N",
@@ -403,9 +428,13 @@
       }
     ],
     "informations": {
-      "tag": [],
+      "active": true,
+      "birth": "",
       "server": "International",
-      "birth": ""
+      "tag": [],
+      "language": [
+        "English"
+      ]
     },
     "shadowBan": {
       "state": false,
@@ -417,9 +446,8 @@
   },
   {
     "name": "Starblast Shipyard",
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/MWhz2G2W2Q",
+      "join": "https://discord.gg/MWhz2G2W2Q",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Std-oWGjc3zOWT",
@@ -431,9 +459,13 @@
       }
     ],
     "informations": {
-      "tag": [],
+      "active": true,
+      "birth": "",
       "server": "International",
-      "birth": ""
+      "tag": [],
+      "language": [
+        "English"
+      ]
     },
     "shadowBan": {
       "state": false,
@@ -445,9 +477,8 @@
   },
   {
     "name": "Sky2Fly",
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/zx8NAR2z4E",
+      "join": "https://discord.gg/zx8NAR2z4E",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-S2y-X19GhUzBaw",
@@ -465,11 +496,15 @@
       }
     ],
     "informations": {
+      "active": true,
+      "birth": "",
+      "server": "EU",
       "tag": [
         "SᄅF-"
       ],
-      "server": "EU",
-      "birth": ""
+      "language": [
+        "English"
+      ]
     },
     "shadowBan": {
       "state": false,
@@ -482,9 +517,8 @@
   {
     "name": "Inferno Squadron (IS)",
     "infos": "",
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/GwufZc4b6C",
+      "join": "https://discord.gg/GwufZc4b6C",
       "youtube": "https://www.youtube.com/@infernosquadronstarblast"
     },
     "sesameID": "cmnt-IqS-YR2SGVQuEP",
@@ -495,11 +529,15 @@
       }
     ],
     "informations": {
+      "active": true,
+      "birth": "",
+      "server": "International",
       "tag": [
         "【🔥IS】"
       ],
-      "server": "International",
-      "birth": ""
+      "language": [
+        "English"
+      ]
     },
     "shadowBan": {
       "state": false,
@@ -512,9 +550,8 @@
   {
     "name": "Stack",
     "infos": "",
-    "active": false,
     "links": {
-      "discord": "https://discord.gg/qwE88ED",
+      "join": "https://discord.gg/qwE88ED",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Sak-0TkCnDBhU7",
@@ -525,11 +562,15 @@
       }
     ],
     "informations": {
+      "active": false,
+      "birth": "",
+      "server": "International",
       "tag": [
         "ǂꞨͲȺꞒꝀǂ"
       ],
-      "server": "International",
-      "birth": ""
+      "language": [
+        "English"
+      ]
     },
     "shadowBan": {
       "state": false,
@@ -550,19 +591,20 @@
     "content": [
       ""
     ],
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/GDzGmWEm25",
+      "join": "https://discord.gg/GDzGmWEm25",
       "youtube": ""
     },
     "sesameID": "cmnt-Lo4-WawguY2GR2",
     "templateImage": "https://cdn.discordapp.com/icons/973585722227458068/a_2543da6e46a9375b76ec338f5721ecae.webp?size=96",
     "informations": {
+      "active": true,
+      "birth": "10/05/2022",
+      "server": "International",
       "tag": [
         ""
       ],
-      "server": "International",
-      "birth": "10/05/2022"
+      "language": "English,Spanish"
     },
     "shadowBan": {
       "state": false,
@@ -574,9 +616,8 @@
   },
   {
     "name": "Synthesis RC2",
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/r9XqhvnxU2",
+      "join": "https://discord.gg/r9XqhvnxU2",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Ss2-wdMQEqp3PS",
@@ -591,11 +632,15 @@
       }
     ],
     "informations": {
+      "active": true,
+      "birth": "",
+      "server": "EU",
       "tag": [
         "Ɍ.C²"
       ],
-      "server": "EU",
-      "birth": ""
+      "language": [
+        "Turkish"
+      ]
     },
     "shadowBan": {
       "state": false,
@@ -607,9 +652,8 @@
   },
   {
     "name": "Providence",
-    "active": true,
     "links": {
-      "discord": "unknown",
+      "join": "unknown",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Pde-GjOYuyeTFY",
@@ -621,9 +665,14 @@
       }
     ],
     "informations": {
-      "tag": [],
+      "active": true,
+      "birth": "13/05/2021 13:46",
       "server": "EU",
-      "birth": "13/05/2021 13:46"
+      "tag": [],
+      "language": [
+        "English",
+        "Turkish"
+      ]
     },
     "shadowBan": {
       "state": false,
@@ -635,12 +684,11 @@
   },
   {
     "name": "Re:Arena - Arena Mod Remake/Recontinuation",
-    "active": true,
     "content": [
       "Arena Mod Remake/Recontinuation"
     ],
     "links": {
-      "discord": "https://discord.gg/697sdMJwKj",
+      "join": "https://discord.gg/697sdMJwKj",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Rmn-UR46fSt6uD",
@@ -655,9 +703,11 @@
       }
     ],
     "informations": {
-      "tag": [],
+      "active": true,
+      "birth": "15/03/2023 13:05",
       "server": "",
-      "birth": "15/03/2023 13:05"
+      "tag": [],
+      "language": []
     },
     "shadowBan": {
       "state": false,
@@ -669,12 +719,11 @@
   },
   {
     "name": "Starblast Dueling Championship",
-    "active": true,
     "content": [
       "Starblast Dueling Championship"
     ],
     "links": {
-      "discord": "https://discord.gg/yydUyzdUdT",
+      "join": "https://discord.gg/yydUyzdUdT",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Snp-9Yu8Tc9sZS",
@@ -686,9 +735,11 @@
       }
     ],
     "informations": {
-      "tag": [],
+      "active": true,
+      "birth": "09/02/2021 12:06",
       "server": "",
-      "birth": "09/02/2021 12:06"
+      "tag": [],
+      "language": []
     },
     "shadowBan": {
       "state": false,
@@ -700,12 +751,11 @@
   },
   {
     "name": "Zex's Community",
-    "active": true,
     "content": [
       ""
     ],
     "links": {
-      "discord": "https://discord.gg/zxdsx8rG9N",
+      "join": "https://discord.gg/zxdsx8rG9N",
       "youtube": "https://www.youtube.com/channel/UCSBJLAAq26z66epXleUpPLQ"
     },
     "templateImage": "https://cdn.discordapp.com/icons/1125902451371950202/e12fef8b370c1ce3804697f5b0e22586.webp",
@@ -717,9 +767,11 @@
     ],
     "sesameID": "cmnt-Zmy-m5gSBZPeE1",
     "informations": {
-      "tag": [],
+      "active": true,
+      "birth": "04/07/2023",
       "server": "",
-      "birth": "04/07/2023"
+      "tag": [],
+      "language": []
     },
     "shadowBan": {
       "state": false,
@@ -731,10 +783,9 @@
   },
   {
     "name": "Aramtomy Corporation",
-    "active": true,
     "content": [],
     "links": {
-      "discord": "https://discord.gg/2u5ZZCzXd",
+      "join": "https://discord.gg/2u5ZZCzXd",
       "youtube": "https://www.youtube.com/channel/UC5KSc70uKwsowUZzzy_b1sg"
     },
     "templateImage": "https://cdn.discordapp.com/icons/982608914921173034/59e6bd8f264ad5c85aa6c4e41bc45696.webp",
@@ -746,9 +797,11 @@
     ],
     "sesameID": "cmnt-Aon-rp63PM1A5c",
     "informations": {
-      "tag": [],
+      "active": true,
+      "birth": "04/06/2022",
       "server": "Asia",
-      "birth": "04/06/2022"
+      "tag": [],
+      "language": []
     },
     "shadowBan": {
       "state": false,
@@ -769,19 +822,20 @@
     "content": [
       ""
     ],
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/sYjjjJ6QQV",
+      "join": "https://discord.gg/sYjjjJ6QQV",
       "youtube": ""
     },
     "sesameID": "cmnt-XXX-wHZEVxS6fo",
     "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1163451049282129960/nafcreations.png?ex=653f9f3a&is=652d2a3a&hm=d5f5299049baeeb27687cd6c476b5554d75f401211e3c029cdb7194d0056375b&=&width=473&height=473",
     "informations": {
+      "active": true,
+      "birth": "",
+      "server": "International",
       "tag": [
         ""
       ],
-      "server": "International",
-      "birth": ""
+      "language": "English"
     },
     "shadowBan": {
       "state": false,
@@ -802,19 +856,20 @@
     "content": [
       ""
     ],
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/q9k3HKcREN",
+      "join": "https://discord.gg/q9k3HKcREN",
       "youtube": ""
     },
     "sesameID": "cmnt-XXX-nLlH5DTjKG",
     "templateImage": "https://cdn.discordapp.com/icons/1078666510719004672/7732650273c1e954eebd95d15c804cee.webp?size=1024",
     "informations": {
+      "active": true,
+      "birth": "02/24/2023",
+      "server": "EU",
       "tag": [
         ""
       ],
-      "server": "EU",
-      "birth": "02/24/2023"
+      "language": ""
     },
     "shadowBan": {
       "state": false,
@@ -835,19 +890,20 @@
     "content": [
       ""
     ],
-    "active": false,
     "links": {
-      "discord": "https://discord.gg/ecUW88H",
+      "join": "https://discord.gg/ecUW88H",
       "youtube": "https://www.youtube.com/@X-27yt"
     },
     "sesameID": "cmnt-XXX-l3ZfY8e3N1",
     "templateImage": "https://cdn.discordapp.com/icons/315992435408896002/a518b01e5b01172555fd88787d70d712.webp?size=1024",
     "informations": {
+      "active": false,
+      "birth": "05/22/2017",
+      "server": "US",
       "tag": [
         ""
       ],
-      "server": "US",
-      "birth": "05/22/2017"
+      "language": ""
     },
     "shadowBan": {
       "state": false,
@@ -871,19 +927,20 @@
     "content": [
       ""
     ],
-    "active": true,
     "links": {
-      "discord": "https://discord.gg/tcWARFMyf8",
+      "join": "https://discord.gg/tcWARFMyf8",
       "youtube": ""
     },
     "sesameID": "cmnt-XXX-3Ty9SAuIGd",
     "templateImage": "https://cdn.discordapp.com/icons/1160662840932315268/83d87085663067db539964a29e341210.webp?size=512",
     "informations": {
+      "active": true,
+      "birth": "08/10/2023",
+      "server": "EU",
       "tag": [
         "✭ƓΛꝈ⤳"
       ],
-      "server": "EU",
-      "birth": "08/10/2023"
+      "language": "German"
     },
     "shadowBan": {
       "state": false,
