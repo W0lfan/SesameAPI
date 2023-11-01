@@ -8,14 +8,6 @@
     "sesameID": "cmnt-Fem-kL9wTT0sXF",
     "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/FRteams.png?raw=true",
     "description": "French People exclusively. DM Megalodon to enter the team.",
-    "author": [
-      {
-        "name": "Megalodon"
-      },
-      {
-        "name": "NOK"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "",
@@ -33,15 +25,18 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Megalodon"
+      },
+      {
+        "name": "NOK"
+      }
+    ]
   },
   {
     "name": "Naflouille Creations",
-    "author": [
-      {
-        "name": "naflouille"
-      }
-    ],
     "description": "All Naflouille Creations. Home of the Starblast innovation. Linkel, Sesame, Starblast mods.",
     "content": [
       "Starblast Team Fights",
@@ -71,7 +66,12 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "naflouille"
+      }
+    ]
   },
   {
     "name": "Game Of The Night (GOTN)",
@@ -82,11 +82,6 @@
     "sesameID": "cmnt-GNN-EeOG3k6jBg",
     "templateImage": "https://cdn.discordapp.com/icons/857391477989441536/77261eee58b6bcb18378e71cd56a4c15.webp?",
     "description": "Discord server of the European GOTN, it's a team mode game held every evening at 7:30 pm, where most of the players in the community meet up.",
-    "author": [
-      {
-        "name": "Notus"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "",
@@ -100,7 +95,12 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Notus"
+      }
+    ]
   },
   {
     "name": " Asia Game Of The Night (GOTN)",
@@ -111,20 +111,6 @@
     "sesameID": "cmnt-AhN-EeGt9OGVGy",
     "templateImage": "https://cdn.discordapp.com/icons/1138794381596446770/671b773b1b638035738c26f9a391a7a1.webp?",
     "description": "Discord server of the Asian GOTN, it's a team mode game held every evening at 11:30 UTC+0, where most of the players in the community meet up.",
-    "author": [
-      {
-        "name": "Leader"
-      },
-      {
-        "name": "YGamin"
-      },
-      {
-        "name": "WDWD"
-      },
-      {
-        "name": "M3dumb"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "9/8/2023",
@@ -138,7 +124,21 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Leader"
+      },
+      {
+        "name": "YGamin"
+      },
+      {
+        "name": "WDWD"
+      },
+      {
+        "name": "M3dumb"
+      }
+    ]
   },
   {
     "name": "Arena Mod",
@@ -149,11 +149,6 @@
     "sesameID": "cmnt-Aad-KjEM8IFlAn",
     "templateImage": "https://cdn.discordapp.com/icons/958886979938955285/dd8724c9cb5896340a554c8fbc5988a5.webp?",
     "description": "Original Arena mod discord server",
-    "author": [
-      {
-        "name": "Nexagon"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "",
@@ -167,7 +162,12 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Nexagon"
+      }
+    ]
   },
   {
     "name": "Mega's World",
@@ -178,11 +178,6 @@
     "sesameID": "cmnt-MWd-eGVs3a7I9P",
     "templateImage": "https://cdn.discordapp.com/icons/436255814462734337/6b16dbf7c43d4c076788f745b82d3063.webp?",
     "description": "the Discord server of our favorite Megalodon",
-    "author": [
-      {
-        "name": "Megalodon"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "",
@@ -196,7 +191,12 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Megalodon"
+      }
+    ]
   },
   {
     "name": "US Game Of The Night (GOTN)",
@@ -207,14 +207,6 @@
     "sesameID": "cmnt-UeN-TTnADm5vcn",
     "templateImage": "https://cdn.discordapp.com/icons/967842116761972737/cef00214467d64efe99983106a3bf500.webp",
     "description": "Discord server of the US GOTN, it's a team mode game held every evening at  9:30pm EST, where most of the players in the community meet up.",
-    "author": [
-      {
-        "name": "Nova"
-      },
-      {
-        "name": "SChickenMan"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "",
@@ -228,7 +220,15 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Nova"
+      },
+      {
+        "name": "SChickenMan"
+      }
+    ]
   },
   {
     "name": "dankdmitron's projects",
@@ -239,11 +239,6 @@
     "sesameID": "cmnt-dns-RtByLPlygj",
     "templateImage": "https://cdn.discordapp.com/icons/833162807390371841/d514039e0ad89e8dc4ca62395cc34769.webp?",
     "description": "Dankdmitron's discord server, where you can talk about his famous tools, ServerList+, and play on his Minecraft server.",
-    "author": [
-      {
-        "name": "Dank Dmitron"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "",
@@ -257,7 +252,12 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Dank Dmitron"
+      }
+    ]
   },
   {
     "name": "SAW Starblast",
@@ -271,20 +271,6 @@
     "sesameID": "cmnt-Srt-f1AjyYbNIM",
     "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1145741630717038753/dcad31dcc24e78944ddf4a4aaf7da7c4.webp?width=540&height=540",
     "description": "The Official Starblast Asteroid War Discord server.",
-    "author": [
-      {
-        "name": "LX"
-      },
-      {
-        "name": "Megalodon"
-      },
-      {
-        "name": "Nebuleuse"
-      },
-      {
-        "name": "Hazard"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "",
@@ -298,7 +284,21 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "LX"
+      },
+      {
+        "name": "Megalodon"
+      },
+      {
+        "name": "Nebuleuse"
+      },
+      {
+        "name": "Hazard"
+      }
+    ]
   },
   {
     "name": "Starblast Invasion War",
@@ -312,17 +312,6 @@
     "sesameID": "cmnt-Snr-gTGxFR6NOw",
     "templateImage": "https://cdn.discordapp.com/icons/1038561715413065761/7cdaeeb7722f9b964b43d032af10b9b1.webp?",
     "description": "The Official Starblast Invasion War Discord server.",
-    "author": [
-      {
-        "name": "Nebuleuse"
-      },
-      {
-        "name": "Megalodon"
-      },
-      {
-        "name": "NOK"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "",
@@ -336,7 +325,18 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Nebuleuse"
+      },
+      {
+        "name": "Megalodon"
+      },
+      {
+        "name": "NOK"
+      }
+    ]
   },
   {
     "name": "Pure Space",
@@ -347,17 +347,6 @@
     "sesameID": "cmnt-PSe-wNs2ivvft9",
     "templateImage": "https://raw.githubusercontent.com/rithyn/rithy-archive/main/ps__barac.png",
     "description": "Make the Game great again and to prove to everyone that cheats are not needed to be strong.",
-    "author": [
-      {
-        "name": "Megalodon"
-      },
-      {
-        "name": "Nebuleuse"
-      },
-      {
-        "name": "NOK"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "16/07/2023",
@@ -376,15 +365,21 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Megalodon"
+      },
+      {
+        "name": "Nebuleuse"
+      },
+      {
+        "name": "NOK"
+      }
+    ]
   },
   {
     "name": "Royal Ekip",
-    "author": [
-      {
-        "name": "TrolBaba25"
-      }
-    ],
     "description": "European clans led by Trollbaba, who have since become active again with the return of their leader.",
     "links": [
       {
@@ -411,7 +406,12 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "TrolBaba25"
+      }
+    ]
   },
   {
     "name": "Starblast main",
@@ -422,11 +422,6 @@
     "sesameID": "cmnt-San-I9ClQ2H12N",
     "templateImage": "https://cdn.discordapp.com/icons/265400368765075456/a_c4939e8c21f0f665f9690778a4bbba53.webp?",
     "description": "Official Discord server of the Starblast.io game.",
-    "author": [
-      {
-        "name": "Oh"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "",
@@ -442,7 +437,12 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Oh"
+      }
+    ]
   },
   {
     "name": "Starblast Shipyard",
@@ -453,11 +453,6 @@
     "sesameID": "cmnt-Std-oWGjc3zOWT",
     "templateImage": "https://cdn.discordapp.com/icons/386989973770862603/5b8de7cb1b3a19e728a6ad2c80f2805a.webp?",
     "description": "Official Shipbuilding Discord server on Starblast.io.",
-    "author": [
-      {
-        "name": "Finalizer"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "",
@@ -473,7 +468,12 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Finalizer"
+      }
+    ]
   },
   {
     "name": "Sky2Fly",
@@ -484,17 +484,6 @@
     "sesameID": "cmnt-S2y-X19GhUzBaw",
     "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/S2Fclans.png?raw=true",
     "description": "A server for everyone! Recruitment to the largest clan/alliance in survival mode! We really don't like cheaters.",
-    "author": [
-      {
-        "name": "Pasha"
-      },
-      {
-        "name": "Sergio-L"
-      },
-      {
-        "name": "Inspectro"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "",
@@ -512,7 +501,18 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Pasha"
+      },
+      {
+        "name": "Sergio-L"
+      },
+      {
+        "name": "Inspectro"
+      }
+    ]
   },
   {
     "name": "Inferno Squadron (IS)",
@@ -523,11 +523,6 @@
     },
     "sesameID": "cmnt-IqS-YR2SGVQuEP",
     "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/ISclans.jpg?raw=true",
-    "author": [
-      {
-        "name": "Leader 1"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "",
@@ -545,7 +540,12 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Leader 1"
+      }
+    ]
   },
   {
     "name": "Stack",
@@ -556,11 +556,6 @@
     },
     "sesameID": "cmnt-Sak-0TkCnDBhU7",
     "templateImage": "https://cdn.discordapp.com/icons/473827695734554632/336cc05ae052880139dd9e93d88f4e0f.webp?",
-    "author": [
-      {
-        "name": "NukePhysics"
-      }
-    ],
     "informations": {
       "active": false,
       "birth": "",
@@ -578,15 +573,15 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "NukePhysics"
+      }
+    ]
   },
   {
     "name": "Legion F4",
-    "author": [
-      {
-        "name": "Neo Space"
-      }
-    ],
     "description": "Neo Space's official Discord server.",
     "content": [
       ""
@@ -612,7 +607,12 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Neo Space"
+      }
+    ]
   },
   {
     "name": "Synthesis RC2",
@@ -623,14 +623,6 @@
     "sesameID": "cmnt-Ss2-wdMQEqp3PS",
     "templateImage": "https://media.discordapp.net/attachments/855809119406391316/1139652171093250219/rc2s.png?width=610&height=610",
     "description": "A way to keep Starblast alive and fair.",
-    "author": [
-      {
-        "name": "Hazard"
-      },
-      {
-        "name": "Twidash"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "",
@@ -648,7 +640,15 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Hazard"
+      },
+      {
+        "name": "Twidash"
+      }
+    ]
   },
   {
     "name": "Providence",
@@ -659,11 +659,6 @@
     "sesameID": "cmnt-Pde-GjOYuyeTFY",
     "templateImage": "https://cdn.discordapp.com/icons/842367228858990602/22df63c085282680596af024c47c225c.webp",
     "description": "Starblast Esoteric community. DM Leader to enter the server.",
-    "author": [
-      {
-        "name": "Leader"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "13/05/2021 13:46",
@@ -680,7 +675,12 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Leader"
+      }
+    ]
   },
   {
     "name": "Re:Arena - Arena Mod Remake/Recontinuation",
@@ -694,14 +694,6 @@
     "sesameID": "cmnt-Rmn-UR46fSt6uD",
     "templateImage": "https://cdn.discordapp.com/icons/1085534169184075877/450a176e6d49ad97bcedcb58a36d9690.webp",
     "description": "Welcome to the AMR (Re:Arena) Official Discord Server! Participate in the server to receive notifications and announcements about updates, hosts and more from Re:Arena developers!",
-    "author": [
-      {
-        "name": "Bhpsngum"
-      },
-      {
-        "name": "Tost"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "15/03/2023 13:05",
@@ -715,7 +707,15 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Bhpsngum"
+      },
+      {
+        "name": "Tost"
+      }
+    ]
   },
   {
     "name": "Starblast Dueling Championship",
@@ -729,11 +729,6 @@
     "sesameID": "cmnt-Snp-9Yu8Tc9sZS",
     "templateImage": "https://cdn.discordapp.com/icons/808655015257309204/29ed02b9b00043288bf29fa8958a4c79.webp",
     "description": "Seasonal Dueling championships - SDC sUCP for the winners. General discussion and feedback about the mod. Submission for new ships and maps. Playtesting of in-development updates, join to be notified of these.",
-    "author": [
-      {
-        "name": "Thuliux"
-      }
-    ],
     "informations": {
       "active": true,
       "birth": "09/02/2021 12:06",
@@ -747,7 +742,12 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Thuliux"
+      }
+    ]
   },
   {
     "name": "Zex's Community",
@@ -760,11 +760,6 @@
     },
     "templateImage": "https://cdn.discordapp.com/icons/1125902451371950202/e12fef8b370c1ce3804697f5b0e22586.webp",
     "description": "",
-    "author": [
-      {
-        "name": "ZEX"
-      }
-    ],
     "sesameID": "cmnt-Zmy-m5gSBZPeE1",
     "informations": {
       "active": true,
@@ -779,7 +774,12 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "ZEX"
+      }
+    ]
   },
   {
     "name": "Aramtomy Corporation",
@@ -790,11 +790,6 @@
     },
     "templateImage": "https://cdn.discordapp.com/icons/982608914921173034/59e6bd8f264ad5c85aa6c4e41bc45696.webp",
     "description": "The invitation may have expired",
-    "author": [
-      {
-        "name": "Ayaka Aram"
-      }
-    ],
     "sesameID": "cmnt-Aon-rp63PM1A5c",
     "informations": {
       "active": true,
@@ -809,15 +804,15 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Ayaka Aram"
+      }
+    ]
   },
   {
     "name": "Sesame Support",
-    "author": [
-      {
-        "name": "naflouille"
-      }
-    ],
     "description": "The official Sesame discord server.",
     "content": [
       ""
@@ -843,15 +838,15 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "naflouille"
+      }
+    ]
   },
   {
     "name": "Starblast Cheat Archive",
-    "author": [
-      {
-        "name": "BloodyDubstep"
-      }
-    ],
     "description": "All cheaters are listed in this server.",
     "content": [
       ""
@@ -877,15 +872,15 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "BloodyDubstep"
+      }
+    ]
   },
   {
     "name": "X-27 Main Control Base",
-    "author": [
-      {
-        "name": "X-27"
-      }
-    ],
     "description": "X27 discord server.",
     "content": [
       ""
@@ -911,18 +906,15 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "X-27"
+      }
+    ]
   },
   {
     "name": "German Alliance",
-    "author": [
-      {
-        "name": "NND"
-      },
-      {
-        "name": " Devrim"
-      }
-    ],
     "description": "A German alliance",
     "content": [
       ""
@@ -948,6 +940,14 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "NND"
+      },
+      {
+        "name": " Devrim"
+      }
+    ]
   }
 ]
