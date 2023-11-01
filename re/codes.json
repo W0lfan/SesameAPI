@@ -2,11 +2,6 @@
   {
     "name": "Server Status",
     "description": "Live status of Starblast servers.",
-    "author": [
-      {
-        "name": "Bhpsngum"
-      }
-    ],
     "sesameID": "cds-SSS-GIvUCjuBsn",
     "direct": {
       "link": "https://bhpsngum.github.io/starblast/serverstatus/",
@@ -18,16 +13,16 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Bhpsngum"
+      }
+    ]
   },
   {
     "name": "Starblast Map Editor",
     "description": "Create and edit custom Starblast Maps, easy to use.",
-    "author": [
-      {
-        "name": "Bhpsngum"
-      }
-    ],
     "sesameID": "cds-SMR-pzZwGkWhji",
     "direct": {
       "link": "https://bhpsngum.github.io/starblast/mapeditor/",
@@ -39,16 +34,16 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Bhpsngum"
+      }
+    ]
   },
   {
     "name": "Starblast Ship Mod Export / Code Converters",
     "description": "A tool to convert Ship Mod Export code to some other text/codes.",
-    "author": [
-      {
-        "name": "Bhpsngum"
-      }
-    ],
     "sesameID": "cds-SPS-f0GBHCOGSE",
     "direct": {
       "link": "https://bhpsngum.github.io/starblast/sscv/",
@@ -60,16 +55,16 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Bhpsngum"
+      }
+    ]
   },
   {
     "name": "Ship Tree Path Finder",
     "description": "A tool to find path to a specific ship.",
-    "author": [
-      {
-        "name": "Bhpsngum"
-      }
-    ],
     "sesameID": "cds-SAR-CXx3WGgEGw",
     "direct": {
       "link": "https://bhpsngum.github.io/starblast/ship-tree-path-finder/",
@@ -81,16 +76,16 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Bhpsngum"
+      }
+    ]
   },
   {
     "name": "Starblast Modding Space Mods - Live Statistics",
     "description": "Live statistics of Modding Space mods in Starblast.",
-    "author": [
-      {
-        "name": "Bhpsngum"
-      }
-    ],
     "sesameID": "cds-SCS-6FniyGpGMe",
     "direct": {
       "link": "https://bhpsngum.github.io/starblast/mods/stats/",
@@ -102,16 +97,16 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Bhpsngum"
+      }
+    ]
   },
   {
     "name": "Starblast ECP Icon Viewer",
     "description": "Image gallery of all ecp icons in Starblast, also the place to test your custom icon.",
-    "author": [
-      {
-        "name": "Bhpsngum"
-      }
-    ],
     "sesameID": "cds-SPR-V6bgjuGjFG",
     "direct": {
       "link": "https://bhpsngum.github.io/starblast/ecp/",
@@ -123,15 +118,15 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Bhpsngum"
+      }
+    ]
   },
   {
     "name": "Timer",
-    "author": [
-      {
-        "name": "Naflouille"
-      }
-    ],
     "description": "This code snippet allows you to display a clean timer.",
     "sesameID": "cds-TMR-ra2ZCvoxSe",
     "open": "",
@@ -145,16 +140,16 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Naflouille"
+      }
+    ]
   },
   {
     "name": "Map Generator",
     "description": "This code snippet allows you to generate a randomly filled map.",
-    "author": [
-      {
-        "name": "Naflouille"
-      }
-    ],
     "sesameID": "cds-MER-VNQBvL8DWm",
     "direct": {
       "link": "",
@@ -166,16 +161,16 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Naflouille"
+      }
+    ]
   },
   {
     "name": "Prevent Upgrade Shortcuts",
     "description": "This code snippet allows you to remove the upgrades shortcuts",
-    "author": [
-      {
-        "name": "Naflouille"
-      }
-    ],
     "sesameID": "cds-PAS-kK9tRuqDdD",
     "direct": {
       "link": "",
@@ -187,15 +182,15 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Naflouille"
+      }
+    ]
   },
   {
     "name": "Reset Button",
-    "author": [
-      {
-        "name": "Goldman"
-      }
-    ],
     "description": "Reset your ship to the initial vessel of the ship tree.",
     "sesameID": "cds-RBN-T9vkQeb6fn",
     "open": "",
@@ -209,16 +204,16 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Goldman"
+      }
+    ]
   },
   {
     "name": "Terminal Player List",
     "description": "Returns a list of all the players of the running game.",
-    "author": [
-      {
-        "name": "Bhpsngum"
-      }
-    ],
     "sesameID": "cds-TLT-4FAFYvhoYz",
     "direct": {
       "link": "",
@@ -230,16 +225,16 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Bhpsngum"
+      }
+    ]
   },
   {
     "name": "Kick a player",
     "description": "Kick annoying players from your game.",
-    "author": [
-      {
-        "name": "Bhpsngum"
-      }
-    ],
     "sesameID": "cds-KPR-eLTbS6E5nl",
     "direct": {
       "link": "",
@@ -251,16 +246,16 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Bhpsngum"
+      }
+    ]
   },
   {
     "name": "Subspace Detector",
     "description": "This code helps you allow or disallow subspace in your mod",
-    "author": [
-      {
-        "name": "Basit"
-      }
-    ],
     "sesameID": "cds-SDR-DoKbI5lAz8",
     "direct": {
       "link": "",
@@ -272,16 +267,16 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Basit"
+      }
+    ]
   },
   {
     "name": "Set custom text color",
     "description": "This code lets you customize the text color of the modding console.",
-    "author": [
-      {
-        "name": "Basit"
-      }
-    ],
     "sesameID": "cds-STR-2itLi9uhGj",
     "direct": {
       "link": "",
@@ -293,6 +288,11 @@
         "author": "",
         "date": ""
       }
-    }
+    },
+    "authors": [
+      {
+        "name": "Basit"
+      }
+    ]
   }
 ]
