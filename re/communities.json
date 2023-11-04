@@ -1,6 +1,15 @@
 [
   {
     "name": "FR team",
+    "tag": [
+      "ҒR▸"
+    ],
+    "language": [
+      "French"
+    ],
+    "server": "EU",
+    "active": true,
+    "birth": "",
     "links": {
       "join": "https://discord.gg/4NZZanHX9",
       "youtube": "https://www.youtube.com/channel/UCr0gpbHDyZUr-tF5QmiSm1g"
@@ -8,35 +17,31 @@
     "sesameID": "cmnt-Fem-kL9wTT0sXF",
     "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/FRteams.png?raw=true",
     "description": "French People exclusively. DM Megalodon to enter the team.",
-    "informations": {
-      "active": true,
-      "birth": "",
-      "server": "EU",
-      "tag": [
-        "ҒR▸"
-      ],
-      "language": [
-        "French"
-      ]
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Megalodon"
       },
       {
         "name": "NOK"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Naflouille Creations",
+    "author": [
+      {
+        "name": "naflouille"
+      }
+    ],
     "description": "All Naflouille Creations. Home of the Starblast innovation. Linkel, Sesame, Starblast mods.",
     "content": [
       "Starblast Team Fights",
@@ -45,36 +50,36 @@
       "Quest Mod",
       "Starblast Mining Mod"
     ],
+    "tag": [
+      ""
+    ],
+    "language": "",
+    "server": "",
+    "active": true,
+    "birth": "",
     "links": {
       "join": "https://discord.gg/E3zMKDDXzx",
       "youtube": "undefined"
     },
     "sesameID": "cmnt-Nes-PG9eSkOFme",
     "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1145310535387201536/Design_sans_titre_13.png?width=2407&height=1354",
-    "informations": {
-      "active": true,
-      "birth": "",
-      "server": "",
-      "tag": [
-        ""
-      ],
-      "language": ""
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
-    },
-    "authors": [
-      {
-        "name": "naflouille"
-      }
-    ]
+    }
   },
   {
     "name": "Game Of The Night (GOTN)",
+    "tag": [],
+    "language": [],
+    "server": "EU",
+    "active": true,
+    "birth": "",
     "links": {
       "join": "https://discord.gg/qvngAfKPQy",
       "youtube": "unknown"
@@ -82,28 +87,28 @@
     "sesameID": "cmnt-GNN-EeOG3k6jBg",
     "templateImage": "https://cdn.discordapp.com/icons/857391477989441536/77261eee58b6bcb18378e71cd56a4c15.webp?",
     "description": "Discord server of the European GOTN, it's a team mode game held every evening at 7:30 pm, where most of the players in the community meet up.",
-    "informations": {
-      "active": true,
-      "birth": "",
-      "server": "EU",
-      "tag": [],
-      "language": []
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Notus"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": " Asia Game Of The Night (GOTN)",
+    "tag": [],
+    "language": [],
+    "server": "Asia",
+    "active": true,
+    "birth": "9/8/2023",
     "links": {
       "join": "https://discord.gg/9rhEN7YhFx",
       "youtube": "unknown"
@@ -111,21 +116,7 @@
     "sesameID": "cmnt-AhN-EeGt9OGVGy",
     "templateImage": "https://cdn.discordapp.com/icons/1138794381596446770/671b773b1b638035738c26f9a391a7a1.webp?",
     "description": "Discord server of the Asian GOTN, it's a team mode game held every evening at 11:30 UTC+0, where most of the players in the community meet up.",
-    "informations": {
-      "active": true,
-      "birth": "9/8/2023",
-      "server": "Asia",
-      "tag": [],
-      "language": []
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Leader"
       },
@@ -138,10 +129,24 @@
       {
         "name": "M3dumb"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Arena Mod",
+    "tag": [],
+    "language": [],
+    "server": "International",
+    "active": true,
+    "birth": "",
     "links": {
       "join": "https://discord.gg/Nsavm8pqcG",
       "youtube": "unknown"
@@ -149,28 +154,28 @@
     "sesameID": "cmnt-Aad-KjEM8IFlAn",
     "templateImage": "https://cdn.discordapp.com/icons/958886979938955285/dd8724c9cb5896340a554c8fbc5988a5.webp?",
     "description": "Original Arena mod discord server",
-    "informations": {
-      "active": true,
-      "birth": "",
-      "server": "International",
-      "tag": [],
-      "language": []
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Nexagon"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Mega's World",
+    "tag": [],
+    "language": [],
+    "server": "International",
+    "active": true,
+    "birth": "",
     "links": {
       "join": "https://discord.gg/nR5QW7KDUV",
       "youtube": "unknown"
@@ -178,28 +183,28 @@
     "sesameID": "cmnt-MWd-eGVs3a7I9P",
     "templateImage": "https://cdn.discordapp.com/icons/436255814462734337/6b16dbf7c43d4c076788f745b82d3063.webp?",
     "description": "the Discord server of our favorite Megalodon",
-    "informations": {
-      "active": true,
-      "birth": "",
-      "server": "International",
-      "tag": [],
-      "language": []
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Megalodon"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "US Game Of The Night (GOTN)",
+    "tag": [],
+    "language": [],
+    "server": "US",
+    "active": true,
+    "birth": "",
     "links": {
       "join": "https://discord.gg/rvFn5ah2aV",
       "youtube": "unknown"
@@ -207,31 +212,31 @@
     "sesameID": "cmnt-UeN-TTnADm5vcn",
     "templateImage": "https://cdn.discordapp.com/icons/967842116761972737/cef00214467d64efe99983106a3bf500.webp",
     "description": "Discord server of the US GOTN, it's a team mode game held every evening at  9:30pm EST, where most of the players in the community meet up.",
-    "informations": {
-      "active": true,
-      "birth": "",
-      "server": "US",
-      "tag": [],
-      "language": []
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Nova"
       },
       {
         "name": "SChickenMan"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "dankdmitron's projects",
+    "tag": [],
+    "language": [],
+    "server": "International",
+    "active": true,
+    "birth": "",
     "links": {
       "join": "https://discord.gg/44uBrbwFQH",
       "youtube": "unknown"
@@ -239,28 +244,28 @@
     "sesameID": "cmnt-dns-RtByLPlygj",
     "templateImage": "https://cdn.discordapp.com/icons/833162807390371841/d514039e0ad89e8dc4ca62395cc34769.webp?",
     "description": "Dankdmitron's discord server, where you can talk about his famous tools, ServerList+, and play on his Minecraft server.",
-    "informations": {
-      "active": true,
-      "birth": "",
-      "server": "International",
-      "tag": [],
-      "language": []
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Dank Dmitron"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "SAW Starblast",
+    "tag": [],
+    "language": [],
+    "server": "",
+    "active": true,
+    "birth": "",
     "content": [
       "Asteroid War"
     ],
@@ -271,21 +276,7 @@
     "sesameID": "cmnt-Srt-f1AjyYbNIM",
     "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1145741630717038753/dcad31dcc24e78944ddf4a4aaf7da7c4.webp?width=540&height=540",
     "description": "The Official Starblast Asteroid War Discord server.",
-    "informations": {
-      "active": true,
-      "birth": "",
-      "server": "",
-      "tag": [],
-      "language": []
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "LX"
       },
@@ -298,10 +289,24 @@
       {
         "name": "Hazard"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Starblast Invasion War",
+    "tag": [],
+    "language": [],
+    "server": "",
+    "active": true,
+    "birth": "",
     "content": [
       "Invasion War"
     ],
@@ -312,21 +317,7 @@
     "sesameID": "cmnt-Snr-gTGxFR6NOw",
     "templateImage": "https://cdn.discordapp.com/icons/1038561715413065761/7cdaeeb7722f9b964b43d032af10b9b1.webp?",
     "description": "The Official Starblast Invasion War Discord server.",
-    "informations": {
-      "active": true,
-      "birth": "",
-      "server": "",
-      "tag": [],
-      "language": []
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Nebuleuse"
       },
@@ -336,10 +327,29 @@
       {
         "name": "NOK"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Pure Space",
+    "tag": [
+      "ⱣꞨ▸"
+    ],
+    "language": [
+      "English",
+      "French"
+    ],
+    "server": "EU",
+    "active": true,
+    "birth": "16/07/2023",
     "links": {
       "join": "https://discord.gg/3nuThPcEEj",
       "youtube": "unknown"
@@ -347,26 +357,7 @@
     "sesameID": "cmnt-PSe-wNs2ivvft9",
     "templateImage": "https://raw.githubusercontent.com/rithyn/rithy-archive/main/ps__barac.png",
     "description": "Make the Game great again and to prove to everyone that cheats are not needed to be strong.",
-    "informations": {
-      "active": true,
-      "birth": "16/07/2023",
-      "server": "EU",
-      "tag": [
-        "ⱣꞨ▸"
-      ],
-      "language": [
-        "English",
-        "French"
-      ]
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Megalodon"
       },
@@ -376,11 +367,30 @@
       {
         "name": "NOK"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Royal Ekip",
+    "author": [
+      {
+        "name": "TrolBaba25"
+      }
+    ],
     "description": "European clans led by Trollbaba, who have since become active again with the return of their leader.",
+    "tag": [],
+    "language": "English",
+    "server": "EU",
+    "active": true,
+    "birth": "",
     "links": [
       {
         "id": "join",
@@ -393,28 +403,25 @@
     ],
     "sesameID": "cmnt-Rlp-oeEhsUNI4j",
     "templateImage": "https://images-ext-2.discordapp.net/external/VjqdeIvX6jmOvfuamd5su8Ht_wM5dja_r2PkqZsySl8/https/cdn.discordapp.com/icons/1045719521605984316/173be9d2ff243eb42564f3db2479dc83.webp?width=115&height=115",
-    "informations": {
-      "active": true,
-      "birth": "",
-      "server": "EU",
-      "tag": [],
-      "language": "English"
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
-    },
-    "authors": [
-      {
-        "name": "TrolBaba25"
-      }
-    ]
+    }
   },
   {
     "name": "Starblast main",
+    "tag": [],
+    "language": [
+      "English"
+    ],
+    "server": "International",
+    "active": true,
+    "birth": "",
     "links": {
       "join": "https://discord.gg/JwfJSFmXtn",
       "youtube": "unknown"
@@ -422,30 +429,30 @@
     "sesameID": "cmnt-San-I9ClQ2H12N",
     "templateImage": "https://cdn.discordapp.com/icons/265400368765075456/a_c4939e8c21f0f665f9690778a4bbba53.webp?",
     "description": "Official Discord server of the Starblast.io game.",
-    "informations": {
-      "active": true,
-      "birth": "",
-      "server": "International",
-      "tag": [],
-      "language": [
-        "English"
-      ]
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Oh"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Starblast Shipyard",
+    "tag": [],
+    "language": [
+      "English"
+    ],
+    "server": "International",
+    "active": true,
+    "birth": "",
     "links": {
       "join": "https://discord.gg/MWhz2G2W2Q",
       "youtube": "unknown"
@@ -453,30 +460,32 @@
     "sesameID": "cmnt-Std-oWGjc3zOWT",
     "templateImage": "https://cdn.discordapp.com/icons/386989973770862603/5b8de7cb1b3a19e728a6ad2c80f2805a.webp?",
     "description": "Official Shipbuilding Discord server on Starblast.io.",
-    "informations": {
-      "active": true,
-      "birth": "",
-      "server": "International",
-      "tag": [],
-      "language": [
-        "English"
-      ]
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Finalizer"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Sky2Fly",
+    "tag": [
+      "SᄅF-"
+    ],
+    "language": [
+      "English"
+    ],
+    "server": "EU",
+    "active": true,
+    "birth": "",
     "links": {
       "join": "https://discord.gg/zx8NAR2z4E",
       "youtube": "unknown"
@@ -484,25 +493,7 @@
     "sesameID": "cmnt-S2y-X19GhUzBaw",
     "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/S2Fclans.png?raw=true",
     "description": "A server for everyone! Recruitment to the largest clan/alliance in survival mode! We really don't like cheaters.",
-    "informations": {
-      "active": true,
-      "birth": "",
-      "server": "EU",
-      "tag": [
-        "SᄅF-"
-      ],
-      "language": [
-        "English"
-      ]
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Pasha"
       },
@@ -512,110 +503,128 @@
       {
         "name": "Inspectro"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Inferno Squadron (IS)",
+    "tag": [
+      "【🔥IS】"
+    ],
+    "language": [
+      "English"
+    ],
     "infos": "",
+    "server": "International",
+    "active": true,
+    "birth": "",
     "links": {
       "join": "https://discord.gg/GwufZc4b6C",
       "youtube": "https://www.youtube.com/@infernosquadronstarblast"
     },
     "sesameID": "cmnt-IqS-YR2SGVQuEP",
     "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/ISclans.jpg?raw=true",
-    "informations": {
-      "active": true,
-      "birth": "",
-      "server": "International",
-      "tag": [
-        "【🔥IS】"
-      ],
-      "language": [
-        "English"
-      ]
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Leader 1"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Stack",
+    "tag": [
+      "ǂꞨͲȺꞒꝀǂ"
+    ],
+    "language": [
+      "English"
+    ],
     "infos": "",
+    "server": "International",
+    "active": false,
+    "birth": "",
     "links": {
       "join": "https://discord.gg/qwE88ED",
       "youtube": "unknown"
     },
     "sesameID": "cmnt-Sak-0TkCnDBhU7",
     "templateImage": "https://cdn.discordapp.com/icons/473827695734554632/336cc05ae052880139dd9e93d88f4e0f.webp?",
-    "informations": {
-      "active": false,
-      "birth": "",
-      "server": "International",
-      "tag": [
-        "ǂꞨͲȺꞒꝀǂ"
-      ],
-      "language": [
-        "English"
-      ]
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "NukePhysics"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Legion F4",
+    "author": [
+      {
+        "name": "Neo Space"
+      }
+    ],
     "description": "Neo Space's official Discord server.",
     "content": [
       ""
     ],
+    "tag": [
+      ""
+    ],
+    "language": "English,Spanish",
+    "server": "International",
+    "active": true,
+    "birth": "10/05/2022",
     "links": {
       "join": "https://discord.gg/GDzGmWEm25",
       "youtube": ""
     },
     "sesameID": "cmnt-Lo4-WawguY2GR2",
     "templateImage": "https://cdn.discordapp.com/icons/973585722227458068/a_2543da6e46a9375b76ec338f5721ecae.webp?size=96",
-    "informations": {
-      "active": true,
-      "birth": "10/05/2022",
-      "server": "International",
-      "tag": [
-        ""
-      ],
-      "language": "English,Spanish"
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
-    },
-    "authors": [
-      {
-        "name": "Neo Space"
-      }
-    ]
+    }
   },
   {
     "name": "Synthesis RC2",
+    "tag": [
+      "Ɍ.C²"
+    ],
+    "language": [
+      "Turkish"
+    ],
+    "server": "EU",
+    "active": true,
+    "birth": "",
     "links": {
       "join": "https://discord.gg/r9XqhvnxU2",
       "youtube": "unknown"
@@ -623,35 +632,34 @@
     "sesameID": "cmnt-Ss2-wdMQEqp3PS",
     "templateImage": "https://media.discordapp.net/attachments/855809119406391316/1139652171093250219/rc2s.png?width=610&height=610",
     "description": "A way to keep Starblast alive and fair.",
-    "informations": {
-      "active": true,
-      "birth": "",
-      "server": "EU",
-      "tag": [
-        "Ɍ.C²"
-      ],
-      "language": [
-        "Turkish"
-      ]
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Hazard"
       },
       {
         "name": "Twidash"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Providence",
+    "tag": [],
+    "language": [
+      "English",
+      "Turkish"
+    ],
+    "server": "EU",
+    "active": true,
+    "birth": "13/05/2021 13:46",
     "links": {
       "join": "unknown",
       "youtube": "unknown"
@@ -659,31 +667,28 @@
     "sesameID": "cmnt-Pde-GjOYuyeTFY",
     "templateImage": "https://cdn.discordapp.com/icons/842367228858990602/22df63c085282680596af024c47c225c.webp",
     "description": "Starblast Esoteric community. DM Leader to enter the server.",
-    "informations": {
-      "active": true,
-      "birth": "13/05/2021 13:46",
-      "server": "EU",
-      "tag": [],
-      "language": [
-        "English",
-        "Turkish"
-      ]
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Leader"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Re:Arena - Arena Mod Remake/Recontinuation",
+    "tag": [],
+    "language": [],
+    "server": "",
+    "active": true,
+    "birth": "15/03/2023 13:05",
     "content": [
       "Arena Mod Remake/Recontinuation"
     ],
@@ -694,31 +699,31 @@
     "sesameID": "cmnt-Rmn-UR46fSt6uD",
     "templateImage": "https://cdn.discordapp.com/icons/1085534169184075877/450a176e6d49ad97bcedcb58a36d9690.webp",
     "description": "Welcome to the AMR (Re:Arena) Official Discord Server! Participate in the server to receive notifications and announcements about updates, hosts and more from Re:Arena developers!",
-    "informations": {
-      "active": true,
-      "birth": "15/03/2023 13:05",
-      "server": "",
-      "tag": [],
-      "language": []
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Bhpsngum"
       },
       {
         "name": "Tost"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Starblast Dueling Championship",
+    "tag": [],
+    "language": [],
+    "server": "",
+    "active": true,
+    "birth": "09/02/2021 12:06",
     "content": [
       "Starblast Dueling Championship"
     ],
@@ -729,28 +734,28 @@
     "sesameID": "cmnt-Snp-9Yu8Tc9sZS",
     "templateImage": "https://cdn.discordapp.com/icons/808655015257309204/29ed02b9b00043288bf29fa8958a4c79.webp",
     "description": "Seasonal Dueling championships - SDC sUCP for the winners. General discussion and feedback about the mod. Submission for new ships and maps. Playtesting of in-development updates, join to be notified of these.",
-    "informations": {
-      "active": true,
-      "birth": "09/02/2021 12:06",
-      "server": "",
-      "tag": [],
-      "language": []
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Thuliux"
       }
-    ]
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Zex's Community",
+    "tag": [],
+    "language": [],
+    "server": "",
+    "active": true,
+    "birth": "04/07/2023",
     "content": [
       ""
     ],
@@ -760,29 +765,29 @@
     },
     "templateImage": "https://cdn.discordapp.com/icons/1125902451371950202/e12fef8b370c1ce3804697f5b0e22586.webp",
     "description": "",
-    "sesameID": "cmnt-Zmy-m5gSBZPeE1",
-    "informations": {
-      "active": true,
-      "birth": "04/07/2023",
-      "server": "",
-      "tag": [],
-      "language": []
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "ZEX"
       }
-    ]
+    ],
+    "sesameID": "cmnt-Zmy-m5gSBZPeE1",
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Aramtomy Corporation",
+    "tag": [],
+    "language": [],
+    "server": "Asia",
+    "active": true,
+    "birth": "04/06/2022",
     "content": [],
     "links": {
       "join": "https://discord.gg/2u5ZZCzXd",
@@ -790,164 +795,132 @@
     },
     "templateImage": "https://cdn.discordapp.com/icons/982608914921173034/59e6bd8f264ad5c85aa6c4e41bc45696.webp",
     "description": "The invitation may have expired",
-    "sesameID": "cmnt-Aon-rp63PM1A5c",
-    "informations": {
-      "active": true,
-      "birth": "04/06/2022",
-      "server": "Asia",
-      "tag": [],
-      "language": []
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Ayaka Aram"
       }
-    ]
+    ],
+    "sesameID": "cmnt-Aon-rp63PM1A5c",
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Sesame Support",
+    "author": [
+      {
+        "name": "naflouille"
+      }
+    ],
     "description": "The official Sesame discord server.",
     "content": [
       ""
     ],
+    "tag": [
+      ""
+    ],
+    "language": "English",
+    "server": "International",
+    "active": true,
+    "birth": "",
     "links": {
       "join": "https://discord.gg/sYjjjJ6QQV",
       "youtube": ""
     },
     "sesameID": "cmnt-XXX-wHZEVxS6fo",
     "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1163451049282129960/nafcreations.png?ex=653f9f3a&is=652d2a3a&hm=d5f5299049baeeb27687cd6c476b5554d75f401211e3c029cdb7194d0056375b&=&width=473&height=473",
-    "informations": {
-      "active": true,
-      "birth": "",
-      "server": "International",
-      "tag": [
-        ""
-      ],
-      "language": "English"
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
-    },
-    "authors": [
-      {
-        "name": "naflouille"
-      }
-    ]
+    }
   },
   {
     "name": "Starblast Cheat Archive",
+    "author": [
+      {
+        "name": "BloodyDubstep"
+      }
+    ],
     "description": "All cheaters are listed in this server.",
     "content": [
       ""
     ],
+    "tag": [
+      ""
+    ],
+    "language": "",
+    "server": "EU",
+    "active": true,
+    "birth": "02/24/2023",
     "links": {
       "join": "https://discord.gg/q9k3HKcREN",
       "youtube": ""
     },
     "sesameID": "cmnt-XXX-nLlH5DTjKG",
-    "templateImage": "https://cdn.discordapp.com/icons/1078666510719004672/7732650273c1e954eebd95d15c804cee.webp?size=1024",
-    "informations": {
-      "active": true,
-      "birth": "02/24/2023",
-      "server": "EU",
-      "tag": [
-        ""
-      ],
-      "language": ""
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
-      {
-        "name": "BloodyDubstep"
-      }
-    ]
+    "templateImage": "https://cdn.discordapp.com/icons/1078666510719004672/7732650273c1e954eebd95d15c804cee.webp?size=1024"
   },
   {
     "name": "X-27 Main Control Base",
+    "author": [
+      {
+        "name": "X-27"
+      }
+    ],
     "description": "X27 discord server.",
     "content": [
       ""
     ],
+    "tag": [
+      ""
+    ],
+    "language": "",
+    "server": "US",
+    "active": false,
+    "birth": "05/22/2017",
     "links": {
       "join": "https://discord.gg/ecUW88H",
       "youtube": "https://www.youtube.com/@X-27yt"
     },
     "sesameID": "cmnt-XXX-l3ZfY8e3N1",
-    "templateImage": "https://cdn.discordapp.com/icons/315992435408896002/a518b01e5b01172555fd88787d70d712.webp?size=1024",
-    "informations": {
-      "active": false,
-      "birth": "05/22/2017",
-      "server": "US",
-      "tag": [
-        ""
-      ],
-      "language": ""
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
-      {
-        "name": "X-27"
-      }
-    ]
+    "templateImage": "https://cdn.discordapp.com/icons/315992435408896002/a518b01e5b01172555fd88787d70d712.webp?size=1024"
   },
   {
     "name": "German Alliance",
-    "description": "A German alliance",
-    "content": [
-      ""
-    ],
-    "links": {
-      "join": "https://discord.gg/tcWARFMyf8",
-      "youtube": ""
-    },
-    "sesameID": "cmnt-XXX-3Ty9SAuIGd",
-    "templateImage": "https://cdn.discordapp.com/icons/1160662840932315268/83d87085663067db539964a29e341210.webp?size=512",
-    "informations": {
-      "active": true,
-      "birth": "08/10/2023",
-      "server": "EU",
-      "tag": [
-        "✭ƓΛꝈ⤳"
-      ],
-      "language": "German"
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "NND"
       },
       {
         "name": " Devrim"
       }
-    ]
+    ],
+    "description": "A German alliance",
+    "content": [
+      ""
+    ],
+    "tag": [
+      "✭ƓΛꝈ⤳"
+    ],
+    "language": "German",
+    "server": "EU",
+    "active": true,
+    "birth": "08/10/2023",
+    "links": {
+      "join": "https://discord.gg/tcWARFMyf8",
+      "youtube": ""
+    },
+    "sesameID": "cmnt-XXX-3Ty9SAuIGd",
+    "templateImage": "https://cdn.discordapp.com/icons/1160662840932315268/83d87085663067db539964a29e341210.webp?size=512"
   }
 ]
