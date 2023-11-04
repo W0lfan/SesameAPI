@@ -2,73 +2,85 @@
   {
     "name": "Bhpsngum",
     "description": "Starblast player and author of many mods and tools used by the community.",
-    "links": {
-      "github": "https://github.com/Bhpsngum",
-      "spotify": "https://open.spotify.com/user/cqwibnxhle2yx34aji5m5cjka?si=a542fd963c2d4209",
-      "youtube": "https://www.youtube.com/@bhpsngum",
-      "discord": "bhpsngum",
-      "reddit": "https://www.reddit.com/user/Bhpsngum",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/Bhpsngum"
+      },
+      {
+        "id": "discord",
+        "src": "bhpsngum"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@bhpsngum"
+      },
+      {
+        "id": "reddit",
+        "src": "https://www.reddit.com/user/Bhpsngum"
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/cqwibnxhle2yx34aji5m5cjka?si=a542fd963c2d4209"
+      }
+    ],
     "about": {
       "isStaff": true,
       "isModder": true,
       "isUCP": true,
       "isContrib": true,
-      "isSesame": false,
-      "isShipBuilder": false,
-      "isFormerStaff": false
+      "isSesame": false
     },
     "sesameID": "usr-BNM-Go4A6f6RX9",
-    "templateImage": "https://avatars.githubusercontent.com/u/53442511?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    }
+    "templateImage": "https://avatars.githubusercontent.com/u/53442511?v=4"
   },
   {
     "name": "naflouille",
     "description": "Active coder, modder, web designer. Owner of Naflouille Creations and Sesame products (Sesame, Sesadmin, Linkel). Made a lot of mods. Creator of Starblast Arena / Starblast Team Fights. Test ",
-    "links": {
-      "github": "https://github.com/W0lfan",
-      "spotify": "",
-      "youtube": "https://youtube.com/@naflouille",
-      "discord": "naflouille",
-      "reddit": "https://www.reddit.com/user/Modderval",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/W0lfan"
+      },
+      {
+        "id": "discord",
+        "src": "naflouille"
+      },
+      {
+        "id": "youtube",
+        "src": "https://youtube.com/@naflouille"
+      },
+      {
+        "id": "reddit",
+        "src": "https://www.reddit.com/user/Modderval"
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
     "about": {
       "isStaff": true,
       "isModder": false,
       "isUCP": false,
       "isContrib": true,
-      "isSesame": true,
-      "isShipBuilder": false,
-      "isFormerStaff": false
+      "isSesame": true
     },
     "sesameID": "usr-NUE-XrwWHCTUWX",
-    "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1138081934531117086/1691408578172.jpg?width=1292&height=1355",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    }
+    "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1138081934531117086/1691408578172.jpg?width=1292&height=1355"
   },
   {
     "name": "Nexagon",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/channel/UCnNg5iE5xXjyjd4pmpFKRyw",
-      "discord": "nexagon",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "nexagon"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UCnNg5iE5xXjyjd4pmpFKRyw"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -80,24 +92,36 @@
     },
     "sesameID": "usr-NAN-p46G1vdXZF",
     "templateImage": "https://cdn.discordapp.com/avatars/490447169959231498/700a636d2cb17aa54fbf608be2568c65.webp",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Megalodon",
-    "links": {
-      "github": "https://github.com/TheGreatMegalodon",
-      "spotify": "https://open.spotify.com/user/yvg7p760iekwajh3imqethhmx?si=00d1c281902142c9",
-      "youtube": "https://youtube.com/@MEGALODON_Channel",
-      "discord": ".megalodon",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/TheGreatMegalodon"
+      },
+      {
+        "id": "discord",
+        "src": ".megalodon"
+      },
+      {
+        "id": "youtube",
+        "src": "https://youtube.com/@MEGALODON_Channel"
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/yvg7p760iekwajh3imqethhmx?si=00d1c281902142c9"
+      }
+    ],
     "description": "French player and starblast coder. A respected and skilled member of the comunity once was the best european player and now retired. The leader of multiple starblast groups like the 'FR team' or 'FA clan'.",
     "about": {
       "isStaff": false,
@@ -110,25 +134,41 @@
     },
     "sesameID": "usr-MLN-aYHlV7DC18",
     "templateImage": "https://cdn.discordapp.com/attachments/929812373810847854/1138074318656516106/sharkyyyyyyyyyyy.png",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "PMGL",
     "description": "Starblast Developer. Owner of Starblast and Neuronality.",
-    "links": {
-      "github": "https://github.com/pmgl",
-      "spotify": "",
-      "youtube": "",
-      "discord": "microgilles",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/pmgl"
+      },
+      {
+        "id": "discord",
+        "src": "microgilles"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
     "about": {
       "isStaff": true,
       "isModder": true,
@@ -140,24 +180,28 @@
     },
     "sesameID": "usr-PGL-LUG7myiPqA",
     "templateImage": "https://avatars.githubusercontent.com/u/17835059?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "45rfew",
-    "links": {
-      "github": "https://github.com/45rfew/",
-      "spotify": "",
-      "youtube": "",
-      "discord": "45rfew",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/45rfew/"
+      },
+      {
+        "id": "discord",
+        "src": "45rfew"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": true,
@@ -169,24 +213,36 @@
     },
     "sesameID": "usr-4FW-Vnd5Fs1s9F",
     "templateImage": "https://starblast.io/ecp/45rfew.jpg",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Nebuleuse",
-    "links": {
-      "github": "https://github.com/NebuleuseTheGreat/",
-      "spotify": "https://open.spotify.com/user/32hqo7eihra0fmi6ekn4jvvcl?si=76e9a66495914cd9",
-      "youtube": "https://www.youtube.com/channel/UCh37M4k1kAw3SSddjhNjJkw",
-      "discord": "nebuleuse.",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/NebuleuseTheGreat/"
+      },
+      {
+        "id": "discord",
+        "src": "nebuleuse."
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/32hqo7eihra0fmi6ekn4jvvcl?si=76e9a66495914cd9"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UCh37M4k1kAw3SSddjhNjJkw"
+      }
+    ],
     "description": "I'm an old French player of this beautiful games, I started in 2018, I'm pretty good at games, I created SAW (Starblast Asteroid War), and SIW (Starblast Invasion War), I also made a seasonal badge. I'm also very active in the community. And last but not least, I love the color orange🧡.",
     "about": {
       "isStaff": false,
@@ -199,24 +255,32 @@
     },
     "sesameID": "usr-NLE-TfoUb7v5kw",
     "templateImage": "https://avatars.githubusercontent.com/u/109994049?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Hazard",
-    "links": {
-      "github": "https://github.com/HazardXS",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/channel/UCvfCfzSx1qXKA9IIa5DelRw",
-      "discord": "hazardest",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/HazardXS"
+      },
+      {
+        "id": "discord",
+        "src": "hazardest"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UCvfCfzSx1qXKA9IIa5DelRw"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -228,24 +292,28 @@
     },
     "sesameID": "usr-HAD-mAFkeTbvE9",
     "templateImage": "https://avatars.githubusercontent.com/u/118680841?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "LX",
-    "links": {
-      "github": "https://github.com/Yevgen25",
-      "spotify": "",
-      "youtube": "",
-      "discord": "lxbutnoob",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/Yevgen25"
+      },
+      {
+        "id": "discord",
+        "src": "lxbutnoob"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -257,24 +325,24 @@
     },
     "sesameID": "usr-LXX-nLN6umFD2E",
     "templateImage": "https://avatars.githubusercontent.com/u/56999185?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Double Dash",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "doubledash.",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "doubledash."
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -286,24 +354,24 @@
     },
     "sesameID": "usr-DEH-xGw1NAWzCg",
     "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/X2-DashUCP.png?raw=true",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "void",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "Zondyr#8240",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "Zondyr#8240"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -314,25 +382,25 @@
       "isShipBuilder": false
     },
     "sesameID": "usr-VID-3SXcjspfG8",
-    "templateImage": "unknown",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "templateImage": "",
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Kleinem",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "_kleinem",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "_kleinem"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": true,
@@ -344,24 +412,28 @@
     },
     "sesameID": "usr-KIM-GuG0E8ubRc",
     "templateImage": "https://starblast.io/ecp/kleinem.jpg",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Interdictor",
-    "links": {
-      "github": "https://github.com/InterdictorSD",
-      "spotify": "",
-      "youtube": "",
-      "discord": "unknown",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/InterdictorSD"
+      },
+      {
+        "id": "discord",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -373,25 +445,41 @@
     },
     "sesameID": "usr-IDR-vSFfzrE7Ro",
     "templateImage": "https://avatars.githubusercontent.com/u/51348990?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Finalizer",
     "description": "Starblast discord server administrator, modder, shipbuilder. Owner of U-Series.",
-    "links": {
-      "github": "https://github.com/StarblastFinalizer",
-      "spotify": "",
-      "youtube": "",
-      "discord": "finalizer14",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/StarblastFinalizer"
+      },
+      {
+        "id": "discord",
+        "src": "finalizer14"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
     "about": {
       "isStaff": true,
       "isModder": true,
@@ -403,24 +491,28 @@
     },
     "sesameID": "usr-FLR-uRDiyQbHCW",
     "templateImage": "https://avatars.githubusercontent.com/u/40551089?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Nova",
-    "links": {
-      "github": "https://github.com/Nova-was-taken",
-      "spotify": "",
-      "youtube": "",
-      "discord": "nova3646",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/Nova-was-taken"
+      },
+      {
+        "id": "discord",
+        "src": "nova3646"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -432,24 +524,24 @@
     },
     "sesameID": "usr-NVA-2zCitaxmuc",
     "templateImage": "https://starblast.io/ecp/nova.jpg",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Tost",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "tost0001",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "tost0001"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -461,24 +553,28 @@
     },
     "sesameID": "usr-TST-tewAf3A4gU",
     "templateImage": "https://cdn.discordapp.com/avatars/1037515230789517434/c673df1f2ba3641820512a47e1bc6738.webp",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Goldman",
-    "links": {
-      "github": "https://github.com/GoldmanAerospace",
-      "spotify": "",
-      "youtube": "",
-      "discord": "goldmanaerospace",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/GoldmanAerospace"
+      },
+      {
+        "id": "discord",
+        "src": "goldmanaerospace"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": true,
@@ -490,55 +586,76 @@
     },
     "sesameID": "usr-GDN-sp6SrddvUL",
     "templateImage": "https://avatars.githubusercontent.com/u/40668886?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Notus",
     "description": "Famous Starblast player, Starblast Discord server administrator. Made the racing championship with Goldman.",
-    "links": {
-      "github": "https://github.com/123-Notus",
-      "spotify": "",
-      "youtube": "",
-      "discord": "123_notus",
-      "reddit": "https://www.reddit.com/user/123_Notus",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/123-Notus"
+      },
+      {
+        "id": "discord",
+        "src": "123_notus"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": "https://www.reddit.com/user/123_Notus"
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
     "about": {
       "isStaff": true,
       "isModder": true,
       "isUCP": true,
       "isContrib": true,
-      "isSesame": false,
-      "isShipBuilder": false,
-      "isFormerStaff": false
+      "isSesame": false
     },
     "sesameID": "usr-NTS-MczkElVlz2",
-    "templateImage": "https://starblast.io/ecp/notus.png",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    }
+    "templateImage": "https://starblast.io/ecp/notus.png"
   },
   {
     "name": "SChickenMan",
     "description": "Starblast modder, shipbuilder, UCP holder.",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "thirdtoeman",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": "thirdtoeman"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": true,
@@ -550,25 +667,41 @@
     },
     "sesameID": "usr-SKN-Z6YKGOtnZt",
     "templateImage": "https://starblast.io/ecp/schickenman.png",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Rithy",
     "description": "",
-    "links": {
-      "github": "https://github.com/rithyn",
-      "spotify": "https://open.spotify.com/user/31dsb3dy4frbiw6l6yy25co7xf2m?si=7b4a767b03244da8",
-      "youtube": "https://www.youtube.com/channel/UC65eZXj9BG119teoSwBsFtQ",
-      "discord": "rithy2142",
-      "reddit": "https://www.reddit.com/user/rithyn/",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/rithyn"
+      },
+      {
+        "id": "discord",
+        "src": "rithy2142"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UC65eZXj9BG119teoSwBsFtQ"
+      },
+      {
+        "id": "reddit",
+        "src": "https://www.reddit.com/user/rithyn/"
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/31dsb3dy4frbiw6l6yy25co7xf2m?si=7b4a767b03244da8"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -580,24 +713,28 @@
     },
     "sesameID": "usr-RTY-bDEO1zR7Gx",
     "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/rithy.png?raw=true",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "JavRedstone",
-    "links": {
-      "github": "https://github.com/JavRedstone",
-      "spotify": "",
-      "youtube": "",
-      "discord": "javredstone",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/JavRedstone"
+      },
+      {
+        "id": "discord",
+        "src": "javredstone"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": true,
@@ -609,24 +746,32 @@
     },
     "sesameID": "usr-JDE-G7jHhcfP4n",
     "templateImage": "https://avatars.githubusercontent.com/u/85136616?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Thuliux",
-    "links": {
-      "github": "https://github.com/ThuliuxytGH",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/@Thuliux/",
-      "discord": "Thuliux#3484",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/ThuliuxytGH"
+      },
+      {
+        "id": "discord",
+        "src": "Thuliux#3484"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@Thuliux/"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": true,
@@ -638,24 +783,24 @@
     },
     "sesameID": "usr-TLX-ZGQU8IZMxq",
     "templateImage": "https://yt3.googleusercontent.com/ytc/AOPolaQrNqhEhQRuffQWsqs48f1eC_WHlcP7lo0wlnsl=s176-c-k-c0x00ffffff-no-rj",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Loveship",
-    "links": {
-      "github": "https://github.com/Loveship-Shipyard",
-      "spotify": "",
-      "youtube": "",
-      "discord": "",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/Loveship-Shipyard"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -667,24 +812,28 @@
     },
     "sesameID": "usr-LSP-H0vbe6Gv7G",
     "templateImage": "https://starblast.io/ecp/loveship.png",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Dank Dmitron",
-    "links": {
-      "github": "https://github.com/dpleshkov",
-      "spotify": "",
-      "youtube": "",
-      "discord": "dankdmitron",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/dpleshkov"
+      },
+      {
+        "id": "discord",
+        "src": "dankdmitron"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -696,24 +845,24 @@
     },
     "sesameID": "usr-DMN-gUpDanmwih",
     "templateImage": "https://avatars.githubusercontent.com/u/22554516?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Tournebulle",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "tournebulle",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "tournebulle"
+      }
+    ],
     "about": {
       "isStaff": true,
       "isModder": false,
@@ -725,24 +874,28 @@
     },
     "sesameID": "usr-TEE-hFEmtcFYPj",
     "templateImage": "https://starblast.io/ecp/tournebulle.png",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Bot Lore",
-    "links": {
-      "github": "https://github.com/Yutai007",
-      "spotify": "",
-      "youtube": "",
-      "discord": "botlore",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/Yutai007"
+      },
+      {
+        "id": "discord",
+        "src": "botlore"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -754,54 +907,67 @@
     },
     "sesameID": "usr-BLE-bVKw0GwFiF",
     "templateImage": "https://avatars.githubusercontent.com/u/51336474?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "X-27",
     "description": "Youtuber starblast known worldwide for his videos. Has left the community and is no longer active.",
-    "links": {
-      "github": "https://github.com/X-27",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/@X-27yt",
-      "discord": "x_2_7",
-      "reddit": "https://www.reddit.com/user/X-27_WasAlreadyTaken",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/X-27"
+      },
+      {
+        "id": "discord",
+        "src": "x_2_7"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@X-27yt"
+      },
+      {
+        "id": "reddit",
+        "src": "https://www.reddit.com/user/X-27_WasAlreadyTaken"
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
     "about": {
       "isStaff": true,
       "isModder": false,
       "isUCP": true,
       "isContrib": true,
-      "isSesame": false,
-      "isShipBuilder": false,
-      "isFormerStaff": false
+      "isSesame": false
     },
     "sesameID": "usr-X27-yxerQG6b6X",
-    "templateImage": "https://avatars.githubusercontent.com/u/10255368?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    }
+    "templateImage": "https://avatars.githubusercontent.com/u/10255368?v=4"
   },
   {
     "name": "BloodyDubstep",
-    "links": {
-      "github": "https://github.com/BloodyDubstep",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/channel/UCfNE4ly6LYMPSX83pR19V4w",
-      "discord": "bloodydubstep",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/BloodyDubstep"
+      },
+      {
+        "id": "discord",
+        "src": "bloodydubstep"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UCfNE4ly6LYMPSX83pR19V4w"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -813,24 +979,32 @@
     },
     "sesameID": "usr-BDP-VOK6Xmbopw",
     "templateImage": "https://cdn.discordapp.com/avatars/365053226053140491/dd53df2c4bb6c9c2f72555ff6dc12ef9.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Lexydrow",
-    "links": {
-      "github": "https://github.com/LexyDrow44WasTaken",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/@lexydrow",
-      "discord": "lexydrow",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/LexyDrow44WasTaken"
+      },
+      {
+        "id": "discord",
+        "src": "lexydrow"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@lexydrow"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -842,24 +1016,24 @@
     },
     "sesameID": "usr-LDW-l0slaxRQrf",
     "templateImage": "https://avatars.githubusercontent.com/u/95083154?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Dimed",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "dimed_10",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "dimed_10"
+      }
+    ],
     "about": {
       "isStaff": true,
       "isModder": false,
@@ -871,24 +1045,24 @@
     },
     "sesameID": "usr-DMD-V6WUQiBCGd",
     "templateImage": "https://starblast.io/ecp/dimed.jpg",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Oh",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "oh_",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "oh_"
+      }
+    ],
     "about": {
       "isStaff": true,
       "isModder": false,
@@ -900,24 +1074,28 @@
     },
     "sesameID": "usr-OHH-v1C36jtDQ3",
     "templateImage": "https://starblast.io/ecp/oh.jpg",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "43615",
-    "links": {
-      "github": "https://github.com/43615",
-      "spotify": "",
-      "youtube": "",
-      "discord": "43615",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/43615"
+      },
+      {
+        "id": "discord",
+        "src": "43615"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -929,24 +1107,28 @@
     },
     "sesameID": "usr-465-6fPhTgRGsH",
     "templateImage": "https://avatars.githubusercontent.com/u/53740368?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Carme",
-    "links": {
-      "github": "https://github.com/43615",
-      "spotify": "",
-      "youtube": "",
-      "discord": "carmetaika",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/43615"
+      },
+      {
+        "id": "discord",
+        "src": "carmetaika"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -958,24 +1140,28 @@
     },
     "sesameID": "usr-CRE-Uh4ws66kOj",
     "templateImage": "https://starblast.io/ecp/carme.jpg",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Acarii",
-    "links": {
-      "github": "https://github.com/43615",
-      "spotify": "",
-      "youtube": "",
-      "discord": "acarii",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/43615"
+      },
+      {
+        "id": "discord",
+        "src": "acarii"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -987,24 +1173,24 @@
     },
     "sesameID": "usr-ARI-IGGPTLy9Gw",
     "templateImage": "https://starblast.io/ecp/acarii.jpg",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Partytime",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "partytime0181",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "partytime0181"
+      }
+    ],
     "about": {
       "isStaff": true,
       "isModder": false,
@@ -1016,24 +1202,28 @@
     },
     "sesameID": "usr-PYE-w3zBiYcIGS",
     "templateImage": "https://cdn.discordapp.com/avatars/616029738779279360/bb9e0cf294fc5483b36a783fe0b70c96.webp",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "xys!",
-    "links": {
-      "github": "https://github.com/songofthedeep",
-      "spotify": "",
-      "youtube": "",
-      "discord": "songofthedeep",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/songofthedeep"
+      },
+      {
+        "id": "discord",
+        "src": "songofthedeep"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1045,24 +1235,24 @@
     },
     "sesameID": "usr-XYS-nv0ikfuPwm",
     "templateImage": "https://avatars.githubusercontent.com/u/133616366?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Serendibite",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "serendibite42",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "serendibite42"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1074,24 +1264,24 @@
     },
     "sesameID": "usr-SDE-qj32SUx8Up",
     "templateImage": "https://cdn.discordapp.com/avatars/384384379423686657/27907a195ee559965bde88badc705775.webp",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Supernova",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "supernova_was_taken",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "supernova_was_taken"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1103,24 +1293,24 @@
     },
     "sesameID": "usr-SRA-CArulefOZu",
     "templateImage": "https://cdn.discordapp.com/avatars/497549771125424128/6196b2cd353c372e55d8d479f0a4990b.webp",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Absolute Kun",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "absolutekun",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "absolutekun"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": true,
@@ -1132,24 +1322,28 @@
     },
     "sesameID": "usr-AUN-xm99h5xwjB",
     "templateImage": "https://cdn.discordapp.com/avatars/655357190361841675/dc45909da19d75b0d239e97ef276c8a3.webp",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Endersult",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/@CMDR_Endersult",
-      "discord": "endersult",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "endersult"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@CMDR_Endersult"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1161,24 +1355,24 @@
     },
     "sesameID": "usr-ERT-58GsPqw4z5",
     "templateImage": "https://yt3.googleusercontent.com/tCPBFC4IIPJB-npFHdXUJ83p5Oh1b0UjHxdR2_v1ytRvvqYj_YF60ynoX2vKBMp6_qbC81-yfQ=s176-c-k-c0x00ffffff-no-rj",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "201x Captain",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "✯ 201x Captain ✯#4844",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "✯ 201x Captain ✯#4844"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1190,24 +1384,28 @@
     },
     "sesameID": "usr-2AN-uE6Utb3UNg",
     "templateImage": "https://cdn.discordapp.com/avatars/864026236652355625/3645461db68e5f99cf0b31c2b8386999.webp",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Admiral Forever",
-    "links": {
-      "github": "https://github.com/AdmiralForever323",
-      "spotify": "",
-      "youtube": "",
-      "discord": "unfitarmory",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/AdmiralForever323"
+      },
+      {
+        "id": "discord",
+        "src": "unfitarmory"
+      }
+    ],
     "about": {
       "isStaff": true,
       "isModder": false,
@@ -1219,25 +1417,41 @@
     },
     "sesameID": "usr-AFR-zFpPFVCZD5",
     "templateImage": "https://avatars.githubusercontent.com/u/55037968?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Glitch",
     "description": "Former staff member. Active player of the community.",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "Glitch#0479",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": "Glitch#0479"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
     "about": {
       "isStaff": true,
       "isModder": false,
@@ -1249,24 +1463,28 @@
     },
     "sesameID": "usr-GTH-xHd7AAKMXy",
     "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1163187279163043890/4c69670c280382b5dd86c2c81d40db58.webp?ex=653ea992&is=652c3492&hm=2dd15b25873da450396fd5921c072af12dab9ccb38d2a51db967536faf2ccfd2&=",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Dark Shadow Evil",
-    "links": {
-      "github": "https://github.com/evil-design",
-      "spotify": "",
-      "youtube": "",
-      "discord": "dark_shadow_evil",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/evil-design"
+      },
+      {
+        "id": "discord",
+        "src": "dark_shadow_evil"
+      }
+    ],
     "about": {
       "isStaff": true,
       "isModder": false,
@@ -1278,25 +1496,41 @@
     },
     "sesameID": "usr-DDL-EBPVPKkfCB",
     "templateImage": "https://avatars.githubusercontent.com/u/82825962?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Badger",
     "description": "Former Starblast staff member. G4 leader.",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "BADGER {⅁₄}#4551",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": "BADGER {⅁₄}#4551"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
     "about": {
       "isStaff": true,
       "isModder": false,
@@ -1308,24 +1542,24 @@
     },
     "sesameID": "usr-BGR-u1OL7T1DlG",
     "templateImage": "https://cdn.discordapp.com/avatars/292330835867074560/4d827c55342794c2b6dae339e7d4cd4b.webp?size=80",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Dschmoneys",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "dschmoneys",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "dschmoneys"
+      }
+    ],
     "about": {
       "isStaff": true,
       "isModder": false,
@@ -1337,24 +1571,24 @@
     },
     "sesameID": "usr-DOS-mPagjdtHGR",
     "templateImage": "https://cdn.discordapp.com/avatars/687401446509117447/fa1727bc611d9c965ec088f97f3720c9.webp",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Emperor",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "emperor8381",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "emperor8381"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1366,24 +1600,24 @@
     },
     "sesameID": "usr-EER-w4aIqjNL8M",
     "templateImage": "https://cdn.discordapp.com/avatars/416341552764551168/cdc3eb4a9bdb14ab854b8b7b7c4cd4fb.webp",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Tez",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "Tez#2217",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "Tez#2217"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1395,24 +1629,28 @@
     },
     "sesameID": "usr-TEZ-2UPGEUAhyr",
     "templateImage": "https://cdn.discordapp.com/avatars/875837972904284182/fb96c46ab1d9a27c20f0f0ceee128d92.webp",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "NukePhysics",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/@NukePhysics",
-      "discord": "nukephysics",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "nukephysics"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@NukePhysics"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1424,24 +1662,24 @@
     },
     "sesameID": "usr-NHS-nqGBCul0iW",
     "templateImage": "https://cdn.discordapp.com/avatars/450197793882112001/57704ce25b79a0fca77bb45c41af8489.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Otsu",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": ".otsu.",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": ".otsu."
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1453,24 +1691,24 @@
     },
     "sesameID": "usr-OSU-FNN172l1xV",
     "templateImage": "https://cdn.discordapp.com/avatars/292090325785247754/53e983afa493ed93a6491f703c48399f.webp",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Azimi",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "azimi",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "azimi"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1482,24 +1720,24 @@
     },
     "sesameID": "usr-AII-D5NcLhGG7O",
     "templateImage": "https://cdn.discordapp.com/avatars/292090325785247754/53e983afa493ed93a6491f703c48399f.webp",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "TwiDash",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "damlathevampire",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "damlathevampire"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1511,54 +1749,63 @@
     },
     "sesameID": "usr-TDH-r8QDnPi1eP",
     "templateImage": "https://yt3.googleusercontent.com/n60LC5Krn2FW27vB-1OaU2Myw0WNh0R_7W-sG-FAGucanGJ5hbL79yP_0LHG-0aP38Ah6JXt=s176-c-k-c0x00ffffff-no-rj",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Ayaka Aram",
     "description": "Asian youtuber known for his quality videos.",
-    "links": {
-      "github": "https://github.com/Aram1603",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/@AyakaAram",
-      "discord": "aram1603",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/Aram1603"
+      },
+      {
+        "id": "discord",
+        "src": "aram1603"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@AyakaAram"
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
       "isUCP": false,
       "isContrib": true,
-      "isSesame": false,
-      "isShipBuilder": false,
-      "isFormerStaff": false
+      "isSesame": false
     },
     "sesameID": "usr-AAM-heslwVf8G3",
-    "templateImage": "https://avatars.githubusercontent.com/u/78714474?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    }
+    "templateImage": "https://avatars.githubusercontent.com/u/78714474?v=4"
   },
   {
     "name": "Neo Space",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/@neospaceyt",
-      "discord": "neo_space",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "neo_space"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@neospaceyt"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1570,24 +1817,28 @@
     },
     "sesameID": "usr-NPE-n3Z5Fkq7dr",
     "templateImage": "https://yt3.googleusercontent.com/YiE8AlHEbHErw6G8I9ShwU6_oNebSECumFp-o7VWdwWIgtbflvQQqpe-59LiyG-TpLHDJvtCx-w=s176-c-k-c0x00ffffff-no-rj",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Anchar",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "https://youtube.com/@anchar_",
-      "discord": "anchar_",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "anchar_"
+      },
+      {
+        "id": "youtube",
+        "src": "https://youtube.com/@anchar_"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1599,24 +1850,32 @@
     },
     "sesameID": "usr-AHR-Btz6Zpj4rg",
     "templateImage": "https://yt3.googleusercontent.com/cRWMQ0p8oqvSdZhJWkOXennE9yR2YTESR_SozGkNE3oJ0IilAiXkkENpTKiAnRM5dVZkA1vQ=s176-c-k-c0x00ffffff-no-rj",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Sciences",
-    "links": {
-      "github": "https://github.com/SSBAGPC",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/@sciences9436",
-      "discord": "ss_bagpc",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/SSBAGPC"
+      },
+      {
+        "id": "discord",
+        "src": "ss_bagpc"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@sciences9436"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1628,24 +1887,28 @@
     },
     "sesameID": "usr-SNS-EuNkMkOQmS",
     "templateImage": "https://yt3.googleusercontent.com/ytc/AOPolaSL2-iZiIVtfm1-4ddnqHkVPj3p-a8tbJsoKg_1JA=s176-c-k-c0x00ffffff-no-rj",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Fady",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/@FadyOfficial",
-      "discord": "fadysquad",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "fadysquad"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@FadyOfficial"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1657,55 +1920,76 @@
     },
     "sesameID": "usr-FDY-NBwIVYSIGv",
     "templateImage": "https://yt3.googleusercontent.com/ytc/AOPolaTc0iThrliBM26f8AoXxC0-T7oBg6HCN6nkC6rP=s176-c-k-c0x00ffffff-no-rj",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Alex",
     "description": "1st in PDM. Always PDM. PDM, PDM and PDM",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "alex5025",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": "alex5025"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
       "isUCP": false,
       "isContrib": false,
-      "isSesame": false,
-      "isShipBuilder": false,
-      "isFormerStaff": false
+      "isSesame": false
     },
     "sesameID": "usr-AEX-Eh6t4bok3i",
-    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/AlexUCP.jpg?raw=true",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    }
+    "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/AlexUCP.jpg?raw=true"
   },
   {
     "name": "NOK",
     "description": "French player and leader of Team FR and PS Clan. Experienced shipbuilder and player since 2017.",
-    "links": {
-      "github": "https://github.com/NOKsb",
-      "spotify": "https://open.spotify.com/user/31nezt5ta7prrxegu6c7u24vfvcm",
-      "youtube": "",
-      "discord": ".nok.",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/NOKsb"
+      },
+      {
+        "id": "discord",
+        "src": ".nok."
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/31nezt5ta7prrxegu6c7u24vfvcm"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1717,24 +2001,28 @@
     },
     "sesameID": "usr-NOK-qzQ9KGBfNp",
     "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/NokUCP.png?raw=true",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Pasha",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/@pashassseng2015",
-      "discord": "pashasss",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "pashasss"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@pashassseng2015"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1746,24 +2034,24 @@
     },
     "sesameID": "usr-PSA-MHXTCVLlWL",
     "templateImage": "https://yt3.googleusercontent.com/tldXp3IyWEjxSBOHMfaaZEhaGSfEfYbGRyKFy21b1Uz-mYW0mrVZuqcfgQbGkfrg9QVGMe5X7g=s176-c-k-c0x00ffffff-no-rj",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Sergio L",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "Sergio-L#6606",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "Sergio-L#6606"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1775,24 +2063,28 @@
     },
     "sesameID": "usr-SGL-4eyVryEEVM",
     "templateImage": "https://starblast.io/ecp/sdcchamp.png",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Inspectro",
-    "links": {
-      "github": "https://github.com/Inspectro3D",
-      "spotify": "",
-      "youtube": "",
-      "discord": "inspectro",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/Inspectro3D"
+      },
+      {
+        "id": "discord",
+        "src": "inspectro"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1804,24 +2096,28 @@
     },
     "sesameID": "usr-IEO-bH0kPzKOga",
     "templateImage": "https://yt3.googleusercontent.com/ytc/AOPolaTRIJoKNWAZ2dPTXxB2thCvXx054fjocchZKidA=s176-c-k-c0x00ffffff-no-rj",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Halcyon",
-    "links": {
-      "github": "https://github.com/halcyonXT",
-      "spotify": "",
-      "youtube": "",
-      "discord": "h.alcyon",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/halcyonXT"
+      },
+      {
+        "id": "discord",
+        "src": "h.alcyon"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1833,24 +2129,24 @@
     },
     "sesameID": "usr-HCN-KWnQf05ZWl",
     "templateImage": "https://avatars.githubusercontent.com/u/111774390?v=4",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Leader",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "solomon666",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "solomon666"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1861,24 +2157,24 @@
     },
     "sesameID": "usr-LDR-4QpmKFP6Zz",
     "templateImage": "https://media.discordapp.net/attachments/948927227087687762/1043600853245886554/images_1.jpg?width=1355&height=1355",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Iran",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "dd.85",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "dd.85"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1889,24 +2185,28 @@
     },
     "sesameID": "usr-IAN-v16BVR206r",
     "templateImage": "https://cdn.discordapp.com/avatars/997817506649608243/8d18d52395ccc7ad056a1b8e1a012f52.webp",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Basit",
-    "links": {
-      "github": " https://github.com/Modraxis ",
-      "spotify": "",
-      "youtube": "",
-      "discord": "m.basit",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": " https://github.com/Modraxis "
+      },
+      {
+        "id": "discord",
+        "src": "m.basit"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1918,25 +2218,41 @@
     },
     "sesameID": "usr-BST-zgqLaSW1Bi",
     "templateImage": "https://cdn.discordapp.com/avatars/1026551616637255690/972886c78f815828d0585928795b1b01.png?size=1024 ",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "iom",
     "description": "Queen of S&C, active starblast player. « Cooler than Dejvo ».",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "iom2206",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": "iom2206"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1948,24 +2264,28 @@
     },
     "sesameID": "usr-IOM-NGap4W4KNN",
     "templateImage": "https://cdn.discordapp.com/avatars/574660769078312982/c013f5e61678900775240a555f23ac7e.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Diw",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/channel/UC-drjC3YTkqKmRetirH_NqA",
-      "discord": "zdiw",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "zdiw"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UC-drjC3YTkqKmRetirH_NqA"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -1977,24 +2297,24 @@
     },
     "sesameID": "usr-DIW-lG7pdPDiHd",
     "templateImage": "https://cdn.discordapp.com/avatars/906971757225844766/538e631e4966141c949fea260f3fb2d1.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Samed",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "samed9523",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "samed9523"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2006,24 +2326,24 @@
     },
     "sesameID": "usr-SMD-7nhE6BdNsW",
     "templateImage": "https://cdn.discordapp.com/avatars/851891289263177738/298a07dd56a33d30dbed9172d834bb4c.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Karlin",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "notmachinekaylo",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "notmachinekaylo"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2035,24 +2355,24 @@
     },
     "sesameID": "usr-KLN-njWu47atiE",
     "templateImage": "https://cdn.discordapp.com/avatars/1093140025748762664/528813f6d72b18e0bac5c40ee157c813.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "PURPOO",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "_purpoo",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "_purpoo"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2064,54 +2384,59 @@
     },
     "sesameID": "usr-PPO-Wt7GyMyGut",
     "templateImage": "https://cdn.discordapp.com/avatars/732722546243534979/a_a6717ef14d571b33f7d6917dc0bca6d4.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "koromgo",
     "description": "Administrator of S&C. Great Starblast player.",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "koromgo#9177",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": "koromgo#9177"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
       "isUCP": false,
       "isContrib": false,
-      "isSesame": "undefined",
-      "isShipBuilder": false,
-      "isFormerStaff": false
+      "isSesame": "undefined"
     },
     "sesameID": "usr-KOO-LpVT9YEQ8I",
-    "templateImage": "https://cdn.discordapp.com/avatars/338381480696741888/54f8b0945098319aa17da245f0ec15c6.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    }
+    "templateImage": "https://cdn.discordapp.com/avatars/338381480696741888/54f8b0945098319aa17da245f0ec15c6.webp?size=128"
   },
   {
     "name": "Neagoe",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "neagoe",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "neagoe"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2123,24 +2448,28 @@
     },
     "sesameID": "usr-NGE-jzch622ozD",
     "templateImage": "https://cdn.discordapp.com/avatars/270923689602711552/e8ed84860da081f3d5369fcd17ca2784.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Jannes™",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/@j4nn3sstarblast10",
-      "discord": "j4nn3ss",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "j4nn3ss"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@j4nn3sstarblast10"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2152,24 +2481,24 @@
     },
     "sesameID": "usr-JNS-1MO0HLxseb",
     "templateImage": "https://cdn.discordapp.com/avatars/850461397263056967/12fcb70a619b72f8c52786ab3818f52d.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "JACKIE",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "jackie4776",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "jackie4776"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2181,24 +2510,32 @@
     },
     "sesameID": "usr-JKE-lF9UGSNsqR",
     "templateImage": "https://cdn.discordapp.com/avatars/622329678254047235/b638c6d2098a65808bdd16cec38ae549.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "CARNAGE",
-    "links": {
-      "github": "",
-      "spotify": "https://open.spotify.com/user/31awc47loxsqntaiuooqy7xd7mpm",
-      "youtube": "https://www.youtube.com/@carnage6542/featured",
-      "discord": "_carnagethegreat",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "_carnagethegreat"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@carnage6542/featured"
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/31awc47loxsqntaiuooqy7xd7mpm"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2210,24 +2547,24 @@
     },
     "sesameID": "usr-CNE-iPp7foZLD5",
     "templateImage": "https://cdn.discordapp.com/avatars/479777190758842379/dc97877c9ed6d071366a1855294c34e4.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "ACAR",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "acarbutnoob",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "acarbutnoob"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2239,24 +2576,24 @@
     },
     "sesameID": "usr-AAR-iSYflBGjr6",
     "templateImage": "https://cdn.discordapp.com/avatars/580795154802147328/55eb1f4877f66f0da4507741f962587e.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Orio",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "melinspire",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "melinspire"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2268,24 +2605,24 @@
     },
     "sesameID": "usr-OIO-3AG6YdsGLT",
     "templateImage": "https://cdn.discordapp.com/avatars/698457387794694155/8db756c39b28866eb8cabea7a3553a5a.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "mirage",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "mirage3130",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "mirage3130"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2297,24 +2634,24 @@
     },
     "sesameID": "usr-MAE-Cm7wSVFBG3",
     "templateImage": "https://cdn.discordapp.com/avatars/366199753802907649/070ffcfa18147acb5fde2fcc530de231.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "SpankyXT",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "spankyxt",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "spankyxt"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2326,24 +2663,28 @@
     },
     "sesameID": "usr-SKT-epxa0bAgG9",
     "templateImage": "https://cdn.discordapp.com/avatars/351371245591199746/45fffda5f9c521888c0c92a2fa7ec14a.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Duschi",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/channel/UCkM29Op9hBk-AU-X3N-uqxw",
-      "discord": "duschi_",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "duschi_"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UCkM29Op9hBk-AU-X3N-uqxw"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2355,24 +2696,36 @@
     },
     "sesameID": "usr-DCI-0l280enHMp",
     "templateImage": "https://cdn.discordapp.com/avatars/336148222948933632/381cae5daabde28fef530397a147c577.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Rj",
-    "links": {
-      "github": "https://github.com/I-Rj",
-      "spotify": "https://open.spotify.com/user/lrh5nb1p1gjazwul2d0yfi3mb",
-      "youtube": "https://www.youtube.com/channel/UCaiLjbvlg0aYbNzm51hvhLA",
-      "discord": "._rj",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/I-Rj"
+      },
+      {
+        "id": "discord",
+        "src": "._rj"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UCaiLjbvlg0aYbNzm51hvhLA"
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/lrh5nb1p1gjazwul2d0yfi3mb"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2384,24 +2737,24 @@
     },
     "sesameID": "usr-RJJ-jDM5BkpFAP",
     "templateImage": "https://cdn.discordapp.com/avatars/783746549037400066/b6a50a1422514350915a14e8e34a158d.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Zerd",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "lastlife7884",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "lastlife7884"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2413,24 +2766,36 @@
     },
     "sesameID": "usr-ZRD-uBvxpa5Ylq",
     "templateImage": "https://cdn.discordapp.com/avatars/628096954773012481/ff7765df4fe03751e8e108f2a348004f.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Fury",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "unknown",
-      "discord": "furyerinyes",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "furyerinyes"
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2442,24 +2807,36 @@
     },
     "sesameID": "usr-FRY-9GND9YXN0d",
     "templateImage": "https://cdn.discordapp.com/avatars/921742763026960384/fd60f2a11035ef400e2b7ec7d995eb6b.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "bylolopro",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "https://www.youtube.com/@bylolopro3607/featured",
-      "discord": "bylolopro360",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "bylolopro360"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@bylolopro3607/featured"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2471,24 +2848,36 @@
     },
     "sesameID": "usr-BLO-L56LOk8j7T",
     "templateImage": "https://cdn.discordapp.com/avatars/599291389099900957/c51321b457070067eeb469b92d363b23.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Leader 1",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "https://www.youtube.com/channel/UCbxJuRLUU3meg08x8s4Kh0A",
-      "discord": "infernoleader1",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "infernoleader1"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UCbxJuRLUU3meg08x8s4Kh0A"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2500,24 +2889,36 @@
     },
     "sesameID": "usr-LD1-BL8mvqw4sb",
     "templateImage": "https://cdn.discordapp.com/avatars/713578902865575936/ecef02313b93651225326edcc921798b.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "TheProPizza",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "unknown",
-      "discord": "thepropizza",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "thepropizza"
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2529,24 +2930,36 @@
     },
     "sesameID": "usr-TOA-dvi5B6KR1g",
     "templateImage": "https://cdn.discordapp.com/avatars/535544753014439936/5f201489e4fb3ed8929cd3c0b610e231.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Devilion",
-    "links": {
-      "github": "unknown",
-      "spotify": "https://open.spotify.com/user/nn2o6h0onzc0zfvlo2rrtte8t",
-      "youtube": "https://www.youtube.com/channel/UC_YVS-A61R0Dk-m0yZesgIw",
-      "discord": "devilion_",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "devilion_"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UC_YVS-A61R0Dk-m0yZesgIw"
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/nn2o6h0onzc0zfvlo2rrtte8t"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2558,24 +2971,36 @@
     },
     "sesameID": "usr-DLN-caju8hT1Ei",
     "templateImage": "https://cdn.discordapp.com/avatars/682972966530842635/172dcb33da5880c350ce54861f7dfa71.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "ADVANCED",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "unknown",
-      "discord": "advanced.0001",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "advanced.0001"
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2587,24 +3012,36 @@
     },
     "sesameID": "usr-AND-URmRkCkcGZ",
     "templateImage": "https://cdn.discordapp.com/avatars/845718856441397298/8eadeededcc99978bde233e336763df8.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Centauri",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "unknown",
-      "discord": "centauri369",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "centauri369"
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2616,24 +3053,36 @@
     },
     "sesameID": "usr-CAI-CnnaxUZkH1",
     "templateImage": "https://cdn.discordapp.com/avatars/803273515344068709/1c11716094ceb0862ca265076e6f9b4a.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Wargod",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "unknown",
-      "discord": "mateothedisintegrationer",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "mateothedisintegrationer"
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2645,24 +3094,36 @@
     },
     "sesameID": "usr-WGD-Gpml8NRutK",
     "templateImage": "https://cdn.discordapp.com/avatars/790210397663526912/99044e48e200657802069e70c622884b.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "A.S",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "https://www.youtube.com/channel/UCjK-U3SIOTCE2HtXDxA-pWg",
-      "discord": "siege9763",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "siege9763"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UCjK-U3SIOTCE2HtXDxA-pWg"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2674,24 +3135,36 @@
     },
     "sesameID": "usr-ASS-teHFfPzGiY",
     "templateImage": "https://cdn.discordapp.com/avatars/700366070376169593/841b552146376a3c007605ecbf3f076b.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Double K",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "unknown",
-      "discord": "Double K#9757",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "Double K#9757"
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2703,24 +3176,36 @@
     },
     "sesameID": "usr-DBK-VPv3Z2lL2d",
     "templateImage": "https://starblast.io/ecp/2k.jpg",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "blitz",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "https://www.youtube.com/channel/UCXt_RBREumZzqSjL42oIe4A",
-      "discord": "blitzfleet",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "blitzfleet"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UCXt_RBREumZzqSjL42oIe4A"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2732,24 +3217,36 @@
     },
     "sesameID": "usr-BIZ-QCEtdL4cZH",
     "templateImage": "https://cdn.discordapp.com/avatars/865051870464311337/eeb5b798d2371003ca577104fbeab1fc.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Rossiya",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "unknown",
-      "discord": "shiroko.sunaookami",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "shiroko.sunaookami"
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2761,24 +3258,36 @@
     },
     "sesameID": "usr-RSA-OXYC1eHX11",
     "templateImage": "https://cdn.discordapp.com/avatars/783097495999873024/ec5bd5405b8fb0d3c9a4f1929cf28864.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "gatoville",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "unknown",
-      "discord": "gatoville",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "gatoville"
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2790,24 +3299,36 @@
     },
     "sesameID": "usr-GVE-je5jNIXGAw",
     "templateImage": "https://cdn.discordapp.com/avatars/292438774238019584/bf34782b289fe60a86359dc5f147df77.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "KHALIL",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "unknown",
-      "discord": "khalil111",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "khalil111"
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2819,24 +3340,36 @@
     },
     "sesameID": "usr-KLL-FUAhy1Y9Pb",
     "templateImage": "https://cdn.discordapp.com/avatars/954844641679794278/3ac6def614c4f1537df21d7994f8cd4b.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "FenixSt75",
-    "links": {
-      "github": "https://github.com/FenixStar75",
-      "spotify": "https://open.spotify.com/user/31m3eprhshjfi5rc5czewcy7pa2q",
-      "youtube": "https://www.youtube.com/channel/UCQNkNtmVIBXNxHT2eLuOjgg",
-      "discord": "omar_075",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/FenixStar75"
+      },
+      {
+        "id": "discord",
+        "src": "omar_075"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UCQNkNtmVIBXNxHT2eLuOjgg"
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/31m3eprhshjfi5rc5czewcy7pa2q"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2848,24 +3381,32 @@
     },
     "sesameID": "usr-FX5-TRWhG91aXG",
     "templateImage": "https://cdn.discordapp.com/avatars/967273359412969524/e45ef21795f002f6e763c6465e070a24.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "paralx",
-    "links": {
-      "github": "",
-      "spotify": "https://open.spotify.com/intl-fr/artist/1kEc5UGZDBlP4SbmVzzUP7",
-      "youtube": "https://www.youtube.com/@voyagerjs/featured",
-      "discord": "v4lp",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "v4lp"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@voyagerjs/featured"
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/intl-fr/artist/1kEc5UGZDBlP4SbmVzzUP7"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2877,24 +3418,36 @@
     },
     "sesameID": "usr-PAX-KmrRN7FboD",
     "templateImage": "https://starblast.io/ecp/paralx.jpg",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Anos",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "unknown",
-      "discord": ".anos.",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": ".anos."
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2906,24 +3459,36 @@
     },
     "sesameID": "usr-AOS-Vi7c95Typ1",
     "templateImage": "https://cdn.discordapp.com/avatars/789404645915230208/5ea3b9ded354aeefc9c914a0f52deeab.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "HELPER",
-    "links": {
-      "github": "unknown",
-      "spotify": "https://open.spotify.com/user/3124d4bmpfjgvedoewzniaiqipuy",
-      "youtube": "https://www.youtube.com/channel/UCqMO6r_AXwz90PBLNfnZ_gQ",
-      "discord": ".helpers",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": ".helpers"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UCqMO6r_AXwz90PBLNfnZ_gQ"
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/3124d4bmpfjgvedoewzniaiqipuy"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2935,24 +3500,36 @@
     },
     "sesameID": "usr-HPR-VrtiiQVMfW",
     "templateImage": "https://github.com/Modraxis/background-pngs/blob/main/giphy.gif?raw=true",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "oldgregg32",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "unknown",
-      "discord": "oldgregg32",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "oldgregg32"
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2964,24 +3541,36 @@
     },
     "sesameID": "usr-OE2-37QZGKTiSO",
     "templateImage": "https://cdn.discordapp.com/avatars/993648473331216414/aea117b0223de9d813aea16738d0650b.webp?size=240",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Darth Mac",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "unknown",
-      "discord": "darth_mac",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "darth_mac"
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -2993,24 +3582,36 @@
     },
     "sesameID": "usr-DHC-o1VD3ch00j",
     "templateImage": "https://cdn.discordapp.com/avatars/548960987986788353/0ee43e993276b4aa14a0971faa76b0fe.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Sopilote",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "unknown",
-      "discord": "mikelbaz123",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "mikelbaz123"
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -3022,24 +3623,36 @@
     },
     "sesameID": "usr-SLE-8AVQXxj2EC",
     "templateImage": "https://cdn.discordapp.com/avatars/1061795750771691610/6d3e661799d8a286601eb0323b73ad91.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Titan",
-    "links": {
-      "github": "unknown",
-      "spotify": "unknown",
-      "youtube": "unknown",
-      "discord": "diabeticmonke",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "diabeticmonke"
+      },
+      {
+        "id": "youtube",
+        "src": "unknown"
+      },
+      {
+        "id": "spotify",
+        "src": "unknown"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -3051,24 +3664,36 @@
     },
     "sesameID": "usr-TTN-DVlGL4ANCH",
     "templateImage": "https://cdn.discordapp.com/avatars/781307296524795904/18a0e422a71ebf7abe32e21bf1e496e8.webp?size=128",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "ADRIAN",
-    "links": {
-      "github": "unknown",
-      "spotify": "https://open.spotify.com/user/31vjet3yyvcdadxn2zkjikzx4k3q",
-      "youtube": "https://www.youtube.com/channel/UCZZlm5jVhOshLJx3wufTNUQ",
-      "discord": "Eochaid#6120",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "unknown"
+      },
+      {
+        "id": "discord",
+        "src": "Eochaid#6120"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UCZZlm5jVhOshLJx3wufTNUQ"
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/31vjet3yyvcdadxn2zkjikzx4k3q"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -3080,24 +3705,32 @@
     },
     "sesameID": "usr-AIN-btYyWoSUmN",
     "templateImage": "https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "ZEX",
-    "links": {
-      "github": "",
-      "spotify": "https://open.spotify.com/user/31gjivvntixjkyklzztufhmaq73u",
-      "youtube": "https://www.youtube.com/@zakpro4496/featured",
-      "discord": "zex_.",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "zex_."
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@zakpro4496/featured"
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/31gjivvntixjkyklzztufhmaq73u"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -3109,24 +3742,24 @@
     },
     "sesameID": "usr-ZEX-cTnOjsbQY0",
     "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/unnamed.jpg?raw=true",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Bao_vn",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "_lauriascute__",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "_lauriascute__"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -3138,24 +3771,28 @@
     },
     "sesameID": "usr-BON-8HDM3GKMpD",
     "templateImage": "https://cdn.discordapp.com/avatars/1124949878594863224/80ac0c1a1c8ee921c97e5f314defae97.png?size=1024",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "ATTACK AS TEAM",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/channel/UCI3UEUOzBK0VdJMWzK0POLA",
-      "discord": "attackasteam",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "attackasteam"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UCI3UEUOzBK0VdJMWzK0POLA"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -3167,24 +3804,24 @@
     },
     "sesameID": "usr-AAM-zY0MN0qoXs",
     "templateImage": "https://cdn.discordapp.com/avatars/1015967730102444042/72fe32b5d03df11d80c8ce22220ca832.png?size=1024",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Bryce",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "bryce3187",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "bryce3187"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -3196,24 +3833,24 @@
     },
     "sesameID": "usr-BYE-sRGceWgkuM",
     "templateImage": "https://cdn.discordapp.com/avatars/254231161096634368/4dd19f79e1225b8cf0ffefac2c163103.gif?size=1024",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Physic YT",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "_physic_",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "_physic_"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -3225,24 +3862,36 @@
     },
     "sesameID": "usr-PIT-uDPs32Q6Fu",
     "templateImage": "https://cdn.discordapp.com/avatars/862227728979591189/7278c3b058b5dd47e840854d957e51de.png?size=1024",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Zard",
-    "links": {
-      "github": "Unknown",
-      "spotify": "https://open.spotify.com/user/5ztb0477jeau3izfm34ug6lb0",
-      "youtube": "https://www.youtube.com/channel/UCiySPxBhI_pGCHNsEIN0A-g",
-      "discord": "zard1116",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "Unknown"
+      },
+      {
+        "id": "discord",
+        "src": "zard1116"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UCiySPxBhI_pGCHNsEIN0A-g"
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/5ztb0477jeau3izfm34ug6lb0"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -3254,24 +3903,24 @@
     },
     "sesameID": "usr-ZRD-SDRWyGrPQq",
     "templateImage": "https://cdn.discordapp.com/avatars/887891398035136572/545c025bf9ece015c7aebd4d30fc66e3.png?size=1024",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Heartbeat",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "_heartyy_",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "_heartyy_"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -3283,24 +3932,28 @@
     },
     "sesameID": "usr-HTT-4DOGm0DZk4",
     "templateImage": "https://github.com/Modraxis/images/blob/main/Heartbeat.gif?raw=true",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "AGXXXX",
-    "links": {
-      "github": "https://github.com/AGXXXX123",
-      "spotify": "",
-      "youtube": "",
-      "discord": "agxxxx",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/AGXXXX123"
+      },
+      {
+        "id": "discord",
+        "src": "agxxxx"
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -3312,24 +3965,28 @@
     },
     "sesameID": "usr-AXX-OFEYdaKP4G",
     "templateImage": "https://cdn.discordapp.com/avatars/797949012670021632/aeda747073b7009de8bf49acc8aba914.webp",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Destroy",
-    "links": {
-      "github": "",
-      "spotify": "https://open.spotify.com/user/dyayk0s1ou0x82t7qhy7antb5?si=0d61851035eb45ec",
-      "youtube": "",
-      "discord": "DragonFruit#1768",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "DragonFruit#1768"
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/dyayk0s1ou0x82t7qhy7antb5?si=0d61851035eb45ec"
+      }
+    ],
     "about": {
       "isStaff": true,
       "isModder": false,
@@ -3341,11 +3998,13 @@
     },
     "sesameID": "usr-DTY-wRwprWKsYw",
     "templateImage": "https://starblast.io/ecp/destroy.png",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -3362,22 +4021,37 @@
       "isShipBuilder": false
     },
     "description": "╚HᗩPPY🐋ΨHᗩLΣ╝.",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "nightwhale",
-      "reddit": "",
-      "starblast_nickname": [],
-      "": ""
-    },
+    "links": [
+      {
+        "id": "discord",
+        "src": "nightwhale"
+      },
+      {
+        "id": "",
+        "src": ""
+      },
+      {
+        "id": "",
+        "src": ""
+      },
+      {
+        "id": "",
+        "src": ""
+      },
+      {
+        "id": "",
+        "src": ""
+      }
+    ],
     "sesameID": "usr-HWE-eF2kZZ9Gx9",
     "templateImage": "https://raw.githubusercontent.com/rithyn/rithy-archive/main/pictures/ucp/happy-whale.jpg",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -3394,35 +4068,65 @@
       "isShipBuilder": false
     },
     "description": "",
-    "links": {
-      "github": "https://github.com/wertd123",
-      "spotify": "https://open.spotify.com/user/313sxgvuc7ochzkepza22xvkw53e?si=be12053cb8f749ab",
-      "youtube": " https://www.youtube.com/channel/UCJa7dqH8_o01HVBaBLVpKGA",
-      "discord": "gcoverlordwertd",
-      "reddit": "https://www.reddit.com/user/gc_overlord_wertd",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "youtube",
+        "src": " https://www.youtube.com/channel/UCJa7dqH8_o01HVBaBLVpKGA"
+      },
+      {
+        "id": "discord",
+        "src": "gcoverlordwertd"
+      },
+      {
+        "id": "github",
+        "src": "https://github.com/wertd123"
+      },
+      {
+        "id": "spotify",
+        "src": "https://open.spotify.com/user/313sxgvuc7ochzkepza22xvkw53e?si=be12053cb8f749ab"
+      },
+      {
+        "id": "reddit",
+        "src": "https://www.reddit.com/user/gc_overlord_wertd"
+      }
+    ],
     "sesameID": "usr-GOD-00uv8KdtNc",
     "templateImage": "https://raw.githubusercontent.com/rithyn/rithy-archive/main/pictures/ucp/GC-overlord.png",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Aleed",
     "description": "Aleed is a good French player in starblast. Artist 🖌️",
-    "links": {
-      "github": "",
-      "spotify": "",
-      "youtube": "",
-      "discord": "_breaaw_",
-      "reddit": "",
-      "starblast_nickname": []
-    },
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": "_breaaw_"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
     "about": {
       "isStaff": false,
       "isModder": false,
@@ -3434,12 +4138,49 @@
     },
     "sesameID": "usr-XXX-9LOAebML7t",
     "templateImage": "https://cdn.discordapp.com/avatars/1037162880631574658/eb863fae18bedc06c7eeb2dda773257e.webp",
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
+  },
+  {
+    "name": "Caramel",
+    "description": "He made the seasonal Fall 2023 badge - Retro.",
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": "catramel"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
+    "about": {
+      "isStaff": true,
+      "isModder": false,
+      "isUCP": false,
+      "isContrib": true,
+      "isSesame": false
+    },
+    "sesameID": "usr-XXX-W5EF6cAnV4",
+    "templateImage": "https://raw.githubusercontent.com/rithyn/rithy-archive/main/pictures/ucp/Catramel.jpg"
   }
 ]
