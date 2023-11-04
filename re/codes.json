@@ -2,297 +2,360 @@
   {
     "name": "Server Status",
     "description": "Live status of Starblast servers.",
-    "sesameID": "cds-SSS-GIvUCjuBsn",
-    "direct": {
-      "link": "https://bhpsngum.github.io/starblast/serverstatus/",
-      "code": ""
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "open": "https://bhpsngum.github.io/starblast/serverstatus/",
+    "author": [
       {
         "name": "Bhpsngum"
       }
-    ]
+    ],
+    "sesameID": "cds-SSS-GIvUCjuBsn",
+    "direct": [
+      {
+        "id": "link",
+        "content": "https://bhpsngum.github.io/starblast/serverstatus/"
+      }
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Starblast Map Editor",
     "description": "Create and edit custom Starblast Maps, easy to use.",
-    "sesameID": "cds-SMR-pzZwGkWhji",
-    "direct": {
-      "link": "https://bhpsngum.github.io/starblast/mapeditor/",
-      "code": ""
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "open": "https://bhpsngum.github.io/starblast/mapeditor/",
+    "author": [
       {
         "name": "Bhpsngum"
       }
-    ]
+    ],
+    "sesameID": "cds-SMR-pzZwGkWhji",
+    "direct": [
+      {
+        "id": "link",
+        "content": "https://bhpsngum.github.io/starblast/mapeditor/"
+      }
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Starblast Ship Mod Export / Code Converters",
     "description": "A tool to convert Ship Mod Export code to some other text/codes.",
-    "sesameID": "cds-SPS-f0GBHCOGSE",
-    "direct": {
-      "link": "https://bhpsngum.github.io/starblast/sscv/",
-      "code": ""
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "open": "https://bhpsngum.github.io/starblast/sscv/",
+    "author": [
       {
         "name": "Bhpsngum"
       }
-    ]
+    ],
+    "sesameID": "cds-SPS-f0GBHCOGSE",
+    "direct": [
+      {
+        "id": "link",
+        "content": "https://bhpsngum.github.io/starblast/sscv/"
+      }
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Ship Tree Path Finder",
     "description": "A tool to find path to a specific ship.",
-    "sesameID": "cds-SAR-CXx3WGgEGw",
-    "direct": {
-      "link": "https://bhpsngum.github.io/starblast/ship-tree-path-finder/",
-      "code": ""
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "open": "https://bhpsngum.github.io/starblast/ship-tree-path-finder/",
+    "author": [
       {
         "name": "Bhpsngum"
       }
-    ]
+    ],
+    "sesameID": "cds-SAR-CXx3WGgEGw",
+    "direct": [
+      {
+        "id": "link",
+        "content": "https://bhpsngum.github.io/starblast/ship-tree-path-finder/"
+      }
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Starblast Modding Space Mods - Live Statistics",
     "description": "Live statistics of Modding Space mods in Starblast.",
-    "sesameID": "cds-SCS-6FniyGpGMe",
-    "direct": {
-      "link": "https://bhpsngum.github.io/starblast/mods/stats/",
-      "code": ""
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "open": "https://bhpsngum.github.io/starblast/mods/stats/",
+    "author": [
       {
         "name": "Bhpsngum"
       }
-    ]
+    ],
+    "sesameID": "cds-SCS-6FniyGpGMe",
+    "direct": [
+      {
+        "id": "link",
+        "content": "https://bhpsngum.github.io/starblast/mods/stats/"
+      }
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Starblast ECP Icon Viewer",
     "description": "Image gallery of all ecp icons in Starblast, also the place to test your custom icon.",
-    "sesameID": "cds-SPR-V6bgjuGjFG",
-    "direct": {
-      "link": "https://bhpsngum.github.io/starblast/ecp/",
-      "code": ""
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "open": "https://bhpsngum.github.io/starblast/ecp/",
+    "author": [
       {
         "name": "Bhpsngum"
       }
-    ]
+    ],
+    "sesameID": "cds-SPR-V6bgjuGjFG",
+    "direct": [
+      {
+        "id": "link",
+        "content": "https://bhpsngum.github.io/starblast/ecp/"
+      }
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Timer",
-    "description": "This code snippet allows you to display a clean timer.",
-    "sesameID": "cds-TMR-ra2ZCvoxSe",
-    "open": "",
-    "direct": {
-      "link": "",
-      "code": "const timer = { seconds: 60, component: { id: \"Timer\", position: [43.5, 1, 20, 10], visible: true, components: [{ type: \"text\", position: [5, 0, 60, 60], value: \"\", color: \"#CDE\" }] } }; this.tick = function(game) { if (game.step % 60 === 0) { if (timer.seconds > 0) { timer.seconds--; timer.component.components[0].value = Math.round(timer.seconds / 60) + \":\" + timer.seconds % 60; game.setUIComponent(timer.component); } else if (timer.seconds <= 0) { /* Do something */ } } };"
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Naflouille"
       }
-    ]
+    ],
+    "description": "This code snippet allows you to display a clean timer.",
+    "sesameID": "cds-TMR-ra2ZCvoxSe",
+    "open": "",
+    "direct": [
+      {
+        "id": "code",
+        "content": "const timer = { seconds: 60, component: { id: \"Timer\", position: [43.5, 1, 20, 10], visible: true, components: [{ type: \"text\", position: [5, 0, 60, 60], value: \"\", color: \"#CDE\" }] } }; this.tick = function(game) { if (game.step % 60 === 0) { if (timer.seconds > 0) { timer.seconds--; timer.component.components[0].value = Math.round(timer.seconds / 60) + \":\" + timer.seconds % 60; game.setUIComponent(timer.component); } else if (timer.seconds <= 0) { /* Do something */ } } };"
+      }
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Map Generator",
     "description": "This code snippet allows you to generate a randomly filled map.",
-    "sesameID": "cds-MER-VNQBvL8DWm",
-    "direct": {
-      "link": "",
-      "code": "var map_Generator=function(size,empty,asteroidSizeMax){var cells_number=size*size;var filled_cells_goal=cells_number-Math.round(cells_number*empty/100);var empty_cells_goal=cells_number-filled_cells_goal;var filled_cells_count=0;var empty_cells_count=0;var map=[];for(let i=0;i<size;i++){for(let j=0;j<size;j++){if(getRandomInt(cells_number)<empty_cells_goal){map.push(' ');empty_cells_count=empty_cells_count+1;}else{map.push(`${getRandomArbitrary(1,asteroidSizeMax)}`);filled_cells_count=filled_cells_count+1;}}map.push('\\n');}return map.join('');};var map=map_Generator(80,60,9);"
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "code": "var map_Generator=function(size,empty,asteroidSizeMax){var cells_number=size*size;var filled_cells_goal=cells_number-Math.round(cells_number*empty/100);var empty_cells_goal=cells_number-filled_cells_goal;var filled_cells_count=0;var empty_cells_count=0;var map=[];for(let i=0;i<size;i++){for(let j=0;j<size;j++){if(getRandomInt(cells_number)<empty_cells_goal){map.push(' ');empty_cells_count=empty_cells_count+1;}else{map.push(`${getRandomArbitrary(1,asteroidSizeMax)}`);filled_cells_count=filled_cells_count+1;}}map.push('\\n');}return map.join('');};var map=map_Generator(80,60,9);",
+    "author": [
       {
         "name": "Naflouille"
       }
-    ]
+    ],
+    "sesameID": "cds-MER-VNQBvL8DWm",
+    "direct": [
+      {
+        "id": "code",
+        "content": "var map_Generator=function(size,empty,asteroidSizeMax){var cells_number=size*size;var filled_cells_goal=cells_number-Math.round(cells_number*empty/100);var empty_cells_goal=cells_number-filled_cells_goal;var filled_cells_count=0;var empty_cells_count=0;var map=[];for(let i=0;i<size;i++){for(let j=0;j<size;j++){if(getRandomInt(cells_number)<empty_cells_goal){map.push(' ');empty_cells_count=empty_cells_count+1;}else{map.push(`${getRandomArbitrary(1,asteroidSizeMax)}`);filled_cells_count=filled_cells_count+1;}}map.push('\\n');}return map.join('');};var map=map_Generator(80,60,9);"
+      }
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Prevent Upgrade Shortcuts",
     "description": "This code snippet allows you to remove the upgrades shortcuts",
-    "sesameID": "cds-PAS-kK9tRuqDdD",
-    "direct": {
-      "link": "",
-      "code": "var preventShortcut=function(ship){var shortcuts=[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\"];for(let i=0;i<8;i++){var component={id:`prevent_shortcut_${shortcuts[i]}`,position:[0,5*i,0,0],shortcut:shortcuts[i],visible:true,clickable:true,components:[{type:\"box\",position:[0,0,100,100],fill:\"#CDE\",stroke:\"#6D6D6D\",width:1}]}];ship.setUIComponent(component);}};this.tick=function(game){if(game.step%15===0){for(let ship of game.ships){if(ship.custom.init!==true){ship.custom.init=true;preventShortcut(ship);}}}};"
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "code": "var preventShortcut=function(ship){var shortcuts=[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\"];for(let i=0;i<8;i++){var component={id:`prevent_shortcut_${shortcuts[i]}`,position:[0,5*i,0,0],shortcut:shortcuts[i],visible:true,clickable:true,components:[{type:\"box\",position:[0,0,100,100],fill:\"#CDE\",stroke:\"#6D6D6D\",width:1}]}];ship.setUIComponent(component);}};this.tick=function(game){if(game.step%15===0){for(let ship of game.ships){if(ship.custom.init!==true){ship.custom.init=true;preventShortcut(ship);}}}};",
+    "author": [
       {
         "name": "Naflouille"
       }
-    ]
+    ],
+    "sesameID": "cds-PAS-kK9tRuqDdD",
+    "direct": [
+      {
+        "id": "code",
+        "content": "var preventShortcut=function(ship){var shortcuts=[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\"];for(let i=0;i<8;i++){var component={id:`prevent_shortcut_${shortcuts[i]}`,position:[0,5*i,0,0],shortcut:shortcuts[i],visible:true,clickable:true,components:[{type:\"box\",position:[0,0,100,100],fill:\"#CDE\",stroke:\"#6D6D6D\",width:1}]}];ship.setUIComponent(component);}};this.tick=function(game){if(game.step%15===0){for(let ship of game.ships){if(ship.custom.init!==true){ship.custom.init=true;preventShortcut(ship);}}}};"
+      }
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Reset Button",
-    "description": "Reset your ship to the initial vessel of the ship tree.",
-    "sesameID": "cds-RBN-T9vkQeb6fn",
-    "open": "",
-    "direct": {
-      "link": "",
-      "code": "var reset_button = { id: \"reset\", position: [5,30,8,14], clickable: true, shortcut: \"R\", visible: true, components: [{ type: \"box\",position:[0,0,100,100],stroke:\"#CDE\",width:2}, { type: \"text\",position:[10,35,80,30],value:\"RESET\",color:\"#CDE\"}, { type: \"text\",position:[20,70,60,20],value:\"[R]\",color:\"#CDE\"} ]}; var resetShip = function(ship) { ship.set({type:101, crystals: 20}); }; this.tick = function(game) { if (game.step%60===0) { for (var i=0;i<game.ships.length;i++) { var ship = game.ships[i]; if (!ship.custom.reset_button_installed) { ship.custom.reset_button_installed = true; ship.setUIComponent(reset_button); } } } }; this.event = function(event,game) { switch (event.name) { case \"ui_component_clicked\": var ship = event.ship; var component = event.id; if (component == \"reset\") { resetShip(ship); } break; } };"
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "author": [
       {
         "name": "Goldman"
       }
-    ]
+    ],
+    "description": "Reset your ship to the initial vessel of the ship tree.",
+    "sesameID": "cds-RBN-T9vkQeb6fn",
+    "open": "",
+    "code": "var reset_button = { id: \"reset\", position: [5,30,8,14], clickable: true, shortcut: \"R\", visible: true, components: [{ type: \"box\",position:[0,0,100,100],stroke:\"#CDE\",width:2}, { type: \"text\",position:[10,35,80,30],value:\"RESET\",color:\"#CDE\"}, { type: \"text\",position:[20,70,60,20],value:\"[R]\",color:\"#CDE\"} ]}; var resetShip = function(ship) { ship.set({type:101, crystals: 20}); }; this.tick = function(game) { if (game.step%60===0) { for (var i=0;i<game.ships.length;i++) { var ship = game.ships[i]; if (!ship.custom.reset_button_installed) { ship.custom.reset_button_installed = true; ship.setUIComponent(reset_button); } } } }; this.event = function(event,game) { switch (event.name) { case \"ui_component_clicked\": var ship = event.ship; var component = event.id; if (component == \"reset\") { resetShip(ship); } break; } };",
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Terminal Player List",
     "description": "Returns a list of all the players of the running game.",
-    "sesameID": "cds-TLT-4FAFYvhoYz",
-    "direct": {
-      "link": "",
-      "code": "game.modding.commands.list=function(){echo(\"\\nList of players and their IDs:\");for(let ship of game.ships){echo(ship.id+\": \"+ship.name);echo(\"\\n\");}};"
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "code": "game.modding.commands.list=function(){echo(\"\\nList of players and their IDs:\");for(let ship of game.ships){echo(ship.id+\": \"+ship.name);echo(\"\\n\");}};",
+    "author": [
       {
         "name": "Bhpsngum"
       }
-    ]
+    ],
+    "sesameID": "cds-TLT-4FAFYvhoYz",
+    "direct": [
+      {
+        "id": "code",
+        "content": "game.modding.commands.list=function(){echo(\"\\nList of players and their IDs:\");for(let ship of game.ships){echo(ship.id+\": \"+ship.name);echo(\"\\n\");}};"
+      }
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Kick a player",
     "description": "Kick annoying players from your game.",
-    "sesameID": "cds-KPR-eLTbS6E5nl",
-    "direct": {
-      "link": "",
-      "code": "game.modding.commands.kick=function(req){let args=req.trimStart().replace(/\\s+/,\" \").split(\" \"),id=Number(args[1]||\"NaN\");if(isNaN(id))game.modding.terminal.error(\"Please specify an id to kick\");else{let ship=game.findShip(id);if(!ship)game.modding.terminal.error(\"Requested ship not found!\");else{try{ship.gameover({\"Info\":\"You've been kicked by the map host\",\"Reason\":args.slice(2,args.length).join(\" \")||\"No reason has been provided\"});echo(\"Ship with id \"+id+\" was kicked\");}catch(e){game.modding.terminal.error(\"An error occured while kicking the requested ship!\");}}}}"
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "code": "game.modding.commands.kick=function(req){let args=req.trimStart().replace(/\\s+/,\" \").split(\" \"),id=Number(args[1]||\"NaN\");if(isNaN(id))game.modding.terminal.error(\"Please specify an id to kick\");else{let ship=game.findShip(id);if(!ship)game.modding.terminal.error(\"Requested ship not found!\");else{try{ship.gameover({\"Info\":\"You've been kicked by the map host\",\"Reason\":args.slice(2,args.length).join(\" \")||\"No reason has been provided\"});echo(\"Ship with id \"+id+\" was kicked\");}catch(e){game.modding.terminal.error(\"An error occured while kicking the requested ship!\");}}}}",
+    "author": [
       {
         "name": "Bhpsngum"
       }
-    ]
+    ],
+    "sesameID": "cds-KPR-eLTbS6E5nl",
+    "direct": [
+      {
+        "id": "code",
+        "content": "game.modding.commands.kick=function(req){let args=req.trimStart().replace(/\\s+/,\" \").split(\" \"),id=Number(args[1]||\"NaN\");if(isNaN(id))game.modding.terminal.error(\"Please specify an id to kick\");else{let ship=game.findShip(id);if(!ship)game.modding.terminal.error(\"Requested ship not found!\");else{try{ship.gameover({\"Info\":\"You've been kicked by the map host\",\"Reason\":args.slice(2,args.length).join(\" \")||\"No reason has been provided\"});echo(\"Ship with id \"+id+\" was kicked\");}catch(e){game.modding.terminal.error(\"An error occured while kicking the requested ship!\");}}}}"
+      }
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Subspace Detector",
     "description": "This code helps you allow or disallow subspace in your mod",
-    "sesameID": "cds-SDR-DoKbI5lAz8",
-    "direct": {
-      "link": "",
-      "code": "const Subspace_allow = true;function Subspace_Detector(ship){if(Subspace_allow){if(!ship.custom.cheater){game.modding.terminal.echo(\"[[g;#AA00FF;]Subspace alert:]\\n[[g;#ff0000;][[g;#F9D800;]\"+ship.name+\"] has been caught using Subspace.\\n[[g;#F9D800;]\"+ship.name+\"] has not been kicked as Subspace is allowed by map host.\");ship.custom.cheater=true;}}else{ship.set({type:101,vx:0,vy:0,idle:true,collider:false});ship.gameover({\"You have been caught using Subspace\":\" \",\"If you want to play, come without Subspace\":\" \"});game.modding.terminal.echo(\"[[g;#AA00FF;]Subspace alert:]\\n[[g;#ff0000;][[g;#F9D800;]\"+ship.name+\"] has been caught using Subspace.\\n[[g;#F9D800;]\"+ship.name+\"] has been kicked as Subspace is not allowed by map host.\");}this.event=function(event){const ship=event.ship;switch(event.name){case \"ui_component_clicked\":if(event.id===\"using_subspace\"){Subspace_Detector(ship);}break;}};}"
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "code": "const Subspace_allow = true;function Subspace_Detector(ship){if(Subspace_allow){if(!ship.custom.cheater){game.modding.terminal.echo(\"[[g;#AA00FF;]Subspace alert:]\\n[[g;#ff0000;][[g;#F9D800;]\"+ship.name+\"] has been caught using Subspace.\\n[[g;#F9D800;]\"+ship.name+\"] has not been kicked as Subspace is allowed by map host.\");ship.custom.cheater=true;}}else{ship.set({type:101,vx:0,vy:0,idle:true,collider:false});ship.gameover({\"You have been caught using Subspace\":\" \",\"If you want to play, come without Subspace\":\" \"});game.modding.terminal.echo(\"[[g;#AA00FF;]Subspace alert:]\\n[[g;#ff0000;][[g;#F9D800;]\"+ship.name+\"] has been caught using Subspace.\\n[[g;#F9D800;]\"+ship.name+\"] has been kicked as Subspace is not allowed by map host.\");}this.event=function(event){const ship=event.ship;switch(event.name){case \"ui_component_clicked\":if(event.id===\"using_subspace\"){Subspace_Detector(ship);}break;}};}",
+    "author": [
       {
         "name": "Basit"
       }
-    ]
+    ],
+    "sesameID": "cds-SDR-DoKbI5lAz8",
+    "direct": [
+      {
+        "id": "code",
+        "content": "const Subspace_allow = true;function Subspace_Detector(ship){if(Subspace_allow){if(!ship.custom.cheater){game.modding.terminal.echo(\"[[g;#AA00FF;]Subspace alert:]\\n[[g;#ff0000;][[g;#F9D800;]\"+ship.name+\"] has been caught using Subspace.\\n[[g;#F9D800;]\"+ship.name+\"] has not been kicked as Subspace is allowed by map host.\");ship.custom.cheater=true;}}else{ship.set({type:101,vx:0,vy:0,idle:true,collider:false});ship.gameover({\"You have been caught using Subspace\":\" \",\"If you want to play, come without Subspace\":\" \"});game.modding.terminal.echo(\"[[g;#AA00FF;]Subspace alert:]\\n[[g;#ff0000;][[g;#F9D800;]\"+ship.name+\"] has been caught using Subspace.\\n[[g;#F9D800;]\"+ship.name+\"] has been kicked as Subspace is not allowed by map host.\");}this.event=function(event){const ship=event.ship;switch(event.name){case \"ui_component_clicked\":if(event.id===\"using_subspace\"){Subspace_Detector(ship);}break;}};}"
+      }
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   },
   {
     "name": "Set custom text color",
     "description": "This code lets you customize the text color of the modding console.",
-    "sesameID": "cds-STR-2itLi9uhGj",
-    "direct": {
-      "link": "",
-      "code": "game.modding.terminal.echo=(function(echo){const textcolor=\"#cde\",Numbercolor=\"#cde\";return function(text){if(!isNaN(text))echo.call(this,`[[i;${Numbercolor};]${text}]`);else if(/^https?:///i.test(text))echo.call(this,text);else echo.call(this,`[[b;${textcolor};]${text}]`);};})(game.modding.terminal.echo);"
-    },
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    },
-    "authors": [
+    "code": "game.modding.terminal.echo=(function(echo){const textcolor=\"#cde\",Numbercolor=\"#cde\";return function(text){if(!isNaN(text))echo.call(this,`[[i;${Numbercolor};]${text}]`);else if(/^https?:///i.test(text))echo.call(this,text);else echo.call(this,`[[b;${textcolor};]${text}]`);};})(game.modding.terminal.echo);",
+    "author": [
       {
         "name": "Basit"
       }
-    ]
+    ],
+    "sesameID": "cds-STR-2itLi9uhGj",
+    "direct": [
+      {
+        "id": "code",
+        "content": "game.modding.terminal.echo=(function(echo){const textcolor=\"#cde\",Numbercolor=\"#cde\";return function(text){if(!isNaN(text))echo.call(this,`[[i;${Numbercolor};]${text}]`);else if(/^https?:///i.test(text))echo.call(this,text);else echo.call(this,`[[b;${textcolor};]${text}]`);};})(game.modding.terminal.echo);"
+      }
+    ],
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
+      }
+    }
   }
 ]
