@@ -10,13 +10,7 @@
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/mega_rumble.js",
       "state": 2
     },
-    "official": 1,
-    "event": 1,
-    "sesameID": "md-Mue-FiCVk4f9Wa",
-    "about": {
-      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/mega_rumble.js"
-    },
-    "authors": [
+    "author": [
       {
         "name": "PMGL"
       },
@@ -24,11 +18,19 @@
         "name": "45rfew"
       }
     ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "official": 1,
+    "event": 1,
+    "sesameID": "md-Mue-FiCVk4f9Wa",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/mega_rumble.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -43,14 +45,7 @@
       "type": "storage",
       "state": 2
     },
-    "official": 1,
-    "event": 1,
-    "sesameID": "md-Air-116bD21mob",
-    "templateImage": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/30712488/2d1fd7aa6d15eb47cff6de4a889e73ef573b61a7.jpg",
-    "about": {
-      "url": "https://github.com/GoldmanAerospace/AOW"
-    },
-    "authors": [
+    "author": [
       {
         "name": "PMGL"
       },
@@ -61,11 +56,20 @@
         "name": "Notus"
       }
     ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "official": 1,
+    "event": 1,
+    "sesameID": "md-Air-116bD21mob",
+    "templateImage": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/30712488/2d1fd7aa6d15eb47cff6de4a889e73ef573b61a7.jpg",
+    "about": {
+      "url": "https://github.com/GoldmanAerospace/AOW"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -79,6 +83,11 @@
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/escalation.js",
       "state": 2
     },
+    "author": [
+      {
+        "name": "45rfew"
+      }
+    ],
     "official": 1,
     "event": 0,
     "sesameID": "md-Ean-xf9kQ0XiWu",
@@ -86,16 +95,13 @@
     "about": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/escalation.js"
     },
-    "authors": [
-      {
-        "name": "45rfew"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -109,14 +115,7 @@
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/dueling_championship.js",
       "state": 2
     },
-    "official": 1,
-    "event": 0,
-    "sesameID": "md-Snp-5RXTgkZtkw",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/sdc.jpg",
-    "about": {
-      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/dueling_championship.js"
-    },
-    "authors": [
+    "author": [
       {
         "name": "Bhpsngum"
       },
@@ -124,11 +123,20 @@
         "name": "Eggsagon"
       }
     ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "official": 1,
+    "event": 0,
+    "sesameID": "md-Snp-5RXTgkZtkw",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/sdc.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/dueling_championship.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -142,14 +150,7 @@
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/mcst.js",
       "state": 2
     },
-    "official": 1,
-    "event": 0,
-    "sesameID": "md-Mse-Gws6g1lxem",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/mcst.jpg",
-    "about": {
-      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/mcst.js"
-    },
-    "authors": [
+    "author": [
       {
         "name": "SChickenMan"
       },
@@ -157,11 +158,20 @@
         "name": "(featuring Various authors)"
       }
     ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "official": 1,
+    "event": 0,
+    "sesameID": "md-Mse-Gws6g1lxem",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/mcst.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/mcst.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -175,14 +185,7 @@
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/destroy_the_mothership.js",
       "state": 2
     },
-    "official": 1,
-    "event": 0,
-    "sesameID": "md-DMp-dOl7ENGK8U",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/dtm.jpg",
-    "about": {
-      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/destroy_the_mothership.js"
-    },
-    "authors": [
+    "author": [
       {
         "name": "45rfew"
       },
@@ -190,11 +193,20 @@
         "name": "Kirito"
       }
     ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "official": 1,
+    "event": 0,
+    "sesameID": "md-DMp-dOl7ENGK8U",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/dtm.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/destroy_the_mothership.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -208,14 +220,7 @@
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/capture_the_flag.js",
       "state": 2
     },
-    "official": 1,
-    "event": 0,
-    "sesameID": "md-CTg-z5Q2GsTNqL",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/ctf.jpg",
-    "about": {
-      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/capture_the_flag.js"
-    },
-    "authors": [
+    "author": [
       {
         "name": "Bhpsngum"
       },
@@ -223,11 +228,20 @@
         "name": "45rfew"
       }
     ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "official": 1,
+    "event": 0,
+    "sesameID": "md-CTg-z5Q2GsTNqL",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/ctf.jpg",
+    "about": {
+      "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/capture_the_flag.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -241,6 +255,11 @@
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/rumble.js",
       "state": 2
     },
+    "author": [
+      {
+        "name": "45rfew"
+      }
+    ],
     "official": 1,
     "event": 0,
     "sesameID": "md-Rbe-IAMuUGSdpy",
@@ -248,16 +267,13 @@
     "about": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/rumble.js"
     },
-    "authors": [
-      {
-        "name": "45rfew"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -271,14 +287,7 @@
       "url": "https://github.com/GoldmanAerospace/SRC-All-track-codes-/",
       "state": 2
     },
-    "official": 1,
-    "event": 0,
-    "sesameID": "md-Snp-k7sNXoYyap",
-    "templateImage": "https://starblast.data.neuronality.com/modding/img/src2.jpg",
-    "about": {
-      "url": "https://github.com/GoldmanAerospace/SRC-All-track-codes-/"
-    },
-    "authors": [
+    "author": [
       {
         "name": "Goldman"
       },
@@ -286,11 +295,20 @@
         "name": "Notus"
       }
     ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "official": 1,
+    "event": 0,
+    "sesameID": "md-Snp-k7sNXoYyap",
+    "templateImage": "https://starblast.data.neuronality.com/modding/img/src2.jpg",
+    "about": {
+      "url": "https://github.com/GoldmanAerospace/SRC-All-track-codes-/"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -304,6 +322,11 @@
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/nauticseries.js",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Goldman"
+      }
+    ],
     "official": 1,
     "event": 0,
     "sesameID": "md-NSs-jUfGZNag2e",
@@ -311,16 +334,13 @@
     "about": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/nauticseries.js"
     },
-    "authors": [
-      {
-        "name": "Goldman"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -334,6 +354,11 @@
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/alienintrusion.js",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Goldman"
+      }
+    ],
     "official": 1,
     "event": 0,
     "sesameID": "md-Atn-bik5SOEWbZ",
@@ -341,16 +366,13 @@
     "about": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/alienintrusion.js"
     },
-    "authors": [
-      {
-        "name": "Goldman"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -364,6 +386,11 @@
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/useries.js",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Finalizer"
+      }
+    ],
     "official": 1,
     "event": 0,
     "sesameID": "md-Urs-L6pqi9zcsQ",
@@ -371,16 +398,13 @@
     "about": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/useries.js"
     },
-    "authors": [
-      {
-        "name": "Finalizer"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -394,6 +418,11 @@
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/battleroyale.js",
       "state": 2
     },
+    "author": [
+      {
+        "name": "PMGL"
+      }
+    ],
     "official": 1,
     "event": 0,
     "sesameID": "md-BRe-zRf1xhjUpV",
@@ -401,16 +430,13 @@
     "about": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/battleroyale.js"
     },
-    "authors": [
-      {
-        "name": "PMGL"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -424,6 +450,11 @@
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/racing.js",
       "state": 2
     },
+    "author": [
+      {
+        "name": "PMGL"
+      }
+    ],
     "official": 2,
     "event": 0,
     "sesameID": "md-Ssg-u6kj6LPD2Y",
@@ -431,16 +462,13 @@
     "about": {
       "url": "https://github.com/pmgl/starblast-modding/blob/master/mods/racing.js"
     },
-    "authors": [
-      {
-        "name": "PMGL"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -454,6 +482,11 @@
       "url": "https://github.com/Bhpsngum/Uranus-Starblast-Prototypes",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Uranus"
+      }
+    ],
     "official": 2,
     "event": 0,
     "sesameID": "md-SPs-3SUxBHFr7S",
@@ -461,16 +494,13 @@
     "about": {
       "url": "https://github.com/Bhpsngum/Uranus-Starblast-Prototypes"
     },
-    "authors": [
-      {
-        "name": "Uranus"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -485,14 +515,7 @@
       "state": 2,
       "type": "storage"
     },
-    "official": 0,
-    "event": 0,
-    "sesameID": "md-ARn-GqjwjBr0B3",
-    "templateImage": "https://bhpsngum.github.io/starblast/mods/img/re_arena.png",
-    "about": {
-      "url": "https://github.com/Bhpsngum/Arena-mod-remake"
-    },
-    "authors": [
+    "author": [
       {
         "name": "Bhpsngum"
       },
@@ -503,11 +526,20 @@
         "name": "Tost"
       }
     ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-ARn-GqjwjBr0B3",
+    "templateImage": "https://bhpsngum.github.io/starblast/mods/img/re_arena.png",
+    "about": {
+      "url": "https://github.com/Bhpsngum/Arena-mod-remake"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -522,13 +554,7 @@
       "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/pds.js",
       "state": 2
     },
-    "official": 0,
-    "event": 0,
-    "sesameID": "md-PDg-V22Vj7Ugsl",
-    "about": {
-      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/pds.js"
-    },
-    "authors": [
+    "author": [
       {
         "name": "45rfew"
       },
@@ -545,11 +571,19 @@
         "name": "Robonuko"
       }
     ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-PDg-V22Vj7Ugsl",
+    "about": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/pds.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -564,13 +598,7 @@
       "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/pds_lite.js",
       "state": 2
     },
-    "official": 0,
-    "event": 0,
-    "sesameID": "md-Pnn-vTfRq604Lx",
-    "about": {
-      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/pds_lite.js"
-    },
-    "authors": [
+    "author": [
       {
         "name": "45rfew"
       },
@@ -587,11 +615,19 @@
         "name": "Robonuko"
       }
     ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Pnn-vTfRq604Lx",
+    "about": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/pds_lite.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -606,22 +642,24 @@
       "url": "https://github.com/Nova-was-taken/Various-mod-codes/blob/main/Strawberry%20mod",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Nova"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Sby-9xwcjEPvLy",
     "about": {
       "url": "https://github.com/Nova-was-taken/Various-mod-codes/blob/main/Strawberry%20mod"
     },
-    "authors": [
-      {
-        "name": "Nova"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -636,22 +674,24 @@
       "url": "https://pastebin.com/7rNLrjAN",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Finalizer"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Ptd-G1IQHLKR0q",
     "about": {
       "url": "https://pastebin.com/7rNLrjAN"
     },
-    "authors": [
-      {
-        "name": "Finalizer"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -666,22 +706,24 @@
       "url": "https://github.com/45rfew/Starblast-mods-n-objs/tree/master/Mods/",
       "state": 2
     },
+    "author": [
+      {
+        "name": "45rfew"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Myd-dFdICl50GA",
     "about": {
       "url": "https://github.com/45rfew/Starblast-mods-n-objs/tree/master/Mods/"
     },
-    "authors": [
-      {
-        "name": "45rfew"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -696,22 +738,24 @@
       "url": "https://github.com/45rfew/Starblast-mods-n-objs/tree/master/Mods/Piranha%20mod.js",
       "state": 2
     },
+    "author": [
+      {
+        "name": "45rfew"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Phd-C7pG2EPjov",
     "about": {
       "url": "https://github.com/45rfew/Starblast-mods-n-objs/tree/master/Mods/Piranha%20mod.js"
     },
-    "authors": [
-      {
-        "name": "45rfew"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -725,14 +769,7 @@
       "url": "https://github.com/Bhpsngum/TDM",
       "state": 2
     },
-    "official": 0,
-    "event": 0,
-    "sesameID": "md-Tth-kktPhLUa8F",
-    "templateImage": "https://bhpsngum.github.io/starblast/mods/img/tdm.png",
-    "about": {
-      "url": "https://github.com/Bhpsngum/TDM"
-    },
-    "authors": [
+    "author": [
       {
         "name": "Lexagon"
       },
@@ -743,11 +780,20 @@
         "name": "45rfew"
       }
     ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Tth-kktPhLUa8F",
+    "templateImage": "https://bhpsngum.github.io/starblast/mods/img/tdm.png",
+    "about": {
+      "url": "https://github.com/Bhpsngum/TDM"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -761,6 +807,11 @@
       "url": "https://github.com/InterdictorSD/starfleetships-public",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Interdictor"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Sft-jfCbGa7TCL",
@@ -768,16 +819,13 @@
     "about": {
       "url": "https://github.com/InterdictorSD/starfleetships-public"
     },
-    "authors": [
-      {
-        "name": "Interdictor"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -792,22 +840,24 @@
       "url": "https://github.com/MALEFOR27/Anarchy",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Malefor"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Ahd-fB5HZLVGGx",
     "about": {
       "url": "https://github.com/MALEFOR27/Anarchy"
     },
-    "authors": [
-      {
-        "name": "Malefor"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -822,22 +872,24 @@
       "url": "https://pastebin.com/jSXp6CT6",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Kleinem"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Kne-9V07q6mQxu",
     "about": {
       "url": "https://pastebin.com/jSXp6CT6"
     },
-    "authors": [
-      {
-        "name": "Kleinem"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -852,13 +904,7 @@
       "url": "https://pastebin.com/PzYfZBMi",
       "state": 2
     },
-    "official": 0,
-    "event": 0,
-    "sesameID": "md-Hrs-530LNTvfHI",
-    "about": {
-      "url": "https://pastebin.com/PzYfZBMi"
-    },
-    "authors": [
+    "author": [
       {
         "name": "Void"
       },
@@ -866,11 +912,19 @@
         "name": "MGRocket"
       }
     ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Hrs-530LNTvfHI",
+    "about": {
+      "url": "https://pastebin.com/PzYfZBMi"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -885,22 +939,24 @@
       "url": "https://pastebin.com/HHK4dyYN",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Void"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Xrs-chYdaEGx9Z",
     "about": {
       "url": "https://pastebin.com/HHK4dyYN"
     },
-    "authors": [
-      {
-        "name": "Void"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -915,22 +971,24 @@
       "url": "https://pastebin.com/yKUsardk",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Uranus"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Iar-c64TXszC4G",
     "about": {
       "url": "https://pastebin.com/yKUsardk"
     },
-    "authors": [
-      {
-        "name": "Uranus"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -945,22 +1003,24 @@
       "url": "https://pastebin.com/9rfN2QKi",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Uranus"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Fad-5BuOTqsUhg",
     "about": {
       "url": "https://pastebin.com/9rfN2QKi"
     },
-    "authors": [
-      {
-        "name": "Uranus"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -975,22 +1035,24 @@
       "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/safeZones.js",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Bhpsngum"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Snd-G4IfyoVRal",
     "about": {
       "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/safeZones.js"
     },
-    "authors": [
-      {
-        "name": "Bhpsngum"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -1005,13 +1067,7 @@
       "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/Starblast_OP_(by_TheFish-ProfessorPi31415).js",
       "state": 2
     },
-    "official": 0,
-    "event": 0,
-    "sesameID": "md-SlP-2VvnQlgZXx",
-    "about": {
-      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/Starblast_OP_(by_TheFish-ProfessorPi31415).js"
-    },
-    "authors": [
+    "author": [
       {
         "name": "TheFish"
       },
@@ -1019,11 +1075,19 @@
         "name": "(featuring Various authors)"
       }
     ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-SlP-2VvnQlgZXx",
+    "about": {
+      "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/Starblast_OP_(by_TheFish-ProfessorPi31415).js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -1038,22 +1102,24 @@
       "url": "https://github.com/DoDucMinh1608/mod/blob/master/XO/xoX10.js",
       "state": 2
     },
+    "author": [
+      {
+        "name": "__"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Tae-0sus7FmmGT",
     "about": {
       "url": "https://github.com/DoDucMinh1608/mod/blob/master/XO/xoX10.js"
     },
-    "authors": [
-      {
-        "name": "__"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -1068,22 +1134,24 @@
       "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/murder_mystery.js",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Bhpsngum"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Sry-rLD3FMFGwZ",
     "about": {
       "url": "https://github.com/Bhpsngum/starblast/blob/master/mods/murder_mystery.js"
     },
-    "authors": [
-      {
-        "name": "Bhpsngum"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -1098,22 +1166,24 @@
       "url": "https://github.com/W0lfan/STF/blob/main/archives/main/Starbast%20Arena%20Version%201-09.js",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Naflouille"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Srs-Lt9oqh2Z32",
     "about": {
       "url": "https://github.com/W0lfan/STF/blob/main/archives/main/Starbast%20Arena%20Version%201-09.js"
     },
-    "authors": [
-      {
-        "name": "Naflouille"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -1128,87 +1198,77 @@
       "url": "https://github.com/USDFOD/USDFOD/blob/main/Barracuda%20Series%201.0",
       "state": 2
     },
+    "author": [
+      {
+        "name": "[USDF] OD"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Bds-0SBAcnmIm1",
     "about": {
       "url": "https://github.com/USDFOD/USDFOD/blob/main/Barracuda%20Series%201.0"
     },
-    "authors": [
-      {
-        "name": "[USDF] OD"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Starblast Team Fights",
+    "author": [
+      {
+        "name": "Naflouille"
+      }
+    ],
     "description": "A Team Dueling mod. Strategic duels, shrinking arena, where you can pick only one ship per cycle. Former Starblast Arena.",
     "about": {
       "url": "https://github.com/W0lfan/STF/blob/main/main/stable.js"
     },
     "sesameID": "md-STs-LGK2DmBmpW",
     "templateImage": "https://images-ext-2.discordapp.net/external/TvL2ShzGkNcx1JF3A59GTk5eHvXIsIn8TXxsVSgG2bw/https/repository-images.githubusercontent.com/347675356/196ef3dc-bd2e-461a-923c-10afc73a148a?width=2710&height=1355",
-    "authors": [
-      {
-        "name": "Naflouille"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Meg's Dueling",
+    "author": [
+      {
+        "name": "Megalodon"
+      }
+    ],
     "description": "A dueling mod made by Megalodon.",
     "about": {
       "url": "https://github.com/TheGreatMegalodon/Megalodon-s-dueling-code/blob/main/Meg's%20Dueling%20Official.js"
     },
     "sesameID": "md-Mug-CEkUozGPWK",
-    "templateImage": "https://media.discordapp.net/attachments/701392403554369546/1166089489005957130/LOGO_MegsDueling.png?ex=65493877&is=6536c377&hm=e247c36d250563073cb3871620fc31599b780ae31e1da6fd79ee0ffda1906e43&=&width=612&height=612",
-    "authors": [
+    "templateImage": "https://media.discordapp.net/attachments/701392403554369546/1166089489005957130/LOGO_MegsDueling.png?ex=65493877&is=6536c377&hm=e247c36d250563073cb3871620fc31599b780ae31e1da6fd79ee0ffda1906e43&=&width=612&height=612"
+  },
+  {
+    "name": "Meg's Dueling OP",
+    "author": [
       {
         "name": "Megalodon"
       }
     ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    }
-  },
-  {
-    "name": "Meg's Dueling OP",
     "description": "A dueling mod made by Megalodon.",
     "about": {
       "url": "https://github.com/TheGreatMegalodon/Megalodon-s-dueling-code/blob/main/Meg's%20Dueling%20(Light%20Version).js"
     },
     "sesameID": "md-MeP-BSvSh46pB6",
-    "templateImage": "https://media.discordapp.net/attachments/701392403554369546/1166089489005957130/LOGO_MegsDueling.png?ex=65493877&is=6536c377&hm=e247c36d250563073cb3871620fc31599b780ae31e1da6fd79ee0ffda1906e43&=&width=612&height=612",
-    "authors": [
-      {
-        "name": "Megalodon"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    }
+    "templateImage": "https://media.discordapp.net/attachments/701392403554369546/1166089489005957130/LOGO_MegsDueling.png?ex=65493877&is=6536c377&hm=e247c36d250563073cb3871620fc31599b780ae31e1da6fd79ee0ffda1906e43&=&width=612&height=612"
   },
   {
     "name": "Alien Speedrun",
@@ -1221,22 +1281,24 @@
       "url": "https://github.com/TheGreatMegalodon/Alien-Speedrun/blob/main/Alien-Speedrun.js",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Megalodon"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Apn-lCrIaSHuaP",
     "about": {
       "url": "https://github.com/TheGreatMegalodon/Alien-Speedrun/blob/main/Alien-Speedrun.js"
     },
-    "authors": [
-      {
-        "name": "Megalodon"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -1251,13 +1313,7 @@
       "url": "https://github.com/TheGreatMegalodon/miniSeries/blob/main/mainCode.js",
       "state": 2
     },
-    "official": 0,
-    "event": 0,
-    "sesameID": "md-Mes-mUW06NOgxz",
-    "about": {
-      "url": "https://github.com/TheGreatMegalodon/miniSeries/blob/main/mainCode.js"
-    },
-    "authors": [
+    "author": [
       {
         "name": "Megalodon"
       },
@@ -1268,11 +1324,19 @@
         "name": "Neo Space"
       }
     ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Mes-mUW06NOgxz",
+    "about": {
+      "url": "https://github.com/TheGreatMegalodon/miniSeries/blob/main/mainCode.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -1286,14 +1350,7 @@
       "url": "https://github.com/TheGreatMegalodon/Starblast-Asteroid-War/blob/main/(%20v3.4.2%20)%20SAW%20Modding%20Space%20Code.js",
       "state": 2
     },
-    "official": 0,
-    "event": 0,
-    "sesameID": "md-Aor-MP3exGGVHt",
-    "templateImage": "https://media.discordapp.net/attachments/960124329104900158/1137732157377368136/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313032373535383931323035383230303135352f313036313633343037373839373237333338352f5341575f42616e6e65725f335f636f6c6f725f76657273696f6e2e706e67.png?width=2425&height=1355",
-    "about": {
-      "url": "https://github.com/TheGreatMegalodon/Starblast-Asteroid-War/blob/main/(%20v3.4.2%20)%20SAW%20Modding%20Space%20Code.js"
-    },
-    "authors": [
+    "author": [
       {
         "name": "Megalodon"
       },
@@ -1307,11 +1364,20 @@
         "name": "Nebuleuse"
       }
     ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "official": 0,
+    "event": 0,
+    "sesameID": "md-Aor-MP3exGGVHt",
+    "templateImage": "https://media.discordapp.net/attachments/960124329104900158/1137732157377368136/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313032373535383931323035383230303135352f313036313633343037373839373237333338352f5341575f42616e6e65725f335f636f6c6f725f76657273696f6e2e706e67.png?width=2425&height=1355",
+    "about": {
+      "url": "https://github.com/TheGreatMegalodon/Starblast-Asteroid-War/blob/main/(%20v3.4.2%20)%20SAW%20Modding%20Space%20Code.js"
+    },
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -1326,22 +1392,24 @@
       "url": "https://raw.githubusercontent.com/W0lfan/Sesame/main/database/mods/chat.js",
       "state": 2
     },
+    "author": [
+      {
+        "name": "Halcyon"
+      }
+    ],
     "official": 0,
     "event": 0,
     "sesameID": "md-Sam-DUGpfCPfgK",
     "about": {
       "url": "https://raw.githubusercontent.com/W0lfan/Sesame/main/database/mods/chat.js"
     },
-    "authors": [
-      {
-        "name": "Halcyon"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -1354,22 +1422,24 @@
     "link": {
       "url": "https://raw.githubusercontent.com/W0lfan/SesameAPI/main/database/mods/arena-mod_v3.1.2.js"
     },
+    "author": [
+      {
+        "name": "Nexagon"
+      }
+    ],
     "official": 0,
     "sesameID": "md-AOl-nLgobsBFxg",
     "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/arena-mod-season-2.png?raw=true",
     "about": {
       "url": "https://raw.githubusercontent.com/W0lfan/SesameAPI/main/database/mods/arena-mod_v3.1.2.js"
     },
-    "authors": [
-      {
-        "name": "Nexagon"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -1382,22 +1452,24 @@
     "link": {
       "url": "https://github.com/Modraxis/Overpowered-Speedster/blob/main/Overpowered%20Speedster%20mod%20code.JS"
     },
+    "author": [
+      {
+        "name": "Basit"
+      }
+    ],
     "official": 0,
     "sesameID": "md-Odr-2BYw4beExh",
     "templateImage": "https://github.com/Modraxis/Overpowered-Speedster/assets/117416934/ed295f76-3752-4126-a8fe-b53de94509c5",
     "about": {
       "url": "https://github.com/Modraxis/Overpowered-Speedster/blob/main/Overpowered%20Speedster%20mod%20code.JS"
     },
-    "authors": [
-      {
-        "name": "Basit"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -1411,21 +1483,23 @@
     "link": {
       "url": "https://github.com/Bhpsngum/StarblastTagMode/blob/master/StarblastTagMode.js"
     },
+    "author": [
+      {
+        "name": "Bhpsngum"
+      }
+    ],
     "official": 0,
     "sesameID": "md-Ssd-adfKzRLlRh",
     "about": {
       "url": "https://github.com/Bhpsngum/StarblastTagMode/blob/master/StarblastTagMode.js"
     },
-    "authors": [
-      {
-        "name": "Bhpsngum"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -1439,21 +1513,23 @@
     "link": {
       "url": "https://github.com/AlbieMorrison/Insect_Mod"
     },
+    "author": [
+      {
+        "name": "AlbieMorrison"
+      }
+    ],
     "official": 0,
     "sesameID": "md-SId-jAFA4jSjGo",
     "about": {
       "url": "https://github.com/AlbieMorrison/Insect_Mod"
     },
-    "authors": [
-      {
-        "name": "AlbieMorrison"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -1467,21 +1543,23 @@
     "link": {
       "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/mining_mod.js"
     },
+    "author": [
+      {
+        "name": "naflouille"
+      }
+    ],
     "official": 0,
     "sesameID": "md-SMd-8v6aUQdmzO",
     "about": {
       "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/mining_mod.js"
     },
-    "authors": [
-      {
-        "name": "naflouille"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -1495,21 +1573,23 @@
     "link": {
       "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/stats_dueling_mod.js"
     },
+    "author": [
+      {
+        "name": "naflouille"
+      }
+    ],
     "official": 0,
     "sesameID": "md-Qtd-YHnw0ZKpwc",
     "about": {
       "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/stats_dueling_mod.js"
     },
-    "authors": [
-      {
-        "name": "naflouille"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -1523,21 +1603,23 @@
     "link": {
       "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/taupe_v_0.0.1.js"
     },
+    "author": [
+      {
+        "name": "naflouille"
+      }
+    ],
     "official": 0,
     "sesameID": "md-Ted-zIgvApOuka",
     "about": {
       "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/taupe_v_0.0.1.js"
     },
-    "authors": [
-      {
-        "name": "naflouille"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
@@ -1551,43 +1633,38 @@
     "link": {
       "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/opt%20mining%20mod.js"
     },
+    "author": [
+      {
+        "name": "__"
+      }
+    ],
     "official": 0,
     "sesameID": "md-OMd-GWxT9ZQCyG",
     "about": {
       "url": "https://github.com/W0lfan/Starblast-code-snippets/blob/main/opt%20mining%20mod.js"
     },
-    "authors": [
-      {
-        "name": "__"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
+    "processus": {
+      "shadowBan": {
+        "state": false,
+        "informations": {
+          "author": "",
+          "date": ""
+        }
       }
     }
   },
   {
     "name": "Malefic Expanse",
+    "author": [
+      {
+        "name": "Malefor"
+      }
+    ],
     "description": "This is Malefic Expanse, it's a mix of 4 different ship trees: U-Series, Malefic & Majestic Series, H-Series, X-Series",
     "about": {
       "url": "https://raw.githubusercontent.com/W0lfan/SesameAPI/main/database/mods/Malefic_Expanse.js"
     },
     "sesameID": "md-XXX-t3CjncdzzK",
-    "templateImage": "",
-    "authors": [
-      {
-        "name": "Malefor"
-      }
-    ],
-    "shadowBan": {
-      "state": false,
-      "informations": {
-        "author": "",
-        "date": ""
-      }
-    }
+    "templateImage": ""
   }
 ]
