@@ -4147,5 +4147,40 @@
         }
       }
     }
+  },
+  {
+    "name": "Caramel",
+    "description": "He made the seasonal Fall 2023 badge - Retro.",
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": "catramel"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
+    "about": {
+      "isStaff": true,
+      "isModder": false,
+      "isUCP": false,
+      "isContrib": true,
+      "isSesame": false
+    },
+    "sesameID": "usr-XXX-W5EF6cAnV4",
+    "templateImage": "https://cdn.discordapp.com/avatars/776345618649448518/33a09e35055d0e63e94cf39c5262b5ba?size=256"
   }
 ]
