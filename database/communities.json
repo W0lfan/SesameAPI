@@ -922,5 +922,30 @@
     },
     "sesameID": "cmnt-XXX-3Ty9SAuIGd",
     "templateImage": "https://cdn.discordapp.com/icons/1160662840932315268/83d87085663067db539964a29e341210.webp?size=512"
+  },
+  {
+    "name": "Ether",
+    "author": [
+      {
+        "name": "Nok"
+      }
+    ],
+    "description": "",
+    "content": [
+      ""
+    ],
+    "tag": [
+      ""
+    ],
+    "language": "French, English",
+    "server": "EU",
+    "active": true,
+    "birth": "",
+    "links": {
+      "join": "https://discord.gg/zgpQ7Aygt3",
+      "youtube": ""
+    },
+    "sesameID": "cmnt-XXX-nd8KoORnAF",
+    "templateImage": "https://media.discordapp.net/attachments/1160278738357985423/1171853397486469240/EtherNOK2.png?ex=655e3085&is=654bbb85&hm=1a2de66c1080d0930eccb5c5264c1c427a63ec624d9ad7edaa379be0e8b1e7c2&=&width=1180&height=1177"
   }
 ]
