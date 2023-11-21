@@ -4206,5 +4206,40 @@
     },
     "sesameID": "usr-XXX-Tp5fc4SRUR",
     "templateImage": "https://starblast.io/ecp/dev.png"
+  },
+  {
+    "name": "Xtra",
+    "description": "I am new and I don't know too much about the SESAME.",
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": "xtra.star"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@Xtra0158"
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
+    "about": {
+      "isStaff": false,
+      "isModder": false,
+      "isUCP": false,
+      "isContrib": false,
+      "isSesame": false
+    },
+    "sesameID": "usr-XXX-PtT6ZR3Bnk",
+    "templateImage": "https://cdn.discordapp.com/avatars/1076600372040314901/4c22911eaf14a59059c71ca4df1e583d?size=1024"
   }
 ]
