@@ -4171,5 +4171,40 @@
     },
     "sesameID": "usr-XXX-W5EF6cAnV4",
     "templateImage": "https://raw.githubusercontent.com/rithyn/rithy-archive/main/pictures/ucp/Catramel.jpg"
+  },
+  {
+    "name": "Mattamore",
+    "description": "Other starblast Developer.",
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": ""
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
+    "about": {
+      "isStaff": "",
+      "isModder": "",
+      "isUCP": true,
+      "isContrib": true,
+      "isSesame": ""
+    },
+    "sesameID": "usr-XXX-Tp5fc4SRUR",
+    "templateImage": "https://starblast.io/ecp/dev.png"
   }
 ]
