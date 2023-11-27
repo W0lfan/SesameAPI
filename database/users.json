@@ -267,6 +267,7 @@
   },
   {
     "name": "Hazard",
+    "description": "Interested on dueling and modding.",
     "links": [
       {
         "id": "github",
@@ -279,6 +280,14 @@
       {
         "id": "youtube",
         "src": "https://www.youtube.com/channel/UCvfCfzSx1qXKA9IIa5DelRw"
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
       }
     ],
     "about": {
@@ -286,21 +295,10 @@
       "isModder": false,
       "isUCP": false,
       "isContrib": false,
-      "isSesame": false,
-      "isFormerStaff": false,
-      "isShipBuilder": false
+      "isSesame": false
     },
     "sesameID": "usr-HAD-mAFkeTbvE9",
-    "templateImage": "https://avatars.githubusercontent.com/u/118680841?v=4",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "templateImage": "https://avatars.githubusercontent.com/u/118680841?v=4"
   },
   {
     "name": "LX",
