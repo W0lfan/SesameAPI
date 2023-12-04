@@ -4239,5 +4239,40 @@
     },
     "sesameID": "usr-XXX-PtT6ZR3Bnk",
     "templateImage": "https://cdn.discordapp.com/avatars/1076600372040314901/4c22911eaf14a59059c71ca4df1e583d?size=1024"
+  },
+  {
+    "name": "ArC_5470p3_",
+    "description": "",
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": "5470p3_"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/channel/UCSQ4LOBsNmgvybzOKg3KLww"
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
+    "about": {
+      "isStaff": false,
+      "isModder": false,
+      "isUCP": true,
+      "isContrib": true,
+      "isSesame": false
+    },
+    "sesameID": "usr-XXX-L7bvx0ADiU",
+    "templateImage": "https://starblast.io/ecp/mikr.jpg"
   }
 ]
