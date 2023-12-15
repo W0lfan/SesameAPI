@@ -30,13 +30,10 @@ Once the commit is complete, go to  [Sesame](https://w0lfan.github.io/sesame/) a
 
 # Resources
 [![Sesame Website](https://img.shields.io/badge/Sesame-Website-red?logo=website&color=%23FF0000
-)](https://w0lfan.github.io/sesame/)
+)](https://naflouille-creations.com/sesame/)
 
 [![Sesame Discord](https://img.shields.io/badge/Sesame-Discord_server-darkblue?logo=discord
 )](https://discord.gg/s5RPP2CCrd)
-
-[![Sesame GitHub](https://img.shields.io/badge/Sesame-GitHub-white?logo=github
-)](https://github.com/W0lfan/W0lfan.github.io/tree/main/sesame)
 
 [![Sesame GitHub](https://img.shields.io/badge/Sesame_Database-Github-white?logo=github
 )](https://github.com/W0lfan/sesame)
