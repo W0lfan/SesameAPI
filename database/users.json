@@ -4274,5 +4274,40 @@
     },
     "sesameID": "usr-XXX-L7bvx0ADiU",
     "templateImage": "https://starblast.io/ecp/mikr.jpg"
+  },
+  {
+    "name": "Pell",
+    "description": "",
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": "im_pell"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
+    "about": {
+      "isStaff": true,
+      "isModder": false,
+      "isUCP": true,
+      "isContrib": true,
+      "isSesame": false
+    },
+    "sesameID": "usr-XXX-fpUYOYcq6D",
+    "templateImage": "https://starblast.io/ecp/pell.jpg"
   }
 ]
