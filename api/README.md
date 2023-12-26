@@ -1,8 +1,14 @@
 # Sesame API
+[![Sesame](https://img.shields.io/badge/Sesame-red.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iNTEyLjAwMDAwMHB0IiBoZWlnaHQ9IjUxMi4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDUxMi4wMDAwMDAgNTEyLjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgoKPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsNTEyLjAwMDAwMCkgc2NhbGUoMC4xMDAwMDAsLTAuMTAwMDAwKSIKZmlsbD0iIzAwMDAwMCIgc3Ryb2tlPSJub25lIj4KPHBhdGggZD0iTTIxNzUgNDY1NSBjLTE4IC0xNyAtMjUgLTM1IC0yNSAtNjAgMCAtMjIgOTYgLTMxNSAyMzYgLTcxOCAxMzAKLTM3NSAzODQgLTExMTggNTY0IC0xNjUyIDQyMyAtMTI1MyA1NjIgLTE2NDEgNjAxIC0xNjc3IGwyOSAtMjggNDcxIDAgNDcxIDAKMjkgMjkgYzIwIDIwIDI5IDM5IDI5IDYxIDAgMTcgLTcyIDIyMyAtMTU5IDQ1OCAtMTQyMCAzODA4IC0xMzI3IDM1NjIgLTEzNTMKMzU4OSBsLTIxIDIzIC00MjQgMCAtNDI0IDAgLTI0IC0yNXoiLz4KPHBhdGggZD0iTTE2MzAgMzM3NyBjLTIyIC0xMSAtNTcgLTk5IC0yNjEgLTY0MiAtNjYyIC0xNzY5IC03NzkgLTIwOTEgLTc3OQotMjEyOCAwIC0yOCA3IC00NCAyNiAtNjIgbDI3IC0yNSA0NjMgMCA0NjMgMCAyNSAyMyBjMzAgMjYgMTcxIDQxNCA0MTUgMTE0OQpsMTUzIDQ1OCAtMTk0IDU5MiBjLTIwOSA2NDMgLTIxMSA2NDggLTI4MCA2NDggLTE4IDAgLTQ0IC02IC01OCAtMTN6Ii8+CjwvZz4KPC9zdmc+Cg==)](https://naflouille-creations.com/sesame)
+
 
 ## About
 
 The Sesame API provides seamless access to all Sesame data in the most user-friendly manner. Our mission is to make our data easily accessible to everyone and enhance their data viewing experience. The API, accessible at [building.js](https://raw.githubusercontent.com/W0lfan/Sesame/main/api/building.js), empowers users to effortlessly retrieve valuable information from our database.
+
+Note: To use the api in a NodeJS script, you can use the api's npm package
+
+[![Sesame API Package](https://img.shields.io/npm/v/sesame-api.svg?logo=npm)](https://npmjs.com/sesame-api)
 
 
 ## Download
