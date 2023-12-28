@@ -4309,5 +4309,40 @@
     },
     "sesameID": "usr-XXX-fpUYOYcq6D",
     "templateImage": "https://starblast.io/ecp/pell.jpg"
+  },
+  {
+    "name": "Iridium Ore ",
+    "description": "",
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": "doctorcalico"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
+    "about": {
+      "isStaff": false,
+      "isModder": false,
+      "isUCP": true,
+      "isContrib": false,
+      "isSesame": false
+    },
+    "sesameID": "usr-XXX-Dp1pS4CvMs",
+    "templateImage": "https://starblast.io/ecp/iridium_ore.jpg"
   }
 ]
