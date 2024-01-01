@@ -3380,7 +3380,7 @@
   },
   {
     "name": "paralx",
-    "description": "Author of \"Argon\", which is the music for pro deathmatch and other mods like U-Series. Has translated starblast into Swedish.",
+    "description": "",
     "links": [
       {
         "id": "github",
@@ -3408,7 +3408,7 @@
       "isModder": false,
       "isUCP": true,
       "isContrib": true,
-      "isSesame": "undefined"
+      "isSesame": false
     },
     "sesameID": "usr-PAX-KmrRN7FboD",
     "templateImage": "https://starblast.io/ecp/paralx.jpg"
