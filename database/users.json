@@ -3380,7 +3380,12 @@
   },
   {
     "name": "paralx",
+    "description": "Author of \"Argon\", which is the music for pro deathmatch and other mods like U-Series. Has translated starblast into Swedish.",
     "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
       {
         "id": "discord",
         "src": "v4lp"
@@ -3388,6 +3393,10 @@
       {
         "id": "youtube",
         "src": "https://www.youtube.com/@voyagerjs/featured"
+      },
+      {
+        "id": "reddit",
+        "src": ""
       },
       {
         "id": "spotify",
@@ -3399,21 +3408,10 @@
       "isModder": false,
       "isUCP": true,
       "isContrib": true,
-      "isAdmin": false,
-      "isFormerStaff": false,
-      "isShipBuilder": false
+      "isSesame": "undefined"
     },
     "sesameID": "usr-PAX-KmrRN7FboD",
-    "templateImage": "https://starblast.io/ecp/paralx.jpg",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "templateImage": "https://starblast.io/ecp/paralx.jpg"
   },
   {
     "name": "Anos",
