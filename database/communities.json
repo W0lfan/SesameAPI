@@ -947,5 +947,30 @@
     },
     "sesameID": "cmnt-XXX-nd8KoORnAF",
     "templateImage": "https://media.discordapp.net/attachments/1160278738357985423/1171853397486469240/EtherNOK2.png?ex=655e3085&is=654bbb85&hm=1a2de66c1080d0930eccb5c5264c1c427a63ec624d9ad7edaa379be0e8b1e7c2&=&width=1180&height=1177"
+  },
+  {
+    "name": "HLC Server",
+    "author": [
+      {
+        "name": "halcyon"
+      }
+    ],
+    "description": "",
+    "content": [
+      ""
+    ],
+    "tag": [
+      ""
+    ],
+    "language": "English",
+    "server": "International",
+    "active": true,
+    "birth": "07/12/2023",
+    "links": {
+      "join": "https://discord.gg/mMrvxg6Y",
+      "youtube": ""
+    },
+    "sesameID": "cmnt-XXX-lQmNdK0SdX",
+    "templateImage": "https://cdn.discordapp.com/icons/1182350323680038962/eb86ee07e4960644c0dc8b4d2a78768e.webp?size=512&format=webp&width=0&height=0"
   }
 ]
