@@ -4377,5 +4377,40 @@
     },
     "sesameID": "usr-XXX-Mj4TzIXYGE",
     "templateImage": "https://starblast.io/ecp/destroy.png"
+  },
+  {
+    "name": "Nanoray",
+    "description": "",
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": "h.alcyon"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
+    "about": {
+      "isStaff": false,
+      "isModder": false,
+      "isUCP": false,
+      "isContrib": false,
+      "isSesame": false
+    },
+    "sesameID": "usr-XXX-5bWB1FF7Fy",
+    "templateImage": "https://cdn.discordapp.com/avatars/431422344875999232/c9bdb103c44a082166d267ab27b270aa.webp?size=1024&format=webp&width=0&height=256"
   }
 ]
