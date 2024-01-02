@@ -2094,7 +2094,8 @@
     }
   },
   {
-    "name": "Halcyon",
+    "name": "Nanoray aka Halcyon",
+    "description": "",
     "links": [
       {
         "id": "github",
@@ -2103,6 +2104,18 @@
       {
         "id": "discord",
         "src": "h.alcyon"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
       }
     ],
     "about": {
@@ -2110,21 +2123,10 @@
       "isModder": false,
       "isUCP": false,
       "isContrib": false,
-      "isSesame": false,
-      "isFormerStaff": false,
-      "isShipBuilder": false
+      "isSesame": false
     },
     "sesameID": "usr-HCN-KWnQf05ZWl",
-    "templateImage": "https://avatars.githubusercontent.com/u/111774390?v=4",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "templateImage": "https://avatars.githubusercontent.com/u/111774390?v=4"
   },
   {
     "name": "Leader",
