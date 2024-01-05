@@ -146,7 +146,7 @@
   },
   {
     "name": "PMGL",
-    "description": "Starblast Developer. Owner of Starblast and Neuronality.",
+    "description": "",
     "links": [
       {
         "id": "github",
@@ -174,21 +174,10 @@
       "isModder": true,
       "isUCP": true,
       "isContrib": true,
-      "isSesame": false,
-      "isFormerStaff": false,
-      "isShipBuilder": false
+      "isSesame": false
     },
     "sesameID": "usr-PGL-LUG7myiPqA",
-    "templateImage": "https://avatars.githubusercontent.com/u/17835059?v=4",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "templateImage": "https://avatars.githubusercontent.com/u/17835059?v=4"
   },
   {
     "name": "45rfew",
