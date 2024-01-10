@@ -3953,7 +3953,7 @@
   },
   {
     "name": "Destroy",
-    "description": "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",
+    "description": "Major Wiki contributor and Discord moderator",
     "links": [
       {
         "id": "github",
@@ -3981,7 +3981,7 @@
       "isModder": false,
       "isUCP": true,
       "isContrib": false,
-      "isSesame": "undefined"
+      "isSesame": "false"
     },
     "sesameID": "usr-DTY-wRwprWKsYw",
     "templateImage": "https://starblast.io/ecp/destroy.png"
