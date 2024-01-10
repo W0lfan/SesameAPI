@@ -4333,40 +4333,5 @@
     },
     "sesameID": "usr-XXX-Dp1pS4CvMs",
     "templateImage": "https://starblast.io/ecp/iridium_ore.jpg"
-  },
-  {
-    "name": "Destroy",
-    "description": "",
-    "links": [
-      {
-        "id": "github",
-        "src": ""
-      },
-      {
-        "id": "discord",
-        "src": "DragonFruit#1768"
-      },
-      {
-        "id": "youtube",
-        "src": ""
-      },
-      {
-        "id": "reddit",
-        "src": "https://www.reddit.com/user/DestroyerFruit"
-      },
-      {
-        "id": "spotify",
-        "src": "https://open.spotify.com/user/dyayk0s1ou0x82t7qhy7antb5?si=96da2562c85847c8"
-      }
-    ],
-    "about": {
-      "isStaff": true,
-      "isModder": false,
-      "isUCP": true,
-      "isContrib": true,
-      "isSesame": false
-    },
-    "sesameID": "usr-XXX-Mj4TzIXYGE",
-    "templateImage": "https://starblast.io/ecp/destroy.png"
   }
 ]
