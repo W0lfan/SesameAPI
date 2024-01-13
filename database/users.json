@@ -104,6 +104,7 @@
   },
   {
     "name": "Megalodon",
+    "description": "French player and starblast coder. A respected and skilled member of the comunity once was the best european player and now retired. The leader of multiple starblast groups like the 'FR team' or 'PSclan'.",
     "links": [
       {
         "id": "github",
@@ -118,31 +119,23 @@
         "src": "https://youtube.com/@MEGALODON_Channel"
       },
       {
+        "id": "reddit",
+        "src": ""
+      },
+      {
         "id": "spotify",
         "src": "https://open.spotify.com/user/yvg7p760iekwajh3imqethhmx?si=00d1c281902142c9"
       }
     ],
-    "description": "French player and starblast coder. A respected and skilled member of the comunity once was the best european player and now retired. The leader of multiple starblast groups like the 'FR team' or 'FA clan'.",
     "about": {
       "isStaff": false,
       "isModder": false,
       "isUCP": false,
       "isContrib": true,
-      "isSesame": false,
-      "isFormerStaff": false,
-      "isShipBuilder": false
+      "isSesame": false
     },
     "sesameID": "usr-MLN-aYHlV7DC18",
-    "templateImage": "https://cdn.discordapp.com/attachments/929812373810847854/1138074318656516106/sharkyyyyyyyyyyy.png",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "templateImage": "https://cdn.discordapp.com/attachments/929812373810847854/1138074318656516106/sharkyyyyyyyyyyy.png"
   },
   {
     "name": "PMGL",
