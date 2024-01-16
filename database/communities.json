@@ -972,5 +972,42 @@
     },
     "sesameID": "cmnt-XXX-lQmNdK0SdX",
     "templateImage": "https://cdn.discordapp.com/icons/1182350323680038962/eb86ee07e4960644c0dc8b4d2a78768e.webp?size=512&format=webp&width=0&height=0"
+  },
+  {
+    "name": "USH™ REBELLION",
+    "author": [
+      {
+        "name": "LX"
+      },
+      {
+        "name": " Hazard"
+      },
+      {
+        "name": " iom"
+      },
+      {
+        "name": " Glitch"
+      },
+      {
+        "name": " TwiDash"
+      }
+    ],
+    "description": "Their aim is to counter the stackers in GotN Europe.",
+    "content": [
+      ""
+    ],
+    "tag": [
+      "❈ "
+    ],
+    "language": "English",
+    "server": "Europe",
+    "active": true,
+    "birth": "24/04/2022",
+    "links": {
+      "join": "https://discord.gg/7ZXK9hgHnw",
+      "youtube": ""
+    },
+    "sesameID": "cmnt-XXX-EjnbgyUhTT",
+    "templateImage": "https://cdn.discordapp.com/icons/967833248120057947/56e4c1f30f77d9c8b6cd5a080b60a56d.webp?size=4096"
   }
 ]
