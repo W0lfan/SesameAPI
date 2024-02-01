@@ -357,5 +357,17 @@
         }
       }
     }
+  },
+  {
+    "name": "Halcyon's UI Designer",
+    "author": [
+      {
+        "name": "Halcyon"
+      }
+    ],
+    "description": "",
+    "sesameID": "cds-XXX-ZOPyVsAwGy",
+    "open": "",
+    "code": ""
   }
 ]
