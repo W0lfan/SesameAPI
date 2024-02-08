@@ -4363,5 +4363,32 @@
     },
     "sesameID": "usr-XXX-Mj4TzIXYGE",
     "templateImage": "https://starblast.io/ecp/destroy.png"
-  }
+  },
+  {
+      "name": "official_troller",
+      "description": "Average ChatGPT user, trying to code with JS, HTML and CSS, Sky2Fly Moderator, Modder, Loser",
+      "links": [
+        {
+          "id": "github",
+          "src": "https://github.com/officialtroller"
+        },
+        {
+          "id": "discord",
+          "src": "official_troller"
+        },
+        {
+          "id": "youtube",
+          "src": "https://www.youtube.com/@officialtroller5425"
+        }
+      ],
+      "about": {
+        "isStaff": false,
+        "isModder": false,
+        "isUCP": false,
+        "isContrib": false,
+        "isSesame": false
+      },
+      "sesameID": "",
+      "templateImage": "https://avatars.githubusercontent.com/u/127138313?v=4"
+    }
 ]
