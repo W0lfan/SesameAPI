@@ -10,6 +10,8 @@ Note: To use the api in a NodeJS script, you can use the api's npm package
 
 [![Sesame API Package](https://img.shields.io/npm/v/sesame-api.svg?logo=npm)](https://npmjs.com/sesame-api)
 
+[![NPM](https://nodei.co/npm/sesame-api.png)](https://nodei.co/npm/sesame-api/)
+
 
 ## Download
 ## Using Sesame API in Your JavaScript File
