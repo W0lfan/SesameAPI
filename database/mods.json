@@ -1342,44 +1342,26 @@
   },
   {
     "name": "Asteroid War",
-    "abvrt": "SAW",
-    "version": "",
-    "description": "Starblast Asteroid War is a team-based game in which players must battle for survival against perilous asteroid waves and cunning alien adversaries. The inclusion of our new custom ship tree introduces fresh gameplay elements, and the game offers an extensive selection of collectibles as rewards. It is imperative to avoid falling victim to our formidable adversary, the Saucer, often referred to as the 'King of Asteroids.' Defeating this foe bestows a substantial advantage upon the ennemy teams. And guess what.. This is only the beginning!",
-    "modes": "",
-    "link": {
-      "url": "https://github.com/TheGreatMegalodon/Starblast-Asteroid-War/blob/main/(%20v3.4.2%20)%20SAW%20Modding%20Space%20Code.js",
-      "state": 2
-    },
     "author": [
       {
         "name": "Megalodon"
       },
       {
-        "name": "LX"
+        "name": " LX"
       },
       {
-        "name": "Hazard"
+        "name": " Hazard"
       },
       {
-        "name": "Nebuleuse"
+        "name": " Nebuleuse"
       }
     ],
-    "official": 0,
-    "event": 0,
-    "sesameID": "md-Aor-MP3exGGVHt",
-    "templateImage": "https://media.discordapp.net/attachments/960124329104900158/1137732157377368136/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313032373535383931323035383230303135352f313036313633343037373839373237333338352f5341575f42616e6e65725f335f636f6c6f725f76657273696f6e2e706e67.png?width=2425&height=1355",
+    "description": "Starblast Asteroid War is a team-based game in which players must battle for survival against perilous asteroid waves and cunning alien adversaries. The inclusion of our new custom ship tree introduces fresh gameplay elements, and the game offers an extensive selection of collectibles as rewards. It is imperative to avoid falling victim to our formidable adversary, the Saucer, often referred to as the 'King of Asteroids.' Defeating this foe bestows a substantial advantage upon the ennemy teams. And guess what.. This is only the beginning!",
     "about": {
-      "url": "https://github.com/TheGreatMegalodon/Starblast-Asteroid-War/blob/main/(%20v3.4.2%20)%20SAW%20Modding%20Space%20Code.js"
+      "url": ""
     },
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "sesameID": "md-Aor-MP3exGGVHt",
+    "templateImage": "https://media.discordapp.net/attachments/960124329104900158/1137732157377368136/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313032373535383931323035383230303135352f313036313633343037373839373237333338352f5341575f42616e6e65725f335f636f6c6f725f76657273696f6e2e706e67.png?width=2425&height=1355"
   },
   {
     "name": "Starblast Chatting System",
