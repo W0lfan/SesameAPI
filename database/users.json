@@ -67,7 +67,7 @@
       "isSesame": true
     },
     "sesameID": "usr-NUE-XrwWHCTUWX",
-    "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1138081934531117086/1691408578172.jpg?width=1292&height=1355"
+    "templateImage": "https://avatars.githubusercontent.com/w0lfan"
   },
   {
     "name": "Nexagon",
@@ -135,7 +135,7 @@
       "isSesame": false
     },
     "sesameID": "usr-MLN-aYHlV7DC18",
-    "templateImage": "https://cdn.discordapp.com/attachments/929812373810847854/1138074318656516106/sharkyyyyyyyyyyy.png"
+    "templateImage": "https://avatars.githubusercontent.com/u/69216391?v=4"
   },
   {
     "name": "PMGL",
@@ -1426,21 +1426,10 @@
       "isModder": false,
       "isUCP": false,
       "isContrib": false,
-      "isSesame": false,
-      "isFormerStaff": false,
-      "isShipBuilder": false
+      "isSesame": false
     },
     "sesameID": "usr-GTH-xHd7AAKMXy",
-    "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1163187279163043890/4c69670c280382b5dd86c2c81d40db58.webp?ex=653ea992&is=652c3492&hm=2dd15b25873da450396fd5921c072af12dab9ccb38d2a51db967536faf2ccfd2&=",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "templateImage": "https://cdn.discordapp.com/avatars/467860839076986881/1ad2eec9c94128fbc05f0e6994d9ba28.webp?size=1024&format=webp&width=0&height=256"
   },
   {
     "name": "Dark Shadow Evil",
@@ -1798,7 +1787,12 @@
   },
   {
     "name": "Anchar",
+    "description": "",
     "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
       {
         "id": "discord",
         "src": "anchar_"
@@ -1806,6 +1800,14 @@
       {
         "id": "youtube",
         "src": "https://youtube.com/@anchar_"
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
       }
     ],
     "about": {
@@ -1813,21 +1815,10 @@
       "isModder": false,
       "isUCP": false,
       "isContrib": false,
-      "isSesame": false,
-      "isFormerStaff": false,
-      "isShipBuilder": false
+      "isSesame": false
     },
     "sesameID": "usr-AHR-Btz6Zpj4rg",
-    "templateImage": "https://yt3.googleusercontent.com/cRWMQ0p8oqvSdZhJWkOXennE9yR2YTESR_SozGkNE3oJ0IilAiXkkENpTKiAnRM5dVZkA1vQ=s176-c-k-c0x00ffffff-no-rj",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "templateImage": "https://cdn.discordapp.com/avatars/764142188036227072/67fe6219a9b1bd374fcc9dcfa9dcb7fd.webp?size=1024&format=webp&width=0&height=256"
   },
   {
     "name": "Sciences",
@@ -2112,10 +2103,27 @@
   },
   {
     "name": "Leader",
+    "description": "",
     "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
       {
         "id": "discord",
         "src": "solomon666"
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
       }
     ],
     "about": {
@@ -2123,20 +2131,10 @@
       "isModder": false,
       "isUCP": false,
       "isContrib": true,
-      "isFormerStaff": false,
-      "isShipBuilder": false
+      "isSesame": "undefined"
     },
     "sesameID": "usr-LDR-4QpmKFP6Zz",
-    "templateImage": "https://media.discordapp.net/attachments/948927227087687762/1043600853245886554/images_1.jpg?width=1355&height=1355",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "templateImage": "https://media.discordapp.net/attachments/948927227087687762/1043600853245886554/images_1.jpg?width=1355&height=1355"
   },
   {
     "name": "Iran",
@@ -4365,30 +4363,30 @@
     "templateImage": "https://starblast.io/ecp/destroy.png"
   },
   {
-      "name": "official_troller",
-      "description": "Average ChatGPT user, trying to code with JS, HTML and CSS, Sky2Fly Moderator, Modder, Loser",
-      "links": [
-        {
-          "id": "github",
-          "src": "https://github.com/officialtroller"
-        },
-        {
-          "id": "discord",
-          "src": "official_troller"
-        },
-        {
-          "id": "youtube",
-          "src": "https://www.youtube.com/@officialtroller5425"
-        }
-      ],
-      "about": {
-        "isStaff": false,
-        "isModder": false,
-        "isUCP": false,
-        "isContrib": false,
-        "isSesame": false
+    "name": "official_troller",
+    "description": "Average ChatGPT user, trying to code with JS, HTML and CSS, Sky2Fly Moderator, Modder, Loser",
+    "links": [
+      {
+        "id": "github",
+        "src": "https://github.com/officialtroller"
       },
-      "sesameID": "",
-      "templateImage": "https://avatars.githubusercontent.com/u/127138313?v=4"
-    }
+      {
+        "id": "discord",
+        "src": "official_troller"
+      },
+      {
+        "id": "youtube",
+        "src": "https://www.youtube.com/@officialtroller5425"
+      }
+    ],
+    "about": {
+      "isStaff": false,
+      "isModder": false,
+      "isUCP": false,
+      "isContrib": false,
+      "isSesame": false
+    },
+    "sesameID": "",
+    "templateImage": "https://avatars.githubusercontent.com/u/127138313?v=4"
+  }
 ]
