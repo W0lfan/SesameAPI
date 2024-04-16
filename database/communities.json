@@ -54,24 +54,15 @@
       ""
     ],
     "language": "",
-    "server": "",
+    "server": "International",
     "active": true,
     "birth": "",
     "links": {
-      "join": "https://discord.gg/E3zMKDDXzx",
+      "join": "https://discord.gg/wtvGdj43F7",
       "youtube": "undefined"
     },
     "sesameID": "cmnt-Nes-PG9eSkOFme",
-    "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1145310535387201536/Design_sans_titre_13.png?width=2407&height=1354",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "templateImage": "https://cdn.discordapp.com/icons/1140212883343544451/5797cec70202ebdf4c995125bbc2a245.webp?size=512&format=webp&width=0&height=0"
   },
   {
     "name": "Game Of The Night (GOTN)",
@@ -261,44 +252,37 @@
   },
   {
     "name": "SAW Starblast",
-    "tag": [],
-    "language": [],
-    "server": "",
-    "active": true,
-    "birth": "",
-    "content": [
-      "Asteroid War"
-    ],
-    "links": {
-      "join": "https://discord.gg/NZw52JGdU9",
-      "youtube": "unknown"
-    },
-    "sesameID": "cmnt-Srt-f1AjyYbNIM",
-    "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1145741630717038753/dcad31dcc24e78944ddf4a4aaf7da7c4.webp?width=540&height=540",
-    "description": "The Official Starblast Asteroid War Discord server.",
     "author": [
       {
         "name": "LX"
       },
       {
-        "name": "Megalodon"
+        "name": " Megalodon"
       },
       {
-        "name": "Nebuleuse"
+        "name": " Nebuleuse"
       },
       {
-        "name": "Hazard"
+        "name": " Hazard"
       }
     ],
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
+    "description": "The Official Starblast Asteroid War Discord server.",
+    "content": [
+      "Asteroid War"
+    ],
+    "tag": [
+      ""
+    ],
+    "language": "",
+    "server": "",
+    "active": true,
+    "birth": "",
+    "links": {
+      "join": "https://discord.gg/NZw52JGdU9",
+      "youtube": "unknown"
+    },
+    "sesameID": "cmnt-Srt-f1AjyYbNIM",
+    "templateImage": "https://cdn.discordapp.com/icons/1027303048525123625/a_dcad31dcc24e78944ddf4a4aaf7da7c4.gif?size=512&width=0&height=0"
   },
   {
     "name": "Starblast Invasion War",
@@ -812,40 +796,6 @@
     }
   },
   {
-    "name": "Sesame Support",
-    "author": [
-      {
-        "name": "naflouille"
-      }
-    ],
-    "description": "The official Sesame discord server.",
-    "content": [
-      ""
-    ],
-    "tag": [
-      ""
-    ],
-    "language": "English",
-    "server": "International",
-    "active": true,
-    "birth": "",
-    "links": {
-      "join": "https://discord.gg/sYjjjJ6QQV",
-      "youtube": ""
-    },
-    "sesameID": "cmnt-XXX-wHZEVxS6fo",
-    "templateImage": "https://media.discordapp.net/attachments/951567105596207169/1163451049282129960/nafcreations.png?ex=653f9f3a&is=652d2a3a&hm=d5f5299049baeeb27687cd6c476b5554d75f401211e3c029cdb7194d0056375b&=&width=473&height=473",
-    "processus": {
-      "shadowBan": {
-        "state": false,
-        "informations": {
-          "author": "",
-          "date": ""
-        }
-      }
-    }
-  },
-  {
     "name": "Starblast Cheat Archive",
     "author": [
       {
@@ -980,16 +930,16 @@
         "name": "LX"
       },
       {
-        "name": "  Hazard"
+        "name": "   Hazard"
       },
       {
-        "name": "  iom"
+        "name": "   iom"
       },
       {
-        "name": "  Glitch"
+        "name": "   Glitch"
       },
       {
-        "name": "  TwiDash"
+        "name": "   TwiDash"
       }
     ],
     "description": "Their aim is to counter the stackers in GotN Europe.",
@@ -1008,6 +958,6 @@
       "youtube": ""
     },
     "sesameID": "cmnt-XXX-EjnbgyUhTT",
-    "templateImage": "https://cdn.discordapp.com/icons/967833248120057947/56e4c1f30f77d9c8b6cd5a080b60a56d.webp?size=4096"
+    "templateImage": "https://cdn.discordapp.com/icons/967833248120057947/7999c53bcc5eda28c1f82bb0f9ab76f2.webp?size=1024&format=webp&width=0&height=256"
   }
 ]
