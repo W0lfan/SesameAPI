@@ -1648,5 +1648,19 @@
     },
     "sesameID": "md-XXX-t3CjncdzzK",
     "templateImage": ""
+  },
+  {
+    "name": "Starblast Juggernaut Mod",
+    "author": [
+      {
+        "name": "Thuliux"
+      },
+      {
+        "name": "Megalodon"
+      }
+    ],
+    "description": "Pick a ship, and kill the boss!",
+    "sesameID": "md-JGN-EGmB95IIas",
+    "templateImage": "https://cdn.discordapp.com/attachments/839948429983350807/1228396676688121957/juggernautModBanner.png?ex=662be48e&is=66196f8e&hm=60bd126e287523d3e71ea62acdfec179e676e276c8dae195bc57016eff43ab48&"
   }
 ]
