@@ -959,5 +959,30 @@
     },
     "sesameID": "cmnt-XXX-EjnbgyUhTT",
     "templateImage": "https://cdn.discordapp.com/icons/967833248120057947/7999c53bcc5eda28c1f82bb0f9ab76f2.webp?size=1024&format=webp&width=0&height=256"
+  },
+  {
+    "name": "Starblast Juggernaut Mode Testing",
+    "author": [
+      {
+        "name": "Thuliux"
+      }
+    ],
+    "description": "",
+    "content": [
+      "Starblast Juggernaut Mod"
+    ],
+    "tag": [
+      ""
+    ],
+    "language": "",
+    "server": "International",
+    "active": true,
+    "birth": "",
+    "links": {
+      "join": "https://discord.gg/SPbSMfBWbn",
+      "youtube": ""
+    },
+    "sesameID": "cmnt-XXX-fnGmYHWIkN",
+    "templateImage": "https://cdn.discordapp.com/icons/839948429470728243/cc0d193bc70f3fc73f57d28b65c6069f.webp?size=512&format=webp&width=0&height=0"
   }
 ]
