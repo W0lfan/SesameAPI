@@ -659,7 +659,7 @@
   },
   {
     "name": "Rithy",
-    "description": "Hello World!",
+    "description": "",
     "links": [
       {
         "id": "github",
@@ -667,7 +667,7 @@
       },
       {
         "id": "discord",
-        "src": "_rithy_"
+        "src": "rithy2142"
       },
       {
         "id": "youtube",
