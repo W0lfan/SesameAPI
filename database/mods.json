@@ -771,9 +771,6 @@
     },
     "author": [
       {
-        "name": "Lexagon"
-      },
-      {
         "name": "Bhpsngum"
       },
       {
@@ -1384,7 +1381,7 @@
     "description": "Arena Mod Original v3.1.2",
     "modes": "",
     "link": {
-      "url": "https://raw.githubusercontent.com/W0lfan/SesameAPI/main/database/mods/arena-mod_v3.1.2.js"
+      "url": "https://raw.githubusercontent.com/W0lfan/SesameAPI/refs/heads/main/database/mods/ArenaMod_3.1.2.js"
     },
     "author": [
       {
@@ -1395,7 +1392,7 @@
     "sesameID": "md-AOl-nLgobsBFxg",
     "templateImage": "https://github.com/rithyn/rithy-archive/blob/main/pictures/ucp/arena-mod-season-2.png?raw=true",
     "about": {
-      "url": "https://raw.githubusercontent.com/W0lfan/SesameAPI/main/database/mods/arena-mod_v3.1.2.js"
+      "url": "https://raw.githubusercontent.com/W0lfan/SesameAPI/refs/heads/main/database/mods/ArenaMod_3.1.2.js"
     },
     "processus": {
       "shadowBan": {
