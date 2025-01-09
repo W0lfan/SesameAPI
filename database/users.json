@@ -4388,5 +4388,40 @@
     },
     "sesameID": "",
     "templateImage": "https://avatars.githubusercontent.com/u/127138313?v=4"
+  },
+  {
+    "name": "UserTest",
+    "description": "This user belongs to nothing.",
+    "links": [
+      {
+        "id": "github",
+        "src": ""
+      },
+      {
+        "id": "discord",
+        "src": ""
+      },
+      {
+        "id": "youtube",
+        "src": ""
+      },
+      {
+        "id": "reddit",
+        "src": ""
+      },
+      {
+        "id": "spotify",
+        "src": ""
+      }
+    ],
+    "about": {
+      "isStaff": true,
+      "isModder": true,
+      "isUCP": false,
+      "isContrib": false,
+      "isSesame": true
+    },
+    "sesameID": "usr-XXX-SOY4CSzGZ1",
+    "templateImage": ""
   }
 ]
